@@ -1,0 +1,637 @@
+state_id,year_id,indicator,Estimate,Percent
+United States,2021,Private wage and salary workers,"123,744,069",79.1%
+Alabama,2021,Private wage and salary workers,"1,713,185",78.2%
+Alaska,2021,Private wage and salary workers,"222,231",67.8%
+Arizona,2021,Private wage and salary workers,"2,639,725",79.6%
+Arkansas,2021,Private wage and salary workers,"1,023,970",77.4%
+California,2021,Private wage and salary workers,"14,117,064",77.8%
+Colorado,2021,Private wage and salary workers,"2,382,932",79.4%
+Connecticut,2021,Private wage and salary workers,"1,451,328",80.1%
+Delaware,2021,Private wage and salary workers,"367,002",79.6%
+District of Columbia,2021,Private wage and salary workers,"243,309",68.5%
+Florida,2021,Private wage and salary workers,"8,090,740",81.0%
+Georgia,2021,Private wage and salary workers,"4,001,150",79.5%
+Hawaii,2021,Private wage and salary workers,"448,532",70.4%
+Idaho,2021,Private wage and salary workers,"686,678",76.1%
+Illinois,2021,Private wage and salary workers,"4,965,255",81.7%
+Indiana,2021,Private wage and salary workers,"2,715,307",83.3%
+Iowa,2021,Private wage and salary workers,"1,278,162",79.1%
+Kansas,2021,Private wage and salary workers,"1,104,277",76.8%
+Kentucky,2021,Private wage and salary workers,"1,595,623",80.1%
+Louisiana,2021,Private wage and salary workers,"1,518,757",77.6%
+Maine,2021,Private wage and salary workers,"515,788",76.7%
+Maryland,2021,Private wage and salary workers,"2,210,327",72.0%
+Massachusetts,2021,Private wage and salary workers,"2,940,605",81.6%
+Michigan,2021,Private wage and salary workers,"3,838,846",83.1%
+Minnesota,2021,Private wage and salary workers,"2,419,307",81.8%
+Mississippi,2021,Private wage and salary workers,"926,404",75.5%
+Missouri,2021,Private wage and salary workers,"2,383,759",81.1%
+Montana,2021,Private wage and salary workers,"383,690",72.7%
+Nebraska,2021,Private wage and salary workers,"798,630",78.4%
+Nevada,2021,Private wage and salary workers,"1,156,683",81.2%
+New Hampshire,2021,Private wage and salary workers,"598,600",80.3%
+New Jersey,2021,Private wage and salary workers,"3,620,785",80.3%
+New Mexico,2021,Private wage and salary workers,"607,241",69.1%
+New York,2021,Private wage and salary workers,"7,145,887",77.5%
+North Carolina,2021,Private wage and salary workers,"3,892,852",79.6%
+North Dakota,2021,Private wage and salary workers,"292,553",74.1%
+Ohio,2021,Private wage and salary workers,"4,601,874",82.2%
+Oklahoma,2021,Private wage and salary workers,"1,338,358",75.2%
+Oregon,2021,Private wage and salary workers,"1,572,152",78.3%
+Pennsylvania,2021,Private wage and salary workers,"5,153,344",83.2%
+Rhode Island,2021,Private wage and salary workers,"443,239",81.1%
+South Carolina,2021,Private wage and salary workers,"1,829,884",78.4%
+South Dakota,2021,Private wage and salary workers,"343,141",76.3%
+Tennessee,2021,Private wage and salary workers,"2,549,656",78.7%
+Texas,2021,Private wage and salary workers,"10,828,323",78.5%
+Utah,2021,Private wage and salary workers,"1,316,671",79.6%
+Vermont,2021,Private wage and salary workers,"253,388",76.1%
+Virginia,2021,Private wage and salary workers,"3,125,179",74.3%
+Washington,2021,Private wage and salary workers,"2,892,978",78.3%
+West Virginia,2021,Private wage and salary workers,"543,011",75.3%
+Wisconsin,2021,Private wage and salary workers,"2,449,717",81.9%
+Wyoming,2021,Private wage and salary workers,"205,970",71.7%
+Puerto Rico,2021,Private wage and salary workers,"747,867",68.9%
+United States,2021,Government workers,"22,860,100",14.6%
+Alabama,2021,Government workers,"355,049",16.2%
+Alaska,2021,Government workers,"84,765",25.8%
+Arizona,2021,Government workers,"470,683",14.2%
+Arkansas,2021,Government workers,"205,341",15.5%
+California,2021,Government workers,"2,667,632",14.7%
+Colorado,2021,Government workers,"418,606",13.9%
+Connecticut,2021,Government workers,"241,251",13.3%
+Delaware,2021,Government workers,"72,560",15.7%
+District of Columbia,2021,Government workers,"94,855",26.7%
+Florida,2021,Government workers,"1,190,333",11.9%
+Georgia,2021,Government workers,"739,792",14.7%
+Hawaii,2021,Government workers,"144,386",22.7%
+Idaho,2021,Government workers,"138,221",15.3%
+Illinois,2021,Government workers,"806,903",13.3%
+Indiana,2021,Government workers,"384,625",11.8%
+Iowa,2021,Government workers,"233,005",14.4%
+Kansas,2021,Government workers,"242,971",16.9%
+Kentucky,2021,Government workers,"285,198",14.3%
+Louisiana,2021,Government workers,"311,473",15.9%
+Maine,2021,Government workers,"97,086",14.4%
+Maryland,2021,Government workers,"693,302",22.6%
+Massachusetts,2021,Government workers,"462,696",12.8%
+Michigan,2021,Government workers,"525,453",11.4%
+Minnesota,2021,Government workers,"374,214",12.7%
+Mississippi,2021,Government workers,"227,491",18.5%
+Missouri,2021,Government workers,"378,891",12.9%
+Montana,2021,Government workers,"92,156",17.5%
+Nebraska,2021,Government workers,"154,121",15.1%
+Nevada,2021,Government workers,"190,381",13.4%
+New Hampshire,2021,Government workers,"102,310",13.7%
+New Jersey,2021,Government workers,"659,619",14.6%
+New Mexico,2021,Government workers,"210,582",24.0%
+New York,2021,Government workers,"1,545,972",16.8%
+North Carolina,2021,Government workers,"688,820",14.1%
+North Dakota,2021,Government workers,"69,460",17.6%
+Ohio,2021,Government workers,"704,946",12.6%
+Oklahoma,2021,Government workers,"317,171",17.8%
+Oregon,2021,Government workers,"284,617",14.2%
+Pennsylvania,2021,Government workers,"725,307",11.7%
+Rhode Island,2021,Government workers,"73,246",13.4%
+South Carolina,2021,Government workers,"361,870",15.5%
+South Dakota,2021,Government workers,"67,359",15.0%
+Tennessee,2021,Government workers,"447,415",13.8%
+Texas,2021,Government workers,"1,985,990",14.4%
+Utah,2021,Government workers,"248,368",15.0%
+Vermont,2021,Government workers,"50,369",15.1%
+Virginia,2021,Government workers,"861,240",20.5%
+Washington,2021,Government workers,"588,689",15.9%
+West Virginia,2021,Government workers,"143,878",19.9%
+Wisconsin,2021,Government workers,"378,643",12.7%
+Wyoming,2021,Government workers,"60,789",21.1%
+Puerto Rico,2021,Government workers,"201,620",18.6%
+United States,2021,Self-employed in own not incorporated business workers,"9,481,077",6.1%
+Alabama,2021,Self-employed in own not incorporated business workers,"120,433",5.5%
+Alaska,2021,Self-employed in own not incorporated business workers,"19,985",6.1%
+Arizona,2021,Self-employed in own not incorporated business workers,"197,698",6.0%
+Arkansas,2021,Self-employed in own not incorporated business workers,"91,887",6.9%
+California,2021,Self-employed in own not incorporated business workers,"1,338,726",7.4%
+Colorado,2021,Self-employed in own not incorporated business workers,"195,291",6.5%
+Connecticut,2021,Self-employed in own not incorporated business workers,"116,296",6.4%
+Delaware,2021,Self-employed in own not incorporated business workers,"20,259",4.4%
+District of Columbia,2021,Self-employed in own not incorporated business workers,"16,654",4.7%
+Florida,2021,Self-employed in own not incorporated business workers,"681,159",6.8%
+Georgia,2021,Self-employed in own not incorporated business workers,"282,959",5.6%
+Hawaii,2021,Self-employed in own not incorporated business workers,"42,576",6.7%
+Idaho,2021,Self-employed in own not incorporated business workers,"73,665",8.2%
+Illinois,2021,Self-employed in own not incorporated business workers,"295,584",4.9%
+Indiana,2021,Self-employed in own not incorporated business workers,"154,142",4.7%
+Iowa,2021,Self-employed in own not incorporated business workers,"102,619",6.3%
+Kansas,2021,Self-employed in own not incorporated business workers,"88,586",6.2%
+Kentucky,2021,Self-employed in own not incorporated business workers,"106,513",5.3%
+Louisiana,2021,Self-employed in own not incorporated business workers,"123,431",6.3%
+Maine,2021,Self-employed in own not incorporated business workers,"58,663",8.7%
+Maryland,2021,Self-employed in own not incorporated business workers,"161,323",5.3%
+Massachusetts,2021,Self-employed in own not incorporated business workers,"197,067",5.5%
+Michigan,2021,Self-employed in own not incorporated business workers,"244,633",5.3%
+Minnesota,2021,Self-employed in own not incorporated business workers,"160,108",5.4%
+Mississippi,2021,Self-employed in own not incorporated business workers,"71,501",5.8%
+Missouri,2021,Self-employed in own not incorporated business workers,"169,700",5.8%
+Montana,2021,Self-employed in own not incorporated business workers,"50,205",9.5%
+Nebraska,2021,Self-employed in own not incorporated business workers,"64,331",6.3%
+Nevada,2021,Self-employed in own not incorporated business workers,"75,600",5.3%
+New Hampshire,2021,Self-employed in own not incorporated business workers,"42,480",5.7%
+New Jersey,2021,Self-employed in own not incorporated business workers,"220,741",4.9%
+New Mexico,2021,Self-employed in own not incorporated business workers,"57,781",6.6%
+New York,2021,Self-employed in own not incorporated business workers,"515,867",5.6%
+North Carolina,2021,Self-employed in own not incorporated business workers,"298,037",6.1%
+North Dakota,2021,Self-employed in own not incorporated business workers,"32,055",8.1%
+Ohio,2021,Self-employed in own not incorporated business workers,"283,202",5.1%
+Oklahoma,2021,Self-employed in own not incorporated business workers,"119,623",6.7%
+Oregon,2021,Self-employed in own not incorporated business workers,"146,436",7.3%
+Pennsylvania,2021,Self-employed in own not incorporated business workers,"303,240",4.9%
+Rhode Island,2021,Self-employed in own not incorporated business workers,"28,246",5.2%
+South Carolina,2021,Self-employed in own not incorporated business workers,"139,502",6.0%
+South Dakota,2021,Self-employed in own not incorporated business workers,"38,045",8.5%
+Tennessee,2021,Self-employed in own not incorporated business workers,"236,372",7.3%
+Texas,2021,Self-employed in own not incorporated business workers,"953,003",6.9%
+Utah,2021,Self-employed in own not incorporated business workers,"86,442",5.2%
+Vermont,2021,Self-employed in own not incorporated business workers,"28,806",8.6%
+Virginia,2021,Self-employed in own not incorporated business workers,"211,482",5.0%
+Washington,2021,Self-employed in own not incorporated business workers,"208,376",5.6%
+West Virginia,2021,Self-employed in own not incorporated business workers,"32,609",4.5%
+Wisconsin,2021,Self-employed in own not incorporated business workers,"157,414",5.3%
+Wyoming,2021,Self-employed in own not incorporated business workers,"19,724",6.9%
+Puerto Rico,2021,Self-employed in own not incorporated business workers,"135,666",12.5%
+United States,2021,Unpaid family workers,"295,187",0.2%
+Alabama,2021,Unpaid family workers,"2,248",0.1%
+Alaska,2021,Unpaid family workers,972,0.3%
+Arizona,2021,Unpaid family workers,"6,693",0.2%
+Arkansas,2021,Unpaid family workers,"2,313",0.2%
+California,2021,Unpaid family workers,"32,629",0.2%
+Colorado,2021,Unpaid family workers,"5,277",0.2%
+Connecticut,2021,Unpaid family workers,"2,067",0.1%
+Delaware,2021,Unpaid family workers,"1,275",0.3%
+District of Columbia,2021,Unpaid family workers,580,0.2%
+Florida,2021,Unpaid family workers,"21,029",0.2%
+Georgia,2021,Unpaid family workers,"8,558",0.2%
+Hawaii,2021,Unpaid family workers,"1,469",0.2%
+Idaho,2021,Unpaid family workers,"3,255",0.4%
+Illinois,2021,Unpaid family workers,"11,450",0.2%
+Indiana,2021,Unpaid family workers,"5,104",0.2%
+Iowa,2021,Unpaid family workers,"2,747",0.2%
+Kansas,2021,Unpaid family workers,"1,638",0.1%
+Kentucky,2021,Unpaid family workers,"4,997",0.3%
+Louisiana,2021,Unpaid family workers,"4,129",0.2%
+Maine,2021,Unpaid family workers,943,0.1%
+Maryland,2021,Unpaid family workers,"5,798",0.2%
+Massachusetts,2021,Unpaid family workers,"4,304",0.1%
+Michigan,2021,Unpaid family workers,"8,686",0.2%
+Minnesota,2021,Unpaid family workers,"4,322",0.1%
+Mississippi,2021,Unpaid family workers,"2,220",0.2%
+Missouri,2021,Unpaid family workers,"7,081",0.2%
+Montana,2021,Unpaid family workers,"1,514",0.3%
+Nebraska,2021,Unpaid family workers,"2,018",0.2%
+Nevada,2021,Unpaid family workers,"2,029",0.1%
+New Hampshire,2021,Unpaid family workers,"2,360",0.3%
+New Jersey,2021,Unpaid family workers,"7,374",0.2%
+New Mexico,2021,Unpaid family workers,"3,002",0.3%
+New York,2021,Unpaid family workers,"18,647",0.2%
+North Carolina,2021,Unpaid family workers,"10,157",0.2%
+North Dakota,2021,Unpaid family workers,533,0.1%
+Ohio,2021,Unpaid family workers,"10,187",0.2%
+Oklahoma,2021,Unpaid family workers,"4,934",0.3%
+Oregon,2021,Unpaid family workers,"4,263",0.2%
+Pennsylvania,2021,Unpaid family workers,"8,905",0.1%
+Rhode Island,2021,Unpaid family workers,"1,518",0.3%
+South Carolina,2021,Unpaid family workers,"4,098",0.2%
+South Dakota,2021,Unpaid family workers,890,0.2%
+Tennessee,2021,Unpaid family workers,"5,868",0.2%
+Texas,2021,Unpaid family workers,"28,913",0.2%
+Utah,2021,Unpaid family workers,"2,287",0.1%
+Vermont,2021,Unpaid family workers,572,0.2%
+Virginia,2021,Unpaid family workers,"8,521",0.2%
+Washington,2021,Unpaid family workers,"6,521",0.2%
+West Virginia,2021,Unpaid family workers,"1,981",0.3%
+Wisconsin,2021,Unpaid family workers,"5,362",0.2%
+Wyoming,2021,Unpaid family workers,949,0.3%
+Puerto Rico,2021,Unpaid family workers,461,0.0%
+United States,2022,Private wage and salary workers,"129,259,898",79.5%
+Alabama,2022,Private wage and salary workers,"1,775,281",77.9%
+Alaska,2022,Private wage and salary workers,"236,863",68.6%
+Arizona,2022,Private wage and salary workers,"2,765,348",80.3%
+Arkansas,2022,Private wage and salary workers,"1,044,230",78.2%
+California,2022,Private wage and salary workers,"14,798,146",78.1%
+Colorado,2022,Private wage and salary workers,"2,498,769",79.8%
+Connecticut,2022,Private wage and salary workers,"1,512,316",81.2%
+Delaware,2022,Private wage and salary workers,"405,615",81.3%
+District of Columbia,2022,Private wage and salary workers,"262,046",69.9%
+Florida,2022,Private wage and salary workers,"8,588,954",81.9%
+Georgia,2022,Private wage and salary workers,"4,216,355",80.0%
+Hawaii,2022,Private wage and salary workers,"477,387",70.8%
+Idaho,2022,Private wage and salary workers,"717,679",77.9%
+Illinois,2022,Private wage and salary workers,"5,164,757",82.1%
+Indiana,2022,Private wage and salary workers,"2,801,054",83.5%
+Iowa,2022,Private wage and salary workers,"1,305,032",78.7%
+Kansas,2022,Private wage and salary workers,"1,133,255",77.8%
+Kentucky,2022,Private wage and salary workers,"1,632,611",79.2%
+Louisiana,2022,Private wage and salary workers,"1,572,936",77.2%
+Maine,2022,Private wage and salary workers,"542,599",77.9%
+Maryland,2022,Private wage and salary workers,"2,270,117",71.6%
+Massachusetts,2022,Private wage and salary workers,"3,042,324",81.9%
+Michigan,2022,Private wage and salary workers,"3,987,681",83.1%
+Minnesota,2022,Private wage and salary workers,"2,465,782",82.0%
+Mississippi,2022,Private wage and salary workers,"946,207",75.2%
+Missouri,2022,Private wage and salary workers,"2,427,034",81.2%
+Montana,2022,Private wage and salary workers,"420,277",75.1%
+Nebraska,2022,Private wage and salary workers,"801,901",78.2%
+Nevada,2022,Private wage and salary workers,"1,258,640",82.5%
+New Hampshire,2022,Private wage and salary workers,"605,437",80.3%
+New Jersey,2022,Private wage and salary workers,"3,794,503",80.6%
+New Mexico,2022,Private wage and salary workers,"642,828",68.6%
+New York,2022,Private wage and salary workers,"7,472,834",77.8%
+North Carolina,2022,Private wage and salary workers,"4,137,062",80.6%
+North Dakota,2022,Private wage and salary workers,"305,977",74.9%
+Ohio,2022,Private wage and salary workers,"4,726,687",82.0%
+Oklahoma,2022,Private wage and salary workers,"1,392,852",75.9%
+Oregon,2022,Private wage and salary workers,"1,653,415",78.9%
+Pennsylvania,2022,Private wage and salary workers,"5,346,440",83.5%
+Rhode Island,2022,Private wage and salary workers,"450,177",80.3%
+South Carolina,2022,Private wage and salary workers,"1,918,682",78.2%
+South Dakota,2022,Private wage and salary workers,"352,506",76.5%
+Tennessee,2022,Private wage and salary workers,"2,722,572",79.8%
+Texas,2022,Private wage and salary workers,"11,526,566",79.1%
+Utah,2022,Private wage and salary workers,"1,384,367",79.8%
+Vermont,2022,Private wage and salary workers,"263,074",76.4%
+Virginia,2022,Private wage and salary workers,"3,198,600",74.4%
+Washington,2022,Private wage and salary workers,"3,044,970",78.8%
+West Virginia,2022,Private wage and salary workers,"558,631",75.9%
+Wisconsin,2022,Private wage and salary workers,"2,485,796",81.9%
+Wyoming,2022,Private wage and salary workers,"204,726",70.3%
+Puerto Rico,2022,Private wage and salary workers,"809,640",69.5%
+United States,2022,Government workers,"23,255,426",14.3%
+Alabama,2022,Government workers,"375,237",16.5%
+Alaska,2022,Government workers,"87,656",25.4%
+Arizona,2022,Government workers,"469,079",13.6%
+Arkansas,2022,Government workers,"202,088",15.1%
+California,2022,Government workers,"2,697,829",14.2%
+Colorado,2022,Government workers,"438,003",14.0%
+Connecticut,2022,Government workers,"237,480",12.8%
+Delaware,2022,Government workers,"71,107",14.3%
+District of Columbia,2022,Government workers,"96,177",25.7%
+Florida,2022,Government workers,"1,196,316",11.4%
+Georgia,2022,Government workers,"747,093",14.2%
+Hawaii,2022,Government workers,"148,564",22.0%
+Idaho,2022,Government workers,"132,465",14.4%
+Illinois,2022,Government workers,"822,075",13.1%
+Indiana,2022,Government workers,"394,309",11.8%
+Iowa,2022,Government workers,"244,398",14.7%
+Kansas,2022,Government workers,"236,947",16.3%
+Kentucky,2022,Government workers,"300,976",14.6%
+Louisiana,2022,Government workers,"319,666",15.7%
+Maine,2022,Government workers,"96,537",13.9%
+Maryland,2022,Government workers,"720,412",22.7%
+Massachusetts,2022,Government workers,"470,378",12.7%
+Michigan,2022,Government workers,"549,031",11.4%
+Minnesota,2022,Government workers,"377,174",12.5%
+Mississippi,2022,Government workers,"233,329",18.6%
+Missouri,2022,Government workers,"384,906",12.9%
+Montana,2022,Government workers,"87,299",15.6%
+Nebraska,2022,Government workers,"155,715",15.2%
+Nevada,2022,Government workers,"179,251",11.8%
+New Hampshire,2022,Government workers,"100,310",13.3%
+New Jersey,2022,Government workers,"682,793",14.5%
+New Mexico,2022,Government workers,"222,676",23.8%
+New York,2022,Government workers,"1,549,601",16.1%
+North Carolina,2022,Government workers,"692,168",13.5%
+North Dakota,2022,Government workers,"71,669",17.5%
+Ohio,2022,Government workers,"739,085",12.8%
+Oklahoma,2022,Government workers,"317,079",17.3%
+Oregon,2022,Government workers,"290,650",13.9%
+Pennsylvania,2022,Government workers,"726,618",11.3%
+Rhode Island,2022,Government workers,"78,029",13.9%
+South Carolina,2022,Government workers,"385,526",15.7%
+South Dakota,2022,Government workers,"71,627",15.5%
+Tennessee,2022,Government workers,"446,227",13.1%
+Texas,2022,Government workers,"2,025,715",13.9%
+Utah,2022,Government workers,"258,518",14.9%
+Vermont,2022,Government workers,"49,715",14.4%
+Virginia,2022,Government workers,"878,146",20.4%
+Washington,2022,Government workers,"600,748",15.5%
+West Virginia,2022,Government workers,"144,172",19.6%
+Wisconsin,2022,Government workers,"387,776",12.8%
+Wyoming,2022,Government workers,"65,081",22.4%
+Puerto Rico,2022,Government workers,"215,564",18.5%
+United States,2022,Self-employed in own not incorporated business workers,"9,776,666",6.0%
+Alabama,2022,Self-employed in own not incorporated business workers,"122,821",5.4%
+Alaska,2022,Self-employed in own not incorporated business workers,"20,056",5.8%
+Arizona,2022,Self-employed in own not incorporated business workers,"199,501",5.8%
+Arkansas,2022,Self-employed in own not incorporated business workers,"86,067",6.4%
+California,2022,Self-employed in own not incorporated business workers,"1,410,735",7.4%
+Colorado,2022,Self-employed in own not incorporated business workers,"190,717",6.1%
+Connecticut,2022,Self-employed in own not incorporated business workers,"109,627",5.9%
+Delaware,2022,Self-employed in own not incorporated business workers,"21,479",4.3%
+District of Columbia,2022,Self-employed in own not incorporated business workers,"16,220",4.3%
+Florida,2022,Self-employed in own not incorporated business workers,"680,593",6.5%
+Georgia,2022,Self-employed in own not incorporated business workers,"300,564",5.7%
+Hawaii,2022,Self-employed in own not incorporated business workers,"47,803",7.1%
+Idaho,2022,Self-employed in own not incorporated business workers,"69,152",7.5%
+Illinois,2022,Self-employed in own not incorporated business workers,"295,989",4.7%
+Indiana,2022,Self-employed in own not incorporated business workers,"154,959",4.6%
+Iowa,2022,Self-employed in own not incorporated business workers,"105,099",6.3%
+Kansas,2022,Self-employed in own not incorporated business workers,"83,239",5.7%
+Kentucky,2022,Self-employed in own not incorporated business workers,"123,667",6.0%
+Louisiana,2022,Self-employed in own not incorporated business workers,"142,134",7.0%
+Maine,2022,Self-employed in own not incorporated business workers,"55,536",8.0%
+Maryland,2022,Self-employed in own not incorporated business workers,"171,588",5.4%
+Massachusetts,2022,Self-employed in own not incorporated business workers,"196,965",5.3%
+Michigan,2022,Self-employed in own not incorporated business workers,"256,382",5.3%
+Minnesota,2022,Self-employed in own not incorporated business workers,"160,154",5.3%
+Mississippi,2022,Self-employed in own not incorporated business workers,"75,827",6.0%
+Missouri,2022,Self-employed in own not incorporated business workers,"170,561",5.7%
+Montana,2022,Self-employed in own not incorporated business workers,"49,757",8.9%
+Nebraska,2022,Self-employed in own not incorporated business workers,"65,214",6.4%
+Nevada,2022,Self-employed in own not incorporated business workers,"82,796",5.4%
+New Hampshire,2022,Self-employed in own not incorporated business workers,"46,844",6.2%
+New Jersey,2022,Self-employed in own not incorporated business workers,"223,359",4.7%
+New Mexico,2022,Self-employed in own not incorporated business workers,"68,193",7.3%
+New York,2022,Self-employed in own not incorporated business workers,"562,168",5.9%
+North Carolina,2022,Self-employed in own not incorporated business workers,"295,305",5.8%
+North Dakota,2022,Self-employed in own not incorporated business workers,"30,119",7.4%
+Ohio,2022,Self-employed in own not incorporated business workers,"288,846",5.0%
+Oklahoma,2022,Self-employed in own not incorporated business workers,"122,881",6.7%
+Oregon,2022,Self-employed in own not incorporated business workers,"145,422",6.9%
+Pennsylvania,2022,Self-employed in own not incorporated business workers,"318,118",5.0%
+Rhode Island,2022,Self-employed in own not incorporated business workers,"31,863",5.7%
+South Carolina,2022,Self-employed in own not incorporated business workers,"144,382",5.9%
+South Dakota,2022,Self-employed in own not incorporated business workers,"35,785",7.8%
+Tennessee,2022,Self-employed in own not incorporated business workers,"239,148",7.0%
+Texas,2022,Self-employed in own not incorporated business workers,"998,270",6.8%
+Utah,2022,Self-employed in own not incorporated business workers,"89,932",5.2%
+Vermont,2022,Self-employed in own not incorporated business workers,"31,083",9.0%
+Virginia,2022,Self-employed in own not incorporated business workers,"216,243",5.0%
+Washington,2022,Self-employed in own not incorporated business workers,"212,937",5.5%
+West Virginia,2022,Self-employed in own not incorporated business workers,"31,634",4.3%
+Wisconsin,2022,Self-employed in own not incorporated business workers,"158,299",5.2%
+Wyoming,2022,Self-employed in own not incorporated business workers,"20,633",7.1%
+Puerto Rico,2022,Self-employed in own not incorporated business workers,"138,270",11.9%
+United States,2022,Unpaid family workers,"298,231",0.2%
+Alabama,2022,Unpaid family workers,"5,155",0.2%
+Alaska,2022,Unpaid family workers,626,0.2%
+Arizona,2022,Unpaid family workers,"7,748",0.2%
+Arkansas,2022,Unpaid family workers,"3,175",0.2%
+California,2022,Unpaid family workers,"36,267",0.2%
+Colorado,2022,Unpaid family workers,"3,655",0.1%
+Connecticut,2022,Unpaid family workers,"2,079",0.1%
+Delaware,2022,Unpaid family workers,520,0.1%
+District of Columbia,2022,Unpaid family workers,439,0.1%
+Florida,2022,Unpaid family workers,"23,353",0.2%
+Georgia,2022,Unpaid family workers,"9,164",0.2%
+Hawaii,2022,Unpaid family workers,778,0.1%
+Idaho,2022,Unpaid family workers,"1,845",0.2%
+Illinois,2022,Unpaid family workers,"10,986",0.2%
+Indiana,2022,Unpaid family workers,"5,084",0.2%
+Iowa,2022,Unpaid family workers,"4,078",0.2%
+Kansas,2022,Unpaid family workers,"3,061",0.2%
+Kentucky,2022,Unpaid family workers,"3,984",0.2%
+Louisiana,2022,Unpaid family workers,"3,604",0.2%
+Maine,2022,Unpaid family workers,"1,730",0.2%
+Maryland,2022,Unpaid family workers,"6,301",0.2%
+Massachusetts,2022,Unpaid family workers,"5,156",0.1%
+Michigan,2022,Unpaid family workers,"7,134",0.1%
+Minnesota,2022,Unpaid family workers,"5,517",0.2%
+Mississippi,2022,Unpaid family workers,"2,199",0.2%
+Missouri,2022,Unpaid family workers,"5,366",0.2%
+Montana,2022,Unpaid family workers,"2,271",0.4%
+Nebraska,2022,Unpaid family workers,"2,279",0.2%
+Nevada,2022,Unpaid family workers,"4,207",0.3%
+New Hampshire,2022,Unpaid family workers,"1,139",0.2%
+New Jersey,2022,Unpaid family workers,"7,135",0.2%
+New Mexico,2022,Unpaid family workers,"3,330",0.4%
+New York,2022,Unpaid family workers,"15,735",0.2%
+North Carolina,2022,Unpaid family workers,"10,772",0.2%
+North Dakota,2022,Unpaid family workers,798,0.2%
+Ohio,2022,Unpaid family workers,"7,389",0.1%
+Oklahoma,2022,Unpaid family workers,"3,493",0.2%
+Oregon,2022,Unpaid family workers,"5,876",0.3%
+Pennsylvania,2022,Unpaid family workers,"11,066",0.2%
+Rhode Island,2022,Unpaid family workers,499,0.1%
+South Carolina,2022,Unpaid family workers,"5,457",0.2%
+South Dakota,2022,Unpaid family workers,"1,065",0.2%
+Tennessee,2022,Unpaid family workers,"5,513",0.2%
+Texas,2022,Unpaid family workers,"27,882",0.2%
+Utah,2022,Unpaid family workers,"3,037",0.2%
+Vermont,2022,Unpaid family workers,529,0.2%
+Virginia,2022,Unpaid family workers,"5,572",0.1%
+Washington,2022,Unpaid family workers,"7,286",0.2%
+West Virginia,2022,Unpaid family workers,"1,207",0.2%
+Wisconsin,2022,Unpaid family workers,"5,092",0.2%
+Wyoming,2022,Unpaid family workers,598,0.2%
+Puerto Rico,2022,Unpaid family workers,668,0.1%
+United States,2023,Private wage and salary workers,"130,601,675",79.5%
+Alabama,2023,Private wage and salary workers,"1,781,344",77.5%
+Alaska,2023,Private wage and salary workers,"241,464",69.9%
+Arizona,2023,Private wage and salary workers,"2,781,023",79.6%
+Arkansas,2023,Private wage and salary workers,"1,083,452",78.8%
+California,2023,Private wage and salary workers,"14,782,530",77.7%
+Colorado,2023,Private wage and salary workers,"2,499,887",79.3%
+Connecticut,2023,Private wage and salary workers,"1,516,620",80.5%
+Delaware,2023,Private wage and salary workers,"404,626",80.2%
+District of Columbia,2023,Private wage and salary workers,"265,873",69.0%
+Florida,2023,Private wage and salary workers,"8,824,303",82.2%
+Georgia,2023,Private wage and salary workers,"4,277,876",80.0%
+Hawaii,2023,Private wage and salary workers,"483,874",72.5%
+Idaho,2023,Private wage and salary workers,"722,515",77.2%
+Illinois,2023,Private wage and salary workers,"5,190,079",82.0%
+Indiana,2023,Private wage and salary workers,"2,812,994",83.0%
+Iowa,2023,Private wage and salary workers,"1,300,326",78.6%
+Kansas,2023,Private wage and salary workers,"1,137,299",77.0%
+Kentucky,2023,Private wage and salary workers,"1,660,622",79.6%
+Louisiana,2023,Private wage and salary workers,"1,575,299",77.6%
+Maine,2023,Private wage and salary workers,"548,155",77.4%
+Maryland,2023,Private wage and salary workers,"2,307,207",72.2%
+Massachusetts,2023,Private wage and salary workers,"3,074,231",81.9%
+Michigan,2023,Private wage and salary workers,"4,016,265",83.3%
+Minnesota,2023,Private wage and salary workers,"2,475,360",81.2%
+Mississippi,2023,Private wage and salary workers,"971,088",76.0%
+Missouri,2023,Private wage and salary workers,"2,486,949",81.0%
+Montana,2023,Private wage and salary workers,"417,130",74.2%
+Nebraska,2023,Private wage and salary workers,"813,414",78.1%
+Nevada,2023,Private wage and salary workers,"1,276,605",82.0%
+New Hampshire,2023,Private wage and salary workers,"624,665",81.6%
+New Jersey,2023,Private wage and salary workers,"3,863,096",80.7%
+New Mexico,2023,Private wage and salary workers,"665,401",70.2%
+New York,2023,Private wage and salary workers,"7,501,645",78.1%
+North Carolina,2023,Private wage and salary workers,"4,210,657",80.5%
+North Dakota,2023,Private wage and salary workers,"303,246",74.0%
+Ohio,2023,Private wage and salary workers,"4,737,426",81.9%
+Oklahoma,2023,Private wage and salary workers,"1,402,985",75.9%
+Oregon,2023,Private wage and salary workers,"1,642,525",78.2%
+Pennsylvania,2023,Private wage and salary workers,"5,355,053",83.7%
+Rhode Island,2023,Private wage and salary workers,"455,279",81.3%
+South Carolina,2023,Private wage and salary workers,"1,993,342",79.2%
+South Dakota,2023,Private wage and salary workers,"360,492",76.3%
+Tennessee,2023,Private wage and salary workers,"2,721,345",79.1%
+Texas,2023,Private wage and salary workers,"11,810,686",79.1%
+Utah,2023,Private wage and salary workers,"1,402,010",79.7%
+Vermont,2023,Private wage and salary workers,"262,272",75.9%
+Virginia,2023,Private wage and salary workers,"3,225,721",74.7%
+Washington,2023,Private wage and salary workers,"3,050,007",78.5%
+West Virginia,2023,Private wage and salary workers,"572,585",75.6%
+Wisconsin,2023,Private wage and salary workers,"2,514,808",82.3%
+Wyoming,2023,Private wage and salary workers,"198,019",69.5%
+Puerto Rico,2023,Private wage and salary workers,"844,715",71.2%
+United States,2023,Government workers,"23,689,753",14.4%
+Alabama,2023,Government workers,"384,983",16.8%
+Alaska,2023,Government workers,"82,061",23.8%
+Arizona,2023,Government workers,"490,239",14.0%
+Arkansas,2023,Government workers,"200,698",14.6%
+California,2023,Government workers,"2,817,420",14.8%
+Colorado,2023,Government workers,"459,377",14.6%
+Connecticut,2023,Government workers,"250,319",13.3%
+Delaware,2023,Government workers,"78,741",15.6%
+District of Columbia,2023,Government workers,"104,315",27.1%
+Florida,2023,Government workers,"1,209,777",11.3%
+Georgia,2023,Government workers,"750,736",14.0%
+Hawaii,2023,Government workers,"134,597",20.2%
+Idaho,2023,Government workers,"139,034",14.8%
+Illinois,2023,Government workers,"838,749",13.3%
+Indiana,2023,Government workers,"409,995",12.1%
+Iowa,2023,Government workers,"244,651",14.8%
+Kansas,2023,Government workers,"248,995",16.9%
+Kentucky,2023,Government workers,"310,485",14.9%
+Louisiana,2023,Government workers,"317,617",15.6%
+Maine,2023,Government workers,"100,037",14.1%
+Maryland,2023,Government workers,"720,256",22.6%
+Massachusetts,2023,Government workers,"464,491",12.4%
+Michigan,2023,Government workers,"553,396",11.5%
+Minnesota,2023,Government workers,"403,817",13.2%
+Mississippi,2023,Government workers,"229,070",17.9%
+Missouri,2023,Government workers,"403,870",13.1%
+Montana,2023,Government workers,"96,274",17.1%
+Nebraska,2023,Government workers,"155,957",15.0%
+Nevada,2023,Government workers,"189,610",12.2%
+New Hampshire,2023,Government workers,"95,043",12.4%
+New Jersey,2023,Government workers,"669,715",14.0%
+New Mexico,2023,Government workers,"220,382",23.3%
+New York,2023,Government workers,"1,543,475",16.1%
+North Carolina,2023,Government workers,"710,882",13.6%
+North Dakota,2023,Government workers,"78,079",19.0%
+Ohio,2023,Government workers,"746,178",12.9%
+Oklahoma,2023,Government workers,"323,502",17.5%
+Oregon,2023,Government workers,"310,937",14.8%
+Pennsylvania,2023,Government workers,"712,597",11.1%
+Rhode Island,2023,Government workers,"71,266",12.7%
+South Carolina,2023,Government workers,"370,559",14.7%
+South Dakota,2023,Government workers,"75,073",15.9%
+Tennessee,2023,Government workers,"481,420",14.0%
+Texas,2023,Government workers,"2,082,078",13.9%
+Utah,2023,Government workers,"265,105",15.1%
+Vermont,2023,Government workers,"53,378",15.4%
+Virginia,2023,Government workers,"868,801",20.1%
+Washington,2023,Government workers,"612,413",15.8%
+West Virginia,2023,Government workers,"152,966",20.2%
+Wisconsin,2023,Government workers,"391,471",12.8%
+Wyoming,2023,Government workers,"64,866",22.8%
+Puerto Rico,2023,Government workers,"208,074",17.5%
+United States,2023,Self-employed in own not incorporated business workers,"9,745,235",5.9%
+Alabama,2023,Self-employed in own not incorporated business workers,"126,695",5.5%
+Alaska,2023,Self-employed in own not incorporated business workers,"21,070",6.1%
+Arizona,2023,Self-employed in own not incorporated business workers,"215,987",6.2%
+Arkansas,2023,Self-employed in own not incorporated business workers,"87,457",6.4%
+California,2023,Self-employed in own not incorporated business workers,"1,388,009",7.3%
+Colorado,2023,Self-employed in own not incorporated business workers,"184,559",5.9%
+Connecticut,2023,Self-employed in own not incorporated business workers,"114,672",6.1%
+Delaware,2023,Self-employed in own not incorporated business workers,"19,757",3.9%
+District of Columbia,2023,Self-employed in own not incorporated business workers,"14,924",3.9%
+Florida,2023,Self-employed in own not incorporated business workers,"676,403",6.3%
+Georgia,2023,Self-employed in own not incorporated business workers,"306,650",5.7%
+Hawaii,2023,Self-employed in own not incorporated business workers,"47,320",7.1%
+Idaho,2023,Self-employed in own not incorporated business workers,"72,412",7.7%
+Illinois,2023,Self-employed in own not incorporated business workers,"290,294",4.6%
+Indiana,2023,Self-employed in own not incorporated business workers,"157,850",4.7%
+Iowa,2023,Self-employed in own not incorporated business workers,"106,068",6.4%
+Kansas,2023,Self-employed in own not incorporated business workers,"87,953",6.0%
+Kentucky,2023,Self-employed in own not incorporated business workers,"110,354",5.3%
+Louisiana,2023,Self-employed in own not incorporated business workers,"134,183",6.6%
+Maine,2023,Self-employed in own not incorporated business workers,"59,128",8.3%
+Maryland,2023,Self-employed in own not incorporated business workers,"161,776",5.1%
+Massachusetts,2023,Self-employed in own not incorporated business workers,"210,565",5.6%
+Michigan,2023,Self-employed in own not incorporated business workers,"245,933",5.1%
+Minnesota,2023,Self-employed in own not incorporated business workers,"165,301",5.4%
+Mississippi,2023,Self-employed in own not incorporated business workers,"74,946",5.9%
+Missouri,2023,Self-employed in own not incorporated business workers,"173,786",5.7%
+Montana,2023,Self-employed in own not incorporated business workers,"47,450",8.4%
+Nebraska,2023,Self-employed in own not incorporated business workers,"68,909",6.6%
+Nevada,2023,Self-employed in own not incorporated business workers,"86,194",5.5%
+New Hampshire,2023,Self-employed in own not incorporated business workers,"45,274",5.9%
+New Jersey,2023,Self-employed in own not incorporated business workers,"243,944",5.1%
+New Mexico,2023,Self-employed in own not incorporated business workers,"59,960",6.3%
+New York,2023,Self-employed in own not incorporated business workers,"536,965",5.6%
+North Carolina,2023,Self-employed in own not incorporated business workers,"300,257",5.7%
+North Dakota,2023,Self-employed in own not incorporated business workers,"27,980",6.8%
+Ohio,2023,Self-employed in own not incorporated business workers,"290,842",5.0%
+Oklahoma,2023,Self-employed in own not incorporated business workers,"117,594",6.4%
+Oregon,2023,Self-employed in own not incorporated business workers,"143,231",6.8%
+Pennsylvania,2023,Self-employed in own not incorporated business workers,"322,720",5.0%
+Rhode Island,2023,Self-employed in own not incorporated business workers,"31,924",5.7%
+South Carolina,2023,Self-employed in own not incorporated business workers,"147,700",5.9%
+South Dakota,2023,Self-employed in own not incorporated business workers,"36,341",7.7%
+Tennessee,2023,Self-employed in own not incorporated business workers,"234,721",6.8%
+Texas,2023,Self-employed in own not incorporated business workers,"1,002,531",6.7%
+Utah,2023,Self-employed in own not incorporated business workers,"87,773",5.0%
+Vermont,2023,Self-employed in own not incorporated business workers,"29,502",8.5%
+Virginia,2023,Self-employed in own not incorporated business workers,"216,052",5.0%
+Washington,2023,Self-employed in own not incorporated business workers,"216,979",5.6%
+West Virginia,2023,Self-employed in own not incorporated business workers,"30,460",4.0%
+Wisconsin,2023,Self-employed in own not incorporated business workers,"144,866",4.7%
+Wyoming,2023,Self-employed in own not incorporated business workers,"21,014",7.4%
+Puerto Rico,2023,Self-employed in own not incorporated business workers,"131,836",11.1%
+United States,2023,Unpaid family workers,"310,330",0.2%
+Alabama,2023,Unpaid family workers,"4,919",0.2%
+Alaska,2023,Unpaid family workers,865,0.3%
+Arizona,2023,Unpaid family workers,"6,294",0.2%
+Arkansas,2023,Unpaid family workers,"3,944",0.3%
+California,2023,Unpaid family workers,"38,607",0.2%
+Colorado,2023,Unpaid family workers,"7,871",0.2%
+Connecticut,2023,Unpaid family workers,"2,514",0.1%
+Delaware,2023,Unpaid family workers,"1,205",0.2%
+District of Columbia,2023,Unpaid family workers,162,0.0%
+Florida,2023,Unpaid family workers,"20,712",0.2%
+Georgia,2023,Unpaid family workers,"11,292",0.2%
+Hawaii,2023,Unpaid family workers,"2,044",0.3%
+Idaho,2023,Unpaid family workers,"2,318",0.2%
+Illinois,2023,Unpaid family workers,"10,008",0.2%
+Indiana,2023,Unpaid family workers,"6,391",0.2%
+Iowa,2023,Unpaid family workers,"3,235",0.2%
+Kansas,2023,Unpaid family workers,"3,346",0.2%
+Kentucky,2023,Unpaid family workers,"3,893",0.2%
+Louisiana,2023,Unpaid family workers,"3,850",0.2%
+Maine,2023,Unpaid family workers,"1,340",0.2%
+Maryland,2023,Unpaid family workers,"4,789",0.1%
+Massachusetts,2023,Unpaid family workers,"5,160",0.1%
+Michigan,2023,Unpaid family workers,"7,403",0.2%
+Minnesota,2023,Unpaid family workers,"3,842",0.1%
+Mississippi,2023,Unpaid family workers,"3,318",0.3%
+Missouri,2023,Unpaid family workers,"6,745",0.2%
+Montana,2023,Unpaid family workers,"1,518",0.3%
+Nebraska,2023,Unpaid family workers,"2,858",0.3%
+Nevada,2023,Unpaid family workers,"4,178",0.3%
+New Hampshire,2023,Unpaid family workers,890,0.1%
+New Jersey,2023,Unpaid family workers,"8,750",0.2%
+New Mexico,2023,Unpaid family workers,"1,927",0.2%
+New York,2023,Unpaid family workers,"18,608",0.2%
+North Carolina,2023,Unpaid family workers,"8,350",0.2%
+North Dakota,2023,Unpaid family workers,761,0.2%
+Ohio,2023,Unpaid family workers,"9,655",0.2%
+Oklahoma,2023,Unpaid family workers,"3,665",0.2%
+Oregon,2023,Unpaid family workers,"3,220",0.2%
+Pennsylvania,2023,Unpaid family workers,"9,641",0.2%
+Rhode Island,2023,Unpaid family workers,"1,273",0.2%
+South Carolina,2023,Unpaid family workers,"5,118",0.2%
+South Dakota,2023,Unpaid family workers,675,0.1%
+Tennessee,2023,Unpaid family workers,"4,934",0.1%
+Texas,2023,Unpaid family workers,"31,466",0.2%
+Utah,2023,Unpaid family workers,"3,172",0.2%
+Vermont,2023,Unpaid family workers,600,0.2%
+Virginia,2023,Unpaid family workers,"7,426",0.2%
+Washington,2023,Unpaid family workers,"7,751",0.2%
+West Virginia,2023,Unpaid family workers,"1,294",0.2%
+Wisconsin,2023,Unpaid family workers,"5,386",0.2%
+Wyoming,2023,Unpaid family workers,"1,147",0.4%
+Puerto Rico,2023,Unpaid family workers,"1,004",0.1%

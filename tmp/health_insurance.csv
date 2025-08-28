@@ -1,0 +1,2863 @@
+state_id,year_id,indicator,Estimate,Percent
+United States,2021,Civilian noninstitutionalized population,"326,912,547","326,912,547"
+Alabama,2021,Civilian noninstitutionalized population,"4,957,633","4,957,633"
+Alaska,2021,Civilian noninstitutionalized population,"702,154","702,154"
+Arizona,2021,Civilian noninstitutionalized population,"7,174,053","7,174,053"
+Arkansas,2021,Civilian noninstitutionalized population,"2,974,701","2,974,701"
+California,2021,Civilian noninstitutionalized population,"38,724,294","38,724,294"
+Colorado,2021,Civilian noninstitutionalized population,"5,715,497","5,715,497"
+Connecticut,2021,Civilian noninstitutionalized population,"3,557,526","3,557,526"
+Delaware,2021,Civilian noninstitutionalized population,"987,964","987,964"
+District of Columbia,2021,Civilian noninstitutionalized population,"659,979","659,979"
+Florida,2021,Civilian noninstitutionalized population,"21,465,883","21,465,883"
+Georgia,2021,Civilian noninstitutionalized population,"10,600,385","10,600,385"
+Hawaii,2021,Civilian noninstitutionalized population,"1,381,713","1,381,713"
+Idaho,2021,Civilian noninstitutionalized population,"1,879,248","1,879,248"
+Illinois,2021,Civilian noninstitutionalized population,"12,495,329","12,495,329"
+Indiana,2021,Civilian noninstitutionalized population,"6,707,875","6,707,875"
+Iowa,2021,Civilian noninstitutionalized population,"3,151,182","3,151,182"
+Kansas,2021,Civilian noninstitutionalized population,"2,878,792","2,878,792"
+Kentucky,2021,Civilian noninstitutionalized population,"4,428,392","4,428,392"
+Louisiana,2021,Civilian noninstitutionalized population,"4,518,319","4,518,319"
+Maine,2021,Civilian noninstitutionalized population,"1,357,120","1,357,120"
+Maryland,2021,Civilian noninstitutionalized population,"6,059,298","6,059,298"
+Massachusetts,2021,Civilian noninstitutionalized population,"6,916,106","6,916,106"
+Michigan,2021,Civilian noninstitutionalized population,"9,949,959","9,949,959"
+Minnesota,2021,Civilian noninstitutionalized population,"5,651,958","5,651,958"
+Mississippi,2021,Civilian noninstitutionalized population,"2,885,936","2,885,936"
+Missouri,2021,Civilian noninstitutionalized population,"6,063,301","6,063,301"
+Montana,2021,Civilian noninstitutionalized population,"1,088,496","1,088,496"
+Nebraska,2021,Civilian noninstitutionalized population,"1,936,190","1,936,190"
+Nevada,2021,Civilian noninstitutionalized population,"3,105,760","3,105,760"
+New Hampshire,2021,Civilian noninstitutionalized population,"1,372,918","1,372,918"
+New Jersey,2021,Civilian noninstitutionalized population,"9,163,640","9,163,640"
+New Mexico,2021,Civilian noninstitutionalized population,"2,077,326","2,077,326"
+New York,2021,Civilian noninstitutionalized population,"19,599,048","19,599,048"
+North Carolina,2021,Civilian noninstitutionalized population,"10,345,935","10,345,935"
+North Dakota,2021,Civilian noninstitutionalized population,"756,440","756,440"
+Ohio,2021,Civilian noninstitutionalized population,"11,611,229","11,611,229"
+Oklahoma,2021,Civilian noninstitutionalized population,"3,905,272","3,905,272"
+Oregon,2021,Civilian noninstitutionalized population,"4,206,414","4,206,414"
+Pennsylvania,2021,Civilian noninstitutionalized population,"12,767,386","12,767,386"
+Rhode Island,2021,Civilian noninstitutionalized population,"1,080,438","1,080,438"
+South Carolina,2021,Civilian noninstitutionalized population,"5,099,812","5,099,812"
+South Dakota,2021,Civilian noninstitutionalized population,"877,855","877,855"
+Tennessee,2021,Civilian noninstitutionalized population,"6,872,677","6,872,677"
+Texas,2021,Civilian noninstitutionalized population,"29,066,872","29,066,872"
+Utah,2021,Civilian noninstitutionalized population,"3,309,594","3,309,594"
+Vermont,2021,Civilian noninstitutionalized population,"639,228","639,228"
+Virginia,2021,Civilian noninstitutionalized population,"8,412,758","8,412,758"
+Washington,2021,Civilian noninstitutionalized population,"7,618,375","7,618,375"
+West Virginia,2021,Civilian noninstitutionalized population,"1,755,887","1,755,887"
+Wisconsin,2021,Civilian noninstitutionalized population,"5,828,354","5,828,354"
+Wyoming,2021,Civilian noninstitutionalized population,"570,046","570,046"
+Puerto Rico,2021,Civilian noninstitutionalized population,"3,237,924","3,237,924"
+United States,2021,With health insurance coverage,"298,685,665",91.4%
+Alabama,2021,With health insurance coverage,"4,469,062",90.1%
+Alaska,2021,With health insurance coverage,"622,071",88.6%
+Arizona,2021,With health insurance coverage,"6,407,913",89.3%
+Arkansas,2021,With health insurance coverage,"2,701,672",90.8%
+California,2021,With health insurance coverage,"36,011,754",93.0%
+Colorado,2021,With health insurance coverage,"5,260,137",92.0%
+Connecticut,2021,With health insurance coverage,"3,373,995",94.8%
+Delaware,2021,With health insurance coverage,"931,238",94.3%
+District of Columbia,2021,With health insurance coverage,"635,752",96.3%
+Florida,2021,With health insurance coverage,"18,867,416",87.9%
+Georgia,2021,With health insurance coverage,"9,261,463",87.4%
+Hawaii,2021,With health insurance coverage,"1,327,251",96.1%
+Idaho,2021,With health insurance coverage,"1,713,319",91.2%
+Illinois,2021,With health insurance coverage,"11,620,230",93.0%
+Indiana,2021,With health insurance coverage,"6,203,479",92.5%
+Iowa,2021,With health insurance coverage,"2,999,897",95.2%
+Kansas,2021,With health insurance coverage,"2,615,062",90.8%
+Kentucky,2021,With health insurance coverage,"4,177,605",94.3%
+Louisiana,2021,With health insurance coverage,"4,172,820",92.4%
+Maine,2021,With health insurance coverage,"1,279,481",94.3%
+Maryland,2021,With health insurance coverage,"5,690,029",93.9%
+Massachusetts,2021,With health insurance coverage,"6,743,451",97.5%
+Michigan,2021,With health insurance coverage,"9,454,555",95.0%
+Minnesota,2021,With health insurance coverage,"5,400,134",95.5%
+Mississippi,2021,With health insurance coverage,"2,542,934",88.1%
+Missouri,2021,With health insurance coverage,"5,492,403",90.6%
+Montana,2021,With health insurance coverage,"999,064",91.8%
+Nebraska,2021,With health insurance coverage,"1,798,586",92.9%
+Nevada,2021,With health insurance coverage,"2,744,096",88.4%
+New Hampshire,2021,With health insurance coverage,"1,302,407",94.9%
+New Jersey,2021,With health insurance coverage,"8,506,912",92.8%
+New Mexico,2021,With health insurance coverage,"1,870,201",90.0%
+New York,2021,With health insurance coverage,"18,579,761",94.8%
+North Carolina,2021,With health insurance coverage,"9,267,826",89.6%
+North Dakota,2021,With health insurance coverage,"697,043",92.1%
+Ohio,2021,With health insurance coverage,"10,853,520",93.5%
+Oklahoma,2021,With health insurance coverage,"3,367,447",86.2%
+Oregon,2021,With health insurance coverage,"3,950,976",93.9%
+Pennsylvania,2021,With health insurance coverage,"12,065,845",94.5%
+Rhode Island,2021,With health insurance coverage,"1,033,493",95.7%
+South Carolina,2021,With health insurance coverage,"4,587,877",90.0%
+South Dakota,2021,With health insurance coverage,"794,535",90.5%
+Tennessee,2021,With health insurance coverage,"6,186,573",90.0%
+Texas,2021,With health insurance coverage,"23,842,828",82.0%
+Utah,2021,With health insurance coverage,"3,010,806",91.0%
+Vermont,2021,With health insurance coverage,"615,853",96.3%
+Virginia,2021,With health insurance coverage,"7,838,580",93.2%
+Washington,2021,With health insurance coverage,"7,130,322",93.6%
+West Virginia,2021,With health insurance coverage,"1,649,070",93.9%
+Wisconsin,2021,With health insurance coverage,"5,516,183",94.6%
+Wyoming,2021,With health insurance coverage,"500,738",87.8%
+Puerto Rico,2021,With health insurance coverage,"3,052,763",94.3%
+United States,2021,With private health insurance,"219,074,507",67.0%
+Alabama,2021,With private health insurance,"3,292,355",66.4%
+Alaska,2021,With private health insurance,"450,477",64.2%
+Arizona,2021,With private health insurance,"4,534,059",63.2%
+Arkansas,2021,With private health insurance,"1,755,866",59.0%
+California,2021,With private health insurance,"24,677,380",63.7%
+Colorado,2021,With private health insurance,"4,005,301",70.1%
+Connecticut,2021,With private health insurance,"2,461,581",69.2%
+Delaware,2021,With private health insurance,"703,762",71.2%
+District of Columbia,2021,With private health insurance,"474,728",71.9%
+Florida,2021,With private health insurance,"13,554,801",63.1%
+Georgia,2021,With private health insurance,"7,008,335",66.1%
+Hawaii,2021,With private health insurance,"1,029,473",74.5%
+Idaho,2021,With private health insurance,"1,278,976",68.1%
+Illinois,2021,With private health insurance,"8,677,214",69.4%
+Indiana,2021,With private health insurance,"4,628,483",69.0%
+Iowa,2021,With private health insurance,"2,279,476",72.3%
+Kansas,2021,With private health insurance,"2,091,095",72.6%
+Kentucky,2021,With private health insurance,"2,782,026",62.8%
+Louisiana,2021,With private health insurance,"2,581,037",57.1%
+Maine,2021,With private health insurance,"957,634",70.6%
+Maryland,2021,With private health insurance,"4,420,761",73.0%
+Massachusetts,2021,With private health insurance,"5,111,215",73.9%
+Michigan,2021,With private health insurance,"7,014,676",70.5%
+Minnesota,2021,With private health insurance,"4,288,127",75.9%
+Mississippi,2021,With private health insurance,"1,723,990",59.7%
+Missouri,2021,With private health insurance,"4,231,844",69.8%
+Montana,2021,With private health insurance,"728,506",66.9%
+Nebraska,2021,With private health insurance,"1,448,595",74.8%
+Nevada,2021,With private health insurance,"1,946,974",62.7%
+New Hampshire,2021,With private health insurance,"1,051,369",76.6%
+New Jersey,2021,With private health insurance,"6,528,175",71.2%
+New Mexico,2021,With private health insurance,"1,106,764",53.3%
+New York,2021,With private health insurance,"12,923,149",65.9%
+North Carolina,2021,With private health insurance,"6,918,960",66.9%
+North Dakota,2021,With private health insurance,"584,580",77.3%
+Ohio,2021,With private health insurance,"7,848,749",67.6%
+Oklahoma,2021,With private health insurance,"2,430,817",62.2%
+Oregon,2021,With private health insurance,"2,820,251",67.0%
+Pennsylvania,2021,With private health insurance,"9,149,346",71.7%
+Rhode Island,2021,With private health insurance,"747,253",69.2%
+South Carolina,2021,With private health insurance,"3,336,243",65.4%
+South Dakota,2021,With private health insurance,"636,574",72.5%
+Tennessee,2021,With private health insurance,"4,587,355",66.7%
+Texas,2021,With private health insurance,"17,857,601",61.4%
+Utah,2021,With private health insurance,"2,573,764",77.8%
+Vermont,2021,With private health insurance,"447,212",70.0%
+Virginia,2021,With private health insurance,"6,218,979",73.9%
+Washington,2021,With private health insurance,"5,374,340",70.5%
+West Virginia,2021,With private health insurance,"1,100,570",62.7%
+Wisconsin,2021,With private health insurance,"4,284,355",73.5%
+Wyoming,2021,With private health insurance,"409,354",71.8%
+Puerto Rico,2021,With private health insurance,"1,233,579",38.1%
+United States,2021,With public coverage,"120,198,470",36.8%
+Alabama,2021,With public coverage,"1,851,375",37.3%
+Alaska,2021,With public coverage,"263,737",37.6%
+Arizona,2021,With public coverage,"2,797,783",39.0%
+Arkansas,2021,With public coverage,"1,322,136",44.4%
+California,2021,With public coverage,"15,221,879",39.3%
+Colorado,2021,With public coverage,"1,902,383",33.3%
+Connecticut,2021,With public coverage,"1,339,630",37.7%
+Delaware,2021,With public coverage,"396,200",40.1%
+District of Columbia,2021,With public coverage,"227,924",34.5%
+Florida,2021,With public coverage,"8,027,891",37.4%
+Georgia,2021,With public coverage,"3,436,744",32.4%
+Hawaii,2021,With public coverage,"549,839",39.8%
+Idaho,2021,With public coverage,"691,085",36.8%
+Illinois,2021,With public coverage,"4,367,460",35.0%
+Indiana,2021,With public coverage,"2,410,128",35.9%
+Iowa,2021,With public coverage,"1,167,225",37.0%
+Kansas,2021,With public coverage,"897,270",31.2%
+Kentucky,2021,With public coverage,"2,012,128",45.4%
+Louisiana,2021,With public coverage,"2,121,503",47.0%
+Maine,2021,With public coverage,"540,387",39.8%
+Maryland,2021,With public coverage,"2,142,384",35.4%
+Massachusetts,2021,With public coverage,"2,581,273",37.3%
+Michigan,2021,With public coverage,"4,019,936",40.4%
+Minnesota,2021,With public coverage,"1,937,301",34.3%
+Mississippi,2021,With public coverage,"1,160,955",40.2%
+Missouri,2021,With public coverage,"1,994,646",32.9%
+Montana,2021,With public coverage,"433,341",39.8%
+Nebraska,2021,With public coverage,"590,080",30.5%
+Nevada,2021,With public coverage,"1,135,264",36.6%
+New Hampshire,2021,With public coverage,"448,016",32.6%
+New Jersey,2021,With public coverage,"3,039,059",33.2%
+New Mexico,2021,With public coverage,"1,056,623",50.9%
+New York,2021,With public coverage,"8,207,280",41.9%
+North Carolina,2021,With public coverage,"3,699,907",35.8%
+North Dakota,2021,With public coverage,"214,465",28.4%
+Ohio,2021,With public coverage,"4,478,456",38.6%
+Oklahoma,2021,With public coverage,"1,457,772",37.3%
+Oregon,2021,With public coverage,"1,737,781",41.3%
+Pennsylvania,2021,With public coverage,"4,880,167",38.2%
+Rhode Island,2021,With public coverage,"432,953",40.1%
+South Carolina,2021,With public coverage,"1,983,998",38.9%
+South Dakota,2021,With public coverage,"272,391",31.0%
+Tennessee,2021,With public coverage,"2,505,655",36.5%
+Texas,2021,With public coverage,"8,632,799",29.7%
+Utah,2021,With public coverage,"738,369",22.3%
+Vermont,2021,With public coverage,"266,143",41.6%
+Virginia,2021,With public coverage,"2,750,609",32.7%
+Washington,2021,With public coverage,"2,778,789",36.5%
+West Virginia,2021,With public coverage,"857,710",48.8%
+Wisconsin,2021,With public coverage,"2,048,059",35.1%
+Wyoming,2021,With public coverage,"171,582",30.1%
+Puerto Rico,2021,With public coverage,"2,030,178",62.7%
+United States,2021,No health insurance coverage,"28,226,882",8.6%
+Alabama,2021,No health insurance coverage,"488,571",9.9%
+Alaska,2021,No health insurance coverage,"80,083",11.4%
+Arizona,2021,No health insurance coverage,"766,140",10.7%
+Arkansas,2021,No health insurance coverage,"273,029",9.2%
+California,2021,No health insurance coverage,"2,712,540",7.0%
+Colorado,2021,No health insurance coverage,"455,360",8.0%
+Connecticut,2021,No health insurance coverage,"183,531",5.2%
+Delaware,2021,No health insurance coverage,"56,726",5.7%
+District of Columbia,2021,No health insurance coverage,"24,227",3.7%
+Florida,2021,No health insurance coverage,"2,598,467",12.1%
+Georgia,2021,No health insurance coverage,"1,338,922",12.6%
+Hawaii,2021,No health insurance coverage,"54,462",3.9%
+Idaho,2021,No health insurance coverage,"165,929",8.8%
+Illinois,2021,No health insurance coverage,"875,099",7.0%
+Indiana,2021,No health insurance coverage,"504,396",7.5%
+Iowa,2021,No health insurance coverage,"151,285",4.8%
+Kansas,2021,No health insurance coverage,"263,730",9.2%
+Kentucky,2021,No health insurance coverage,"250,787",5.7%
+Louisiana,2021,No health insurance coverage,"345,499",7.6%
+Maine,2021,No health insurance coverage,"77,639",5.7%
+Maryland,2021,No health insurance coverage,"369,269",6.1%
+Massachusetts,2021,No health insurance coverage,"172,655",2.5%
+Michigan,2021,No health insurance coverage,"495,404",5.0%
+Minnesota,2021,No health insurance coverage,"251,824",4.5%
+Mississippi,2021,No health insurance coverage,"343,002",11.9%
+Missouri,2021,No health insurance coverage,"570,898",9.4%
+Montana,2021,No health insurance coverage,"89,432",8.2%
+Nebraska,2021,No health insurance coverage,"137,604",7.1%
+Nevada,2021,No health insurance coverage,"361,664",11.6%
+New Hampshire,2021,No health insurance coverage,"70,511",5.1%
+New Jersey,2021,No health insurance coverage,"656,728",7.2%
+New Mexico,2021,No health insurance coverage,"207,125",10.0%
+New York,2021,No health insurance coverage,"1,019,287",5.2%
+North Carolina,2021,No health insurance coverage,"1,078,109",10.4%
+North Dakota,2021,No health insurance coverage,"59,397",7.9%
+Ohio,2021,No health insurance coverage,"757,709",6.5%
+Oklahoma,2021,No health insurance coverage,"537,825",13.8%
+Oregon,2021,No health insurance coverage,"255,438",6.1%
+Pennsylvania,2021,No health insurance coverage,"701,541",5.5%
+Rhode Island,2021,No health insurance coverage,"46,945",4.3%
+South Carolina,2021,No health insurance coverage,"511,935",10.0%
+South Dakota,2021,No health insurance coverage,"83,320",9.5%
+Tennessee,2021,No health insurance coverage,"686,104",10.0%
+Texas,2021,No health insurance coverage,"5,224,044",18.0%
+Utah,2021,No health insurance coverage,"298,788",9.0%
+Vermont,2021,No health insurance coverage,"23,375",3.7%
+Virginia,2021,No health insurance coverage,"574,178",6.8%
+Washington,2021,No health insurance coverage,"488,053",6.4%
+West Virginia,2021,No health insurance coverage,"106,817",6.1%
+Wisconsin,2021,No health insurance coverage,"312,171",5.4%
+Wyoming,2021,No health insurance coverage,"69,308",12.2%
+Puerto Rico,2021,No health insurance coverage,"185,161",5.7%
+United States,2021,No health insurance coverage,"4,164,688",5.4%
+Alabama,2021,No health insurance coverage,"47,245",4.0%
+Alaska,2021,No health insurance coverage,"14,699",7.9%
+Arizona,2021,No health insurance coverage,"145,931",8.5%
+Arkansas,2021,No health insurance coverage,"42,924",5.8%
+California,2021,No health insurance coverage,"321,328",3.5%
+Colorado,2021,No health insurance coverage,"61,100",4.6%
+Connecticut,2021,No health insurance coverage,"18,622",2.4%
+Delaware,2021,No health insurance coverage,"8,251",3.7%
+District of Columbia,2021,No health insurance coverage,"4,916",3.7%
+Florida,2021,No health insurance coverage,"331,728",7.3%
+Georgia,2021,No health insurance coverage,"176,101",6.6%
+Hawaii,2021,No health insurance coverage,"8,955",2.8%
+Idaho,2021,No health insurance coverage,"35,112",7.0%
+Illinois,2021,No health insurance coverage,"95,213",3.2%
+Indiana,2021,No health insurance coverage,"100,133",6.0%
+Iowa,2021,No health insurance coverage,"26,206",3.4%
+Kansas,2021,No health insurance coverage,"37,565",5.0%
+Kentucky,2021,No health insurance coverage,"42,690",4.0%
+Louisiana,2021,No health insurance coverage,"45,471",4.0%
+Maine,2021,No health insurance coverage,"11,284",4.3%
+Maryland,2021,No health insurance coverage,"62,387",4.3%
+Massachusetts,2021,No health insurance coverage,"18,466",1.3%
+Michigan,2021,No health insurance coverage,"69,365",3.0%
+Minnesota,2021,No health insurance coverage,"43,845",3.2%
+Mississippi,2021,No health insurance coverage,"45,876",6.2%
+Missouri,2021,No health insurance coverage,"85,621",5.9%
+Montana,2021,No health insurance coverage,"17,375",7.0%
+Nebraska,2021,No health insurance coverage,"23,978",4.7%
+Nevada,2021,No health insurance coverage,"63,232",8.6%
+New Hampshire,2021,No health insurance coverage,"10,819",4.0%
+New Jersey,2021,No health insurance coverage,"75,765",3.6%
+New Mexico,2021,No health insurance coverage,"32,108",6.4%
+New York,2021,No health insurance coverage,"115,381",2.6%
+North Carolina,2021,No health insurance coverage,"134,656",5.5%
+North Dakota,2021,No health insurance coverage,"14,287",7.3%
+Ohio,2021,No health insurance coverage,"139,549",5.1%
+Oklahoma,2021,No health insurance coverage,"75,296",7.4%
+Oregon,2021,No health insurance coverage,"31,363",3.4%
+Pennsylvania,2021,No health insurance coverage,"126,167",4.4%
+Rhode Island,2021,No health insurance coverage,"5,697",2.5%
+South Carolina,2021,No health insurance coverage,"63,186",5.3%
+South Dakota,2021,No health insurance coverage,"17,537",7.6%
+Tennessee,2021,No health insurance coverage,"80,126",4.9%
+Texas,2021,No health insurance coverage,"929,980",11.8%
+Utah,2021,No health insurance coverage,"79,037",7.9%
+Vermont,2021,No health insurance coverage,"2,375",1.9%
+Virginia,2021,No health insurance coverage,"88,178",4.4%
+Washington,2021,No health insurance coverage,"54,619",3.1%
+West Virginia,2021,No health insurance coverage,"12,616",3.3%
+Wisconsin,2021,No health insurance coverage,"54,424",4.0%
+Wyoming,2021,No health insurance coverage,"15,903",11.4%
+Puerto Rico,2021,No health insurance coverage,"15,803",2.7%
+United States,2021,With health insurance coverage,"127,829,928",89.5%
+Alabama,2021,With health insurance coverage,"1,759,929",87.8%
+Alaska,2021,With health insurance coverage,"259,961",86.3%
+Arizona,2021,With health insurance coverage,"2,619,919",86.6%
+Arkansas,2021,With health insurance coverage,"1,072,903",87.9%
+California,2021,With health insurance coverage,"15,351,342",91.3%
+Colorado,2021,With health insurance coverage,"2,476,390",90.0%
+Connecticut,2021,With health insurance coverage,"1,519,308",93.0%
+Delaware,2021,With health insurance coverage,"381,986",92.0%
+District of Columbia,2021,With health insurance coverage,"321,913",97.1%
+Florida,2021,With health insurance coverage,"7,633,551",84.2%
+Georgia,2021,With health insurance coverage,"3,922,953",84.8%
+Hawaii,2021,With health insurance coverage,"552,330",96.6%
+Idaho,2021,With health insurance coverage,"723,551",88.6%
+Illinois,2021,With health insurance coverage,"5,081,331",91.4%
+Indiana,2021,With health insurance coverage,"2,708,588",91.3%
+Iowa,2021,With health insurance coverage,"1,366,201",94.2%
+Kansas,2021,With health insurance coverage,"1,144,784",89.0%
+Kentucky,2021,With health insurance coverage,"1,690,082",92.8%
+Louisiana,2021,With health insurance coverage,"1,607,123",90.0%
+Maine,2021,With health insurance coverage,"557,064",92.6%
+Maryland,2021,With health insurance coverage,"2,594,810",93.0%
+Massachusetts,2021,With health insurance coverage,"3,166,129",97.1%
+Michigan,2021,With health insurance coverage,"3,956,758",93.9%
+Minnesota,2021,With health insurance coverage,"2,540,108",94.6%
+Mississippi,2021,With health insurance coverage,"960,291",85.6%
+Missouri,2021,With health insurance coverage,"2,368,108",88.9%
+Montana,2021,With health insurance coverage,"422,540",89.4%
+Nebraska,2021,With health insurance coverage,"832,344",91.4%
+Nevada,2021,With health insurance coverage,"1,136,938",86.7%
+New Hampshire,2021,With health insurance coverage,"621,313",93.9%
+New Jersey,2021,With health insurance coverage,"3,739,818",91.1%
+New Mexico,2021,With health insurance coverage,"692,774",86.9%
+New York,2021,With health insurance coverage,"7,905,470",93.7%
+North Carolina,2021,With health insurance coverage,"3,886,904",87.1%
+North Dakota,2021,With health insurance coverage,"327,089",91.8%
+Ohio,2021,With health insurance coverage,"4,679,900",92.2%
+Oklahoma,2021,With health insurance coverage,"1,341,790",82.9%
+Oregon,2021,With health insurance coverage,"1,689,630",92.0%
+Pennsylvania,2021,With health insurance coverage,"5,233,232",93.7%
+Rhode Island,2021,With health insurance coverage,"465,831",94.7%
+South Carolina,2021,With health insurance coverage,"1,842,741",87.3%
+South Dakota,2021,With health insurance coverage,"358,875",90.0%
+Tennessee,2021,With health insurance coverage,"2,597,111",87.9%
+Texas,2021,With health insurance coverage,"10,074,137",79.1%
+Utah,2021,With health insurance coverage,"1,348,081",89.8%
+Vermont,2021,With health insurance coverage,"279,825",94.8%
+Virginia,2021,With health insurance coverage,"3,515,299",91.8%
+Washington,2021,With health insurance coverage,"3,141,917",92.0%
+West Virginia,2021,With health insurance coverage,"600,325",91.4%
+Wisconsin,2021,With health insurance coverage,"2,537,592",93.4%
+Wyoming,2021,With health insurance coverage,"221,039",85.6%
+Puerto Rico,2021,With health insurance coverage,"934,730",90.6%
+United States,2021,With private health insurance,"116,136,040",81.3%
+Alabama,2021,With private health insurance,"1,691,479",84.4%
+Alaska,2021,With private health insurance,"230,184",76.4%
+Arizona,2021,With private health insurance,"2,333,145",77.1%
+Arkansas,2021,With private health insurance,"942,787",77.2%
+California,2021,With private health insurance,"13,174,569",78.4%
+Colorado,2021,With private health insurance,"2,254,600",81.9%
+Connecticut,2021,With private health insurance,"1,329,601",81.4%
+Delaware,2021,With private health insurance,"344,129",82.8%
+District of Columbia,2021,With private health insurance,"292,725",88.3%
+Florida,2021,With private health insurance,"7,156,951",79.0%
+Georgia,2021,With private health insurance,"3,740,300",80.8%
+Hawaii,2021,With private health insurance,"509,408",89.1%
+Idaho,2021,With private health insurance,"654,298",80.2%
+Illinois,2021,With private health insurance,"4,649,004",83.6%
+Indiana,2021,With private health insurance,"2,469,947",83.3%
+Iowa,2021,With private health insurance,"1,237,680",85.3%
+Kansas,2021,With private health insurance,"1,098,680",85.4%
+Kentucky,2021,With private health insurance,"1,449,656",79.6%
+Louisiana,2021,With private health insurance,"1,348,829",75.5%
+Maine,2021,With private health insurance,"512,664",85.2%
+Maryland,2021,With private health insurance,"2,356,462",84.5%
+Massachusetts,2021,With private health insurance,"2,803,933",86.0%
+Michigan,2021,With private health insurance,"3,536,671",83.9%
+Minnesota,2021,With private health insurance,"2,293,081",85.4%
+Mississippi,2021,With private health insurance,"912,783",81.4%
+Missouri,2021,With private health insurance,"2,264,237",85.0%
+Montana,2021,With private health insurance,"374,493",79.2%
+Nebraska,2021,With private health insurance,"791,985",86.9%
+Nevada,2021,With private health insurance,"1,038,867",79.2%
+New Hampshire,2021,With private health insurance,"582,643",88.1%
+New Jersey,2021,With private health insurance,"3,452,708",84.1%
+New Mexico,2021,With private health insurance,"554,841",69.6%
+New York,2021,With private health insurance,"6,771,522",80.2%
+North Carolina,2021,With private health insurance,"3,663,921",82.1%
+North Dakota,2021,With private health insurance,"308,496",86.6%
+Ohio,2021,With private health insurance,"4,179,659",82.4%
+Oklahoma,2021,With private health insurance,"1,259,897",77.8%
+Oregon,2021,With private health insurance,"1,488,967",81.1%
+Pennsylvania,2021,With private health insurance,"4,801,380",85.9%
+Rhode Island,2021,With private health insurance,"409,532",83.3%
+South Carolina,2021,With private health insurance,"1,720,314",81.5%
+South Dakota,2021,With private health insurance,"345,815",86.7%
+Tennessee,2021,With private health insurance,"2,426,934",82.1%
+Texas,2021,With private health insurance,"9,613,287",75.5%
+Utah,2021,With private health insurance,"1,297,288",86.4%
+Vermont,2021,With private health insurance,"243,786",82.6%
+Virginia,2021,With private health insurance,"3,275,107",85.6%
+Washington,2021,With private health insurance,"2,873,562",84.1%
+West Virginia,2021,With private health insurance,"520,730",79.3%
+Wisconsin,2021,With private health insurance,"2,341,759",86.2%
+Wyoming,2021,With private health insurance,"210,744",81.6%
+Puerto Rico,2021,With private health insurance,"609,489",59.0%
+United States,2021,With public coverage,"16,087,515",11.3%
+Alabama,2021,With public coverage,"132,414",6.6%
+Alaska,2021,With public coverage,"47,304",15.7%
+Arizona,2021,With public coverage,"392,775",13.0%
+Arkansas,2021,With public coverage,"169,007",13.8%
+California,2021,With public coverage,"2,656,318",15.8%
+Colorado,2021,With public coverage,"311,271",11.3%
+Connecticut,2021,With public coverage,"228,860",14.0%
+Delaware,2021,With public coverage,"51,534",12.4%
+District of Columbia,2021,With public coverage,"39,506",11.9%
+Florida,2021,With public coverage,"744,586",8.2%
+Georgia,2021,With public coverage,"315,894",6.8%
+Hawaii,2021,With public coverage,"72,650",12.7%
+Idaho,2021,With public coverage,"102,442",12.6%
+Illinois,2021,With public coverage,"560,424",10.1%
+Indiana,2021,With public coverage,"323,425",10.9%
+Iowa,2021,With public coverage,"175,176",12.1%
+Kansas,2021,With public coverage,"80,011",6.2%
+Kentucky,2021,With public coverage,"312,520",17.2%
+Louisiana,2021,With public coverage,"328,377",18.4%
+Maine,2021,With public coverage,"70,920",11.8%
+Maryland,2021,With public coverage,"335,526",12.0%
+Massachusetts,2021,With public coverage,"465,447",14.3%
+Michigan,2021,With public coverage,"555,735",13.2%
+Minnesota,2021,With public coverage,"325,615",12.1%
+Mississippi,2021,With public coverage,"86,416",7.7%
+Missouri,2021,With public coverage,"173,704",6.5%
+Montana,2021,With public coverage,"67,288",14.2%
+Nebraska,2021,With public coverage,"66,880",7.3%
+Nevada,2021,With public coverage,"145,927",11.1%
+New Hampshire,2021,With public coverage,"56,528",8.5%
+New Jersey,2021,With public coverage,"365,890",8.9%
+New Mexico,2021,With public coverage,"178,693",22.4%
+New York,2021,With public coverage,"1,380,554",16.4%
+North Carolina,2021,With public coverage,"371,352",8.3%
+North Dakota,2021,With public coverage,"30,890",8.7%
+Ohio,2021,With public coverage,"647,629",12.8%
+Oklahoma,2021,With public coverage,"142,353",8.8%
+Oregon,2021,With public coverage,"273,887",14.9%
+Pennsylvania,2021,With public coverage,"603,999",10.8%
+Rhode Island,2021,With public coverage,"72,691",14.8%
+South Carolina,2021,With public coverage,"196,716",9.3%
+South Dakota,2021,With public coverage,"26,243",6.6%
+Tennessee,2021,With public coverage,"268,312",9.1%
+Texas,2021,With public coverage,"818,718",6.4%
+Utah,2021,With public coverage,"83,746",5.6%
+Vermont,2021,With public coverage,"43,687",14.8%
+Virginia,2021,With public coverage,"388,177",10.1%
+Washington,2021,With public coverage,"399,579",11.7%
+West Virginia,2021,With public coverage,"106,753",16.2%
+Wisconsin,2021,With public coverage,"273,447",10.1%
+Wyoming,2021,With public coverage,"19,719",7.6%
+Puerto Rico,2021,With public coverage,"340,743",33.0%
+United States,2021,No health insurance coverage,"14,950,018",10.5%
+Alabama,2021,No health insurance coverage,"244,031",12.2%
+Alaska,2021,No health insurance coverage,"41,184",13.7%
+Arizona,2021,No health insurance coverage,"407,104",13.4%
+Arkansas,2021,No health insurance coverage,"148,352",12.1%
+California,2021,No health insurance coverage,"1,456,412",8.7%
+Colorado,2021,No health insurance coverage,"275,004",10.0%
+Connecticut,2021,No health insurance coverage,"113,902",7.0%
+Delaware,2021,No health insurance coverage,"33,394",8.0%
+District of Columbia,2021,No health insurance coverage,"9,526",2.9%
+Florida,2021,No health insurance coverage,"1,430,007",15.8%
+Georgia,2021,No health insurance coverage,"705,462",15.2%
+Hawaii,2021,No health insurance coverage,"19,363",3.4%
+Idaho,2021,No health insurance coverage,"92,712",11.4%
+Illinois,2021,No health insurance coverage,"478,767",8.6%
+Indiana,2021,No health insurance coverage,"257,965",8.7%
+Iowa,2021,No health insurance coverage,"84,070",5.8%
+Kansas,2021,No health insurance coverage,"142,059",11.0%
+Kentucky,2021,No health insurance coverage,"130,553",7.2%
+Louisiana,2021,No health insurance coverage,"178,716",10.0%
+Maine,2021,No health insurance coverage,"44,423",7.4%
+Maryland,2021,No health insurance coverage,"194,757",7.0%
+Massachusetts,2021,No health insurance coverage,"94,186",2.9%
+Michigan,2021,No health insurance coverage,"258,979",6.1%
+Minnesota,2021,No health insurance coverage,"144,138",5.4%
+Mississippi,2021,No health insurance coverage,"161,556",14.4%
+Missouri,2021,No health insurance coverage,"296,798",11.1%
+Montana,2021,No health insurance coverage,"50,014",10.6%
+Nebraska,2021,No health insurance coverage,"78,672",8.6%
+Nevada,2021,No health insurance coverage,"174,698",13.3%
+New Hampshire,2021,No health insurance coverage,"40,269",6.1%
+New Jersey,2021,No health insurance coverage,"364,574",8.9%
+New Mexico,2021,No health insurance coverage,"104,075",13.1%
+New York,2021,No health insurance coverage,"533,731",6.3%
+North Carolina,2021,No health insurance coverage,"574,761",12.9%
+North Dakota,2021,No health insurance coverage,"29,283",8.2%
+Ohio,2021,No health insurance coverage,"395,084",7.8%
+Oklahoma,2021,No health insurance coverage,"276,980",17.1%
+Oregon,2021,No health insurance coverage,"146,491",8.0%
+Pennsylvania,2021,No health insurance coverage,"354,659",6.3%
+Rhode Island,2021,No health insurance coverage,"25,869",5.3%
+South Carolina,2021,No health insurance coverage,"268,440",12.7%
+South Dakota,2021,No health insurance coverage,"39,993",10.0%
+Tennessee,2021,No health insurance coverage,"357,803",12.1%
+Texas,2021,No health insurance coverage,"2,663,031",20.9%
+Utah,2021,No health insurance coverage,"153,918",10.2%
+Vermont,2021,No health insurance coverage,"15,367",5.2%
+Virginia,2021,No health insurance coverage,"312,848",8.2%
+Washington,2021,No health insurance coverage,"273,209",8.0%
+West Virginia,2021,No health insurance coverage,"56,667",8.6%
+Wisconsin,2021,No health insurance coverage,"179,005",6.6%
+Wyoming,2021,No health insurance coverage,"37,157",14.4%
+Puerto Rico,2021,No health insurance coverage,"97,438",9.4%
+United States,2021,With health insurance coverage,"7,048,775",75.5%
+Alabama,2021,With health insurance coverage,"65,335",58.8%
+Alaska,2021,With health insurance coverage,"15,309",70.5%
+Arizona,2021,With health insurance coverage,"129,751",73.2%
+Arkansas,2021,With health insurance coverage,"47,094",68.0%
+California,2021,With health insurance coverage,"1,236,864",83.5%
+Colorado,2021,With health insurance coverage,"118,487",80.5%
+Connecticut,2021,With health insurance coverage,"99,649",89.6%
+Delaware,2021,With health insurance coverage,"21,157",86.9%
+District of Columbia,2021,With health insurance coverage,"24,814",86.7%
+Florida,2021,With health insurance coverage,"341,715",64.5%
+Georgia,2021,With health insurance coverage,"162,429",60.8%
+Hawaii,2021,With health insurance coverage,"38,727",82.8%
+Idaho,2021,With health insurance coverage,"18,248",69.5%
+Illinois,2021,With health insurance coverage,"343,037",80.2%
+Indiana,2021,With health insurance coverage,"109,908",76.2%
+Iowa,2021,With health insurance coverage,"40,802",77.6%
+Kansas,2021,With health insurance coverage,"31,888",57.8%
+Kentucky,2021,With health insurance coverage,"79,500",81.0%
+Louisiana,2021,With health insurance coverage,"115,590",79.4%
+Maine,2021,With health insurance coverage,"21,585",76.8%
+Maryland,2021,With health insurance coverage,"143,257",83.5%
+Massachusetts,2021,With health insurance coverage,"199,987",90.6%
+Michigan,2021,With health insurance coverage,"257,643",83.8%
+Minnesota,2021,With health insurance coverage,"110,180",84.6%
+Mississippi,2021,With health insurance coverage,"39,909",53.2%
+Missouri,2021,With health insurance coverage,"79,579",63.4%
+Montana,2021,With health insurance coverage,"15,038",80.5%
+Nebraska,2021,With health insurance coverage,"17,628",73.2%
+Nevada,2021,With health insurance coverage,"98,879",73.0%
+New Hampshire,2021,With health insurance coverage,"19,798",80.4%
+New Jersey,2021,With health insurance coverage,"274,302",80.5%
+New Mexico,2021,With health insurance coverage,"51,853",78.1%
+New York,2021,With health insurance coverage,"685,887",86.6%
+North Carolina,2021,With health insurance coverage,"165,786",62.3%
+North Dakota,2021,With health insurance coverage,"6,199",58.2%
+Ohio,2021,With health insurance coverage,"228,653",79.9%
+Oklahoma,2021,With health insurance coverage,"53,623",54.2%
+Oregon,2021,With health insurance coverage,"100,461",83.3%
+Pennsylvania,2021,With health insurance coverage,"305,942",82.4%
+Rhode Island,2021,With health insurance coverage,"33,336",87.2%
+South Carolina,2021,With health insurance coverage,"78,846",64.5%
+South Dakota,2021,With health insurance coverage,"6,138",53.5%
+Tennessee,2021,With health insurance coverage,"101,347",63.6%
+Texas,2021,With health insurance coverage,"431,586",52.5%
+Utah,2021,With health insurance coverage,"38,374",73.2%
+Vermont,2021,With health insurance coverage,"11,133",86.8%
+Virginia,2021,With health insurance coverage,"147,184",78.5%
+Washington,2021,With health insurance coverage,"164,689",80.5%
+West Virginia,2021,With health insurance coverage,"33,192",75.8%
+Wisconsin,2021,With health insurance coverage,"81,537",83.1%
+Wyoming,2021,With health insurance coverage,"4,920",54.5%
+Puerto Rico,2021,With health insurance coverage,"140,273",90.1%
+United States,2021,With private health insurance,"3,867,469",41.4%
+Alabama,2021,With private health insurance,"42,834",38.5%
+Alaska,2021,With private health insurance,"5,918",27.2%
+Arizona,2021,With private health insurance,"57,177",32.2%
+Arkansas,2021,With private health insurance,"19,765",28.5%
+California,2021,With private health insurance,"646,214",43.6%
+Colorado,2021,With private health insurance,"64,988",44.2%
+Connecticut,2021,With private health insurance,"51,794",46.6%
+Delaware,2021,With private health insurance,"11,255",46.3%
+District of Columbia,2021,With private health insurance,"11,307",39.5%
+Florida,2021,With private health insurance,"237,621",44.9%
+Georgia,2021,With private health insurance,"118,277",44.3%
+Hawaii,2021,With private health insurance,"19,695",42.1%
+Idaho,2021,With private health insurance,"9,688",36.9%
+Illinois,2021,With private health insurance,"181,274",42.4%
+Indiana,2021,With private health insurance,"59,586",41.3%
+Iowa,2021,With private health insurance,"18,710",35.6%
+Kansas,2021,With private health insurance,"24,013",43.5%
+Kentucky,2021,With private health insurance,"32,372",33.0%
+Louisiana,2021,With private health insurance,"35,735",24.5%
+Maine,2021,With private health insurance,"10,687",38.0%
+Maryland,2021,With private health insurance,"79,153",46.1%
+Massachusetts,2021,With private health insurance,"102,806",46.6%
+Michigan,2021,With private health insurance,"119,487",38.8%
+Minnesota,2021,With private health insurance,"61,388",47.1%
+Mississippi,2021,With private health insurance,"23,931",31.9%
+Missouri,2021,With private health insurance,"57,384",45.7%
+Montana,2021,With private health insurance,"8,386",44.9%
+Nebraska,2021,With private health insurance,"10,321",42.9%
+Nevada,2021,With private health insurance,"49,348",36.4%
+New Hampshire,2021,With private health insurance,"12,116",49.2%
+New Jersey,2021,With private health insurance,"165,312",48.5%
+New Mexico,2021,With private health insurance,"14,742",22.2%
+New York,2021,With private health insurance,"316,973",40.0%
+North Carolina,2021,With private health insurance,"108,591",40.8%
+North Dakota,2021,With private health insurance,"4,042",37.9%
+Ohio,2021,With private health insurance,"104,586",36.5%
+Oklahoma,2021,With private health insurance,"32,569",32.9%
+Oregon,2021,With private health insurance,"47,430",39.3%
+Pennsylvania,2021,With private health insurance,"163,829",44.2%
+Rhode Island,2021,With private health insurance,"14,275",37.3%
+South Carolina,2021,With private health insurance,"52,360",42.8%
+South Dakota,2021,With private health insurance,"4,349",37.9%
+Tennessee,2021,With private health insurance,"64,066",40.2%
+Texas,2021,With private health insurance,"320,497",39.0%
+Utah,2021,With private health insurance,"27,393",52.3%
+Vermont,2021,With private health insurance,"5,906",46.1%
+Virginia,2021,With private health insurance,"86,646",46.2%
+Washington,2021,With private health insurance,"89,784",43.9%
+West Virginia,2021,With private health insurance,"13,484",30.8%
+Wisconsin,2021,With private health insurance,"43,417",44.2%
+Wyoming,2021,With private health insurance,"3,988",44.2%
+Puerto Rico,2021,With private health insurance,"36,001",23.1%
+United States,2021,With public coverage,"3,523,835",37.7%
+Alabama,2021,With public coverage,"26,645",24.0%
+Alaska,2021,With public coverage,"10,136",46.7%
+Arizona,2021,With public coverage,"77,547",43.7%
+Arkansas,2021,With public coverage,"29,681",42.8%
+California,2021,With public coverage,"642,195",43.4%
+Colorado,2021,With public coverage,"59,449",40.4%
+Connecticut,2021,With public coverage,"51,512",46.3%
+Delaware,2021,With public coverage,"11,133",45.7%
+District of Columbia,2021,With public coverage,"14,886",52.0%
+Florida,2021,With public coverage,"122,407",23.1%
+Georgia,2021,With public coverage,"52,485",19.7%
+Hawaii,2021,With public coverage,"21,072",45.1%
+Idaho,2021,With public coverage,"9,751",37.2%
+Illinois,2021,With public coverage,"175,175",41.0%
+Indiana,2021,With public coverage,"56,430",39.1%
+Iowa,2021,With public coverage,"24,623",46.8%
+Kansas,2021,With public coverage,"9,435",17.1%
+Kentucky,2021,With public coverage,"50,610",51.5%
+Louisiana,2021,With public coverage,"83,806",57.6%
+Maine,2021,With public coverage,"11,832",42.1%
+Maryland,2021,With public coverage,"70,635",41.2%
+Massachusetts,2021,With public coverage,"108,423",49.1%
+Michigan,2021,With public coverage,"148,314",48.2%
+Minnesota,2021,With public coverage,"53,864",41.4%
+Mississippi,2021,With public coverage,"17,861",23.8%
+Missouri,2021,With public coverage,"25,861",20.6%
+Montana,2021,With public coverage,"7,848",42.0%
+Nebraska,2021,With public coverage,"8,174",33.9%
+Nevada,2021,With public coverage,"52,968",39.1%
+New Hampshire,2021,With public coverage,"7,796",31.7%
+New Jersey,2021,With public coverage,"117,475",34.5%
+New Mexico,2021,With public coverage,"39,410",59.4%
+New York,2021,With public coverage,"404,679",51.1%
+North Carolina,2021,With public coverage,"69,387",26.1%
+North Dakota,2021,With public coverage,"2,358",22.1%
+Ohio,2021,With public coverage,"132,552",46.3%
+Oklahoma,2021,With public coverage,"23,577",23.8%
+Oregon,2021,With public coverage,"58,865",48.8%
+Pennsylvania,2021,With public coverage,"160,202",43.2%
+Rhode Island,2021,With public coverage,"20,545",53.7%
+South Carolina,2021,With public coverage,"31,568",25.8%
+South Dakota,2021,With public coverage,"2,301",20.1%
+Tennessee,2021,With public coverage,"44,320",27.8%
+Texas,2021,With public coverage,"134,758",16.4%
+Utah,2021,With public coverage,"12,531",23.9%
+Vermont,2021,With public coverage,"5,870",45.8%
+Virginia,2021,With public coverage,"71,262",38.0%
+Washington,2021,With public coverage,"83,663",40.9%
+West Virginia,2021,With public coverage,"21,036",48.0%
+Wisconsin,2021,With public coverage,"43,465",44.3%
+Wyoming,2021,With public coverage,"1,457",16.1%
+Puerto Rico,2021,With public coverage,"105,875",68.0%
+United States,2021,No health insurance coverage,"2,291,552",24.5%
+Alabama,2021,No health insurance coverage,"45,814",41.2%
+Alaska,2021,No health insurance coverage,"6,417",29.5%
+Arizona,2021,No health insurance coverage,"47,565",26.8%
+Arkansas,2021,No health insurance coverage,"22,190",32.0%
+California,2021,No health insurance coverage,"243,729",16.5%
+Colorado,2021,No health insurance coverage,"28,611",19.5%
+Connecticut,2021,No health insurance coverage,"11,565",10.4%
+Delaware,2021,No health insurance coverage,"3,178",13.1%
+District of Columbia,2021,No health insurance coverage,"3,815",13.3%
+Florida,2021,No health insurance coverage,"187,917",35.5%
+Georgia,2021,No health insurance coverage,"104,544",39.2%
+Hawaii,2021,No health insurance coverage,"8,044",17.2%
+Idaho,2021,No health insurance coverage,"7,994",30.5%
+Illinois,2021,No health insurance coverage,"84,461",19.8%
+Indiana,2021,No health insurance coverage,"34,262",23.8%
+Iowa,2021,No health insurance coverage,"11,785",22.4%
+Kansas,2021,No health insurance coverage,"23,322",42.2%
+Kentucky,2021,No health insurance coverage,"18,700",19.0%
+Louisiana,2021,No health insurance coverage,"29,974",20.6%
+Maine,2021,No health insurance coverage,"6,515",23.2%
+Maryland,2021,No health insurance coverage,"28,275",16.5%
+Massachusetts,2021,No health insurance coverage,"20,690",9.4%
+Michigan,2021,No health insurance coverage,"49,966",16.2%
+Minnesota,2021,No health insurance coverage,"20,028",15.4%
+Mississippi,2021,No health insurance coverage,"35,151",46.8%
+Missouri,2021,No health insurance coverage,"46,025",36.6%
+Montana,2021,No health insurance coverage,"3,651",19.5%
+Nebraska,2021,No health insurance coverage,"6,451",26.8%
+Nevada,2021,No health insurance coverage,"36,588",27.0%
+New Hampshire,2021,No health insurance coverage,"4,819",19.6%
+New Jersey,2021,No health insurance coverage,"66,572",19.5%
+New Mexico,2021,No health insurance coverage,"14,507",21.9%
+New York,2021,No health insurance coverage,"105,922",13.4%
+North Carolina,2021,No health insurance coverage,"100,313",37.7%
+North Dakota,2021,No health insurance coverage,"4,453",41.8%
+Ohio,2021,No health insurance coverage,"57,627",20.1%
+Oklahoma,2021,No health insurance coverage,"45,342",45.8%
+Oregon,2021,No health insurance coverage,"20,170",16.7%
+Pennsylvania,2021,No health insurance coverage,"65,125",17.6%
+Rhode Island,2021,No health insurance coverage,"4,914",12.8%
+South Carolina,2021,No health insurance coverage,"43,393",35.5%
+South Dakota,2021,No health insurance coverage,"5,331",46.5%
+Tennessee,2021,No health insurance coverage,"57,961",36.4%
+Texas,2021,No health insurance coverage,"390,727",47.5%
+Utah,2021,No health insurance coverage,"14,033",26.8%
+Vermont,2021,No health insurance coverage,"1,687",13.2%
+Virginia,2021,No health insurance coverage,"40,193",21.5%
+Washington,2021,No health insurance coverage,"39,866",19.5%
+West Virginia,2021,No health insurance coverage,"10,624",24.2%
+Wisconsin,2021,No health insurance coverage,"16,641",16.9%
+Wyoming,2021,No health insurance coverage,"4,105",45.5%
+Puerto Rico,2021,No health insurance coverage,"15,471",9.9%
+United States,2021,With health insurance coverage,"35,844,186",84.9%
+Alabama,2021,With health insurance coverage,"638,240",81.3%
+Alaska,2021,With health insurance coverage,"79,725",83.5%
+Arizona,2021,With health insurance coverage,"777,165",83.4%
+Arkansas,2021,With health insurance coverage,"371,800",86.6%
+California,2021,With health insurance coverage,"4,661,309",88.2%
+Colorado,2021,With health insurance coverage,"549,291",86.7%
+Connecticut,2021,With health insurance coverage,"372,328",91.5%
+Delaware,2021,With health insurance coverage,"117,733",91.6%
+District of Columbia,2021,With health insurance coverage,"76,910",93.4%
+Florida,2021,With health insurance coverage,"2,202,578",78.6%
+Georgia,2021,With health insurance coverage,"1,120,336",76.6%
+Hawaii,2021,With health insurance coverage,"150,345",90.4%
+Idaho,2021,With health insurance coverage,"199,743",87.4%
+Illinois,2021,With health insurance coverage,"1,293,748",86.6%
+Indiana,2021,With health insurance coverage,"728,522",87.3%
+Iowa,2021,With health insurance coverage,"290,446",91.3%
+Kansas,2021,With health insurance coverage,"258,799",81.5%
+Kentucky,2021,With health insurance coverage,"630,662",91.8%
+Louisiana,2021,With health insurance coverage,"613,968",87.7%
+Maine,2021,With health insurance coverage,"159,056",91.3%
+Maryland,2021,With health insurance coverage,"601,348",88.8%
+Massachusetts,2021,With health insurance coverage,"750,417",95.7%
+Michigan,2021,With health insurance coverage,"1,251,897",91.9%
+Minnesota,2021,With health insurance coverage,"481,323",92.2%
+Mississippi,2021,With health insurance coverage,"368,453",78.9%
+Missouri,2021,With health insurance coverage,"620,163",81.8%
+Montana,2021,With health insurance coverage,"118,547",87.5%
+Nebraska,2021,With health insurance coverage,"152,023",85.3%
+Nevada,2021,With health insurance coverage,"330,559",80.4%
+New Hampshire,2021,With health insurance coverage,"138,847",91.2%
+New Jersey,2021,With health insurance coverage,"927,822",87.3%
+New Mexico,2021,With health insurance coverage,"270,679",83.8%
+New York,2021,With health insurance coverage,"2,389,622",91.0%
+North Carolina,2021,With health insurance coverage,"1,147,373",81.7%
+North Dakota,2021,With health insurance coverage,"65,287",85.8%
+Ohio,2021,With health insurance coverage,"1,296,178",89.3%
+Oklahoma,2021,With health insurance coverage,"410,285",75.2%
+Oregon,2021,With health insurance coverage,"505,611",90.6%
+Pennsylvania,2021,With health insurance coverage,"1,428,446",90.9%
+Rhode Island,2021,With health insurance coverage,"121,576",93.2%
+South Carolina,2021,With health insurance coverage,"593,394",81.8%
+South Dakota,2021,With health insurance coverage,"63,339",75.8%
+Tennessee,2021,With health insurance coverage,"788,949",81.2%
+Texas,2021,With health insurance coverage,"2,644,350",69.3%
+Utah,2021,With health insurance coverage,"324,556",86.8%
+Vermont,2021,With health insurance coverage,"71,324",95.0%
+Virginia,2021,With health insurance coverage,"891,464",88.1%
+Washington,2021,With health insurance coverage,"889,937",89.0%
+West Virginia,2021,With health insurance coverage,"287,177",91.8%
+Wisconsin,2021,With health insurance coverage,"571,406",90.7%
+Wyoming,2021,With health insurance coverage,"49,130",80.4%
+Puerto Rico,2021,With health insurance coverage,"677,962",93.3%
+United States,2021,With private health insurance,"21,241,038",50.3%
+Alabama,2021,With private health insurance,"386,643",49.2%
+Alaska,2021,With private health insurance,"48,434",50.7%
+Arizona,2021,With private health insurance,"446,876",47.9%
+Arkansas,2021,With private health insurance,"174,411",40.6%
+California,2021,With private health insurance,"2,586,999",48.9%
+Colorado,2021,With private health insurance,"349,037",55.1%
+Connecticut,2021,With private health insurance,"221,249",54.3%
+Delaware,2021,With private health insurance,"72,605",56.5%
+District of Columbia,2021,With private health insurance,"38,880",47.2%
+Florida,2021,With private health insurance,"1,435,981",51.2%
+Georgia,2021,With private health insurance,"737,862",50.5%
+Hawaii,2021,With private health insurance,"94,718",56.9%
+Idaho,2021,With private health insurance,"124,064",54.3%
+Illinois,2021,With private health insurance,"785,445",52.6%
+Indiana,2021,With private health insurance,"424,217",50.9%
+Iowa,2021,With private health insurance,"170,163",53.5%
+Kansas,2021,With private health insurance,"176,290",55.5%
+Kentucky,2021,With private health insurance,"275,033",40.1%
+Louisiana,2021,With private health insurance,"284,508",40.6%
+Maine,2021,With private health insurance,"86,734",49.8%
+Maryland,2021,With private health insurance,"368,020",54.4%
+Massachusetts,2021,With private health insurance,"431,992",55.1%
+Michigan,2021,With private health insurance,"682,324",50.1%
+Minnesota,2021,With private health insurance,"292,055",56.0%
+Mississippi,2021,With private health insurance,"186,135",39.8%
+Missouri,2021,With private health insurance,"387,031",51.0%
+Montana,2021,With private health insurance,"71,338",52.6%
+Nebraska,2021,With private health insurance,"98,157",55.1%
+Nevada,2021,With private health insurance,"189,945",46.2%
+New Hampshire,2021,With private health insurance,"90,492",59.4%
+New Jersey,2021,With private health insurance,"595,388",56.0%
+New Mexico,2021,With private health insurance,"117,160",36.3%
+New York,2021,With private health insurance,"1,263,428",48.1%
+North Carolina,2021,With private health insurance,"728,972",51.9%
+North Dakota,2021,With private health insurance,"44,314",58.2%
+Ohio,2021,With private health insurance,"686,163",47.3%
+Oklahoma,2021,With private health insurance,"245,182",44.9%
+Oregon,2021,With private health insurance,"275,378",49.3%
+Pennsylvania,2021,With private health insurance,"834,887",53.1%
+Rhode Island,2021,With private health insurance,"67,841",52.0%
+South Carolina,2021,With private health insurance,"368,460",50.8%
+South Dakota,2021,With private health insurance,"41,229",49.3%
+Tennessee,2021,With private health insurance,"476,045",49.0%
+Texas,2021,With private health insurance,"1,834,730",48.1%
+Utah,2021,With private health insurance,"249,060",66.6%
+Vermont,2021,With private health insurance,"40,390",53.8%
+Virginia,2021,With private health insurance,"591,573",58.4%
+Washington,2021,With private health insurance,"541,254",54.1%
+West Virginia,2021,With private health insurance,"134,640",43.0%
+Wisconsin,2021,With private health insurance,"350,140",55.6%
+Wyoming,2021,With private health insurance,"37,166",60.8%
+Puerto Rico,2021,With private health insurance,"191,952",26.4%
+United States,2021,With public coverage,"17,509,893",41.5%
+Alabama,2021,With public coverage,"325,880",41.5%
+Alaska,2021,With public coverage,"38,869",40.7%
+Arizona,2021,With public coverage,"384,602",41.3%
+Arkansas,2021,With public coverage,"233,128",54.3%
+California,2021,With public coverage,"2,344,211",44.4%
+Colorado,2021,With public coverage,"242,212",38.2%
+Connecticut,2021,With public coverage,"172,917",42.5%
+Delaware,2021,With public coverage,"57,148",44.5%
+District of Columbia,2021,With public coverage,"42,489",51.6%
+Florida,2021,With public coverage,"952,894",34.0%
+Georgia,2021,With public coverage,"498,766",34.1%
+Hawaii,2021,With public coverage,"71,833",43.2%
+Idaho,2021,With public coverage,"96,036",42.0%
+Illinois,2021,With public coverage,"582,264",39.0%
+Indiana,2021,With public coverage,"361,551",43.3%
+Iowa,2021,With public coverage,"142,742",44.9%
+Kansas,2021,With public coverage,"106,600",33.6%
+Kentucky,2021,With public coverage,"409,745",59.7%
+Louisiana,2021,With public coverage,"381,264",54.5%
+Maine,2021,With public coverage,"87,606",50.3%
+Maryland,2021,With public coverage,"287,808",42.5%
+Massachusetts,2021,With public coverage,"376,076",47.9%
+Michigan,2021,With public coverage,"681,009",50.0%
+Minnesota,2021,With public coverage,"224,532",43.0%
+Mississippi,2021,With public coverage,"215,263",46.1%
+Missouri,2021,With public coverage,"284,406",37.5%
+Montana,2021,With public coverage,"58,602",43.2%
+Nebraska,2021,With public coverage,"68,638",38.5%
+Nevada,2021,With public coverage,"164,315",40.0%
+New Hampshire,2021,With public coverage,"59,708",39.2%
+New Jersey,2021,With public coverage,"396,894",37.4%
+New Mexico,2021,With public coverage,"177,504",55.0%
+New York,2021,With public coverage,"1,330,159",50.7%
+North Carolina,2021,With public coverage,"530,195",37.8%
+North Dakota,2021,With public coverage,"25,521",33.5%
+Ohio,2021,With public coverage,"689,229",47.5%
+Oklahoma,2021,With public coverage,"202,270",37.1%
+Oregon,2021,With public coverage,"275,690",49.4%
+Pennsylvania,2021,With public coverage,"731,876",46.6%
+Rhode Island,2021,With public coverage,"64,119",49.1%
+South Carolina,2021,With public coverage,"287,529",39.7%
+South Dakota,2021,With public coverage,"26,782",32.1%
+Tennessee,2021,With public coverage,"398,189",41.0%
+Texas,2021,With public coverage,"1,014,387",26.6%
+Utah,2021,With public coverage,"98,692",26.4%
+Vermont,2021,With public coverage,"37,557",50.0%
+Virginia,2021,With public coverage,"370,774",36.6%
+Washington,2021,With public coverage,"419,314",41.9%
+West Virginia,2021,With public coverage,"189,114",60.4%
+Wisconsin,2021,With public coverage,"274,077",43.5%
+Wyoming,2021,With public coverage,"16,907",27.7%
+Puerto Rico,2021,With public coverage,"509,649",70.2%
+United States,2021,No health insurance coverage,"6,375,643",15.1%
+Alabama,2021,No health insurance coverage,"146,855",18.7%
+Alaska,2021,No health insurance coverage,"15,743",16.5%
+Arizona,2021,No health insurance coverage,"155,105",16.6%
+Arkansas,2021,No health insurance coverage,"57,292",13.4%
+California,2021,No health insurance coverage,"623,883",11.8%
+Colorado,2021,No health insurance coverage,"84,292",13.3%
+Connecticut,2021,No health insurance coverage,"34,809",8.5%
+Delaware,2021,No health insurance coverage,"10,793",8.4%
+District of Columbia,2021,No health insurance coverage,"5,470",6.6%
+Florida,2021,No health insurance coverage,"599,514",21.4%
+Georgia,2021,No health insurance coverage,"341,641",23.4%
+Hawaii,2021,No health insurance coverage,"16,043",9.6%
+Idaho,2021,No health insurance coverage,"28,706",12.6%
+Illinois,2021,No health insurance coverage,"200,375",13.4%
+Indiana,2021,No health insurance coverage,"105,573",12.7%
+Iowa,2021,No health insurance coverage,"27,659",8.7%
+Kansas,2021,No health insurance coverage,"58,877",18.5%
+Kentucky,2021,No health insurance coverage,"56,028",8.2%
+Louisiana,2021,No health insurance coverage,"86,230",12.3%
+Maine,2021,No health insurance coverage,"15,191",8.7%
+Maryland,2021,No health insurance coverage,"75,652",11.2%
+Massachusetts,2021,No health insurance coverage,"34,107",4.3%
+Michigan,2021,No health insurance coverage,"110,616",8.1%
+Minnesota,2021,No health insurance coverage,"40,609",7.8%
+Mississippi,2021,No health insurance coverage,"98,651",21.1%
+Missouri,2021,No health insurance coverage,"138,249",18.2%
+Montana,2021,No health insurance coverage,"16,990",12.5%
+Nebraska,2021,No health insurance coverage,"26,193",14.7%
+Nevada,2021,No health insurance coverage,"80,686",19.6%
+New Hampshire,2021,No health insurance coverage,"13,424",8.8%
+New Jersey,2021,No health insurance coverage,"134,739",12.7%
+New Mexico,2021,No health insurance coverage,"52,172",16.2%
+New York,2021,No health insurance coverage,"235,841",9.0%
+North Carolina,2021,No health insurance coverage,"256,300",18.3%
+North Dakota,2021,No health insurance coverage,"10,800",14.2%
+Ohio,2021,No health insurance coverage,"155,788",10.7%
+Oklahoma,2021,No health insurance coverage,"135,491",24.8%
+Oregon,2021,No health insurance coverage,"52,456",9.4%
+Pennsylvania,2021,No health insurance coverage,"143,122",9.1%
+Rhode Island,2021,No health insurance coverage,"8,880",6.8%
+South Carolina,2021,No health insurance coverage,"131,678",18.2%
+South Dakota,2021,No health insurance coverage,"20,213",24.2%
+Tennessee,2021,No health insurance coverage,"183,022",18.8%
+Texas,2021,No health insurance coverage,"1,169,589",30.7%
+Utah,2021,No health insurance coverage,"49,409",13.2%
+Vermont,2021,No health insurance coverage,"3,734",5.0%
+Virginia,2021,No health insurance coverage,"120,700",11.9%
+Washington,2021,No health insurance coverage,"110,451",11.0%
+West Virginia,2021,No health insurance coverage,"25,755",8.2%
+Wisconsin,2021,No health insurance coverage,"58,293",9.3%
+Wyoming,2021,No health insurance coverage,"11,954",19.6%
+Puerto Rico,2021,No health insurance coverage,"48,441",6.7%
+United States,2022,Civilian noninstitutionalized population,"328,309,810","328,309,810"
+Alabama,2022,Civilian noninstitutionalized population,"4,988,625","4,988,625"
+Alaska,2022,Civilian noninstitutionalized population,"701,511","701,511"
+Arizona,2022,Civilian noninstitutionalized population,"7,251,924","7,251,924"
+Arkansas,2022,Civilian noninstitutionalized population,"2,991,199","2,991,199"
+California,2022,Civilian noninstitutionalized population,"38,548,670","38,548,670"
+Colorado,2022,Civilian noninstitutionalized population,"5,742,363","5,742,363"
+Connecticut,2022,Civilian noninstitutionalized population,"3,582,236","3,582,236"
+Delaware,2022,Civilian noninstitutionalized population,"1,005,551","1,005,551"
+District of Columbia,2022,Civilian noninstitutionalized population,"661,425","661,425"
+Florida,2022,Civilian noninstitutionalized population,"21,904,247","21,904,247"
+Georgia,2022,Civilian noninstitutionalized population,"10,718,050","10,718,050"
+Hawaii,2022,Civilian noninstitutionalized population,"1,383,700","1,383,700"
+Idaho,2022,Civilian noninstitutionalized population,"1,911,951","1,911,951"
+Illinois,2022,Civilian noninstitutionalized population,"12,413,406","12,413,406"
+Indiana,2022,Civilian noninstitutionalized population,"6,737,570","6,737,570"
+Iowa,2022,Civilian noninstitutionalized population,"3,153,337","3,153,337"
+Kansas,2022,Civilian noninstitutionalized population,"2,876,222","2,876,222"
+Kentucky,2022,Civilian noninstitutionalized population,"4,428,274","4,428,274"
+Louisiana,2022,Civilian noninstitutionalized population,"4,494,008","4,494,008"
+Maine,2022,Civilian noninstitutionalized population,"1,368,026","1,368,026"
+Maryland,2022,Civilian noninstitutionalized population,"6,073,039","6,073,039"
+Massachusetts,2022,Civilian noninstitutionalized population,"6,919,123","6,919,123"
+Michigan,2022,Civilian noninstitutionalized population,"9,929,781","9,929,781"
+Minnesota,2022,Civilian noninstitutionalized population,"5,657,569","5,657,569"
+Mississippi,2022,Civilian noninstitutionalized population,"2,872,112","2,872,112"
+Missouri,2022,Civilian noninstitutionalized population,"6,071,333","6,071,333"
+Montana,2022,Civilian noninstitutionalized population,"1,104,997","1,104,997"
+Nebraska,2022,Civilian noninstitutionalized population,"1,939,912","1,939,912"
+Nevada,2022,Civilian noninstitutionalized population,"3,139,304","3,139,304"
+New Hampshire,2022,Civilian noninstitutionalized population,"1,379,160","1,379,160"
+New Jersey,2022,Civilian noninstitutionalized population,"9,168,124","9,168,124"
+New Mexico,2022,Civilian noninstitutionalized population,"2,074,351","2,074,351"
+New York,2022,Civilian noninstitutionalized population,"19,475,046","19,475,046"
+North Carolina,2022,Civilian noninstitutionalized population,"10,480,843","10,480,843"
+North Dakota,2022,Civilian noninstitutionalized population,"762,522","762,522"
+Ohio,2022,Civilian noninstitutionalized population,"11,587,715","11,587,715"
+Oklahoma,2022,Civilian noninstitutionalized population,"3,930,259","3,930,259"
+Oregon,2022,Civilian noninstitutionalized population,"4,199,471","4,199,471"
+Pennsylvania,2022,Civilian noninstitutionalized population,"12,789,843","12,789,843"
+Rhode Island,2022,Civilian noninstitutionalized population,"1,076,902","1,076,902"
+South Carolina,2022,Civilian noninstitutionalized population,"5,185,489","5,185,489"
+South Dakota,2022,Civilian noninstitutionalized population,"888,485","888,485"
+Tennessee,2022,Civilian noninstitutionalized population,"6,951,491","6,951,491"
+Texas,2022,Civilian noninstitutionalized population,"29,539,484","29,539,484"
+Utah,2022,Civilian noninstitutionalized population,"3,353,888","3,353,888"
+Vermont,2022,Civilian noninstitutionalized population,"640,316","640,316"
+Virginia,2022,Civilian noninstitutionalized population,"8,446,378","8,446,378"
+Washington,2022,Civilian noninstitutionalized population,"7,667,041","7,667,041"
+West Virginia,2022,Civilian noninstitutionalized population,"1,741,322","1,741,322"
+Wisconsin,2022,Civilian noninstitutionalized population,"5,831,451","5,831,451"
+Wyoming,2022,Civilian noninstitutionalized population,"570,764","570,764"
+Puerto Rico,2022,Civilian noninstitutionalized population,"3,194,807","3,194,807"
+United States,2022,With health insurance coverage,"301,941,990",92.0%
+Alabama,2022,With health insurance coverage,"4,551,357",91.2%
+Alaska,2022,With health insurance coverage,"624,538",89.0%
+Arizona,2022,With health insurance coverage,"6,503,212",89.7%
+Arkansas,2022,With health insurance coverage,"2,739,056",91.6%
+California,2022,With health insurance coverage,"36,056,827",93.5%
+Colorado,2022,With health insurance coverage,"5,333,838",92.9%
+Connecticut,2022,With health insurance coverage,"3,397,320",94.8%
+Delaware,2022,With health insurance coverage,"948,761",94.4%
+District of Columbia,2022,With health insurance coverage,"641,951",97.1%
+Florida,2022,With health insurance coverage,"19,456,522",88.8%
+Georgia,2022,With health insurance coverage,"9,466,834",88.3%
+Hawaii,2022,With health insurance coverage,"1,334,867",96.5%
+Idaho,2022,With health insurance coverage,"1,755,313",91.8%
+Illinois,2022,With health insurance coverage,"11,600,171",93.4%
+Indiana,2022,With health insurance coverage,"6,268,108",93.0%
+Iowa,2022,With health insurance coverage,"3,012,541",95.5%
+Kansas,2022,With health insurance coverage,"2,629,152",91.4%
+Kentucky,2022,With health insurance coverage,"4,181,313",94.4%
+Louisiana,2022,With health insurance coverage,"4,181,812",93.1%
+Maine,2022,With health insurance coverage,"1,278,243",93.4%
+Maryland,2022,With health insurance coverage,"5,704,646",93.9%
+Massachusetts,2022,With health insurance coverage,"6,751,464",97.6%
+Michigan,2022,With health insurance coverage,"9,478,301",95.5%
+Minnesota,2022,With health insurance coverage,"5,403,146",95.5%
+Mississippi,2022,With health insurance coverage,"2,560,538",89.2%
+Missouri,2022,With health insurance coverage,"5,550,588",91.4%
+Montana,2022,With health insurance coverage,"1,013,725",91.7%
+Nebraska,2022,With health insurance coverage,"1,810,341",93.3%
+Nevada,2022,With health insurance coverage,"2,790,616",88.9%
+New Hampshire,2022,With health insurance coverage,"1,311,639",95.1%
+New Jersey,2022,With health insurance coverage,"8,540,977",93.2%
+New Mexico,2022,With health insurance coverage,"1,903,882",91.8%
+New York,2022,With health insurance coverage,"18,530,250",95.1%
+North Carolina,2022,With health insurance coverage,"9,507,748",90.7%
+North Dakota,2022,With health insurance coverage,"713,892",93.6%
+Ohio,2022,With health insurance coverage,"10,905,166",94.1%
+Oklahoma,2022,With health insurance coverage,"3,469,379",88.3%
+Oregon,2022,With health insurance coverage,"3,947,034",94.0%
+Pennsylvania,2022,With health insurance coverage,"12,108,906",94.7%
+Rhode Island,2022,With health insurance coverage,"1,031,520",95.8%
+South Carolina,2022,With health insurance coverage,"4,715,009",90.9%
+South Dakota,2022,With health insurance coverage,"816,897",91.9%
+Tennessee,2022,With health insurance coverage,"6,304,432",90.7%
+Texas,2022,With health insurance coverage,"24,640,517",83.4%
+Utah,2022,With health insurance coverage,"3,081,265",91.9%
+Vermont,2022,With health insurance coverage,"615,515",96.1%
+Virginia,2022,With health insurance coverage,"7,901,373",93.5%
+Washington,2022,With health insurance coverage,"7,199,483",93.9%
+West Virginia,2022,With health insurance coverage,"1,638,252",94.1%
+Wisconsin,2022,With health insurance coverage,"5,528,608",94.8%
+Wyoming,2022,With health insurance coverage,"505,145",88.5%
+Puerto Rico,2022,With health insurance coverage,"3,033,339",94.9%
+United States,2022,With private health insurance,"220,660,289",67.2%
+Alabama,2022,With private health insurance,"3,341,531",67.0%
+Alaska,2022,With private health insurance,"465,572",66.4%
+Arizona,2022,With private health insurance,"4,630,396",63.9%
+Arkansas,2022,With private health insurance,"1,793,869",60.0%
+California,2022,With private health insurance,"24,580,162",63.8%
+Colorado,2022,With private health insurance,"4,048,702",70.5%
+Connecticut,2022,With private health insurance,"2,469,612",68.9%
+Delaware,2022,With private health insurance,"721,927",71.8%
+District of Columbia,2022,With private health insurance,"479,700",72.5%
+Florida,2022,With private health insurance,"13,938,154",63.6%
+Georgia,2022,With private health insurance,"7,138,875",66.6%
+Hawaii,2022,With private health insurance,"1,038,129",75.0%
+Idaho,2022,With private health insurance,"1,306,075",68.3%
+Illinois,2022,With private health insurance,"8,604,703",69.3%
+Indiana,2022,With private health insurance,"4,606,471",68.4%
+Iowa,2022,With private health insurance,"2,312,792",73.3%
+Kansas,2022,With private health insurance,"2,119,711",73.7%
+Kentucky,2022,With private health insurance,"2,781,595",62.8%
+Louisiana,2022,With private health insurance,"2,610,405",58.1%
+Maine,2022,With private health insurance,"939,244",68.7%
+Maryland,2022,With private health insurance,"4,420,889",72.8%
+Massachusetts,2022,With private health insurance,"5,079,064",73.4%
+Michigan,2022,With private health insurance,"6,985,845",70.4%
+Minnesota,2022,With private health insurance,"4,227,970",74.7%
+Mississippi,2022,With private health insurance,"1,766,803",61.5%
+Missouri,2022,With private health insurance,"4,174,806",68.8%
+Montana,2022,With private health insurance,"720,810",65.2%
+Nebraska,2022,With private health insurance,"1,428,330",73.6%
+Nevada,2022,With private health insurance,"1,989,894",63.4%
+New Hampshire,2022,With private health insurance,"1,042,424",75.6%
+New Jersey,2022,With private health insurance,"6,530,323",71.2%
+New Mexico,2022,With private health insurance,"1,128,560",54.4%
+New York,2022,With private health insurance,"12,743,806",65.4%
+North Carolina,2022,With private health insurance,"7,104,536",67.8%
+North Dakota,2022,With private health insurance,"597,444",78.4%
+Ohio,2022,With private health insurance,"7,896,954",68.1%
+Oklahoma,2022,With private health insurance,"2,425,658",61.7%
+Oregon,2022,With private health insurance,"2,817,979",67.1%
+Pennsylvania,2022,With private health insurance,"9,107,857",71.2%
+Rhode Island,2022,With private health insurance,"759,240",70.5%
+South Carolina,2022,With private health insurance,"3,469,644",66.9%
+South Dakota,2022,With private health insurance,"651,169",73.3%
+Tennessee,2022,With private health insurance,"4,671,028",67.2%
+Texas,2022,With private health insurance,"18,562,505",62.8%
+Utah,2022,With private health insurance,"2,630,436",78.4%
+Vermont,2022,With private health insurance,"447,955",70.0%
+Virginia,2022,With private health insurance,"6,168,350",73.0%
+Washington,2022,With private health insurance,"5,429,024",70.8%
+West Virginia,2022,With private health insurance,"1,075,867",61.8%
+Wisconsin,2022,With private health insurance,"4,272,532",73.3%
+Wyoming,2022,With private health insurance,"404,962",71.0%
+Puerto Rico,2022,With private health insurance,"1,234,121",38.6%
+United States,2022,With public coverage,"122,005,469",37.2%
+Alabama,2022,With public coverage,"1,916,972",38.4%
+Alaska,2022,With public coverage,"260,753",37.2%
+Arizona,2022,With public coverage,"2,780,374",38.3%
+Arkansas,2022,With public coverage,"1,346,069",45.0%
+California,2022,With public coverage,"15,415,257",40.0%
+Colorado,2022,With public coverage,"1,912,853",33.3%
+Connecticut,2022,With public coverage,"1,346,147",37.6%
+Delaware,2022,With public coverage,"397,480",39.5%
+District of Columbia,2022,With public coverage,"223,716",33.8%
+Florida,2022,With public coverage,"8,218,687",37.5%
+Georgia,2022,With public coverage,"3,535,804",33.0%
+Hawaii,2022,With public coverage,"545,115",39.4%
+Idaho,2022,With public coverage,"711,922",37.2%
+Illinois,2022,With public coverage,"4,443,075",35.8%
+Indiana,2022,With public coverage,"2,480,611",36.8%
+Iowa,2022,With public coverage,"1,160,255",36.8%
+Kansas,2022,With public coverage,"896,248",31.2%
+Kentucky,2022,With public coverage,"2,002,287",45.2%
+Louisiana,2022,With public coverage,"2,145,830",47.7%
+Maine,2022,With public coverage,"553,917",40.5%
+Maryland,2022,With public coverage,"2,135,410",35.2%
+Massachusetts,2022,With public coverage,"2,616,422",37.8%
+Michigan,2022,With public coverage,"4,066,803",41.0%
+Minnesota,2022,With public coverage,"1,999,131",35.3%
+Mississippi,2022,With public coverage,"1,151,837",40.1%
+Missouri,2022,With public coverage,"2,084,656",34.3%
+Montana,2022,With public coverage,"448,500",40.6%
+Nebraska,2022,With public coverage,"626,414",32.3%
+Nevada,2022,With public coverage,"1,157,578",36.9%
+New Hampshire,2022,With public coverage,"462,610",33.5%
+New Jersey,2022,With public coverage,"3,080,321",33.6%
+New Mexico,2022,With public coverage,"1,062,129",51.2%
+New York,2022,With public coverage,"8,355,947",42.9%
+North Carolina,2022,With public coverage,"3,764,396",35.9%
+North Dakota,2022,With public coverage,"224,737",29.5%
+Ohio,2022,With public coverage,"4,492,883",38.8%
+Oklahoma,2022,With public coverage,"1,555,587",39.6%
+Oregon,2022,With public coverage,"1,728,315",41.2%
+Pennsylvania,2022,With public coverage,"4,960,334",38.8%
+Rhode Island,2022,With public coverage,"408,257",37.9%
+South Carolina,2022,With public coverage,"2,004,560",38.7%
+South Dakota,2022,With public coverage,"284,336",32.0%
+Tennessee,2022,With public coverage,"2,494,184",35.9%
+Texas,2022,With public coverage,"8,746,449",29.6%
+Utah,2022,With public coverage,"745,194",22.2%
+Vermont,2022,With public coverage,"268,273",41.9%
+Virginia,2022,With public coverage,"2,887,617",34.2%
+Washington,2022,With public coverage,"2,785,593",36.3%
+West Virginia,2022,With public coverage,"856,765",49.2%
+Wisconsin,2022,With public coverage,"2,079,007",35.7%
+Wyoming,2022,With public coverage,"177,852",31.2%
+Puerto Rico,2022,With public coverage,"2,020,855",63.3%
+United States,2022,No health insurance coverage,"26,367,820",8.0%
+Alabama,2022,No health insurance coverage,"437,268",8.8%
+Alaska,2022,No health insurance coverage,"76,973",11.0%
+Arizona,2022,No health insurance coverage,"748,712",10.3%
+Arkansas,2022,No health insurance coverage,"252,143",8.4%
+California,2022,No health insurance coverage,"2,491,843",6.5%
+Colorado,2022,No health insurance coverage,"408,525",7.1%
+Connecticut,2022,No health insurance coverage,"184,916",5.2%
+Delaware,2022,No health insurance coverage,"56,790",5.6%
+District of Columbia,2022,No health insurance coverage,"19,474",2.9%
+Florida,2022,No health insurance coverage,"2,447,725",11.2%
+Georgia,2022,No health insurance coverage,"1,251,216",11.7%
+Hawaii,2022,No health insurance coverage,"48,833",3.5%
+Idaho,2022,No health insurance coverage,"156,638",8.2%
+Illinois,2022,No health insurance coverage,"813,235",6.6%
+Indiana,2022,No health insurance coverage,"469,462",7.0%
+Iowa,2022,No health insurance coverage,"140,796",4.5%
+Kansas,2022,No health insurance coverage,"247,070",8.6%
+Kentucky,2022,No health insurance coverage,"246,961",5.6%
+Louisiana,2022,No health insurance coverage,"312,196",6.9%
+Maine,2022,No health insurance coverage,"89,783",6.6%
+Maryland,2022,No health insurance coverage,"368,393",6.1%
+Massachusetts,2022,No health insurance coverage,"167,659",2.4%
+Michigan,2022,No health insurance coverage,"451,480",4.5%
+Minnesota,2022,No health insurance coverage,"254,423",4.5%
+Mississippi,2022,No health insurance coverage,"311,574",10.8%
+Missouri,2022,No health insurance coverage,"520,745",8.6%
+Montana,2022,No health insurance coverage,"91,272",8.3%
+Nebraska,2022,No health insurance coverage,"129,571",6.7%
+Nevada,2022,No health insurance coverage,"348,688",11.1%
+New Hampshire,2022,No health insurance coverage,"67,521",4.9%
+New Jersey,2022,No health insurance coverage,"627,147",6.8%
+New Mexico,2022,No health insurance coverage,"170,469",8.2%
+New York,2022,No health insurance coverage,"944,796",4.9%
+North Carolina,2022,No health insurance coverage,"973,095",9.3%
+North Dakota,2022,No health insurance coverage,"48,630",6.4%
+Ohio,2022,No health insurance coverage,"682,549",5.9%
+Oklahoma,2022,No health insurance coverage,"460,880",11.7%
+Oregon,2022,No health insurance coverage,"252,437",6.0%
+Pennsylvania,2022,No health insurance coverage,"680,937",5.3%
+Rhode Island,2022,No health insurance coverage,"45,382",4.2%
+South Carolina,2022,No health insurance coverage,"470,480",9.1%
+South Dakota,2022,No health insurance coverage,"71,588",8.1%
+Tennessee,2022,No health insurance coverage,"647,059",9.3%
+Texas,2022,No health insurance coverage,"4,898,967",16.6%
+Utah,2022,No health insurance coverage,"272,623",8.1%
+Vermont,2022,No health insurance coverage,"24,801",3.9%
+Virginia,2022,No health insurance coverage,"545,005",6.5%
+Washington,2022,No health insurance coverage,"467,558",6.1%
+West Virginia,2022,No health insurance coverage,"103,070",5.9%
+Wisconsin,2022,No health insurance coverage,"302,843",5.2%
+Wyoming,2022,No health insurance coverage,"65,619",11.5%
+Puerto Rico,2022,No health insurance coverage,"161,468",5.1%
+United States,2022,No health insurance coverage,"3,931,919",5.1%
+Alabama,2022,No health insurance coverage,"37,228",3.1%
+Alaska,2022,No health insurance coverage,"15,391",8.4%
+Arizona,2022,No health insurance coverage,"141,754",8.4%
+Arkansas,2022,No health insurance coverage,"43,834",5.9%
+California,2022,No health insurance coverage,"287,401",3.2%
+Colorado,2022,No health insurance coverage,"62,184",4.8%
+Connecticut,2022,No health insurance coverage,"24,612",3.2%
+Delaware,2022,No health insurance coverage,"7,488",3.4%
+District of Columbia,2022,No health insurance coverage,"1,874",1.4%
+Florida,2022,No health insurance coverage,"336,416",7.4%
+Georgia,2022,No health insurance coverage,"165,918",6.2%
+Hawaii,2022,No health insurance coverage,"9,398",3.0%
+Idaho,2022,No health insurance coverage,"28,374",5.7%
+Illinois,2022,No health insurance coverage,"98,969",3.4%
+Indiana,2022,No health insurance coverage,"91,417",5.5%
+Iowa,2022,No health insurance coverage,"28,398",3.7%
+Kansas,2022,No health insurance coverage,"37,927",5.2%
+Kentucky,2022,No health insurance coverage,"45,640",4.3%
+Louisiana,2022,No health insurance coverage,"39,454",3.5%
+Maine,2022,No health insurance coverage,"11,910",4.6%
+Maryland,2022,No health insurance coverage,"60,025",4.2%
+Massachusetts,2022,No health insurance coverage,"22,073",1.5%
+Michigan,2022,No health insurance coverage,"60,187",2.7%
+Minnesota,2022,No health insurance coverage,"45,414",3.3%
+Mississippi,2022,No health insurance coverage,"39,432",5.5%
+Missouri,2022,No health insurance coverage,"83,348",5.8%
+Montana,2022,No health insurance coverage,"17,111",6.9%
+Nebraska,2022,No health insurance coverage,"23,045",4.6%
+Nevada,2022,No health insurance coverage,"54,879",7.6%
+New Hampshire,2022,No health insurance coverage,"9,199",3.4%
+New Jersey,2022,No health insurance coverage,"82,235",3.9%
+New Mexico,2022,No health insurance coverage,"18,406",3.8%
+New York,2022,No health insurance coverage,"110,732",2.6%
+North Carolina,2022,No health insurance coverage,"118,044",4.8%
+North Dakota,2022,No health insurance coverage,"10,478",5.5%
+Ohio,2022,No health insurance coverage,"121,556",4.5%
+Oklahoma,2022,No health insurance coverage,"73,353",7.3%
+Oregon,2022,No health insurance coverage,"26,824",3.0%
+Pennsylvania,2022,No health insurance coverage,"145,070",5.2%
+Rhode Island,2022,No health insurance coverage,"4,541",2.1%
+South Carolina,2022,No health insurance coverage,"56,204",4.7%
+South Dakota,2022,No health insurance coverage,"14,403",6.2%
+Tennessee,2022,No health insurance coverage,"85,847",5.3%
+Texas,2022,No health insurance coverage,"854,209",10.9%
+Utah,2022,No health insurance coverage,"60,580",6.1%
+Vermont,2022,No health insurance coverage,"3,218",2.6%
+Virginia,2022,No health insurance coverage,"86,562",4.4%
+Washington,2022,No health insurance coverage,"48,088",2.8%
+West Virginia,2022,No health insurance coverage,"10,679",2.8%
+Wisconsin,2022,No health insurance coverage,"59,670",4.5%
+Wyoming,2022,No health insurance coverage,"10,920",7.9%
+Puerto Rico,2022,No health insurance coverage,"12,747",2.3%
+United States,2022,With health insurance coverage,"133,389,562",90.0%
+Alabama,2022,With health insurance coverage,"1,842,277",88.8%
+Alaska,2022,With health insurance coverage,"275,913",86.9%
+Arizona,2022,With health insurance coverage,"2,750,795",87.3%
+Arkansas,2022,With health insurance coverage,"1,083,525",89.0%
+California,2022,With health insurance coverage,"16,032,192",91.8%
+Colorado,2022,With health insurance coverage,"2,615,343",91.3%
+Connecticut,2022,With health insurance coverage,"1,563,645",93.4%
+Delaware,2022,With health insurance coverage,"413,986",92.7%
+District of Columbia,2022,With health insurance coverage,"341,224",97.1%
+Florida,2022,With health insurance coverage,"8,134,715",85.4%
+Georgia,2022,With health insurance coverage,"4,152,735",85.6%
+Hawaii,2022,With health insurance coverage,"577,479",96.3%
+Idaho,2022,With health insurance coverage,"743,426",89.2%
+Illinois,2022,With health insurance coverage,"5,261,069",91.6%
+Indiana,2022,With health insurance coverage,"2,794,158",91.7%
+Iowa,2022,With health insurance coverage,"1,411,254",94.8%
+Kansas,2022,With health insurance coverage,"1,170,066",89.7%
+Kentucky,2022,With health insurance coverage,"1,738,160",92.7%
+Louisiana,2022,With health insurance coverage,"1,667,394",90.2%
+Maine,2022,With health insurance coverage,"565,206",91.3%
+Maryland,2022,With health insurance coverage,"2,665,992",92.7%
+Massachusetts,2022,With health insurance coverage,"3,245,386",97.2%
+Michigan,2022,With health insurance coverage,"4,112,677",94.0%
+Minnesota,2022,With health insurance coverage,"2,588,244",94.8%
+Mississippi,2022,With health insurance coverage,"993,052",86.4%
+Missouri,2022,With health insurance coverage,"2,437,571",89.8%
+Montana,2022,With health insurance coverage,"445,952",89.5%
+Nebraska,2022,With health insurance coverage,"839,472",92.1%
+Nevada,2022,With health insurance coverage,"1,213,284",86.5%
+New Hampshire,2022,With health insurance coverage,"626,639",93.8%
+New Jersey,2022,With health insurance coverage,"3,898,108",91.3%
+New Mexico,2022,With health insurance coverage,"745,306",88.3%
+New York,2022,With health insurance coverage,"8,232,372",93.9%
+North Carolina,2022,With health insurance coverage,"4,130,942",88.1%
+North Dakota,2022,With health insurance coverage,"342,449",92.8%
+Ohio,2022,With health insurance coverage,"4,825,442",92.8%
+Oklahoma,2022,With health insurance coverage,"1,413,462",85.0%
+Oregon,2022,With health insurance coverage,"1,754,506",91.8%
+Pennsylvania,2022,With health insurance coverage,"5,408,046",93.9%
+Rhode Island,2022,With health insurance coverage,"479,887",94.6%
+South Carolina,2022,With health insurance coverage,"1,961,004",88.1%
+South Dakota,2022,With health insurance coverage,"368,755",90.6%
+Tennessee,2022,With health insurance coverage,"2,754,172",88.5%
+Texas,2022,With health insurance coverage,"10,792,092",80.2%
+Utah,2022,With health insurance coverage,"1,422,349",90.4%
+Vermont,2022,With health insurance coverage,"285,370",94.5%
+Virginia,2022,With health insurance coverage,"3,591,811",92.1%
+Washington,2022,With health insurance coverage,"3,283,875",92.3%
+West Virginia,2022,With health insurance coverage,"605,618",90.6%
+Wisconsin,2022,With health insurance coverage,"2,570,911",93.6%
+Wyoming,2022,With health insurance coverage,"220,254",85.3%
+Puerto Rico,2022,With health insurance coverage,"1,009,084",91.7%
+United States,2022,With private health insurance,"119,876,487",80.9%
+Alabama,2022,With private health insurance,"1,753,667",84.6%
+Alaska,2022,With private health insurance,"244,891",77.1%
+Arizona,2022,With private health insurance,"2,444,426",77.6%
+Arkansas,2022,With private health insurance,"949,327",78.0%
+California,2022,With private health insurance,"13,542,853",77.5%
+Colorado,2022,With private health insurance,"2,345,089",81.9%
+Connecticut,2022,With private health insurance,"1,371,222",81.9%
+Delaware,2022,With private health insurance,"371,692",83.2%
+District of Columbia,2022,With private health insurance,"303,102",86.3%
+Florida,2022,With private health insurance,"7,552,973",79.3%
+Georgia,2022,With private health insurance,"3,930,078",81.0%
+Hawaii,2022,With private health insurance,"524,552",87.4%
+Idaho,2022,With private health insurance,"665,354",79.8%
+Illinois,2022,With private health insurance,"4,755,604",82.8%
+Indiana,2022,With private health insurance,"2,507,681",82.3%
+Iowa,2022,With private health insurance,"1,277,982",85.8%
+Kansas,2022,With private health insurance,"1,124,274",86.2%
+Kentucky,2022,With private health insurance,"1,488,688",79.4%
+Louisiana,2022,With private health insurance,"1,375,492",74.4%
+Maine,2022,With private health insurance,"510,364",82.4%
+Maryland,2022,With private health insurance,"2,403,729",83.6%
+Massachusetts,2022,With private health insurance,"2,832,364",84.8%
+Michigan,2022,With private health insurance,"3,602,814",82.4%
+Minnesota,2022,With private health insurance,"2,308,152",84.5%
+Mississippi,2022,With private health insurance,"936,623",81.5%
+Missouri,2022,With private health insurance,"2,295,581",84.6%
+Montana,2022,With private health insurance,"387,868",77.8%
+Nebraska,2022,With private health insurance,"783,573",86.0%
+Nevada,2022,With private health insurance,"1,084,295",77.3%
+New Hampshire,2022,With private health insurance,"582,593",87.2%
+New Jersey,2022,With private health insurance,"3,558,831",83.4%
+New Mexico,2022,With private health insurance,"588,941",69.8%
+New York,2022,With private health insurance,"6,892,037",78.7%
+North Carolina,2022,With private health insurance,"3,863,629",82.4%
+North Dakota,2022,With private health insurance,"320,389",86.8%
+Ohio,2022,With private health insurance,"4,274,707",82.2%
+Oklahoma,2022,With private health insurance,"1,284,200",77.2%
+Oregon,2022,With private health insurance,"1,534,411",80.3%
+Pennsylvania,2022,With private health insurance,"4,892,147",84.9%
+Rhode Island,2022,With private health insurance,"422,618",83.3%
+South Carolina,2022,With private health insurance,"1,832,474",82.4%
+South Dakota,2022,With private health insurance,"353,632",86.9%
+Tennessee,2022,With private health insurance,"2,554,347",82.1%
+Texas,2022,With private health insurance,"10,269,892",76.3%
+Utah,2022,With private health insurance,"1,359,899",86.4%
+Vermont,2022,With private health insurance,"247,419",82.0%
+Virginia,2022,With private health insurance,"3,288,594",84.3%
+Washington,2022,With private health insurance,"2,990,336",84.0%
+West Virginia,2022,With private health insurance,"523,812",78.4%
+Wisconsin,2022,With private health insurance,"2,356,035",85.8%
+Wyoming,2022,With private health insurance,"211,234",81.8%
+Puerto Rico,2022,With private health insurance,"645,990",58.7%
+United States,2022,With public coverage,"18,234,347",12.3%
+Alabama,2022,With public coverage,"163,132",7.9%
+Alaska,2022,With public coverage,"52,669",16.6%
+Arizona,2022,With public coverage,"413,154",13.1%
+Arkansas,2022,With public coverage,"180,730",14.9%
+California,2022,With public coverage,"3,025,734",17.3%
+Colorado,2022,With public coverage,"363,118",12.7%
+Connecticut,2022,With public coverage,"235,459",14.1%
+Delaware,2022,With public coverage,"56,450",12.6%
+District of Columbia,2022,With public coverage,"47,214",13.4%
+Florida,2022,With public coverage,"854,948",9.0%
+Georgia,2022,With public coverage,"378,848",7.8%
+Hawaii,2022,With public coverage,"84,269",14.0%
+Idaho,2022,With public coverage,"111,715",13.4%
+Illinois,2022,With public coverage,"647,333",11.3%
+Indiana,2022,With public coverage,"383,848",12.6%
+Iowa,2022,With public coverage,"185,776",12.5%
+Kansas,2022,With public coverage,"88,804",6.8%
+Kentucky,2022,With public coverage,"319,345",17.0%
+Louisiana,2022,With public coverage,"377,990",20.4%
+Maine,2022,With public coverage,"75,830",12.2%
+Maryland,2022,With public coverage,"365,534",12.7%
+Massachusetts,2022,With public coverage,"521,417",15.6%
+Michigan,2022,With public coverage,"652,168",14.9%
+Minnesota,2022,With public coverage,"363,294",13.3%
+Mississippi,2022,With public coverage,"92,393",8.0%
+Missouri,2022,With public coverage,"217,919",8.0%
+Montana,2022,With public coverage,"75,458",15.1%
+Nebraska,2022,With public coverage,"85,352",9.4%
+Nevada,2022,With public coverage,"182,199",13.0%
+New Hampshire,2022,With public coverage,"61,696",9.2%
+New Jersey,2022,With public coverage,"429,481",10.1%
+New Mexico,2022,With public coverage,"200,601",23.8%
+New York,2022,With public coverage,"1,618,789",18.5%
+North Carolina,2022,With public coverage,"431,075",9.2%
+North Dakota,2022,With public coverage,"33,542",9.1%
+Ohio,2022,With public coverage,"709,366",13.6%
+Oklahoma,2022,With public coverage,"192,605",11.6%
+Oregon,2022,With public coverage,"298,384",15.6%
+Pennsylvania,2022,With public coverage,"706,941",12.3%
+Rhode Island,2022,With public coverage,"71,346",14.1%
+South Carolina,2022,With public coverage,"213,442",9.6%
+South Dakota,2022,With public coverage,"30,203",7.4%
+Tennessee,2022,With public coverage,"291,722",9.4%
+Texas,2022,With public coverage,"888,771",6.6%
+Utah,2022,With public coverage,"99,013",6.3%
+Vermont,2022,With public coverage,"45,962",15.2%
+Virginia,2022,With public coverage,"465,747",11.9%
+Washington,2022,With public coverage,"423,716",11.9%
+West Virginia,2022,With public coverage,"109,873",16.4%
+Wisconsin,2022,With public coverage,"290,810",10.6%
+Wyoming,2022,With public coverage,"19,162",7.4%
+Puerto Rico,2022,With public coverage,"383,359",34.8%
+United States,2022,No health insurance coverage,"14,741,442",10.0%
+Alabama,2022,No health insurance coverage,"231,380",11.2%
+Alaska,2022,No health insurance coverage,"41,519",13.1%
+Arizona,2022,No health insurance coverage,"399,050",12.7%
+Arkansas,2022,No health insurance coverage,"133,467",11.0%
+California,2022,No health insurance coverage,"1,434,092",8.2%
+Colorado,2022,No health insurance coverage,"249,169",8.7%
+Connecticut,2022,No health insurance coverage,"111,092",6.6%
+Delaware,2022,No health insurance coverage,"32,588",7.3%
+District of Columbia,2022,No health insurance coverage,"10,134",2.9%
+Florida,2022,No health insurance coverage,"1,385,937",14.6%
+Georgia,2022,No health insurance coverage,"701,305",14.4%
+Hawaii,2022,No health insurance coverage,"22,438",3.7%
+Idaho,2022,No health insurance coverage,"90,331",10.8%
+Illinois,2022,No health insurance coverage,"480,925",8.4%
+Indiana,2022,No health insurance coverage,"253,239",8.3%
+Iowa,2022,No health insurance coverage,"77,883",5.2%
+Kansas,2022,No health insurance coverage,"133,653",10.3%
+Kentucky,2022,No health insurance coverage,"136,174",7.3%
+Louisiana,2022,No health insurance coverage,"181,954",9.8%
+Maine,2022,No health insurance coverage,"53,834",8.7%
+Maryland,2022,No health insurance coverage,"209,734",7.3%
+Massachusetts,2022,No health insurance coverage,"94,566",2.8%
+Michigan,2022,No health insurance coverage,"260,867",6.0%
+Minnesota,2022,No health insurance coverage,"141,802",5.2%
+Mississippi,2022,No health insurance coverage,"156,618",13.6%
+Missouri,2022,No health insurance coverage,"276,348",10.2%
+Montana,2022,No health insurance coverage,"52,344",10.5%
+Nebraska,2022,No health insurance coverage,"71,875",7.9%
+Nevada,2022,No health insurance coverage,"189,369",13.5%
+New Hampshire,2022,No health insurance coverage,"41,569",6.2%
+New Jersey,2022,No health insurance coverage,"369,147",8.7%
+New Mexico,2022,No health insurance coverage,"98,948",11.7%
+New York,2022,No health insurance coverage,"530,166",6.1%
+North Carolina,2022,No health insurance coverage,"556,341",11.9%
+North Dakota,2022,No health insurance coverage,"26,689",7.2%
+Ohio,2022,No health insurance coverage,"372,909",7.2%
+Oklahoma,2022,No health insurance coverage,"250,110",15.0%
+Oregon,2022,No health insurance coverage,"156,541",8.2%
+Pennsylvania,2022,No health insurance coverage,"351,479",6.1%
+Rhode Island,2022,No health insurance coverage,"27,326",5.4%
+South Carolina,2022,No health insurance coverage,"263,627",11.9%
+South Dakota,2022,No health insurance coverage,"38,156",9.4%
+Tennessee,2022,No health insurance coverage,"356,315",11.5%
+Texas,2022,No health insurance coverage,"2,660,151",19.8%
+Utah,2022,No health insurance coverage,"151,687",9.6%
+Vermont,2022,No health insurance coverage,"16,487",5.5%
+Virginia,2022,No health insurance coverage,"309,784",7.9%
+Washington,2022,No health insurance coverage,"275,330",7.7%
+West Virginia,2022,No health insurance coverage,"62,779",9.4%
+Wisconsin,2022,No health insurance coverage,"174,386",6.4%
+Wyoming,2022,No health insurance coverage,"37,828",14.7%
+Puerto Rico,2022,No health insurance coverage,"91,581",8.3%
+United States,2022,With health insurance coverage,"4,849,918",76.1%
+Alabama,2022,With health insurance coverage,"57,820",62.5%
+Alaska,2022,With health insurance coverage,"10,941",77.3%
+Arizona,2022,With health insurance coverage,"103,083",78.3%
+Arkansas,2022,With health insurance coverage,"40,622",74.4%
+California,2022,With health insurance coverage,"797,692",84.3%
+Colorado,2022,With health insurance coverage,"78,047",82.5%
+Connecticut,2022,With health insurance coverage,"68,933",85.9%
+Delaware,2022,With health insurance coverage,"15,032",75.6%
+District of Columbia,2022,With health insurance coverage,"16,028",89.6%
+Florida,2022,With health insurance coverage,"248,339",65.3%
+Georgia,2022,With health insurance coverage,"132,039",65.0%
+Hawaii,2022,With health insurance coverage,"19,506",87.2%
+Idaho,2022,With health insurance coverage,"16,553",70.5%
+Illinois,2022,With health insurance coverage,"225,738",80.6%
+Indiana,2022,With health insurance coverage,"84,516",77.4%
+Iowa,2022,With health insurance coverage,"34,761",82.4%
+Kansas,2022,With health insurance coverage,"29,223",61.9%
+Kentucky,2022,With health insurance coverage,"68,470",84.3%
+Louisiana,2022,With health insurance coverage,"87,263",81.6%
+Maine,2022,With health insurance coverage,"14,697",73.6%
+Maryland,2022,With health insurance coverage,"93,085",81.6%
+Massachusetts,2022,With health insurance coverage,"123,229",90.9%
+Michigan,2022,With health insurance coverage,"176,089",84.8%
+Minnesota,2022,With health insurance coverage,"69,939",82.0%
+Mississippi,2022,With health insurance coverage,"33,021",59.0%
+Missouri,2022,With health insurance coverage,"64,409",64.2%
+Montana,2022,With health insurance coverage,"10,013",71.0%
+Nebraska,2022,With health insurance coverage,"14,759",74.9%
+Nevada,2022,With health insurance coverage,"55,682",71.1%
+New Hampshire,2022,With health insurance coverage,"14,019",84.4%
+New Jersey,2022,With health insurance coverage,"176,653",79.8%
+New Mexico,2022,With health insurance coverage,"34,179",78.4%
+New York,2022,With health insurance coverage,"399,733",87.0%
+North Carolina,2022,With health insurance coverage,"112,955",64.6%
+North Dakota,2022,With health insurance coverage,"6,463",84.4%
+Ohio,2022,With health insurance coverage,"158,201",81.1%
+Oklahoma,2022,With health insurance coverage,"45,494",64.5%
+Oregon,2022,With health insurance coverage,"66,370",82.5%
+Pennsylvania,2022,With health insurance coverage,"209,654",83.7%
+Rhode Island,2022,With health insurance coverage,"20,257",88.8%
+South Carolina,2022,With health insurance coverage,"60,901",63.9%
+South Dakota,2022,With health insurance coverage,"7,392",68.7%
+Tennessee,2022,With health insurance coverage,"67,098",63.0%
+Texas,2022,With health insurance coverage,"321,301",55.0%
+Utah,2022,With health insurance coverage,"28,669",74.2%
+Vermont,2022,With health insurance coverage,"6,606",85.6%
+Virginia,2022,With health insurance coverage,"112,274",79.0%
+Washington,2022,With health insurance coverage,"116,357",80.1%
+West Virginia,2022,With health insurance coverage,"26,540",83.1%
+Wisconsin,2022,With health insurance coverage,"65,032",85.5%
+Wyoming,2022,With health insurance coverage,"4,241",43.0%
+Puerto Rico,2022,With health insurance coverage,"104,249",87.5%
+United States,2022,With private health insurance,"2,601,188",40.8%
+Alabama,2022,With private health insurance,"36,077",39.0%
+Alaska,2022,With private health insurance,"5,076",35.9%
+Arizona,2022,With private health insurance,"50,449",38.3%
+Arkansas,2022,With private health insurance,"16,377",30.0%
+California,2022,With private health insurance,"390,493",41.3%
+Colorado,2022,With private health insurance,"39,349",41.6%
+Connecticut,2022,With private health insurance,"34,219",42.6%
+Delaware,2022,With private health insurance,"7,800",39.2%
+District of Columbia,2022,With private health insurance,"7,551",42.2%
+Florida,2022,With private health insurance,"167,185",44.0%
+Georgia,2022,With private health insurance,"95,586",47.1%
+Hawaii,2022,With private health insurance,"10,983",49.1%
+Idaho,2022,With private health insurance,"9,969",42.4%
+Illinois,2022,With private health insurance,"114,030",40.7%
+Indiana,2022,With private health insurance,"42,298",38.7%
+Iowa,2022,With private health insurance,"17,917",42.5%
+Kansas,2022,With private health insurance,"21,233",45.0%
+Kentucky,2022,With private health insurance,"26,735",32.9%
+Louisiana,2022,With private health insurance,"28,868",27.0%
+Maine,2022,With private health insurance,"7,227",36.2%
+Maryland,2022,With private health insurance,"50,876",44.6%
+Massachusetts,2022,With private health insurance,"62,971",46.5%
+Michigan,2022,With private health insurance,"80,627",38.8%
+Minnesota,2022,With private health insurance,"38,698",45.4%
+Mississippi,2022,With private health insurance,"19,588",35.0%
+Missouri,2022,With private health insurance,"41,069",41.0%
+Montana,2022,With private health insurance,"5,390",38.2%
+Nebraska,2022,With private health insurance,"8,516",43.2%
+Nevada,2022,With private health insurance,"28,807",36.8%
+New Hampshire,2022,With private health insurance,"10,575",63.7%
+New Jersey,2022,With private health insurance,"102,529",46.3%
+New Mexico,2022,With private health insurance,"10,453",24.0%
+New York,2022,With private health insurance,"179,836",39.1%
+North Carolina,2022,With private health insurance,"69,894",40.0%
+North Dakota,2022,With private health insurance,"4,039",52.7%
+Ohio,2022,With private health insurance,"73,903",37.9%
+Oklahoma,2022,With private health insurance,"22,568",32.0%
+Oregon,2022,With private health insurance,"33,944",42.2%
+Pennsylvania,2022,With private health insurance,"102,876",41.1%
+Rhode Island,2022,With private health insurance,"9,520",41.7%
+South Carolina,2022,With private health insurance,"35,289",37.0%
+South Dakota,2022,With private health insurance,"4,438",41.2%
+Tennessee,2022,With private health insurance,"38,281",36.0%
+Texas,2022,With private health insurance,"235,887",40.4%
+Utah,2022,With private health insurance,"21,947",56.8%
+Vermont,2022,With private health insurance,"4,163",53.9%
+Virginia,2022,With private health insurance,"68,328",48.1%
+Washington,2022,With private health insurance,"61,129",42.1%
+West Virginia,2022,With private health insurance,"9,718",30.4%
+Wisconsin,2022,With private health insurance,"33,690",44.3%
+Wyoming,2022,With private health insurance,"2,217",22.5%
+Puerto Rico,2022,With private health insurance,"22,716",19.1%
+United States,2022,With public coverage,"2,481,612",39.0%
+Alabama,2022,With public coverage,"25,885",28.0%
+Alaska,2022,With public coverage,"6,787",47.9%
+Arizona,2022,With public coverage,"58,233",44.2%
+Arkansas,2022,With public coverage,"26,402",48.3%
+California,2022,With public coverage,"441,676",46.7%
+Colorado,2022,With public coverage,"41,111",43.5%
+Connecticut,2022,With public coverage,"37,764",47.0%
+Delaware,2022,With public coverage,"7,486",37.6%
+District of Columbia,2022,With public coverage,"8,864",49.5%
+Florida,2022,With public coverage,"90,952",23.9%
+Georgia,2022,With public coverage,"44,756",22.0%
+Hawaii,2022,With public coverage,"10,036",44.8%
+Idaho,2022,With public coverage,"6,970",29.7%
+Illinois,2022,With public coverage,"119,968",42.8%
+Indiana,2022,With public coverage,"45,428",41.6%
+Iowa,2022,With public coverage,"17,916",42.5%
+Kansas,2022,With public coverage,"10,616",22.5%
+Kentucky,2022,With public coverage,"44,801",55.1%
+Louisiana,2022,With public coverage,"61,691",57.7%
+Maine,2022,With public coverage,"8,546",42.8%
+Maryland,2022,With public coverage,"45,950",40.3%
+Massachusetts,2022,With public coverage,"65,170",48.1%
+Michigan,2022,With public coverage,"104,427",50.3%
+Minnesota,2022,With public coverage,"35,235",41.3%
+Mississippi,2022,With public coverage,"15,424",27.6%
+Missouri,2022,With public coverage,"26,430",26.4%
+Montana,2022,With public coverage,"5,685",40.3%
+Nebraska,2022,With public coverage,"6,791",34.5%
+Nevada,2022,With public coverage,"29,730",37.9%
+New Hampshire,2022,With public coverage,"4,026",24.3%
+New Jersey,2022,With public coverage,"81,974",37.0%
+New Mexico,2022,With public coverage,"25,166",57.7%
+New York,2022,With public coverage,"240,729",52.4%
+North Carolina,2022,With public coverage,"49,848",28.5%
+North Dakota,2022,With public coverage,"3,279",42.8%
+Ohio,2022,With public coverage,"90,215",46.2%
+Oklahoma,2022,With public coverage,"25,109",35.6%
+Oregon,2022,With public coverage,"36,976",46.0%
+Pennsylvania,2022,With public coverage,"119,526",47.7%
+Rhode Island,2022,With public coverage,"11,468",50.2%
+South Carolina,2022,With public coverage,"29,541",31.0%
+South Dakota,2022,With public coverage,"3,334",31.0%
+Tennessee,2022,With public coverage,"32,058",30.1%
+Texas,2022,With public coverage,"101,671",17.4%
+Utah,2022,With public coverage,"8,112",21.0%
+Vermont,2022,With public coverage,"3,252",42.1%
+Virginia,2022,With public coverage,"49,215",34.6%
+Washington,2022,With public coverage,"61,031",42.0%
+West Virginia,2022,With public coverage,"17,629",55.2%
+Wisconsin,2022,With public coverage,"34,674",45.6%
+Wyoming,2022,With public coverage,"2,049",20.8%
+Puerto Rico,2022,With public coverage,"82,778",69.5%
+United States,2022,No health insurance coverage,"1,520,258",23.9%
+Alabama,2022,No health insurance coverage,"34,702",37.5%
+Alaska,2022,No health insurance coverage,"3,215",22.7%
+Arizona,2022,No health insurance coverage,"28,551",21.7%
+Arkansas,2022,No health insurance coverage,"14,014",25.6%
+California,2022,No health insurance coverage,"148,476",15.7%
+Colorado,2022,No health insurance coverage,"16,512",17.5%
+Connecticut,2022,No health insurance coverage,"11,336",14.1%
+Delaware,2022,No health insurance coverage,"4,860",24.4%
+District of Columbia,2022,No health insurance coverage,"1,864",10.4%
+Florida,2022,No health insurance coverage,"131,684",34.7%
+Georgia,2022,No health insurance coverage,"71,065",35.0%
+Hawaii,2022,No health insurance coverage,"2,876",12.8%
+Idaho,2022,No health insurance coverage,"6,935",29.5%
+Illinois,2022,No health insurance coverage,"54,313",19.4%
+Indiana,2022,No health insurance coverage,"24,709",22.6%
+Iowa,2022,No health insurance coverage,"7,432",17.6%
+Kansas,2022,No health insurance coverage,"18,008",38.1%
+Kentucky,2022,No health insurance coverage,"12,795",15.7%
+Louisiana,2022,No health insurance coverage,"19,723",18.4%
+Maine,2022,No health insurance coverage,"5,283",26.4%
+Maryland,2022,No health insurance coverage,"21,002",18.4%
+Massachusetts,2022,No health insurance coverage,"12,323",9.1%
+Michigan,2022,No health insurance coverage,"31,520",15.2%
+Minnesota,2022,No health insurance coverage,"15,368",18.0%
+Mississippi,2022,No health insurance coverage,"22,962",41.0%
+Missouri,2022,No health insurance coverage,"35,843",35.8%
+Montana,2022,No health insurance coverage,"4,082",29.0%
+Nebraska,2022,No health insurance coverage,"4,937",25.1%
+Nevada,2022,No health insurance coverage,"22,685",28.9%
+New Hampshire,2022,No health insurance coverage,"2,582",15.6%
+New Jersey,2022,No health insurance coverage,"44,740",20.2%
+New Mexico,2022,No health insurance coverage,"9,444",21.6%
+New York,2022,No health insurance coverage,"59,743",13.0%
+North Carolina,2022,No health insurance coverage,"61,929",35.4%
+North Dakota,2022,No health insurance coverage,"1,196",15.6%
+Ohio,2022,No health insurance coverage,"36,901",18.9%
+Oklahoma,2022,No health insurance coverage,"25,040",35.5%
+Oregon,2022,No health insurance coverage,"14,071",17.5%
+Pennsylvania,2022,No health insurance coverage,"40,887",16.3%
+Rhode Island,2022,No health insurance coverage,"2,566",11.2%
+South Carolina,2022,No health insurance coverage,"34,400",36.1%
+South Dakota,2022,No health insurance coverage,"3,375",31.3%
+Tennessee,2022,No health insurance coverage,"39,339",37.0%
+Texas,2022,No health insurance coverage,"263,119",45.0%
+Utah,2022,No health insurance coverage,"9,982",25.8%
+Vermont,2022,No health insurance coverage,"1,113",14.4%
+Virginia,2022,No health insurance coverage,"29,834",21.0%
+Washington,2022,No health insurance coverage,"28,879",19.9%
+West Virginia,2022,No health insurance coverage,"5,412",16.9%
+Wisconsin,2022,No health insurance coverage,"11,015",14.5%
+Wyoming,2022,No health insurance coverage,"5,616",57.0%
+Puerto Rico,2022,No health insurance coverage,"14,917",12.5%
+United States,2022,With health insurance coverage,"34,927,695",85.9%
+Alabama,2022,With health insurance coverage,"619,454",82.6%
+Alaska,2022,With health insurance coverage,"71,386",82.2%
+Arizona,2022,With health insurance coverage,"757,990",81.9%
+Arkansas,2022,With health insurance coverage,"398,319",87.2%
+California,2022,With health insurance coverage,"4,510,748",89.1%
+Colorado,2022,With health insurance coverage,"527,122",87.6%
+Connecticut,2022,With health insurance coverage,"369,170",91.9%
+Delaware,2022,With health insurance coverage,"97,854",90.5%
+District of Columbia,2022,With health insurance coverage,"67,637",93.1%
+Florida,2022,With health insurance coverage,"2,230,235",80.5%
+Georgia,2022,With health insurance coverage,"1,089,828",78.5%
+Hawaii,2022,With health insurance coverage,"148,184",92.2%
+Idaho,2022,With health insurance coverage,"209,930",87.9%
+Illinois,2022,With health insurance coverage,"1,249,225",88.5%
+Indiana,2022,With health insurance coverage,"703,633",88.2%
+Iowa,2022,With health insurance coverage,"270,515",91.2%
+Kansas,2022,With health insurance coverage,"251,479",82.0%
+Kentucky,2022,With health insurance coverage,"593,631",92.3%
+Louisiana,2022,With health insurance coverage,"592,293",89.8%
+Maine,2022,With health insurance coverage,"147,933",89.0%
+Maryland,2022,With health insurance coverage,"569,663",89.3%
+Massachusetts,2022,With health insurance coverage,"748,141",95.9%
+Michigan,2022,With health insurance coverage,"1,184,319",92.7%
+Minnesota,2022,With health insurance coverage,"471,248",90.7%
+Mississippi,2022,With health insurance coverage,"357,046",79.7%
+Missouri,2022,With health insurance coverage,"618,953",83.8%
+Montana,2022,With health insurance coverage,"105,766",86.2%
+Nebraska,2022,With health insurance coverage,"153,145",85.4%
+Nevada,2022,With health insurance coverage,"323,465",81.0%
+New Hampshire,2022,With health insurance coverage,"139,137",91.2%
+New Jersey,2022,With health insurance coverage,"882,173",88.6%
+New Mexico,2022,With health insurance coverage,"263,029",86.8%
+New York,2022,With health insurance coverage,"2,332,221",91.6%
+North Carolina,2022,With health insurance coverage,"1,130,258",83.4%
+North Dakota,2022,With health insurance coverage,"62,161",86.8%
+Ohio,2022,With health insurance coverage,"1,251,996",90.0%
+Oklahoma,2022,With health insurance coverage,"436,971",80.4%
+Oregon,2022,With health insurance coverage,"465,359",90.1%
+Pennsylvania,2022,With health insurance coverage,"1,386,051",91.3%
+Rhode Island,2022,With health insurance coverage,"117,087",92.2%
+South Carolina,2022,With health insurance coverage,"574,822",83.9%
+South Dakota,2022,With health insurance coverage,"65,971",81.2%
+Tennessee,2022,With health insurance coverage,"765,252",82.9%
+Texas,2022,With health insurance coverage,"2,642,459",71.5%
+Utah,2022,With health insurance coverage,"308,904",86.9%
+Vermont,2022,With health insurance coverage,"66,393",94.6%
+Virginia,2022,With health insurance coverage,"885,326",89.0%
+Washington,2022,With health insurance coverage,"837,369",88.7%
+West Virginia,2022,With health insurance coverage,"275,782",92.3%
+Wisconsin,2022,With health insurance coverage,"552,666",90.9%
+Wyoming,2022,With health insurance coverage,"47,996",81.8%
+Puerto Rico,2022,With health insurance coverage,"630,204",94.4%
+United States,2022,With private health insurance,"20,729,636",51.0%
+Alabama,2022,With private health insurance,"379,400",50.6%
+Alaska,2022,With private health insurance,"40,871",47.1%
+Arizona,2022,With private health insurance,"445,684",48.2%
+Arkansas,2022,With private health insurance,"195,141",42.7%
+California,2022,With private health insurance,"2,469,214",48.8%
+Colorado,2022,With private health insurance,"342,764",57.0%
+Connecticut,2022,With private health insurance,"213,337",53.1%
+Delaware,2022,With private health insurance,"59,167",54.7%
+District of Columbia,2022,With private health insurance,"37,499",51.6%
+Florida,2022,With private health insurance,"1,486,309",53.6%
+Georgia,2022,With private health insurance,"738,156",53.2%
+Hawaii,2022,With private health insurance,"93,828",58.4%
+Idaho,2022,With private health insurance,"131,450",55.1%
+Illinois,2022,With private health insurance,"734,067",52.0%
+Indiana,2022,With private health insurance,"396,298",49.7%
+Iowa,2022,With private health insurance,"158,422",53.4%
+Kansas,2022,With private health insurance,"175,020",57.1%
+Kentucky,2022,With private health insurance,"255,088",39.6%
+Louisiana,2022,With private health insurance,"263,118",39.9%
+Maine,2022,With private health insurance,"79,304",47.7%
+Maryland,2022,With private health insurance,"357,586",56.1%
+Massachusetts,2022,With private health insurance,"425,631",54.6%
+Michigan,2022,With private health insurance,"655,183",51.3%
+Minnesota,2022,With private health insurance,"276,385",53.2%
+Mississippi,2022,With private health insurance,"196,067",43.8%
+Missouri,2022,With private health insurance,"376,822",51.0%
+Montana,2022,With private health insurance,"58,877",48.0%
+Nebraska,2022,With private health insurance,"98,586",55.0%
+Nevada,2022,With private health insurance,"190,974",47.8%
+New Hampshire,2022,With private health insurance,"85,729",56.2%
+New Jersey,2022,With private health insurance,"569,750",57.2%
+New Mexico,2022,With private health insurance,"113,334",37.4%
+New York,2022,With private health insurance,"1,234,231",48.5%
+North Carolina,2022,With private health insurance,"738,270",54.5%
+North Dakota,2022,With private health insurance,"42,561",59.5%
+Ohio,2022,With private health insurance,"667,551",48.0%
+Oklahoma,2022,With private health insurance,"241,961",44.5%
+Oregon,2022,With private health insurance,"247,641",48.0%
+Pennsylvania,2022,With private health insurance,"821,737",54.1%
+Rhode Island,2022,With private health insurance,"66,342",52.2%
+South Carolina,2022,With private health insurance,"362,033",52.8%
+South Dakota,2022,With private health insurance,"43,361",53.3%
+Tennessee,2022,With private health insurance,"472,420",51.2%
+Texas,2022,With private health insurance,"1,848,142",50.0%
+Utah,2022,With private health insurance,"239,657",67.4%
+Vermont,2022,With private health insurance,"34,427",49.1%
+Virginia,2022,With private health insurance,"564,763",56.8%
+Washington,2022,With private health insurance,"516,300",54.7%
+West Virginia,2022,With private health insurance,"123,741",41.4%
+Wisconsin,2022,With private health insurance,"332,907",54.8%
+Wyoming,2022,With private health insurance,"32,530",55.4%
+Puerto Rico,2022,With private health insurance,"184,549",27.7%
+United States,2022,With public coverage,"17,068,916",42.0%
+Alabama,2022,With public coverage,"315,037",42.0%
+Alaska,2022,With public coverage,"35,643",41.0%
+Arizona,2022,With public coverage,"372,106",40.2%
+Arkansas,2022,With public coverage,"245,267",53.7%
+California,2022,With public coverage,"2,315,485",45.7%
+Colorado,2022,With public coverage,"221,963",36.9%
+Connecticut,2022,With public coverage,"179,545",44.7%
+Delaware,2022,With public coverage,"46,900",43.4%
+District of Columbia,2022,With public coverage,"33,551",46.2%
+Florida,2022,With public coverage,"933,608",33.7%
+Georgia,2022,With public coverage,"467,516",33.7%
+Hawaii,2022,With public coverage,"66,011",41.1%
+Idaho,2022,With public coverage,"97,451",40.8%
+Illinois,2022,With public coverage,"585,539",41.5%
+Indiana,2022,With public coverage,"355,602",44.6%
+Iowa,2022,With public coverage,"134,099",45.2%
+Kansas,2022,With public coverage,"100,686",32.8%
+Kentucky,2022,With public coverage,"391,052",60.8%
+Louisiana,2022,With public coverage,"383,518",58.2%
+Maine,2022,With public coverage,"84,991",51.1%
+Maryland,2022,With public coverage,"263,243",41.3%
+Massachusetts,2022,With public coverage,"378,542",48.5%
+Michigan,2022,With public coverage,"639,807",50.1%
+Minnesota,2022,With public coverage,"228,593",44.0%
+Mississippi,2022,With public coverage,"199,560",44.5%
+Missouri,2022,With public coverage,"289,290",39.2%
+Montana,2022,With public coverage,"57,013",46.4%
+Nebraska,2022,With public coverage,"69,434",38.7%
+Nevada,2022,With public coverage,"161,574",40.5%
+New Hampshire,2022,With public coverage,"62,221",40.8%
+New Jersey,2022,With public coverage,"378,765",38.0%
+New Mexico,2022,With public coverage,"172,714",57.0%
+New York,2022,With public coverage,"1,303,891",51.2%
+North Carolina,2022,With public coverage,"509,258",37.6%
+North Dakota,2022,With public coverage,"24,411",34.1%
+Ohio,2022,With public coverage,"669,703",48.1%
+Oklahoma,2022,With public coverage,"235,917",43.4%
+Oregon,2022,With public coverage,"258,835",50.1%
+Pennsylvania,2022,With public coverage,"701,211",46.2%
+Rhode Island,2022,With public coverage,"59,532",46.9%
+South Carolina,2022,With public coverage,"270,981",39.5%
+South Dakota,2022,With public coverage,"28,636",35.2%
+Tennessee,2022,With public coverage,"365,229",39.6%
+Texas,2022,With public coverage,"999,017",27.0%
+Utah,2022,With public coverage,"87,895",24.7%
+Vermont,2022,With public coverage,"37,352",53.2%
+Virginia,2022,With public coverage,"390,415",39.2%
+Washington,2022,With public coverage,"391,078",41.4%
+West Virginia,2022,With public coverage,"179,191",60.0%
+Wisconsin,2022,With public coverage,"269,577",44.4%
+Wyoming,2022,With public coverage,"20,461",34.9%
+Puerto Rico,2022,With public coverage,"472,569",70.8%
+United States,2022,No health insurance coverage,"5,717,481",14.1%
+Alabama,2022,No health insurance coverage,"130,431",17.4%
+Alaska,2022,No health insurance coverage,"15,468",17.8%
+Arizona,2022,No health insurance coverage,"167,196",18.1%
+Arkansas,2022,No health insurance coverage,"58,407",12.8%
+California,2022,No health insurance coverage,"554,100",10.9%
+Colorado,2022,No health insurance coverage,"74,360",12.4%
+Connecticut,2022,No health insurance coverage,"32,593",8.1%
+Delaware,2022,No health insurance coverage,"10,330",9.5%
+District of Columbia,2022,No health insurance coverage,"5,026",6.9%
+Florida,2022,No health insurance coverage,"541,481",19.5%
+Georgia,2022,No health insurance coverage,"298,852",21.5%
+Hawaii,2022,No health insurance coverage,"12,461",7.8%
+Idaho,2022,No health insurance coverage,"28,831",12.1%
+Illinois,2022,No health insurance coverage,"162,363",11.5%
+Indiana,2022,No health insurance coverage,"94,511",11.8%
+Iowa,2022,No health insurance coverage,"26,229",8.8%
+Kansas,2022,No health insurance coverage,"55,274",18.0%
+Kentucky,2022,No health insurance coverage,"49,782",7.7%
+Louisiana,2022,No health insurance coverage,"67,084",10.2%
+Maine,2022,No health insurance coverage,"18,242",11.0%
+Maryland,2022,No health insurance coverage,"67,912",10.7%
+Massachusetts,2022,No health insurance coverage,"31,625",4.1%
+Michigan,2022,No health insurance coverage,"92,636",7.3%
+Minnesota,2022,No health insurance coverage,"48,063",9.3%
+Mississippi,2022,No health insurance coverage,"91,081",20.3%
+Missouri,2022,No health insurance coverage,"119,681",16.2%
+Montana,2022,No health insurance coverage,"16,996",13.8%
+Nebraska,2022,No health insurance coverage,"26,265",14.6%
+Nevada,2022,No health insurance coverage,"75,763",19.0%
+New Hampshire,2022,No health insurance coverage,"13,361",8.8%
+New Jersey,2022,No health insurance coverage,"113,274",11.4%
+New Mexico,2022,No health insurance coverage,"40,125",13.2%
+New York,2022,No health insurance coverage,"213,748",8.4%
+North Carolina,2022,No health insurance coverage,"224,612",16.6%
+North Dakota,2022,No health insurance coverage,"9,416",13.2%
+Ohio,2022,No health insurance coverage,"139,525",10.0%
+Oklahoma,2022,No health insurance coverage,"106,748",19.6%
+Oregon,2022,No health insurance coverage,"50,922",9.9%
+Pennsylvania,2022,No health insurance coverage,"131,998",8.7%
+Rhode Island,2022,No health insurance coverage,"9,907",7.8%
+South Carolina,2022,No health insurance coverage,"110,494",16.1%
+South Dakota,2022,No health insurance coverage,"15,318",18.8%
+Tennessee,2022,No health insurance coverage,"158,130",17.1%
+Texas,2022,No health insurance coverage,"1,052,142",28.5%
+Utah,2022,No health insurance coverage,"46,461",13.1%
+Vermont,2022,No health insurance coverage,"3,771",5.4%
+Virginia,2022,No health insurance coverage,"109,532",11.0%
+Washington,2022,No health insurance coverage,"106,210",11.3%
+West Virginia,2022,No health insurance coverage,"23,033",7.7%
+Wisconsin,2022,No health insurance coverage,"54,997",9.1%
+Wyoming,2022,No health insurance coverage,"10,714",18.2%
+Puerto Rico,2022,No health insurance coverage,"37,061",5.6%
+United States,2023,Civilian noninstitutionalized population,"329,987,997","329,987,997"
+Alabama,2023,Civilian noninstitutionalized population,"5,022,427","5,022,427"
+Alaska,2023,Civilian noninstitutionalized population,"702,315","702,315"
+Arizona,2023,Civilian noninstitutionalized population,"7,321,507","7,321,507"
+Arkansas,2023,Civilian noninstitutionalized population,"3,013,015","3,013,015"
+California,2023,Civilian noninstitutionalized population,"38,495,524","38,495,524"
+Colorado,2023,Civilian noninstitutionalized population,"5,776,484","5,776,484"
+Connecticut,2023,Civilian noninstitutionalized population,"3,573,821","3,573,821"
+Delaware,2023,Civilian noninstitutionalized population,"1,017,865","1,017,865"
+District of Columbia,2023,Civilian noninstitutionalized population,"669,458","669,458"
+Florida,2023,Civilian noninstitutionalized population,"22,276,397","22,276,397"
+Georgia,2023,Civilian noninstitutionalized population,"10,832,829","10,832,829"
+Hawaii,2023,Civilian noninstitutionalized population,"1,378,162","1,378,162"
+Idaho,2023,Civilian noninstitutionalized population,"1,938,023","1,938,023"
+Illinois,2023,Civilian noninstitutionalized population,"12,378,557","12,378,557"
+Indiana,2023,Civilian noninstitutionalized population,"6,764,280","6,764,280"
+Iowa,2023,Civilian noninstitutionalized population,"3,162,048","3,162,048"
+Kansas,2023,Civilian noninstitutionalized population,"2,876,621","2,876,621"
+Kentucky,2023,Civilian noninstitutionalized population,"4,442,248","4,442,248"
+Louisiana,2023,Civilian noninstitutionalized population,"4,477,873","4,477,873"
+Maine,2023,Civilian noninstitutionalized population,"1,378,322","1,378,322"
+Maryland,2023,Civilian noninstitutionalized population,"6,087,312","6,087,312"
+Massachusetts,2023,Civilian noninstitutionalized population,"6,934,075","6,934,075"
+Michigan,2023,Civilian noninstitutionalized population,"9,931,639","9,931,639"
+Minnesota,2023,Civilian noninstitutionalized population,"5,678,023","5,678,023"
+Mississippi,2023,Civilian noninstitutionalized population,"2,874,290","2,874,290"
+Missouri,2023,Civilian noninstitutionalized population,"6,094,536","6,094,536"
+Montana,2023,Civilian noninstitutionalized population,"1,115,486","1,115,486"
+Nebraska,2023,Civilian noninstitutionalized population,"1,951,731","1,951,731"
+Nevada,2023,Civilian noninstitutionalized population,"3,154,027","3,154,027"
+New Hampshire,2023,Civilian noninstitutionalized population,"1,386,016","1,386,016"
+New Jersey,2023,Civilian noninstitutionalized population,"9,204,137","9,204,137"
+New Mexico,2023,Civilian noninstitutionalized population,"2,076,456","2,076,456"
+New York,2023,Civilian noninstitutionalized population,"19,372,405","19,372,405"
+North Carolina,2023,Civilian noninstitutionalized population,"10,623,208","10,623,208"
+North Dakota,2023,Civilian noninstitutionalized population,"763,538","763,538"
+Ohio,2023,Civilian noninstitutionalized population,"11,616,141","11,616,141"
+Oklahoma,2023,Civilian noninstitutionalized population,"3,967,096","3,967,096"
+Oregon,2023,Civilian noninstitutionalized population,"4,193,025","4,193,025"
+Pennsylvania,2023,Civilian noninstitutionalized population,"12,779,387","12,779,387"
+Rhode Island,2023,Civilian noninstitutionalized population,"1,079,737","1,079,737"
+South Carolina,2023,Civilian noninstitutionalized population,"5,276,214","5,276,214"
+South Dakota,2023,Civilian noninstitutionalized population,"900,264","900,264"
+Tennessee,2023,Civilian noninstitutionalized population,"7,033,220","7,033,220"
+Texas,2023,Civilian noninstitutionalized population,"30,020,476","30,020,476"
+Utah,2023,Civilian noninstitutionalized population,"3,391,381","3,391,381"
+Vermont,2023,Civilian noninstitutionalized population,"642,064","642,064"
+Virginia,2023,Civilian noninstitutionalized population,"8,489,257","8,489,257"
+Washington,2023,Civilian noninstitutionalized population,"7,693,927","7,693,927"
+West Virginia,2023,Civilian noninstitutionalized population,"1,736,140","1,736,140"
+Wisconsin,2023,Civilian noninstitutionalized population,"5,851,267","5,851,267"
+Wyoming,2023,Civilian noninstitutionalized population,"573,746","573,746"
+Puerto Rico,2023,Civilian noninstitutionalized population,"3,180,620","3,180,620"
+United States,2023,With health insurance coverage,"303,818,345",92.1%
+Alabama,2023,With health insurance coverage,"4,596,008",91.5%
+Alaska,2023,With health insurance coverage,"629,361",89.6%
+Arizona,2023,With health insurance coverage,"6,594,015",90.1%
+Arkansas,2023,With health insurance coverage,"2,744,228",91.1%
+California,2023,With health insurance coverage,"36,037,141",93.6%
+Colorado,2023,With health insurance coverage,"5,389,237",93.3%
+Connecticut,2023,With health insurance coverage,"3,368,652",94.3%
+Delaware,2023,With health insurance coverage,"951,810",93.5%
+District of Columbia,2023,With health insurance coverage,"651,333",97.3%
+Florida,2023,With health insurance coverage,"19,895,000",89.3%
+Georgia,2023,With health insurance coverage,"9,599,480",88.6%
+Hawaii,2023,With health insurance coverage,"1,333,829",96.8%
+Idaho,2023,With health insurance coverage,"1,766,422",91.1%
+Illinois,2023,With health insurance coverage,"11,615,993",93.8%
+Indiana,2023,With health insurance coverage,"6,300,668",93.1%
+Iowa,2023,With health insurance coverage,"3,003,298",95.0%
+Kansas,2023,With health insurance coverage,"2,636,319",91.6%
+Kentucky,2023,With health insurance coverage,"4,201,007",94.6%
+Louisiana,2023,With health insurance coverage,"4,168,062",93.1%
+Maine,2023,With health insurance coverage,"1,296,827",94.1%
+Maryland,2023,With health insurance coverage,"5,705,955",93.7%
+Massachusetts,2023,With health insurance coverage,"6,755,005",97.4%
+Michigan,2023,With health insurance coverage,"9,483,297",95.5%
+Minnesota,2023,With health insurance coverage,"5,440,237",95.8%
+Mississippi,2023,With health insurance coverage,"2,576,896",89.7%
+Missouri,2023,With health insurance coverage,"5,636,221",92.5%
+Montana,2023,With health insurance coverage,"1,021,411",91.6%
+Nebraska,2023,With health insurance coverage,"1,832,249",93.9%
+Nevada,2023,With health insurance coverage,"2,813,391",89.2%
+New Hampshire,2023,With health insurance coverage,"1,320,401",95.3%
+New Jersey,2023,With health insurance coverage,"8,542,274",92.8%
+New Mexico,2023,With health insurance coverage,"1,887,856",90.9%
+New York,2023,With health insurance coverage,"18,434,090",95.2%
+North Carolina,2023,With health insurance coverage,"9,642,585",90.8%
+North Dakota,2023,With health insurance coverage,"729,172",95.5%
+Ohio,2023,With health insurance coverage,"10,903,528",93.9%
+Oklahoma,2023,With health insurance coverage,"3,516,666",88.6%
+Oregon,2023,With health insurance coverage,"3,962,729",94.5%
+Pennsylvania,2023,With health insurance coverage,"12,086,982",94.6%
+Rhode Island,2023,With health insurance coverage,"1,031,309",95.5%
+South Carolina,2023,With health insurance coverage,"4,796,044",90.9%
+South Dakota,2023,With health insurance coverage,"825,885",91.7%
+Tennessee,2023,With health insurance coverage,"6,378,757",90.7%
+Texas,2023,With health insurance coverage,"25,103,438",83.6%
+Utah,2023,With health insurance coverage,"3,121,100",92.0%
+Vermont,2023,With health insurance coverage,"620,383",96.6%
+Virginia,2023,With health insurance coverage,"7,945,778",93.6%
+Washington,2023,With health insurance coverage,"7,212,864",93.7%
+West Virginia,2023,With health insurance coverage,"1,633,423",94.1%
+Wisconsin,2023,With health insurance coverage,"5,567,103",95.1%
+Wyoming,2023,With health insurance coverage,"512,626",89.3%
+Puerto Rico,2023,With health insurance coverage,"3,013,504",94.7%
+United States,2023,With private health insurance,"221,124,470",67.0%
+Alabama,2023,With private health insurance,"3,367,799",67.1%
+Alaska,2023,With private health insurance,"463,324",66.0%
+Arizona,2023,With private health insurance,"4,685,699",64.0%
+Arkansas,2023,With private health insurance,"1,814,903",60.2%
+California,2023,With private health insurance,"24,400,614",63.4%
+Colorado,2023,With private health insurance,"4,062,644",70.3%
+Connecticut,2023,With private health insurance,"2,424,463",67.8%
+Delaware,2023,With private health insurance,"703,731",69.1%
+District of Columbia,2023,With private health insurance,"493,219",73.7%
+Florida,2023,With private health insurance,"14,306,061",64.2%
+Georgia,2023,With private health insurance,"7,177,645",66.3%
+Hawaii,2023,With private health insurance,"1,037,032",75.2%
+Idaho,2023,With private health insurance,"1,332,663",68.8%
+Illinois,2023,With private health insurance,"8,625,263",69.7%
+Indiana,2023,With private health insurance,"4,586,788",67.8%
+Iowa,2023,With private health insurance,"2,269,933",71.8%
+Kansas,2023,With private health insurance,"2,106,522",73.2%
+Kentucky,2023,With private health insurance,"2,788,238",62.8%
+Louisiana,2023,With private health insurance,"2,583,469",57.7%
+Maine,2023,With private health insurance,"930,062",67.5%
+Maryland,2023,With private health insurance,"4,450,683",73.1%
+Massachusetts,2023,With private health insurance,"5,070,625",73.1%
+Michigan,2023,With private health insurance,"6,940,003",69.9%
+Minnesota,2023,With private health insurance,"4,260,028",75.0%
+Mississippi,2023,With private health insurance,"1,783,664",62.1%
+Missouri,2023,With private health insurance,"4,166,951",68.4%
+Montana,2023,With private health insurance,"729,147",65.4%
+Nebraska,2023,With private health insurance,"1,445,265",74.1%
+Nevada,2023,With private health insurance,"2,021,129",64.1%
+New Hampshire,2023,With private health insurance,"1,051,987",75.9%
+New Jersey,2023,With private health insurance,"6,454,411",70.1%
+New Mexico,2023,With private health insurance,"1,122,429",54.1%
+New York,2023,With private health insurance,"12,616,363",65.1%
+North Carolina,2023,With private health insurance,"7,147,908",67.3%
+North Dakota,2023,With private health insurance,"616,876",80.8%
+Ohio,2023,With private health insurance,"7,816,420",67.3%
+Oklahoma,2023,With private health insurance,"2,441,083",61.5%
+Oregon,2023,With private health insurance,"2,805,146",66.9%
+Pennsylvania,2023,With private health insurance,"8,962,155",70.1%
+Rhode Island,2023,With private health insurance,"761,375",70.5%
+South Carolina,2023,With private health insurance,"3,523,337",66.8%
+South Dakota,2023,With private health insurance,"660,215",73.3%
+Tennessee,2023,With private health insurance,"4,659,538",66.3%
+Texas,2023,With private health insurance,"19,016,854",63.3%
+Utah,2023,With private health insurance,"2,648,657",78.1%
+Vermont,2023,With private health insurance,"448,734",69.9%
+Virginia,2023,With private health insurance,"6,177,180",72.8%
+Washington,2023,With private health insurance,"5,400,708",70.2%
+West Virginia,2023,With private health insurance,"1,099,231",63.3%
+Wisconsin,2023,With private health insurance,"4,259,059",72.8%
+Wyoming,2023,With private health insurance,"407,237",71.0%
+Puerto Rico,2023,With private health insurance,"1,222,689",38.4%
+United States,2023,With public coverage,"123,460,775",37.4%
+Alabama,2023,With public coverage,"1,937,583",38.6%
+Alaska,2023,With public coverage,"265,704",37.8%
+Arizona,2023,With public coverage,"2,809,406",38.4%
+Arkansas,2023,With public coverage,"1,294,634",43.0%
+California,2023,With public coverage,"15,501,239",40.3%
+Colorado,2023,With public coverage,"1,960,488",33.9%
+Connecticut,2023,With public coverage,"1,368,995",38.3%
+Delaware,2023,With public coverage,"420,552",41.3%
+District of Columbia,2023,With public coverage,"225,265",33.6%
+Florida,2023,With public coverage,"8,352,182",37.5%
+Georgia,2023,With public coverage,"3,629,622",33.5%
+Hawaii,2023,With public coverage,"555,022",40.3%
+Idaho,2023,With public coverage,"692,694",35.7%
+Illinois,2023,With public coverage,"4,408,073",35.6%
+Indiana,2023,With public coverage,"2,526,549",37.4%
+Iowa,2023,With public coverage,"1,194,681",37.8%
+Kansas,2023,With public coverage,"910,705",31.7%
+Kentucky,2023,With public coverage,"2,006,217",45.2%
+Louisiana,2023,With public coverage,"2,146,285",47.9%
+Maine,2023,With public coverage,"577,004",41.9%
+Maryland,2023,With public coverage,"2,107,591",34.6%
+Massachusetts,2023,With public coverage,"2,631,745",38.0%
+Michigan,2023,With public coverage,"4,105,803",41.3%
+Minnesota,2023,With public coverage,"1,992,098",35.1%
+Mississippi,2023,With public coverage,"1,151,219",40.1%
+Missouri,2023,With public coverage,"2,195,126",36.0%
+Montana,2023,With public coverage,"458,620",41.1%
+Nebraska,2023,With public coverage,"637,284",32.7%
+Nevada,2023,With public coverage,"1,179,714",37.4%
+New Hampshire,2023,With public coverage,"461,996",33.3%
+New Jersey,2023,With public coverage,"3,140,366",34.1%
+New Mexico,2023,With public coverage,"1,084,037",52.2%
+New York,2023,With public coverage,"8,394,359",43.3%
+North Carolina,2023,With public coverage,"3,871,082",36.4%
+North Dakota,2023,With public coverage,"223,732",29.3%
+Ohio,2023,With public coverage,"4,556,778",39.2%
+Oklahoma,2023,With public coverage,"1,598,788",40.3%
+Oregon,2023,With public coverage,"1,737,517",41.4%
+Pennsylvania,2023,With public coverage,"5,046,782",39.5%
+Rhode Island,2023,With public coverage,"419,408",38.8%
+South Carolina,2023,With public coverage,"2,062,644",39.1%
+South Dakota,2023,With public coverage,"290,645",32.3%
+Tennessee,2023,With public coverage,"2,596,743",36.9%
+Texas,2023,With public coverage,"8,805,877",29.3%
+Utah,2023,With public coverage,"765,356",22.6%
+Vermont,2023,With public coverage,"271,263",42.2%
+Virginia,2023,With public coverage,"2,964,068",34.9%
+Washington,2023,With public coverage,"2,809,411",36.5%
+West Virginia,2023,With public coverage,"821,455",47.3%
+Wisconsin,2023,With public coverage,"2,106,045",36.0%
+Wyoming,2023,With public coverage,"190,323",33.2%
+Puerto Rico,2023,With public coverage,"2,006,567",63.1%
+United States,2023,No health insurance coverage,"26,169,652",7.9%
+Alabama,2023,No health insurance coverage,"426,419",8.5%
+Alaska,2023,No health insurance coverage,"72,954",10.4%
+Arizona,2023,No health insurance coverage,"727,492",9.9%
+Arkansas,2023,No health insurance coverage,"268,787",8.9%
+California,2023,No health insurance coverage,"2,458,383",6.4%
+Colorado,2023,No health insurance coverage,"387,247",6.7%
+Connecticut,2023,No health insurance coverage,"205,169",5.7%
+Delaware,2023,No health insurance coverage,"66,055",6.5%
+District of Columbia,2023,No health insurance coverage,"18,125",2.7%
+Florida,2023,No health insurance coverage,"2,381,397",10.7%
+Georgia,2023,No health insurance coverage,"1,233,349",11.4%
+Hawaii,2023,No health insurance coverage,"44,333",3.2%
+Idaho,2023,No health insurance coverage,"171,601",8.9%
+Illinois,2023,No health insurance coverage,"762,564",6.2%
+Indiana,2023,No health insurance coverage,"463,612",6.9%
+Iowa,2023,No health insurance coverage,"158,750",5.0%
+Kansas,2023,No health insurance coverage,"240,302",8.4%
+Kentucky,2023,No health insurance coverage,"241,241",5.4%
+Louisiana,2023,No health insurance coverage,"309,811",6.9%
+Maine,2023,No health insurance coverage,"81,495",5.9%
+Maryland,2023,No health insurance coverage,"381,357",6.3%
+Massachusetts,2023,No health insurance coverage,"179,070",2.6%
+Michigan,2023,No health insurance coverage,"448,342",4.5%
+Minnesota,2023,No health insurance coverage,"237,786",4.2%
+Mississippi,2023,No health insurance coverage,"297,394",10.3%
+Missouri,2023,No health insurance coverage,"458,315",7.5%
+Montana,2023,No health insurance coverage,"94,075",8.4%
+Nebraska,2023,No health insurance coverage,"119,482",6.1%
+Nevada,2023,No health insurance coverage,"340,636",10.8%
+New Hampshire,2023,No health insurance coverage,"65,615",4.7%
+New Jersey,2023,No health insurance coverage,"661,863",7.2%
+New Mexico,2023,No health insurance coverage,"188,600",9.1%
+New York,2023,No health insurance coverage,"938,315",4.8%
+North Carolina,2023,No health insurance coverage,"980,623",9.2%
+North Dakota,2023,No health insurance coverage,"34,366",4.5%
+Ohio,2023,No health insurance coverage,"712,613",6.1%
+Oklahoma,2023,No health insurance coverage,"450,430",11.4%
+Oregon,2023,No health insurance coverage,"230,296",5.5%
+Pennsylvania,2023,No health insurance coverage,"692,405",5.4%
+Rhode Island,2023,No health insurance coverage,"48,428",4.5%
+South Carolina,2023,No health insurance coverage,"480,170",9.1%
+South Dakota,2023,No health insurance coverage,"74,379",8.3%
+Tennessee,2023,No health insurance coverage,"654,463",9.3%
+Texas,2023,No health insurance coverage,"4,917,038",16.4%
+Utah,2023,No health insurance coverage,"270,281",8.0%
+Vermont,2023,No health insurance coverage,"21,681",3.4%
+Virginia,2023,No health insurance coverage,"543,479",6.4%
+Washington,2023,No health insurance coverage,"481,063",6.3%
+West Virginia,2023,No health insurance coverage,"102,717",5.9%
+Wisconsin,2023,No health insurance coverage,"284,164",4.9%
+Wyoming,2023,No health insurance coverage,"61,120",10.7%
+Puerto Rico,2023,No health insurance coverage,"167,116",5.3%
+United States,2023,No health insurance coverage,"4,155,019",5.4%
+Alabama,2023,No health insurance coverage,"46,184",3.9%
+Alaska,2023,No health insurance coverage,"12,695",6.9%
+Arizona,2023,No health insurance coverage,"145,458",8.6%
+Arkansas,2023,No health insurance coverage,"49,874",6.7%
+California,2023,No health insurance coverage,"285,282",3.2%
+Colorado,2023,No health insurance coverage,"52,912",4.1%
+Connecticut,2023,No health insurance coverage,"26,619",3.4%
+Delaware,2023,No health insurance coverage,"10,845",4.8%
+District of Columbia,2023,No health insurance coverage,"1,702",1.3%
+Florida,2023,No health insurance coverage,"350,540",7.5%
+Georgia,2023,No health insurance coverage,"171,137",6.4%
+Hawaii,2023,No health insurance coverage,"9,174",3.0%
+Idaho,2023,No health insurance coverage,"32,769",6.6%
+Illinois,2023,No health insurance coverage,"92,571",3.2%
+Indiana,2023,No health insurance coverage,"98,385",5.9%
+Iowa,2023,No health insurance coverage,"26,123",3.4%
+Kansas,2023,No health insurance coverage,"40,549",5.6%
+Kentucky,2023,No health insurance coverage,"36,619",3.4%
+Louisiana,2023,No health insurance coverage,"48,375",4.3%
+Maine,2023,No health insurance coverage,"11,068",4.2%
+Maryland,2023,No health insurance coverage,"67,255",4.7%
+Massachusetts,2023,No health insurance coverage,"21,189",1.5%
+Michigan,2023,No health insurance coverage,"66,349",3.0%
+Minnesota,2023,No health insurance coverage,"46,076",3.4%
+Mississippi,2023,No health insurance coverage,"43,409",6.0%
+Missouri,2023,No health insurance coverage,"77,513",5.4%
+Montana,2023,No health insurance coverage,"16,818",6.8%
+Nebraska,2023,No health insurance coverage,"18,558",3.7%
+Nevada,2023,No health insurance coverage,"57,327",7.9%
+New Hampshire,2023,No health insurance coverage,"9,077",3.4%
+New Jersey,2023,No health insurance coverage,"87,736",4.1%
+New Mexico,2023,No health insurance coverage,"28,392",5.9%
+New York,2023,No health insurance coverage,"119,651",2.8%
+North Carolina,2023,No health insurance coverage,"128,608",5.2%
+North Dakota,2023,No health insurance coverage,"6,828",3.6%
+Ohio,2023,No health insurance coverage,"135,195",4.9%
+Oklahoma,2023,No health insurance coverage,"76,828",7.5%
+Oregon,2023,No health insurance coverage,"26,271",3.0%
+Pennsylvania,2023,No health insurance coverage,"146,867",5.2%
+Rhode Island,2023,No health insurance coverage,"7,184",3.3%
+South Carolina,2023,No health insurance coverage,"74,212",6.1%
+South Dakota,2023,No health insurance coverage,"16,378",7.0%
+Tennessee,2023,No health insurance coverage,"92,855",5.6%
+Texas,2023,No health insurance coverage,"942,538",11.9%
+Utah,2023,No health insurance coverage,"65,640",6.6%
+Vermont,2023,No health insurance coverage,"2,543",2.1%
+Virginia,2023,No health insurance coverage,"91,585",4.6%
+Washington,2023,No health insurance coverage,"57,751",3.3%
+West Virginia,2023,No health insurance coverage,"11,418",3.0%
+Wisconsin,2023,No health insurance coverage,"54,238",4.1%
+Wyoming,2023,No health insurance coverage,"9,849",7.2%
+Puerto Rico,2023,No health insurance coverage,"12,061",2.2%
+United States,2023,With health insurance coverage,"134,676,286",90.2%
+Alabama,2023,With health insurance coverage,"1,868,981",89.4%
+Alaska,2023,With health insurance coverage,"273,835",87.0%
+Arizona,2023,With health insurance coverage,"2,794,948",87.8%
+Arkansas,2023,With health insurance coverage,"1,109,705",88.6%
+California,2023,With health insurance coverage,"16,068,618",91.8%
+Colorado,2023,With health insurance coverage,"2,636,357",91.8%
+Connecticut,2023,With health insurance coverage,"1,557,744",92.6%
+Delaware,2023,With health insurance coverage,"410,842",91.6%
+District of Columbia,2023,With health insurance coverage,"350,635",97.2%
+Florida,2023,With health insurance coverage,"8,345,143",86.0%
+Georgia,2023,With health insurance coverage,"4,215,076",86.2%
+Hawaii,2023,With health insurance coverage,"569,286",96.5%
+Idaho,2023,With health insurance coverage,"751,382",88.7%
+Illinois,2023,With health insurance coverage,"5,309,290",92.3%
+Indiana,2023,With health insurance coverage,"2,820,255",91.7%
+Iowa,2023,With health insurance coverage,"1,395,534",93.9%
+Kansas,2023,With health insurance coverage,"1,184,033",89.9%
+Kentucky,2023,With health insurance coverage,"1,752,655",92.6%
+Louisiana,2023,With health insurance coverage,"1,660,873",90.1%
+Maine,2023,With health insurance coverage,"575,021",91.7%
+Maryland,2023,With health insurance coverage,"2,663,257",92.5%
+Massachusetts,2023,With health insurance coverage,"3,262,125",96.9%
+Michigan,2023,With health insurance coverage,"4,119,554",94.3%
+Minnesota,2023,With health insurance coverage,"2,613,297",95.1%
+Mississippi,2023,With health insurance coverage,"1,027,487",87.8%
+Missouri,2023,With health insurance coverage,"2,510,996",90.8%
+Montana,2023,With health insurance coverage,"446,388",89.1%
+Nebraska,2023,With health insurance coverage,"855,912",92.3%
+Nevada,2023,With health insurance coverage,"1,238,900",87.1%
+New Hampshire,2023,With health insurance coverage,"630,584",93.6%
+New Jersey,2023,With health insurance coverage,"3,909,467",90.8%
+New Mexico,2023,With health insurance coverage,"738,137",86.9%
+New York,2023,With health insurance coverage,"8,211,709",93.9%
+North Carolina,2023,With health insurance coverage,"4,201,022",88.2%
+North Dakota,2023,With health insurance coverage,"353,783",94.8%
+Ohio,2023,With health insurance coverage,"4,821,253",92.6%
+Oklahoma,2023,With health insurance coverage,"1,431,432",85.4%
+Oregon,2023,With health insurance coverage,"1,774,551",92.5%
+Pennsylvania,2023,With health insurance coverage,"5,384,645",93.7%
+Rhode Island,2023,With health insurance coverage,"476,231",94.6%
+South Carolina,2023,With health insurance coverage,"2,009,327",88.5%
+South Dakota,2023,With health insurance coverage,"376,477",90.9%
+Tennessee,2023,With health insurance coverage,"2,776,158",88.7%
+Texas,2023,With health insurance coverage,"11,113,232",80.8%
+Utah,2023,With health insurance coverage,"1,447,963",90.7%
+Vermont,2023,With health insurance coverage,"288,819",95.4%
+Virginia,2023,With health insurance coverage,"3,604,117",92.3%
+Washington,2023,With health insurance coverage,"3,291,287",92.0%
+West Virginia,2023,With health insurance coverage,"631,255",91.5%
+Wisconsin,2023,With health insurance coverage,"2,595,296",94.1%
+Wyoming,2023,With health insurance coverage,"221,412",85.8%
+Puerto Rico,2023,With health insurance coverage,"1,028,470",91.5%
+United States,2023,With private health insurance,"120,782,766",80.9%
+Alabama,2023,With private health insurance,"1,773,226",84.8%
+Alaska,2023,With private health insurance,"240,873",76.6%
+Arizona,2023,With private health insurance,"2,487,767",78.2%
+Arkansas,2023,With private health insurance,"986,475",78.8%
+California,2023,With private health insurance,"13,483,243",77.1%
+Colorado,2023,With private health insurance,"2,371,131",82.5%
+Connecticut,2023,With private health insurance,"1,352,764",80.4%
+Delaware,2023,With private health insurance,"362,492",80.8%
+District of Columbia,2023,With private health insurance,"311,341",86.3%
+Florida,2023,With private health insurance,"7,780,088",80.2%
+Georgia,2023,With private health insurance,"3,986,281",81.5%
+Hawaii,2023,With private health insurance,"517,412",87.7%
+Idaho,2023,With private health insurance,"685,530",80.9%
+Illinois,2023,With private health insurance,"4,783,419",83.2%
+Indiana,2023,With private health insurance,"2,522,365",82.0%
+Iowa,2023,With private health insurance,"1,259,489",84.8%
+Kansas,2023,With private health insurance,"1,130,032",85.8%
+Kentucky,2023,With private health insurance,"1,499,146",79.2%
+Louisiana,2023,With private health insurance,"1,382,162",75.0%
+Maine,2023,With private health insurance,"509,706",81.2%
+Maryland,2023,With private health insurance,"2,404,544",83.6%
+Massachusetts,2023,With private health insurance,"2,835,773",84.2%
+Michigan,2023,With private health insurance,"3,597,383",82.4%
+Minnesota,2023,With private health insurance,"2,334,706",85.0%
+Mississippi,2023,With private health insurance,"968,394",82.8%
+Missouri,2023,With private health insurance,"2,325,765",84.1%
+Montana,2023,With private health insurance,"387,976",77.5%
+Nebraska,2023,With private health insurance,"800,815",86.3%
+Nevada,2023,With private health insurance,"1,117,855",78.6%
+New Hampshire,2023,With private health insurance,"590,663",87.7%
+New Jersey,2023,With private health insurance,"3,521,188",81.7%
+New Mexico,2023,With private health insurance,"588,118",69.2%
+New York,2023,With private health insurance,"6,827,630",78.1%
+North Carolina,2023,With private health insurance,"3,928,697",82.5%
+North Dakota,2023,With private health insurance,"334,060",89.5%
+Ohio,2023,With private health insurance,"4,263,988",81.9%
+Oklahoma,2023,With private health insurance,"1,289,312",77.0%
+Oregon,2023,With private health insurance,"1,543,938",80.5%
+Pennsylvania,2023,With private health insurance,"4,845,265",84.3%
+Rhode Island,2023,With private health insurance,"421,775",83.8%
+South Carolina,2023,With private health insurance,"1,867,832",82.2%
+South Dakota,2023,With private health insurance,"358,626",86.6%
+Tennessee,2023,With private health insurance,"2,577,339",82.3%
+Texas,2023,With private health insurance,"10,570,508",76.9%
+Utah,2023,With private health insurance,"1,385,249",86.8%
+Vermont,2023,With private health insurance,"249,943",82.5%
+Virginia,2023,With private health insurance,"3,288,391",84.2%
+Washington,2023,With private health insurance,"2,988,494",83.6%
+West Virginia,2023,With private health insurance,"549,737",79.7%
+Wisconsin,2023,With private health insurance,"2,381,955",86.4%
+Wyoming,2023,With private health insurance,"211,905",82.1%
+Puerto Rico,2023,With private health insurance,"660,548",58.8%
+United States,2023,With public coverage,"18,773,694",12.6%
+Alabama,2023,With public coverage,"177,675",8.5%
+Alaska,2023,With public coverage,"54,116",17.2%
+Arizona,2023,With public coverage,"406,791",12.8%
+Arkansas,2023,With public coverage,"163,743",13.1%
+California,2023,With public coverage,"3,093,716",17.7%
+Colorado,2023,With public coverage,"368,005",12.8%
+Connecticut,2023,With public coverage,"247,720",14.7%
+Delaware,2023,With public coverage,"64,964",14.5%
+District of Columbia,2023,With public coverage,"47,682",13.2%
+Florida,2023,With public coverage,"872,252",9.0%
+Georgia,2023,With public coverage,"389,564",8.0%
+Hawaii,2023,With public coverage,"83,575",14.2%
+Idaho,2023,With public coverage,"100,060",11.8%
+Illinois,2023,With public coverage,"670,511",11.7%
+Indiana,2023,With public coverage,"389,615",12.7%
+Iowa,2023,With public coverage,"194,898",13.1%
+Kansas,2023,With public coverage,"91,323",6.9%
+Kentucky,2023,With public coverage,"330,673",17.5%
+Louisiana,2023,With public coverage,"355,801",19.3%
+Maine,2023,With public coverage,"89,147",14.2%
+Maryland,2023,With public coverage,"356,020",12.4%
+Massachusetts,2023,With public coverage,"534,617",15.9%
+Michigan,2023,With public coverage,"664,668",15.2%
+Minnesota,2023,With public coverage,"360,374",13.1%
+Mississippi,2023,With public coverage,"102,480",8.8%
+Missouri,2023,With public coverage,"270,575",9.8%
+Montana,2023,With public coverage,"80,091",16.0%
+Nebraska,2023,With public coverage,"88,473",9.5%
+Nevada,2023,With public coverage,"188,548",13.2%
+New Hampshire,2023,With public coverage,"54,497",8.1%
+New Jersey,2023,With public coverage,"470,079",10.9%
+New Mexico,2023,With public coverage,"198,510",23.4%
+New York,2023,With public coverage,"1,669,605",19.1%
+North Carolina,2023,With public coverage,"451,147",9.5%
+North Dakota,2023,With public coverage,"31,771",8.5%
+Ohio,2023,With public coverage,"724,136",13.9%
+Oklahoma,2023,With public coverage,"211,125",12.6%
+Oregon,2023,With public coverage,"305,585",15.9%
+Pennsylvania,2023,With public coverage,"728,953",12.7%
+Rhode Island,2023,With public coverage,"71,495",14.2%
+South Carolina,2023,With public coverage,"233,904",10.3%
+South Dakota,2023,With public coverage,"33,105",8.0%
+Tennessee,2023,With public coverage,"303,958",9.7%
+Texas,2023,With public coverage,"941,962",6.9%
+Utah,2023,With public coverage,"101,941",6.4%
+Vermont,2023,With public coverage,"47,699",15.8%
+Virginia,2023,With public coverage,"493,428",12.6%
+Washington,2023,With public coverage,"437,650",12.2%
+West Virginia,2023,With public coverage,"111,804",16.2%
+Wisconsin,2023,With public coverage,"295,548",10.7%
+Wyoming,2023,With public coverage,"18,115",7.0%
+Puerto Rico,2023,With public coverage,"386,682",34.4%
+United States,2023,No health insurance coverage,"14,611,579",9.8%
+Alabama,2023,No health insurance coverage,"222,524",10.6%
+Alaska,2023,No health insurance coverage,"40,764",13.0%
+Arizona,2023,No health insurance coverage,"386,635",12.2%
+Arkansas,2023,No health insurance coverage,"142,956",11.4%
+California,2023,No health insurance coverage,"1,427,367",8.2%
+Colorado,2023,No health insurance coverage,"236,931",8.2%
+Connecticut,2023,No health insurance coverage,"124,838",7.4%
+Delaware,2023,No health insurance coverage,"37,907",8.4%
+District of Columbia,2023,No health insurance coverage,"10,124",2.8%
+Florida,2023,No health insurance coverage,"1,360,254",14.0%
+Georgia,2023,No health insurance coverage,"677,312",13.8%
+Hawaii,2023,No health insurance coverage,"20,724",3.5%
+Idaho,2023,No health insurance coverage,"95,663",11.3%
+Illinois,2023,No health insurance coverage,"441,738",7.7%
+Indiana,2023,No health insurance coverage,"254,403",8.3%
+Iowa,2023,No health insurance coverage,"90,315",6.1%
+Kansas,2023,No health insurance coverage,"133,722",10.1%
+Kentucky,2023,No health insurance coverage,"140,964",7.4%
+Louisiana,2023,No health insurance coverage,"182,652",9.9%
+Maine,2023,No health insurance coverage,"52,324",8.3%
+Maryland,2023,No health insurance coverage,"214,576",7.5%
+Massachusetts,2023,No health insurance coverage,"105,282",3.1%
+Michigan,2023,No health insurance coverage,"248,008",5.7%
+Minnesota,2023,No health insurance coverage,"133,366",4.9%
+Mississippi,2023,No health insurance coverage,"142,180",12.2%
+Missouri,2023,No health insurance coverage,"253,645",9.2%
+Montana,2023,No health insurance coverage,"54,341",10.9%
+Nebraska,2023,No health insurance coverage,"71,542",7.7%
+Nevada,2023,No health insurance coverage,"184,210",12.9%
+New Hampshire,2023,No health insurance coverage,"43,036",6.4%
+New Jersey,2023,No health insurance coverage,"398,032",9.2%
+New Mexico,2023,No health insurance coverage,"111,489",13.1%
+New York,2023,No health insurance coverage,"535,367",6.1%
+North Carolina,2023,No health insurance coverage,"563,382",11.8%
+North Dakota,2023,No health insurance coverage,"19,578",5.2%
+Ohio,2023,No health insurance coverage,"387,034",7.4%
+Oklahoma,2023,No health insurance coverage,"243,887",14.6%
+Oregon,2023,No health insurance coverage,"144,482",7.5%
+Pennsylvania,2023,No health insurance coverage,"360,094",6.3%
+Rhode Island,2023,No health insurance coverage,"27,246",5.4%
+South Carolina,2023,No health insurance coverage,"261,966",11.5%
+South Dakota,2023,No health insurance coverage,"37,673",9.1%
+Tennessee,2023,No health insurance coverage,"353,732",11.3%
+Texas,2023,No health insurance coverage,"2,632,605",19.2%
+Utah,2023,No health insurance coverage,"147,908",9.3%
+Vermont,2023,No health insurance coverage,"14,010",4.6%
+Virginia,2023,No health insurance coverage,"301,460",7.7%
+Washington,2023,No health insurance coverage,"284,423",8.0%
+West Virginia,2023,No health insurance coverage,"58,335",8.5%
+Wisconsin,2023,No health insurance coverage,"161,885",5.9%
+Wyoming,2023,No health insurance coverage,"36,688",14.2%
+Puerto Rico,2023,No health insurance coverage,"95,387",8.5%
+United States,2023,With health insurance coverage,"4,921,140",76.6%
+Alabama,2023,With health insurance coverage,"51,336",63.2%
+Alaska,2023,With health insurance coverage,"10,982",71.8%
+Arizona,2023,With health insurance coverage,"97,622",74.3%
+Arkansas,2023,With health insurance coverage,"38,593",72.7%
+California,2023,With health insurance coverage,"821,413",83.7%
+Colorado,2023,With health insurance coverage,"86,684",80.2%
+Connecticut,2023,With health insurance coverage,"64,052",82.1%
+Delaware,2023,With health insurance coverage,"13,061",82.0%
+District of Columbia,2023,With health insurance coverage,"18,021",88.8%
+Florida,2023,With health insurance coverage,"272,221",68.7%
+Georgia,2023,With health insurance coverage,"145,039",66.1%
+Hawaii,2023,With health insurance coverage,"18,895",87.8%
+Idaho,2023,With health insurance coverage,"20,919",75.4%
+Illinois,2023,With health insurance coverage,"220,858",80.2%
+Indiana,2023,With health insurance coverage,"83,566",77.0%
+Iowa,2023,With health insurance coverage,"30,892",77.5%
+Kansas,2023,With health insurance coverage,"27,322",66.0%
+Kentucky,2023,With health insurance coverage,"68,286",87.2%
+Louisiana,2023,With health insurance coverage,"73,335",80.5%
+Maine,2023,With health insurance coverage,"16,561",84.9%
+Maryland,2023,With health insurance coverage,"93,938",83.2%
+Massachusetts,2023,With health insurance coverage,"118,231",89.7%
+Michigan,2023,With health insurance coverage,"162,644",83.7%
+Minnesota,2023,With health insurance coverage,"67,838",84.2%
+Mississippi,2023,With health insurance coverage,"33,494",59.1%
+Missouri,2023,With health insurance coverage,"60,870",66.7%
+Montana,2023,With health insurance coverage,"9,878",72.1%
+Nebraska,2023,With health insurance coverage,"17,866",77.7%
+Nevada,2023,With health insurance coverage,"48,266",73.7%
+New Hampshire,2023,With health insurance coverage,"13,325",82.8%
+New Jersey,2023,With health insurance coverage,"162,982",79.3%
+New Mexico,2023,With health insurance coverage,"34,438",79.0%
+New York,2023,With health insurance coverage,"388,100",86.3%
+North Carolina,2023,With health insurance coverage,"138,386",72.4%
+North Dakota,2023,With health insurance coverage,"7,717",79.3%
+Ohio,2023,With health insurance coverage,"168,119",80.3%
+Oklahoma,2023,With health insurance coverage,"52,004",68.3%
+Oregon,2023,With health insurance coverage,"66,617",85.9%
+Pennsylvania,2023,With health insurance coverage,"205,479",83.6%
+Rhode Island,2023,With health insurance coverage,"18,381",79.6%
+South Carolina,2023,With health insurance coverage,"64,016",67.1%
+South Dakota,2023,With health insurance coverage,"6,107",59.1%
+Tennessee,2023,With health insurance coverage,"81,038",65.4%
+Texas,2023,With health insurance coverage,"344,550",57.3%
+Utah,2023,With health insurance coverage,"37,803",74.9%
+Vermont,2023,With health insurance coverage,"7,602",89.0%
+Virginia,2023,With health insurance coverage,"112,645",78.9%
+Washington,2023,With health insurance coverage,"128,318",80.2%
+West Virginia,2023,With health insurance coverage,"24,225",77.1%
+Wisconsin,2023,With health insurance coverage,"61,946",82.1%
+Wyoming,2023,With health insurance coverage,"4,659",62.7%
+Puerto Rico,2023,With health insurance coverage,"98,524",88.5%
+United States,2023,With private health insurance,"2,675,155",41.6%
+Alabama,2023,With private health insurance,"33,915",41.7%
+Alaska,2023,With private health insurance,"4,529",29.6%
+Arizona,2023,With private health insurance,"50,661",38.6%
+Arkansas,2023,With private health insurance,"16,388",30.9%
+California,2023,With private health insurance,"405,618",41.3%
+Colorado,2023,With private health insurance,"48,952",45.3%
+Connecticut,2023,With private health insurance,"29,797",38.2%
+Delaware,2023,With private health insurance,"7,098",44.6%
+District of Columbia,2023,With private health insurance,"7,016",34.6%
+Florida,2023,With private health insurance,"184,041",46.4%
+Georgia,2023,With private health insurance,"100,264",45.7%
+Hawaii,2023,With private health insurance,"10,848",50.4%
+Idaho,2023,With private health insurance,"15,093",54.4%
+Illinois,2023,With private health insurance,"108,564",39.4%
+Indiana,2023,With private health insurance,"38,608",35.6%
+Iowa,2023,With private health insurance,"14,536",36.5%
+Kansas,2023,With private health insurance,"19,041",46.0%
+Kentucky,2023,With private health insurance,"25,287",32.3%
+Louisiana,2023,With private health insurance,"24,509",26.9%
+Maine,2023,With private health insurance,"9,368",48.0%
+Maryland,2023,With private health insurance,"49,972",44.2%
+Massachusetts,2023,With private health insurance,"64,950",49.3%
+Michigan,2023,With private health insurance,"75,867",39.0%
+Minnesota,2023,With private health insurance,"38,864",48.2%
+Mississippi,2023,With private health insurance,"16,810",29.7%
+Missouri,2023,With private health insurance,"35,128",38.5%
+Montana,2023,With private health insurance,"4,498",32.9%
+Nebraska,2023,With private health insurance,"10,915",47.5%
+Nevada,2023,With private health insurance,"23,225",35.5%
+New Hampshire,2023,With private health insurance,"9,297",57.7%
+New Jersey,2023,With private health insurance,"96,097",46.7%
+New Mexico,2023,With private health insurance,"10,586",24.3%
+New York,2023,With private health insurance,"184,175",41.0%
+North Carolina,2023,With private health insurance,"81,037",42.4%
+North Dakota,2023,With private health insurance,"4,720",48.5%
+Ohio,2023,With private health insurance,"78,600",37.6%
+Oklahoma,2023,With private health insurance,"25,220",33.1%
+Oregon,2023,With private health insurance,"30,496",39.3%
+Pennsylvania,2023,With private health insurance,"106,931",43.5%
+Rhode Island,2023,With private health insurance,"10,180",44.1%
+South Carolina,2023,With private health insurance,"40,325",42.3%
+South Dakota,2023,With private health insurance,"3,444",33.3%
+Tennessee,2023,With private health insurance,"48,208",38.9%
+Texas,2023,With private health insurance,"253,878",42.3%
+Utah,2023,With private health insurance,"25,714",51.0%
+Vermont,2023,With private health insurance,"3,446",40.4%
+Virginia,2023,With private health insurance,"67,961",47.6%
+Washington,2023,With private health insurance,"73,792",46.1%
+West Virginia,2023,With private health insurance,"9,596",30.5%
+Wisconsin,2023,With private health insurance,"33,293",44.1%
+Wyoming,2023,With private health insurance,"3,797",51.1%
+Puerto Rico,2023,With private health insurance,"19,802",17.8%
+United States,2023,With public coverage,"2,456,007",38.2%
+Alabama,2023,With public coverage,"20,315",25.0%
+Alaska,2023,With public coverage,"7,913",51.8%
+Arizona,2023,With public coverage,"50,420",38.4%
+Arkansas,2023,With public coverage,"23,853",44.9%
+California,2023,With public coverage,"446,692",45.5%
+Colorado,2023,With public coverage,"41,883",38.7%
+Connecticut,2023,With public coverage,"36,743",47.1%
+Delaware,2023,With public coverage,"6,698",42.1%
+District of Columbia,2023,With public coverage,"11,260",55.5%
+Florida,2023,With public coverage,"102,103",25.8%
+Georgia,2023,With public coverage,"51,234",23.4%
+Hawaii,2023,With public coverage,"9,154",42.5%
+Idaho,2023,With public coverage,"7,318",26.4%
+Illinois,2023,With public coverage,"118,446",43.0%
+Indiana,2023,With public coverage,"48,233",44.4%
+Iowa,2023,With public coverage,"18,306",45.9%
+Kansas,2023,With public coverage,"10,308",24.9%
+Kentucky,2023,With public coverage,"45,580",58.2%
+Louisiana,2023,With public coverage,"50,784",55.7%
+Maine,2023,With public coverage,"8,901",45.6%
+Maryland,2023,With public coverage,"48,276",42.7%
+Massachusetts,2023,With public coverage,"59,337",45.0%
+Michigan,2023,With public coverage,"92,726",47.7%
+Minnesota,2023,With public coverage,"30,794",38.2%
+Mississippi,2023,With public coverage,"18,412",32.5%
+Missouri,2023,With public coverage,"27,825",30.5%
+Montana,2023,With public coverage,"5,749",42.0%
+Nebraska,2023,With public coverage,"7,731",33.6%
+Nevada,2023,With public coverage,"27,001",41.2%
+New Hampshire,2023,With public coverage,"4,596",28.5%
+New Jersey,2023,With public coverage,"70,893",34.5%
+New Mexico,2023,With public coverage,"26,256",60.2%
+New York,2023,With public coverage,"222,790",49.6%
+North Carolina,2023,With public coverage,"64,350",33.7%
+North Dakota,2023,With public coverage,"3,565",36.6%
+Ohio,2023,With public coverage,"95,334",45.6%
+Oklahoma,2023,With public coverage,"30,117",39.5%
+Oregon,2023,With public coverage,"39,537",51.0%
+Pennsylvania,2023,With public coverage,"107,375",43.7%
+Rhode Island,2023,With public coverage,"9,332",40.4%
+South Carolina,2023,With public coverage,"27,626",28.9%
+South Dakota,2023,With public coverage,"2,721",26.3%
+Tennessee,2023,With public coverage,"36,805",29.7%
+Texas,2023,With public coverage,"106,187",17.7%
+Utah,2023,With public coverage,"13,033",25.8%
+Vermont,2023,With public coverage,"4,418",51.8%
+Virginia,2023,With public coverage,"48,899",34.2%
+Washington,2023,With public coverage,"59,742",37.3%
+West Virginia,2023,With public coverage,"15,541",49.4%
+Wisconsin,2023,With public coverage,"31,832",42.2%
+Wyoming,2023,With public coverage,"1,063",14.3%
+Puerto Rico,2023,With public coverage,"79,558",71.5%
+United States,2023,No health insurance coverage,"1,507,245",23.4%
+Alabama,2023,No health insurance coverage,"29,914",36.8%
+Alaska,2023,No health insurance coverage,"4,307",28.2%
+Arizona,2023,No health insurance coverage,"33,763",25.7%
+Arkansas,2023,No health insurance coverage,"14,521",27.3%
+California,2023,No health insurance coverage,"160,335",16.3%
+Colorado,2023,No health insurance coverage,"21,440",19.8%
+Connecticut,2023,No health insurance coverage,"13,971",17.9%
+Delaware,2023,No health insurance coverage,"2,864",18.0%
+District of Columbia,2023,No health insurance coverage,"2,282",11.2%
+Florida,2023,No health insurance coverage,"124,287",31.3%
+Georgia,2023,No health insurance coverage,"74,371",33.9%
+Hawaii,2023,No health insurance coverage,"2,635",12.2%
+Idaho,2023,No health insurance coverage,"6,829",24.6%
+Illinois,2023,No health insurance coverage,"54,424",19.8%
+Indiana,2023,No health insurance coverage,"24,989",23.0%
+Iowa,2023,No health insurance coverage,"8,968",22.5%
+Kansas,2023,No health insurance coverage,"14,060",34.0%
+Kentucky,2023,No health insurance coverage,"10,036",12.8%
+Louisiana,2023,No health insurance coverage,"17,759",19.5%
+Maine,2023,No health insurance coverage,"2,954",15.1%
+Maryland,2023,No health insurance coverage,"19,005",16.8%
+Massachusetts,2023,No health insurance coverage,"13,643",10.3%
+Michigan,2023,No health insurance coverage,"31,650",16.3%
+Minnesota,2023,No health insurance coverage,"12,767",15.8%
+Mississippi,2023,No health insurance coverage,"23,188",40.9%
+Missouri,2023,No health insurance coverage,"30,351",33.3%
+Montana,2023,No health insurance coverage,"3,813",27.9%
+Nebraska,2023,No health insurance coverage,"5,127",22.3%
+Nevada,2023,No health insurance coverage,"17,201",26.3%
+New Hampshire,2023,No health insurance coverage,"2,774",17.2%
+New Jersey,2023,No health insurance coverage,"42,595",20.7%
+New Mexico,2023,No health insurance coverage,"9,174",21.0%
+New York,2023,No health insurance coverage,"61,388",13.7%
+North Carolina,2023,No health insurance coverage,"52,634",27.6%
+North Dakota,2023,No health insurance coverage,"2,017",20.7%
+Ohio,2023,No health insurance coverage,"41,157",19.7%
+Oklahoma,2023,No health insurance coverage,"24,165",31.7%
+Oregon,2023,No health insurance coverage,"10,917",14.1%
+Pennsylvania,2023,No health insurance coverage,"40,434",16.4%
+Rhode Island,2023,No health insurance coverage,"4,720",20.4%
+South Carolina,2023,No health insurance coverage,"31,412",32.9%
+South Dakota,2023,No health insurance coverage,"4,226",40.9%
+Tennessee,2023,No health insurance coverage,"42,960",34.6%
+Texas,2023,No health insurance coverage,"256,318",42.7%
+Utah,2023,No health insurance coverage,"12,666",25.1%
+Vermont,2023,No health insurance coverage,935,11.0%
+Virginia,2023,No health insurance coverage,"30,151",21.1%
+Washington,2023,No health insurance coverage,"31,641",19.8%
+West Virginia,2023,No health insurance coverage,"7,208",22.9%
+Wisconsin,2023,No health insurance coverage,"13,525",17.9%
+Wyoming,2023,No health insurance coverage,"2,774",37.3%
+Puerto Rico,2023,No health insurance coverage,"12,749",11.5%
+United States,2023,With health insurance coverage,"33,906,425",86.2%
+Alabama,2023,With health insurance coverage,"618,997",83.3%
+Alaska,2023,With health insurance coverage,"74,126",84.2%
+Arizona,2023,With health insurance coverage,"756,128",83.5%
+Arkansas,2023,With health insurance coverage,"372,380",86.4%
+California,2023,With health insurance coverage,"4,335,776",89.3%
+Colorado,2023,With health insurance coverage,"517,370",88.1%
+Connecticut,2023,With health insurance coverage,"332,843",90.6%
+Delaware,2023,With health insurance coverage,"98,293",88.6%
+District of Columbia,2023,With health insurance coverage,"64,056",94.9%
+Florida,2023,With health insurance coverage,"2,211,564",81.6%
+Georgia,2023,With health insurance coverage,"1,079,706",78.7%
+Hawaii,2023,With health insurance coverage,"148,156",93.5%
+Idaho,2023,With health insurance coverage,"197,437",85.0%
+Illinois,2023,With health insurance coverage,"1,189,090",88.4%
+Indiana,2023,With health insurance coverage,"684,401",89.4%
+Iowa,2023,With health insurance coverage,"269,357",89.6%
+Kansas,2023,With health insurance coverage,"242,988",83.5%
+Kentucky,2023,With health insurance coverage,"575,092",92.0%
+Louisiana,2023,With health insurance coverage,"586,623",91.2%
+Maine,2023,With health insurance coverage,"147,206",91.4%
+Maryland,2023,With health insurance coverage,"544,730",88.3%
+Massachusetts,2023,With health insurance coverage,"709,096",95.9%
+Michigan,2023,With health insurance coverage,"1,143,371",92.4%
+Minnesota,2023,With health insurance coverage,"448,587",91.3%
+Mississippi,2023,With health insurance coverage,"343,982",80.1%
+Missouri,2023,With health insurance coverage,"598,858",86.6%
+Montana,2023,With health insurance coverage,"108,494",85.6%
+Nebraska,2023,With health insurance coverage,"145,577",86.8%
+Nevada,2023,With health insurance coverage,"319,137",81.2%
+New Hampshire,2023,With health insurance coverage,"136,047",93.1%
+New Jersey,2023,With health insurance coverage,"839,935",88.0%
+New Mexico,2023,With health insurance coverage,"252,067",87.5%
+New York,2023,With health insurance coverage,"2,238,439",92.0%
+North Carolina,2023,With health insurance coverage,"1,108,389",83.3%
+North Dakota,2023,With health insurance coverage,"57,644",91.4%
+Ohio,2023,With health insurance coverage,"1,187,871",89.6%
+Oklahoma,2023,With health insurance coverage,"431,299",81.1%
+Oregon,2023,With health insurance coverage,"459,674",91.1%
+Pennsylvania,2023,With health insurance coverage,"1,335,953",91.2%
+Rhode Island,2023,With health insurance coverage,"119,886",94.0%
+South Carolina,2023,With health insurance coverage,"570,471",84.2%
+South Dakota,2023,With health insurance coverage,"65,428",81.0%
+Tennessee,2023,With health insurance coverage,"755,399",82.7%
+Texas,2023,With health insurance coverage,"2,614,313",72.2%
+Utah,2023,With health insurance coverage,"303,630",88.0%
+Vermont,2023,With health insurance coverage,"62,397",94.2%
+Virginia,2023,With health insurance coverage,"869,984",89.0%
+Washington,2023,With health insurance coverage,"804,348",89.2%
+West Virginia,2023,With health insurance coverage,"243,143",90.7%
+Wisconsin,2023,With health insurance coverage,"536,388",91.5%
+Wyoming,2023,With health insurance coverage,"50,299",81.2%
+Puerto Rico,2023,With health insurance coverage,"598,549",93.6%
+United States,2023,With private health insurance,"19,903,073",50.6%
+Alabama,2023,With private health insurance,"377,328",50.8%
+Alaska,2023,With private health insurance,"44,189",50.2%
+Arizona,2023,With private health insurance,"435,482",48.1%
+Arkansas,2023,With private health insurance,"175,463",40.7%
+California,2023,With private health insurance,"2,343,678",48.3%
+Colorado,2023,With private health insurance,"332,089",56.5%
+Connecticut,2023,With private health insurance,"192,168",52.3%
+Delaware,2023,With private health insurance,"56,452",50.9%
+District of Columbia,2023,With private health insurance,"33,191",49.2%
+Florida,2023,With private health insurance,"1,462,751",54.0%
+Georgia,2023,With private health insurance,"709,952",51.7%
+Hawaii,2023,With private health insurance,"88,400",55.8%
+Idaho,2023,With private health insurance,"126,087",54.3%
+Illinois,2023,With private health insurance,"704,045",52.4%
+Indiana,2023,With private health insurance,"374,327",48.9%
+Iowa,2023,With private health insurance,"155,275",51.7%
+Kansas,2023,With private health insurance,"167,375",57.5%
+Kentucky,2023,With private health insurance,"247,907",39.7%
+Louisiana,2023,With private health insurance,"250,572",39.0%
+Maine,2023,With private health insurance,"77,323",48.0%
+Maryland,2023,With private health insurance,"337,078",54.6%
+Massachusetts,2023,With private health insurance,"404,271",54.7%
+Michigan,2023,With private health insurance,"604,659",48.9%
+Minnesota,2023,With private health insurance,"268,705",54.7%
+Mississippi,2023,With private health insurance,"190,203",44.3%
+Missouri,2023,With private health insurance,"347,069",50.2%
+Montana,2023,With private health insurance,"61,845",48.8%
+Nebraska,2023,With private health insurance,"91,144",54.3%
+Nevada,2023,With private health insurance,"190,603",48.5%
+New Hampshire,2023,With private health insurance,"91,173",62.4%
+New Jersey,2023,With private health insurance,"529,166",55.5%
+New Mexico,2023,With private health insurance,"107,359",37.3%
+New York,2023,With private health insurance,"1,177,607",48.4%
+North Carolina,2023,With private health insurance,"708,038",53.2%
+North Dakota,2023,With private health insurance,"41,078",65.1%
+Ohio,2023,With private health insurance,"622,050",46.9%
+Oklahoma,2023,With private health insurance,"231,702",43.6%
+Oregon,2023,With private health insurance,"244,487",48.4%
+Pennsylvania,2023,With private health insurance,"771,179",52.6%
+Rhode Island,2023,With private health insurance,"68,352",53.6%
+South Carolina,2023,With private health insurance,"361,057",53.3%
+South Dakota,2023,With private health insurance,"41,869",51.9%
+Tennessee,2023,With private health insurance,"454,689",49.8%
+Texas,2023,With private health insurance,"1,839,056",50.8%
+Utah,2023,With private health insurance,"233,762",67.7%
+Vermont,2023,With private health insurance,"31,857",48.1%
+Virginia,2023,With private health insurance,"550,182",56.3%
+Washington,2023,With private health insurance,"480,607",53.3%
+West Virginia,2023,With private health insurance,"110,155",41.1%
+Wisconsin,2023,With private health insurance,"320,160",54.6%
+Wyoming,2023,With private health insurance,"37,857",61.1%
+Puerto Rico,2023,With private health insurance,"167,675",26.2%
+United States,2023,With public coverage,"16,773,554",42.7%
+Alabama,2023,With public coverage,"314,721",42.4%
+Alaska,2023,With public coverage,"34,848",39.6%
+Arizona,2023,With public coverage,"377,206",41.6%
+Arkansas,2023,With public coverage,"230,492",53.5%
+California,2023,With public coverage,"2,240,737",46.2%
+Colorado,2023,With public coverage,"222,181",37.8%
+Connecticut,2023,With public coverage,"162,245",44.2%
+Delaware,2023,With public coverage,"51,710",46.6%
+District of Columbia,2023,With public coverage,"32,934",48.8%
+Florida,2023,With public coverage,"938,952",34.6%
+Georgia,2023,With public coverage,"483,249",35.2%
+Hawaii,2023,With public coverage,"72,315",45.6%
+Idaho,2023,With public coverage,"89,844",38.7%
+Illinois,2023,With public coverage,"556,929",41.4%
+Indiana,2023,With public coverage,"360,382",47.1%
+Iowa,2023,With public coverage,"138,320",46.0%
+Kansas,2023,With public coverage,"100,840",34.7%
+Kentucky,2023,With public coverage,"371,026",59.4%
+Louisiana,2023,With public coverage,"382,786",59.5%
+Maine,2023,With public coverage,"84,275",52.3%
+Maryland,2023,With public coverage,"256,653",41.6%
+Massachusetts,2023,With public coverage,"356,875",48.2%
+Michigan,2023,With public coverage,"638,566",51.6%
+Minnesota,2023,With public coverage,"213,376",43.4%
+Mississippi,2023,With public coverage,"194,676",45.3%
+Missouri,2023,With public coverage,"301,402",43.6%
+Montana,2023,With public coverage,"55,455",43.7%
+Nebraska,2023,With public coverage,"67,915",40.5%
+Nevada,2023,With public coverage,"162,555",41.4%
+New Hampshire,2023,With public coverage,"55,839",38.2%
+New Jersey,2023,With public coverage,"372,566",39.0%
+New Mexico,2023,With public coverage,"167,069",58.0%
+New York,2023,With public coverage,"1,257,015",51.7%
+North Carolina,2023,With public coverage,"515,233",38.7%
+North Dakota,2023,With public coverage,"21,798",34.6%
+Ohio,2023,With public coverage,"646,733",48.8%
+Oklahoma,2023,With public coverage,"237,544",44.7%
+Oregon,2023,With public coverage,"249,098",49.3%
+Pennsylvania,2023,With public coverage,"696,118",47.5%
+Rhode Island,2023,With public coverage,"63,450",49.7%
+South Carolina,2023,With public coverage,"276,099",40.7%
+South Dakota,2023,With public coverage,"29,573",36.6%
+Tennessee,2023,With public coverage,"373,813",40.9%
+Texas,2023,With public coverage,"985,282",27.2%
+Utah,2023,With public coverage,"86,709",25.1%
+Vermont,2023,With public coverage,"35,201",53.1%
+Virginia,2023,With public coverage,"390,790",40.0%
+Washington,2023,With public coverage,"384,664",42.6%
+West Virginia,2023,With public coverage,"158,275",59.1%
+Wisconsin,2023,With public coverage,"258,344",44.1%
+Wyoming,2023,With public coverage,"18,876",30.5%
+Puerto Rico,2023,With public coverage,"452,536",70.8%
+United States,2023,No health insurance coverage,"5,416,638",13.8%
+Alabama,2023,No health insurance coverage,"124,098",16.7%
+Alaska,2023,No health insurance coverage,"13,866",15.8%
+Arizona,2023,No health insurance coverage,"149,531",16.5%
+Arkansas,2023,No health insurance coverage,"58,436",13.6%
+California,2023,No health insurance coverage,"518,782",10.7%
+Colorado,2023,No health insurance coverage,"70,099",11.9%
+Connecticut,2023,No health insurance coverage,"34,524",9.4%
+Delaware,2023,No health insurance coverage,"12,611",11.4%
+District of Columbia,2023,No health insurance coverage,"3,422",5.1%
+Florida,2023,No health insurance coverage,"499,694",18.4%
+Georgia,2023,No health insurance coverage,"292,474",21.3%
+Hawaii,2023,No health insurance coverage,"10,333",6.5%
+Idaho,2023,No health insurance coverage,"34,729",15.0%
+Illinois,2023,No health insurance coverage,"155,715",11.6%
+Indiana,2023,No health insurance coverage,"80,753",10.6%
+Iowa,2023,No health insurance coverage,"31,214",10.4%
+Kansas,2023,No health insurance coverage,"47,929",16.5%
+Kentucky,2023,No health insurance coverage,"50,049",8.0%
+Louisiana,2023,No health insurance coverage,"56,488",8.8%
+Maine,2023,No health insurance coverage,"13,892",8.6%
+Maryland,2023,No health insurance coverage,"72,445",11.7%
+Massachusetts,2023,No health insurance coverage,"30,602",4.1%
+Michigan,2023,No health insurance coverage,"94,034",7.6%
+Minnesota,2023,No health insurance coverage,"42,515",8.7%
+Mississippi,2023,No health insurance coverage,"85,665",19.9%
+Missouri,2023,No health insurance coverage,"92,273",13.4%
+Montana,2023,No health insurance coverage,"18,269",14.4%
+Nebraska,2023,No health insurance coverage,"22,159",13.2%
+Nevada,2023,No health insurance coverage,"73,895",18.8%
+New Hampshire,2023,No health insurance coverage,"10,135",6.9%
+New Jersey,2023,No health insurance coverage,"114,345",12.0%
+New Mexico,2023,No health insurance coverage,"35,871",12.5%
+New York,2023,No health insurance coverage,"195,232",8.0%
+North Carolina,2023,No health insurance coverage,"221,665",16.7%
+North Dakota,2023,No health insurance coverage,"5,423",8.6%
+Ohio,2023,No health insurance coverage,"137,974",10.4%
+Oklahoma,2023,No health insurance coverage,"100,693",18.9%
+Oregon,2023,No health insurance coverage,"45,175",8.9%
+Pennsylvania,2023,No health insurance coverage,"129,297",8.8%
+Rhode Island,2023,No health insurance coverage,"7,686",6.0%
+South Carolina,2023,No health insurance coverage,"107,093",15.8%
+South Dakota,2023,No health insurance coverage,"15,320",19.0%
+Tennessee,2023,No health insurance coverage,"157,552",17.3%
+Texas,2023,No health insurance coverage,"1,005,767",27.8%
+Utah,2023,No health insurance coverage,"41,550",12.0%
+Vermont,2023,No health insurance coverage,"3,872",5.8%
+Virginia,2023,No health insurance coverage,"107,516",11.0%
+Washington,2023,No health insurance coverage,"97,721",10.8%
+West Virginia,2023,No health insurance coverage,"24,848",9.3%
+Wisconsin,2023,No health insurance coverage,"49,782",8.5%
+Wyoming,2023,No health insurance coverage,"11,625",18.8%
+Puerto Rico,2023,No health insurance coverage,"40,897",6.4%
