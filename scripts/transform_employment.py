@@ -1,16 +1,17 @@
 import pandas as pd
+import os
+import glob
 
-# Charger le CSV brut
-df = pd.read_csv("/tmp/employment_raw.csv", dtype=str)
+# -------- CONFIG --------
+# Répertoire contenant les fichiers employment_2021.csv, employment_2022.csv, etc.
+data_dir = "E:/Ecole/M2/Architecture_big_data/TP_GROUPE/datalake_demographie_americaine/Data_Source_1/Data Source/employment"
 
-# Liste des états à extraire à partir des colonnes
-state_cols = [col.split('!!')[0] for col in df.columns[1:] if 'Estimate' in col or 'Percent' in col]
-state_cols = list(dict.fromkeys(state_cols))  # supprimer doublons
+# Répertoire tmp (au même niveau que script/)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+tmp_dir = os.path.join(script_dir, '..', 'tmp')
+os.makedirs(tmp_dir, exist_ok=True)
 
-# Retirer les colonnes inutiles
-df = df[['Label (Grouping)'] + [c for c in df.columns if any(state in c for state in state_cols)]]
-
-# Mapping des groupes avec les lignes pertinentes
+# -------- GROUPS --------
 groups = {
     "employment_status": [
         "Population 16 years and over",
@@ -100,33 +101,68 @@ groups = {
     ]
 }
 
-# Fonction pour transformer chaque groupe en table wide pivotée
-def process_group(df, group_name, group_labels):
-    sub_df = df[df['Label (Grouping)'].isin(group_labels)].copy()
-    # Identifier Estimate et Percent
-    estimates = [c for c in sub_df.columns if 'Estimate' in c]
-    percents = [c for c in sub_df.columns if 'Percent' in c]
+# -------- Labels de résumé à ignorer --------
+summary_labels = {
+    "occupation": ["Civilian employed population 16 years and over"],
+    "industry": ["Civilian employed population 16 years and over"],
+    "class_of_worker": ["Civilian employed population 16 years and over"],
+    "employment_status": ["Population 16 years and over"],
+    "commuting_to_work": ["Workers 16 years and over"],
+}
 
-    # Créer un DataFrame final par table
+# -------- FONCTION DE TRANSFORMATION --------
+def process_group(df, group_name, group_labels, year_id, state_cols):
+    sub_df = df[df['Label (Grouping)'].isin(group_labels)].copy()
+
+    # Supprimer les lignes de résumé définies
+    if group_name in summary_labels:
+        sub_df = sub_df[~sub_df['Label (Grouping)'].isin(summary_labels[group_name])]
+
     records = []
-    for idx, row in sub_df.iterrows():
+    for _, row in sub_df.iterrows():
         for state in state_cols:
             records.append({
                 'state_id': state,
-                'year_id': 2023,  # à adapter selon l'année de ton dataset
+                'year_id': year_id,
                 'indicator': row['Label (Grouping)'],
                 'Estimate': row.get(f'{state}!!Estimate', None),
                 'Percent': row.get(f'{state}!!Percent', None)
             })
     return pd.DataFrame(records)
 
-# Générer les tables pour tous les groupes
-tables = {}
-for group_name, group_labels in groups.items():
-    tables[group_name] = process_group(df, group_name, group_labels)
 
-# Sauvegarde en CSV séparé
-for group_name, table_df in tables.items():
-    table_df.to_csv(f'/tmp/{group_name}.csv', index=False)
+# -------- TRAITEMENT DE TOUS LES FICHIERS --------
+files = glob.glob(os.path.join(data_dir, "employment_*.csv"))
 
-print("Tables générées pour tous les groupes avec state_id et year_id !")
+# Dictionnaire pour stocker toutes les années concaténées
+all_tables = {group: [] for group in groups.keys()}
+
+for file_path in files:
+    # Extraire year_id depuis le nom du fichier
+    year_id = int(os.path.basename(file_path).split('_')[-1].split('.')[0])
+
+    # Charger le CSV
+    df = pd.read_csv(file_path, dtype=str)
+    df['Label (Grouping)'] = df['Label (Grouping)'].str.strip()  # nettoyage
+
+    # Détection des états
+    state_cols = [col.split('!!')[0] for col in df.columns[1:] if 'Estimate' in col or 'Percent' in col]
+    state_cols = list(dict.fromkeys(state_cols))  # supprimer doublons
+
+    # Garder uniquement les colonnes utiles
+    df = df[['Label (Grouping)'] + [c for c in df.columns if any(state in c for state in state_cols)]]
+
+    # Générer et stocker les tables pour ce fichier
+    for group_name, group_labels in groups.items():
+        table_df = process_group(df, group_name, group_labels, year_id, state_cols)
+        all_tables[group_name].append(table_df)
+
+# -------- CONCATENER ET SAUVEGARDER --------
+for group_name, list_dfs in all_tables.items():
+    if list_dfs:  # si non vide
+        final_df = pd.concat(list_dfs, ignore_index=True)
+        out_file = os.path.join(tmp_dir, f'{group_name}.csv')
+        final_df.to_csv(out_file, index=False)
+        print(f"✅ {group_name}.csv sauvegardé avec {len(final_df)} lignes ({len(list_dfs)} années concaténées).")
+
+print("🎉 Toutes les tables concaténées ont été générées avec succès !")
