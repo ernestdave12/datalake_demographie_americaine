@@ -2,6 +2,12 @@ import pandas as pd
 from sqlalchemy import create_engine, Table, Column, Integer, Float, String, MetaData, UniqueConstraint
 from sqlalchemy.exc import IntegrityError
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+
 def import_ages_in_sql(year):
     # Charger CSV (attention: adapte le séparateur et l’encodage si besoin)
     df = pd.read_csv(f"../Data_Source_1/Data Source/population_profile/Population_profile_{year}.csv")
@@ -73,7 +79,7 @@ def import_ages_in_sql(year):
 
     # Création de l'engine SQLAlchemy
     engine = create_engine(
-        "mssql+pyodbc://localhost\\SQLEXPRESS/USA?driver=ODBC+Driver+17+for+SQL+Server&TrustServerCertificate=yes&Trusted_Connection=yes",
+        os.getenv("CONNECTION"),
         fast_executemany=True
     )
 
@@ -109,6 +115,3 @@ def import_ages_in_sql(year):
 
     print(f"✅ Données insérées sans doublons pour {year}")
 
-import_ages_in_sql(2021)
-import_ages_in_sql(2022)
-import_ages_in_sql(2023)
