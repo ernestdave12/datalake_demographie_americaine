@@ -83,8 +83,9 @@ def create_tables(engine: Engine) -> None:
 
 
 try:
-    create_tables()
+    create_tables(engine)
     print("Tables créées avec succès.")
 except Exception as e:
     print(f"Erreur lors de la création des tables : {e}")
-create_tables()
+
+    ##

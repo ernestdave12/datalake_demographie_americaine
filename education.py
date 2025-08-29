@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import glob
 import re
+from create_tables import make_engine_trusted
 
 
 def load_education_files(folder: str, pattern: str = "education_*.csv") -> pd.DataFrame:
@@ -365,8 +366,63 @@ if __name__ == "__main__":
     fact_earning_by_education = build_fact_earning_by_education(df)
 
     # Sauvegarder les DataFrames en CSV
-    dim_state.to_csv("dim_state.csv")
-    dim_education.to_csv("dim_education.csv")
-    dim_age.to_csv("dim_age.csv")
-    fact_age_by_education.to_csv("fact_age_by_education.csv", index=False)
-    fact_earning_by_education.to_csv("fact_earning_by_education.csv", index=False)
+    # dim_state.to_csv("dim_state.csv")
+    # dim_education.to_csv("dim_education.csv")
+    # dim_age.to_csv("dim_age.csv")
+    # fact_age_by_education.to_csv("fact_age_by_education.csv", index=False)
+    # fact_earning_by_education.to_csv("fact_earning_by_education.csv", index=False)
+    # #####
+    # Ecriture dans la db
+    SERVER   = r"NEOS-NBK1158\SQLEXPRESS"
+    DATABASE = "USA"
+
+    engine = make_engine_trusted(SERVER, DATABASE)
+    dim_state.to_sql(
+        "state",
+        con=engine,
+        schema="dbo",
+        if_exists="replace",
+        index=True,
+        chunksize=10000,
+        method=None
+    )
+
+    dim_education.to_sql(
+        "education",
+        con=engine,
+        schema="dbo",
+        if_exists="replace",
+        index=True,
+        chunksize=10000,
+        method=None
+    )
+
+    dim_age.to_sql(
+        "age",
+        con=engine,
+        schema="dbo",
+        if_exists="replace",
+        index=False,
+        chunksize=10000,
+        method=None
+    )
+
+    fact_age_by_education.to_sql(
+        "age_by_education",
+        con=engine,
+        schema="dbo",
+        if_exists="replace",
+        index=False,
+        chunksize=10000,
+        method=None
+    )
+
+    fact_earning_by_education.to_sql(
+        "earning_by_education",
+        con=engine,
+        schema="dbo",
+        if_exists="replace",
+        index=False,
+        chunksize=10000,
+        method=None
+    )
