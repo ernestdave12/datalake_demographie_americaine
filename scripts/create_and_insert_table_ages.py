@@ -1,11 +1,10 @@
 import pandas as pd
-from sqlalchemy import create_engine, Integer, Float, String
-from sqlalchemy.types import VARCHAR
-
+from sqlalchemy import create_engine, Table, Column, Integer, Float, String, MetaData, UniqueConstraint
+from sqlalchemy.exc import IntegrityError
 
 def import_ages_in_sql(year):
     # Charger CSV (attention: adapte le séparateur et l’encodage si besoin)
-    df = pd.read_csv(f"./Data_Source_1/Data Source/Population_profile_{year}.csv")
+    df = pd.read_csv(f"../Data_Source_1/Data Source/population_profile/Population_profile_{year}.csv")
     # Supprime les espaces avant/après les noms de colonnes
     for col in df.select_dtypes(include=["object"]).columns:
         df[col] = df[col].str.strip()
@@ -31,7 +30,7 @@ def import_ages_in_sql(year):
     # Pour chaque état et chaque ligne (chaque tranche d’âge)
     for etat in etats:
         data = {
-            "etat": etat,
+            "state": etat,
             "year": year,
             "Under_5_years": None,
             "5_to_17_years": None,
@@ -47,7 +46,6 @@ def import_ages_in_sql(year):
         for idx, age in enumerate(ages):
             value = float(df.loc[df["Label (Grouping)"] == age, f"{etat}!!Total population!!Estimate"].iloc[0].replace("%", ""))
 
-            col_name = age.replace(" ", "_").replace("-", "_")
             if age == "Under 5 years":
                 data["Under_5_years"] = value
             elif age == "5 to 17 years":
@@ -79,28 +77,38 @@ def import_ages_in_sql(year):
         fast_executemany=True
     )
 
-    # Définir les types SQL pour certaines colonnes
-    dtype_dict = {
-        'etat': VARCHAR(100),
-        'year': Integer,
-        'Under_5_years': Float,
-        '5_to_17_years': Float,
-        '18_to_24_years': Float,
-        '25_to_34_years': Float,
-        '35_to_44_years': Float,
-        '45_to_54_years': Float,
-        '55_to_64_years': Float,
-        '65_to_74_years': Float,
-        '75_years_and_over': Float
-    }
+    metadata = MetaData()
 
-    # Insérer le DataFrame dans SQL Server
-    df.to_sql(
-        "age",       # Nom de la table
-        engine,
-        if_exists="replace", # "replace" crée la table si elle n'existe pas
-        index=False,
-        dtype=dtype_dict
+    # Définition de la table avec contrainte UNIQUE
+    age = Table(
+        "age", metadata,
+        Column("state", String(100), nullable=False),
+        Column("year", Integer, nullable=False),
+        Column("Under_5_years", Float),
+        Column("5_to_17_years", Float),
+        Column("18_to_24_years", Float),
+        Column("25_to_34_years", Float),
+        Column("35_to_44_years", Float),
+        Column("45_to_54_years", Float),
+        Column("55_to_64_years", Float),
+        Column("65_to_74_years", Float),
+        Column("75_years_and_over", Float),
+        UniqueConstraint("state", "year", name="uq_state_year")  # 👈 contrainte UNIQUE
     )
 
-    print(f"Données pour {year}  insérées avec succès !")
+    # Crée la table si elle n’existe pas
+    metadata.create_all(engine)
+
+    # Insérer en évitant les doublons
+    with engine.begin() as conn:
+        for _, row in df.iterrows():
+            try:
+                conn.execute(age.insert().values(**row.to_dict()))
+            except IntegrityError:
+                print(f"Doublon ignoré pour {row['etat']} - {row['year']}")
+
+    print(f"✅ Données insérées sans doublons pour {year}")
+
+import_ages_in_sql(2021)
+import_ages_in_sql(2022)
+import_ages_in_sql(2023)
