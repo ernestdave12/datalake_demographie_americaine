@@ -79,7 +79,7 @@ def import_ages_in_sql(year):
 
     # Création de l'engine SQLAlchemy
     engine = create_engine(
-        os.getenv("CONNECTION"),
+        "mssql+pyodbc://localhost\\SQLEXPRESS/USA?driver=ODBC+Driver+17+for+SQL+Server&TrustServerCertificate=yes&Trusted_Connection=yes",
         fast_executemany=True
     )
 

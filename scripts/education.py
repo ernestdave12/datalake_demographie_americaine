@@ -563,7 +563,7 @@ if __name__ == "__main__":
 
 
     # # Ecriture dans la db
-    SERVER   = r"NEOS-NBK1158\SQLEXPRESS"
+    SERVER   = r"localhost\SQLEXPRESS"
     DATABASE = "USA"
     engine = make_engine_trusted(SERVER, DATABASE)
 
