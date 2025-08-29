@@ -33,6 +33,7 @@ def create_tables(engine: Engine) -> None:
     IF OBJECT_ID('dbo.education','U')           IS NOT NULL DROP TABLE dbo.education;
     IF OBJECT_ID('dbo.age','U')                 IS NOT NULL DROP TABLE dbo.age;
     IF OBJECT_ID('dbo.state','U')               IS NOT NULL DROP TABLE dbo.state;
+    IF OBJECT_ID('dbo.date','U')                IS NOT NULL DROP TABLE dbo.date;
 
     CREATE TABLE dbo.state (
         state_name          nvarchar(100) NOT NULL
@@ -40,6 +41,11 @@ def create_tables(engine: Engine) -> None:
 
     CREATE TABLE dbo.age (
         age_group           nvarchar(200) NOT NULL
+    );
+
+    CREATE TABLE dbo.date (
+        id   int IDENTITY(1,1) PRIMARY KEY,
+        year int NOT NULL
     );
 
     CREATE TABLE dbo.education (

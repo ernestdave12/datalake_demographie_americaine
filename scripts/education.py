@@ -49,27 +49,35 @@ def load_education_files(folder: str, pattern: str = "education_*.csv") -> pd.Da
 
 def build_dim_state(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Purpose:
-        Extract unique state names from wide columns and return a dim_state
-        table with a surrogate key index (state_id).
+    Retourne une dimension des états à partir des colonnes "larges" de type:
+    'StateName!!...!!Estimate' -> extrait 'StateName'.
 
-    Parameters:
-        df (pd.DataFrame): Input DataFrame whose columns include patterns like
-                           'United States!!Total!!Estimate'. Also contains
-                           'Label (Grouping)' and 'year' columns to ignore.
-
-    Returns:
-        pd.DataFrame: DataFrame with index 'state_id' (starting at 1) and
-                      one column 'state_name'.
+    Sortie:
+        DataFrame indexé par state_id (1..N) avec une colonne 'state_name'.
     """
     states = []
-    for col in df.columns:
-        if col in ["Label (Grouping)", "year"]:
-            continue
-        state = col.split("!!")[0]
-        if state not in states:
-            states.append(state)
+    seen = set()
 
+    for col in df.columns:
+        # On ne considère que les colonnes avec une hiérarchie "!!"
+        if "!!" not in col:
+            continue
+
+        # 1er token = nom d'état (ex: 'California' dans 'California!!Total!!Estimate')
+        first = col.split("!!", 1)[0]
+
+        # Nettoyage basique
+        first = first.replace("\xa0", " ")  # NBSP
+        first = re.sub(r"\s+", " ", first).strip(" _")  # espaces multiples + underscores
+        if not first:
+            continue
+
+        # Déduplique en préservant l'ordre
+        if first not in seen:
+            seen.add(first)
+            states.append(first)
+
+    # Construction de la dimension
     dim_state = pd.DataFrame({"state_name": sorted(states)})
     dim_state.index = range(1, len(dim_state) + 1)
     dim_state.index.name = "state_id"
@@ -86,7 +94,7 @@ def build_dim_education(df: pd.DataFrame) -> pd.DataFrame:
 
     Returns:
         pd.DataFrame: Index 'education_level_id' (starting at 1) and
-                      one column 'education_level_name'.
+                      one column 'education'.
     """
     labels = df["Label (Grouping)"].astype(str).str.strip()
     # Keep rows that look like education levels (simple keyword filter)
@@ -95,9 +103,9 @@ def build_dim_education(df: pd.DataFrame) -> pd.DataFrame:
         case=False, regex=True
     )
     levels = sorted(labels[mask].drop_duplicates())
-    dim_edu = pd.DataFrame({"education_level_name": levels})
+    dim_edu = pd.DataFrame({"education": levels})
     dim_edu.index = range(1, len(dim_edu) + 1)
-    dim_edu.index.name = "education_level_id"
+    dim_edu.index.name = "education_id"
     return dim_edu
 
 def build_dim_age(df: pd.DataFrame) -> pd.DataFrame:
@@ -119,7 +127,7 @@ def build_dim_age(df: pd.DataFrame) -> pd.DataFrame:
     "25 years and over",
     "25 to 34 years",
     "35 to 44 years",
-    "45 to 64 years"
+    "45 to 64 years",
     "45 to 54 years",
     "55 to 64 years",
     "65 to 74 years",
@@ -128,6 +136,23 @@ def build_dim_age(df: pd.DataFrame) -> pd.DataFrame:
 ]
     dim_age = pd.DataFrame({"age_group": ages})
     return dim_age
+
+def build_dim_date(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Purpose:
+        Build dim_date from distinct 'year' values in the raw dataframe.
+
+    Parameters:
+        df (pd.DataFrame): Source data with a 'year' column.
+
+    Returns:
+        pd.DataFrame: index 'date_id' (1..n), columns ['year'].
+    """
+    years = sorted(pd.Series(df.get("year")).dropna().unique().tolist())
+    dim = pd.DataFrame({"year": years})
+    dim.index = range(1, len(dim) + 1)
+    dim.index.name = "date_id"
+    return dim
 
 def clean(x: str) -> str:
     if pd.isna(x):
@@ -328,6 +353,161 @@ def build_fact_earning_by_education(df: pd.DataFrame) -> pd.DataFrame:
     earning_by_education.to_csv("earning_by_education.csv", index=False)
     return earning_by_education
 
+def age_by_education_new(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Purpose:
+        Build the fact table for age by education level with 7 columns.
+
+    Parameters:
+        df (pd.DataFrame): Input DataFrame containing education and age group information.
+
+    Returns:
+        pd.DataFrame: Fact table with 7 columns: state, year, education, age_group, category, estimate, percent.
+    """
+    # -------- construire age_group (par année)
+    age_groups = [
+        "Population 18 to 24 years",
+        "Population 25 years and over",
+        "Population 25 to 34 years",
+        "Population 35 to 44 years",
+        "Population 45 to 64 years",
+        "Population 65 years and over",
+    ]
+    df["age_group"] = df["label_clean"].where(df["label_clean"].isin(age_groups))
+    df["age_group"] = df.groupby("year", group_keys=False)["age_group"].ffill()
+
+    # -------- supprimer entêtes
+    drop_labels = ["AGE BY EDUCATIONAL ATTAINMENT"] + age_groups
+    base = df[~df["label_clean"].isin(drop_labels)].copy()
+    base["education"] = base["label_clean"]
+
+    # -------- sélectionner colonnes métriques
+    selected_cols, tuples = [], []
+    for c in base.columns:
+        if "!!" in c:
+            info = split_metric_col(c)
+            if info is not None:
+                selected_cols.append(c)
+                tuples.append(info)
+
+    if not selected_cols:
+        raise RuntimeError("Aucune colonne métrique au format '<State>!!<Category>!!Estimate' n'a été trouvée.")
+
+    metrics_df = base[selected_cols].copy()
+    mi = pd.MultiIndex.from_tuples(tuples, names=["state", "metric"])
+    metrics_df.columns = mi
+
+    # -------- passer en long sur 'state' et recombiner
+    stacked = metrics_df.stack(level=0).reset_index(names=["row_id", "state"])
+    meta = base[["year", "education", "age_group"]].reset_index(names="row_id")
+    data = meta.merge(stacked, on="row_id", how="right").drop(columns=["row_id"])
+
+    # -------- transformer en 7 colonnes
+    data = data.melt(
+        id_vars=["state", "year", "education", "age_group"],
+        value_vars=["total_estimate", "male_estimate", "female_estimate", "total_percent", "male_percent", "female_percent"],
+        var_name="metric",
+        value_name="value"
+    )
+    data["category"] = data["metric"].str.extract(r"(total|male|female)")
+    data["metric"] = data["metric"].str.extract(r"(estimate|percent)")
+
+    # -------- vérifier et gérer les doublons
+    duplicate_check = data.duplicated(subset=["state", "year", "education", "age_group", "category", "metric"], keep=False)
+    if duplicate_check.any():
+        print("Des doublons ont été détectés. Les valeurs seront agrégées.")
+        data = data.groupby(["state", "year", "education", "age_group", "category", "metric"], as_index=False).mean()
+
+    # -------- pivoter les données
+    data = data.pivot(index=["state", "year", "education", "age_group", "category"], columns="metric", values="value").reset_index()
+
+    data = data.rename(columns={"estimate": "estimate", "percent": "percent"})
+    data["year"] = pd.to_numeric(data["year"], errors="coerce").astype("Int64")
+    data = convert_numeric(data)
+
+    data['age_group'] = data['age_group'].replace(age_group_mapping)
+
+    return data
+
+
+def earning_by_education_new(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Purpose:
+        Build the fact table for earnings by education level with 7 columns.
+
+    Parameters:
+        df (pd.DataFrame): Input DataFrame containing education and earnings information.
+
+    Returns:
+        pd.DataFrame: Fact table with 7 columns: state, year, education, age_group, category, estimate, percent.
+    """
+    SECTION_HDR = "MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS)"
+    AGE_HDR = "Population 25 years and over with earnings"
+    EDU_ROWS = [
+        "Less than high school graduate",
+        "High school graduate (includes equivalency)",
+        "Some college or associate's degree",
+        "Bachelor's degree",
+        "Graduate or professional degree",
+    ]
+
+    # baliser la section par année
+    df["section"] = df["label_clean"].where(df["label_clean"] == SECTION_HDR)
+    df["section"] = df.groupby("year", group_keys=False)["section"].ffill()
+
+    sec = df[df["section"] == SECTION_HDR].copy()
+
+    # construire age_group (uniquement l'en-tête demandé)
+    sec["age_group"] = sec["label_clean"].where(sec["label_clean"] == AGE_HDR)
+    sec["age_group"] = sec.groupby("year", group_keys=False)["age_group"].ffill()
+
+    # ne garder que les lignes d'éducation sous cet age_group
+    base = sec[
+        sec["label_clean"].isin(EDU_ROWS) & (sec["age_group"] == AGE_HDR)
+    ].copy()
+    base["education"] = base["label_clean"]
+
+    # sélectionner colonnes métriques (états)
+    selected_cols, tuples = [], []
+    for c in base.columns:
+        if "!!" in c:
+            info = split_metric_col(c)
+            if info is not None:
+                selected_cols.append(c)
+                tuples.append(info)
+
+    if not selected_cols:
+        raise RuntimeError(
+            "Aucune colonne métrique au format '<State>!!<Category>!!Estimate' n'a été trouvée."
+        )
+
+    metrics_df = base[selected_cols].copy()
+    mi = pd.MultiIndex.from_tuples(tuples, names=["state", "metric"])
+    metrics_df.columns = mi
+
+    # passage en long sur 'state' et recombinaison
+    stacked = metrics_df.stack(level=0).reset_index(names=["row_id", "state"])
+    meta = base[["year", "education", "age_group"]].reset_index(names="row_id")
+    data = meta.merge(stacked, on="row_id", how="right").drop(columns=["row_id"])
+
+    # transformer en 7 colonnes
+    data = data.melt(
+        id_vars=["state", "year", "education", "age_group"],
+        value_vars=["total_estimate", "male_estimate", "female_estimate"],
+        var_name="metric",
+        value_name="estimate"
+    )
+    data["category"] = data["metric"].str.extract(r"(total|male|female)")
+    data["percent"] = pd.NA  # No percent column in this dataset
+    data = data[["state", "year", "education", "age_group", "category", "estimate", "percent"]]
+
+    data["year"] = pd.to_numeric(data["year"], errors="coerce").astype("Int64")
+    data = convert_numeric(data)
+
+    data['age_group'] = data['age_group'].replace(age_group_mapping)
+
+    return data
+
 
 df = load_education_files("education")
 
@@ -339,6 +519,7 @@ if __name__ == "__main__":
     dim_state = build_dim_state(df)
     dim_education = build_dim_education(df)
     dim_age = build_dim_age(df)
+    dim_date = build_dim_date(df)
 
     # Générer les facts
     metric_map = {
@@ -365,16 +546,38 @@ if __name__ == "__main__":
     fact_age_by_education = build_fact_age_by_education(df)
     fact_earning_by_education = build_fact_earning_by_education(df)
 
+    # age_by_education_new=age_by_education_new(df)
+    # earning_by_education_new=earning_by_education_new(df)
+
+    # age_by_education_new.to_csv("age_by_education_new.csv", index=False)
+    # earning_by_education_new.to_csv("earning_by_education_new.csv", index=False)
+
+
     # Sauvegarder les DataFrames en CSV
     # dim_state.to_csv("dim_state.csv")
     # dim_education.to_csv("dim_education.csv")
     # dim_age.to_csv("dim_age.csv")
     # fact_age_by_education.to_csv("fact_age_by_education.csv", index=False)
     # fact_earning_by_education.to_csv("fact_earning_by_education.csv", index=False)
-    # #####
-    # Ecriture dans la db
 
-    engine = make_engine_trusted("localhost\\SQLEXPRESS", "USA")
+
+
+    # # Ecriture dans la db
+    SERVER   = r"NEOS-NBK1158\SQLEXPRESS"
+    DATABASE = "USA"
+    engine = make_engine_trusted(SERVER, DATABASE)
+
+
+    dim_date.to_sql(
+        "date",
+        con=engine,
+        schema="dbo",
+        if_exists="replace",
+        index=True,
+        chunksize=10000,
+        method=None
+    )
+
     dim_state.to_sql(
         "state",
         con=engine,
