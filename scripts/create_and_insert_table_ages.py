@@ -80,8 +80,8 @@ def import_ages_in_sql(year):
     metadata = MetaData()
 
     # Définition de la table avec contrainte UNIQUE
-    age = Table(
-        "age", metadata,
+    age_population = Table(
+        "age_population", metadata,
         Column("state", String(100), nullable=False),
         Column("year", Integer, nullable=False),
         Column("Under_5_years", Float),
@@ -103,7 +103,7 @@ def import_ages_in_sql(year):
     with engine.begin() as conn:
         for _, row in df.iterrows():
             try:
-                conn.execute(age.insert().values(**row.to_dict()))
+                conn.execute(age_population.insert().values(**row.to_dict()))
             except IntegrityError:
                 print(f"Doublon ignoré pour {row['etat']} - {row['year']}")
 
