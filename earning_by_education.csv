@@ -1,0 +1,266 @@
+state,year,education,age_group,total_estimate,male_estimate,female_estimate
+Alabama,2023,Less than high school graduate,25 years and over,29479,33584,22227
+Alaska,2023,Less than high school graduate,25 years and over,35109,41473,25742
+Arizona,2023,Less than high school graduate,25 years and over,32052,38144,24744
+Arkansas,2023,Less than high school graduate,25 years and over,30687,34448,25012
+California,2023,Less than high school graduate,25 years and over,31490,35969,25152
+Colorado,2023,Less than high school graduate,25 years and over,39959,45344,30264
+Connecticut,2023,Less than high school graduate,25 years and over,32471,36504,28796
+Delaware,2023,Less than high school graduate,25 years and over,31982,35748,28248
+District of Columbia,2023,Less than high school graduate,25 years and over,36900,36568,38009
+Florida,2023,Less than high school graduate,25 years and over,30360,33132,25076
+Georgia,2023,Less than high school graduate,25 years and over,31156,35944,24724
+Hawaii,2023,Less than high school graduate,25 years and over,32456,34395,27367
+Idaho,2023,Less than high school graduate,25 years and over,35771,41334,26339
+Illinois,2023,Less than high school graduate,25 years and over,34096,39696,28229
+Indiana,2023,Less than high school graduate,25 years and over,33420,39053,26118
+Iowa,2023,Less than high school graduate,25 years and over,34315,39671,27802
+Kansas,2023,Less than high school graduate,25 years and over,34079,41357,24984
+Kentucky,2023,Less than high school graduate,25 years and over,27658,31868,21879
+Louisiana,2023,Less than high school graduate,25 years and over,28345,36018,19214
+Maine,2023,Less than high school graduate,25 years and over,36005,41613,23163
+Maryland,2023,Less than high school graduate,25 years and over,36146,41399,29569
+Massachusetts,2023,Less than high school graduate,25 years and over,32493,39613,27961
+Michigan,2023,Less than high school graduate,25 years and over,32015,36470,25291
+Minnesota,2023,Less than high school graduate,25 years and over,36832,41975,29934
+Mississippi,2023,Less than high school graduate,25 years and over,28257,37939,19563
+Missouri,2023,Less than high school graduate,25 years and over,31777,39735,23865
+Montana,2023,Less than high school graduate,25 years and over,34233,41199,25143
+Nebraska,2023,Less than high school graduate,25 years and over,39451,45154,30200
+Nevada,2023,Less than high school graduate,25 years and over,35789,38453,31775
+New Hampshire,2023,Less than high school graduate,25 years and over,43513,49250,31222
+New Jersey,2023,Less than high school graduate,25 years and over,33066,37762,25437
+New Mexico,2023,Less than high school graduate,25 years and over,28500,35384,19542
+New York,2023,Less than high school graduate,25 years and over,30707,35194,23650
+North Carolina,2023,Less than high school graduate,25 years and over,30665,33586,23401
+North Dakota,2023,Less than high school graduate,25 years and over,39889,50190,35428
+Ohio,2023,Less than high school graduate,25 years and over,31513,38125,23696
+Oklahoma,2023,Less than high school graduate,25 years and over,30289,33843,22977
+Oregon,2023,Less than high school graduate,25 years and over,33681,36373,28864
+Pennsylvania,2023,Less than high school graduate,25 years and over,32598,40052,23843
+Puerto Rico,2023,Less than high school graduate,25 years and over,13188,13647,11083
+Rhode Island,2023,Less than high school graduate,25 years and over,31766,31706,32040
+South Carolina,2023,Less than high school graduate,25 years and over,30029,33889,22466
+South Dakota,2023,Less than high school graduate,25 years and over,29330,41048,19393
+Tennessee,2023,Less than high school graduate,25 years and over,30634,32351,24947
+Texas,2023,Less than high school graduate,25 years and over,30388,36339,21348
+United States,2023,Less than high school graduate,25 years and over,31660,36740,24766
+Utah,2023,Less than high school graduate,25 years and over,36901,42979,28155
+Vermont,2023,Less than high school graduate,25 years and over,39571,41629,34447
+Virginia,2023,Less than high school graduate,25 years and over,32661,39077,25716
+Washington,2023,Less than high school graduate,25 years and over,36828,43332,28230
+West Virginia,2023,Less than high school graduate,25 years and over,31134,35213,24282
+Wisconsin,2023,Less than high school graduate,25 years and over,35394,42119,25496
+Wyoming,2023,Less than high school graduate,25 years and over,40433,50789,28855
+Alabama,2023,High school graduate (includes equivalency),25 years and over,36615,45383,28204
+Alaska,2023,High school graduate (includes equivalency),25 years and over,43086,49281,36658
+Arizona,2023,High school graduate (includes equivalency),25 years and over,40648,45255,34739
+Arkansas,2023,High school graduate (includes equivalency),25 years and over,36012,41458,30121
+California,2023,High school graduate (includes equivalency),25 years and over,40803,46010,33760
+Colorado,2023,High school graduate (includes equivalency),25 years and over,42541,50130,36325
+Connecticut,2023,High school graduate (includes equivalency),25 years and over,42120,51107,34168
+Delaware,2023,High school graduate (includes equivalency),25 years and over,38872,45371,32029
+District of Columbia,2023,High school graduate (includes equivalency),25 years and over,40715,40480,40804
+Florida,2023,High school graduate (includes equivalency),25 years and over,36384,41237,31125
+Georgia,2023,High school graduate (includes equivalency),25 years and over,36820,41973,30816
+Hawaii,2023,High school graduate (includes equivalency),25 years and over,41038,47267,35005
+Idaho,2023,High school graduate (includes equivalency),25 years and over,38530,47146,30613
+Illinois,2023,High school graduate (includes equivalency),25 years and over,40285,46831,31852
+Indiana,2023,High school graduate (includes equivalency),25 years and over,39496,47090,31298
+Iowa,2023,High school graduate (includes equivalency),25 years and over,40533,50029,30317
+Kansas,2023,High school graduate (includes equivalency),25 years and over,37333,44943,29585
+Kentucky,2023,High school graduate (includes equivalency),25 years and over,36636,42920,28323
+Louisiana,2023,High school graduate (includes equivalency),25 years and over,36132,45364,26963
+Maine,2023,High school graduate (includes equivalency),25 years and over,40817,46293,32463
+Maryland,2023,High school graduate (includes equivalency),25 years and over,42778,50360,36514
+Massachusetts,2023,High school graduate (includes equivalency),25 years and over,43761,51339,35175
+Michigan,2023,High school graduate (includes equivalency),25 years and over,36823,44222,30056
+Minnesota,2023,High school graduate (includes equivalency),25 years and over,42435,50385,32679
+Mississippi,2023,High school graduate (includes equivalency),25 years and over,32125,40752,25571
+Missouri,2023,High school graduate (includes equivalency),25 years and over,37420,43311,31258
+Montana,2023,High school graduate (includes equivalency),25 years and over,39263,45161,31518
+Nebraska,2023,High school graduate (includes equivalency),25 years and over,39565,45131,32312
+Nevada,2023,High school graduate (includes equivalency),25 years and over,39090,44253,33247
+New Hampshire,2023,High school graduate (includes equivalency),25 years and over,47266,52512,37418
+New Jersey,2023,High school graduate (includes equivalency),25 years and over,41528,50615,32333
+New Mexico,2023,High school graduate (includes equivalency),25 years and over,33075,37403,28432
+New York,2023,High school graduate (includes equivalency),25 years and over,39771,45658,32291
+North Carolina,2023,High school graduate (includes equivalency),25 years and over,36723,41562,30729
+North Dakota,2023,High school graduate (includes equivalency),25 years and over,41665,51932,30149
+Ohio,2023,High school graduate (includes equivalency),25 years and over,37990,45375,30881
+Oklahoma,2023,High school graduate (includes equivalency),25 years and over,35929,41998,28186
+Oregon,2023,High school graduate (includes equivalency),25 years and over,39308,42459,33907
+Pennsylvania,2023,High school graduate (includes equivalency),25 years and over,40336,47447,31272
+Puerto Rico,2023,High school graduate (includes equivalency),25 years and over,16957,18352,14398
+Rhode Island,2023,High school graduate (includes equivalency),25 years and over,43157,50509,33174
+South Carolina,2023,High school graduate (includes equivalency),25 years and over,36740,43865,30413
+South Dakota,2023,High school graduate (includes equivalency),25 years and over,39793,45644,31848
+Tennessee,2023,High school graduate (includes equivalency),25 years and over,37693,43697,30929
+Texas,2023,High school graduate (includes equivalency),25 years and over,37086,43953,30229
+United States,2023,High school graduate (includes equivalency),25 years and over,39428,45709,31508
+Utah,2023,High school graduate (includes equivalency),25 years and over,41940,50627,33938
+Vermont,2023,High school graduate (includes equivalency),25 years and over,43810,50128,39180
+Virginia,2023,High school graduate (includes equivalency),25 years and over,41061,47342,32432
+Washington,2023,High school graduate (includes equivalency),25 years and over,44866,52006,36613
+West Virginia,2023,High school graduate (includes equivalency),25 years and over,35532,44873,27013
+Wisconsin,2023,High school graduate (includes equivalency),25 years and over,41604,49323,33310
+Wyoming,2023,High school graduate (includes equivalency),25 years and over,40102,51346,28207
+Alabama,2023,Some college or associate's degree,25 years and over,41938,52724,34132
+Alaska,2023,Some college or associate's degree,25 years and over,49114,56989,42699
+Arizona,2023,Some college or associate's degree,25 years and over,46493,53260,40624
+Arkansas,2023,Some college or associate's degree,25 years and over,40728,49588,33742
+California,2023,Some college or associate's degree,25 years and over,49673,57832,41362
+Colorado,2023,Some college or associate's degree,25 years and over,49707,56751,41654
+Connecticut,2023,Some college or associate's degree,25 years and over,49709,59726,40575
+Delaware,2023,Some college or associate's degree,25 years and over,46422,56050,41134
+District of Columbia,2023,Some college or associate's degree,25 years and over,56964,61768,54233
+Florida,2023,Some college or associate's degree,25 years and over,42629,50620,37680
+Georgia,2023,Some college or associate's degree,25 years and over,43051,51552,37258
+Hawaii,2023,Some college or associate's degree,25 years and over,47067,59931,40130
+Idaho,2023,Some college or associate's degree,25 years and over,42129,51959,32091
+Illinois,2023,Some college or associate's degree,25 years and over,46555,56539,38857
+Indiana,2023,Some college or associate's degree,25 years and over,46180,55813,38760
+Iowa,2023,Some college or associate's degree,25 years and over,45703,55384,38028
+Kansas,2023,Some college or associate's degree,25 years and over,41745,50734,35650
+Kentucky,2023,Some college or associate's degree,25 years and over,42365,52091,35707
+Louisiana,2023,Some college or associate's degree,25 years and over,41417,52295,33384
+Maine,2023,Some college or associate's degree,25 years and over,45440,52457,38144
+Maryland,2023,Some college or associate's degree,25 years and over,52094,61276,46181
+Massachusetts,2023,Some college or associate's degree,25 years and over,51190,60961,43515
+Michigan,2023,Some college or associate's degree,25 years and over,42435,52345,36059
+Minnesota,2023,Some college or associate's degree,25 years and over,50406,60382,41486
+Mississippi,2023,Some college or associate's degree,25 years and over,39281,50943,31522
+Missouri,2023,Some college or associate's degree,25 years and over,43300,52364,36996
+Montana,2023,Some college or associate's degree,25 years and over,41797,51885,33357
+Nebraska,2023,Some college or associate's degree,25 years and over,45546,55145,37092
+Nevada,2023,Some college or associate's degree,25 years and over,45855,51308,40430
+New Hampshire,2023,Some college or associate's degree,25 years and over,51883,64694,42630
+New Jersey,2023,Some college or associate's degree,25 years and over,50275,60398,41610
+New Mexico,2023,Some college or associate's degree,25 years and over,38978,46999,31924
+New York,2023,Some college or associate's degree,25 years and over,47596,55450,41134
+North Carolina,2023,Some college or associate's degree,25 years and over,41941,50326,36687
+North Dakota,2023,Some college or associate's degree,25 years and over,50273,60450,37744
+Ohio,2023,Some college or associate's degree,25 years and over,44817,53005,37431
+Oklahoma,2023,Some college or associate's degree,25 years and over,41685,51466,34654
+Oregon,2023,Some college or associate's degree,25 years and over,45326,52803,37702
+Pennsylvania,2023,Some college or associate's degree,25 years and over,46281,55170,38763
+Puerto Rico,2023,Some college or associate's degree,25 years and over,20342,22478,18201
+Rhode Island,2023,Some college or associate's degree,25 years and over,51094,56241,46025
+South Carolina,2023,Some college or associate's degree,25 years and over,42277,52348,36141
+South Dakota,2023,Some college or associate's degree,25 years and over,45724,53914,38482
+Tennessee,2023,Some college or associate's degree,25 years and over,42844,51727,36122
+Texas,2023,Some college or associate's degree,25 years and over,45447,53057,37582
+United States,2023,Some college or associate's degree,25 years and over,45924,54496,38541
+Utah,2023,Some college or associate's degree,25 years and over,46700,60734,36045
+Vermont,2023,Some college or associate's degree,25 years and over,47566,52916,43945
+Virginia,2023,Some college or associate's degree,25 years and over,47086,56997,39930
+Washington,2023,Some college or associate's degree,25 years and over,52013,62152,42676
+West Virginia,2023,Some college or associate's degree,25 years and over,40817,50062,35491
+Wisconsin,2023,Some college or associate's degree,25 years and over,48610,57144,40487
+Wyoming,2023,Some college or associate's degree,25 years and over,41392,53967,32575
+Alabama,2023,Bachelor's degree,25 years and over,60156,75941,48449
+Alaska,2023,Bachelor's degree,25 years and over,67221,81125,52396
+Arizona,2023,Bachelor's degree,25 years and over,66683,81286,55413
+Arkansas,2023,Bachelor's degree,25 years and over,56314,69736,48372
+California,2023,Bachelor's degree,25 years and over,78278,91308,67986
+Colorado,2023,Bachelor's degree,25 years and over,73072,88669,60005
+Connecticut,2023,Bachelor's degree,25 years and over,75975,89837,62399
+Delaware,2023,Bachelor's degree,25 years and over,64157,76607,58287
+District of Columbia,2023,Bachelor's degree,25 years and over,95628,102632,85742
+Florida,2023,Bachelor's degree,25 years and over,58009,71304,50712
+Georgia,2023,Bachelor's degree,25 years and over,64185,80360,54334
+Hawaii,2023,Bachelor's degree,25 years and over,61448,71834,51914
+Idaho,2023,Bachelor's degree,25 years and over,57342,72157,46562
+Illinois,2023,Bachelor's degree,25 years and over,71127,83995,60978
+Indiana,2023,Bachelor's degree,25 years and over,60573,75723,50724
+Iowa,2023,Bachelor's degree,25 years and over,60754,72304,51983
+Kansas,2023,Bachelor's degree,25 years and over,60620,74423,50430
+Kentucky,2023,Bachelor's degree,25 years and over,60185,69864,51395
+Louisiana,2023,Bachelor's degree,25 years and over,57107,71345,50059
+Maine,2023,Bachelor's degree,25 years and over,55592,65655,50342
+Maryland,2023,Bachelor's degree,25 years and over,76748,89664,66782
+Massachusetts,2023,Bachelor's degree,25 years and over,79985,93655,68817
+Michigan,2023,Bachelor's degree,25 years and over,64810,80228,53302
+Minnesota,2023,Bachelor's degree,25 years and over,71254,82099,61364
+Mississippi,2023,Bachelor's degree,25 years and over,52266,69390,47326
+Missouri,2023,Bachelor's degree,25 years and over,61418,73752,51631
+Montana,2023,Bachelor's degree,25 years and over,54642,69291,46293
+Nebraska,2023,Bachelor's degree,25 years and over,61239,74662,51745
+Nevada,2023,Bachelor's degree,25 years and over,60775,68922,52272
+New Hampshire,2023,Bachelor's degree,25 years and over,71325,88633,58814
+New Jersey,2023,Bachelor's degree,25 years and over,80114,94287,67387
+New Mexico,2023,Bachelor's degree,25 years and over,55421,65085,48678
+New York,2023,Bachelor's degree,25 years and over,74504,83929,65343
+North Carolina,2023,Bachelor's degree,25 years and over,62338,77811,52343
+North Dakota,2023,Bachelor's degree,25 years and over,61164,75314,51819
+Ohio,2023,Bachelor's degree,25 years and over,64933,76040,55659
+Oklahoma,2023,Bachelor's degree,25 years and over,55663,69354,48263
+Oregon,2023,Bachelor's degree,25 years and over,67100,80759,55901
+Pennsylvania,2023,Bachelor's degree,25 years and over,65678,78867,55737
+Puerto Rico,2023,Bachelor's degree,25 years and over,30562,34289,28124
+Rhode Island,2023,Bachelor's degree,25 years and over,68084,81285,60400
+South Carolina,2023,Bachelor's degree,25 years and over,60590,74913,50212
+South Dakota,2023,Bachelor's degree,25 years and over,56517,63884,50405
+Tennessee,2023,Bachelor's degree,25 years and over,61189,75464,51658
+Texas,2023,Bachelor's degree,25 years and over,66474,81413,58015
+United States,2023,Bachelor's degree,25 years and over,67256,81218,57055
+Utah,2023,Bachelor's degree,25 years and over,63247,82260,47188
+Vermont,2023,Bachelor's degree,25 years and over,56741,66655,51670
+Virginia,2023,Bachelor's degree,25 years and over,74468,90810,61013
+Washington,2023,Bachelor's degree,25 years and over,78485,95068,64655
+West Virginia,2023,Bachelor's degree,25 years and over,56648,71228,50096
+Wisconsin,2023,Bachelor's degree,25 years and over,64320,76575,55029
+Wyoming,2023,Bachelor's degree,25 years and over,58331,63638,52177
+Alabama,2023,Graduate or professional degree,25 years and over,70682,91733,61240
+Alaska,2023,Graduate or professional degree,25 years and over,86402,108827,75601
+Arizona,2023,Graduate or professional degree,25 years and over,81942,101436,69436
+Arkansas,2023,Graduate or professional degree,25 years and over,70510,84814,62061
+California,2023,Graduate or professional degree,25 years and over,104353,129151,92278
+Colorado,2023,Graduate or professional degree,25 years and over,86024,104566,75401
+Connecticut,2023,Graduate or professional degree,25 years and over,91993,110535,80651
+Delaware,2023,Graduate or professional degree,25 years and over,84475,101314,76402
+District of Columbia,2023,Graduate or professional degree,25 years and over,122926,142469,112262
+Florida,2023,Graduate or professional degree,25 years and over,76981,98210,62939
+Georgia,2023,Graduate or professional degree,25 years and over,81353,101859,70720
+Hawaii,2023,Graduate or professional degree,25 years and over,80803,95927,72618
+Idaho,2023,Graduate or professional degree,25 years and over,77490,90224,67860
+Illinois,2023,Graduate or professional degree,25 years and over,86416,103042,75178
+Indiana,2023,Graduate or professional degree,25 years and over,74916,88282,66771
+Iowa,2023,Graduate or professional degree,25 years and over,75037,90408,69987
+Kansas,2023,Graduate or professional degree,25 years and over,71844,86606,62043
+Kentucky,2023,Graduate or professional degree,25 years and over,67332,80759,61535
+Louisiana,2023,Graduate or professional degree,25 years and over,68554,92252,60739
+Maine,2023,Graduate or professional degree,25 years and over,72693,83045,66554
+Maryland,2023,Graduate or professional degree,25 years and over,101230,121395,88359
+Massachusetts,2023,Graduate or professional degree,25 years and over,99844,121205,85607
+Michigan,2023,Graduate or professional degree,25 years and over,81852,100522,71551
+Minnesota,2023,Graduate or professional degree,25 years and over,83613,99058,76841
+Mississippi,2023,Graduate or professional degree,25 years and over,60782,74494,55369
+Missouri,2023,Graduate or professional degree,25 years and over,72423,90423,63462
+Montana,2023,Graduate or professional degree,25 years and over,70066,82066,60838
+Nebraska,2023,Graduate or professional degree,25 years and over,72775,91174,65902
+Nevada,2023,Graduate or professional degree,25 years and over,83420,95051,76272
+New Hampshire,2023,Graduate or professional degree,25 years and over,86168,104303,76368
+New Jersey,2023,Graduate or professional degree,25 years and over,101149,124969,85581
+New Mexico,2023,Graduate or professional degree,25 years and over,74674,88642,68166
+New York,2023,Graduate or professional degree,25 years and over,91457,104353,81694
+North Carolina,2023,Graduate or professional degree,25 years and over,77838,101046,66979
+North Dakota,2023,Graduate or professional degree,25 years and over,75821,94978,67778
+Ohio,2023,Graduate or professional degree,25 years and over,80099,93278,72646
+Oklahoma,2023,Graduate or professional degree,25 years and over,68832,82196,61242
+Oregon,2023,Graduate or professional degree,25 years and over,86858,101627,76921
+Pennsylvania,2023,Graduate or professional degree,25 years and over,83961,101581,75008
+Puerto Rico,2023,Graduate or professional degree,25 years and over,43242,55462,37713
+Rhode Island,2023,Graduate or professional degree,25 years and over,87103,100100,81880
+South Carolina,2023,Graduate or professional degree,25 years and over,68792,90570,61165
+South Dakota,2023,Graduate or professional degree,25 years and over,67405,77289,61552
+Tennessee,2023,Graduate or professional degree,25 years and over,74239,93816,65550
+Texas,2023,Graduate or professional degree,25 years and over,83517,102743,70496
+United States,2023,Graduate or professional degree,25 years and over,86524,104054,74815
+Utah,2023,Graduate or professional degree,25 years and over,92065,110512,71844
+Vermont,2023,Graduate or professional degree,25 years and over,72957,91689,63921
+Virginia,2023,Graduate or professional degree,25 years and over,99947,122999,80011
+Washington,2023,Graduate or professional degree,25 years and over,102656,128762,88218
+West Virginia,2023,Graduate or professional degree,25 years and over,65778,77059,60144
+Wisconsin,2023,Graduate or professional degree,25 years and over,76254,93592,67875
+Wyoming,2023,Graduate or professional degree,25 years and over,70537,79928,63720

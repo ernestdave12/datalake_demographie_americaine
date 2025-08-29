@@ -2,21 +2,22 @@ import pandas as pd
 from sqlalchemy import create_engine
 import urllib
 from sqlalchemy.engine import Engine
+from dotenv import load_dotenv
+import os
 
-SERVER   = r"NEOS-NBK1158\SQLEXPRESS"
-DATABASE = "USA"
+load_dotenv()
 
 # ============ CONNEXION SQL SERVER ============
 def make_engine_trusted(server: str, database: str) -> Engine:
     params = urllib.parse.quote_plus(
-        "DRIVER={ODBC Driver 18 for SQL Server};"  # Assurez-vous que le pilote est installé
+        "DRIVER={ODBC Driver 17 for SQL Server};"  # Assurez-vous que le pilote est installé
         f"SERVER={server};"
         f"DATABASE={database};"
         "Trusted_Connection=yes;"
         "TrustServerCertificate=yes;"
     )
     return create_engine(f"mssql+pyodbc:///?odbc_connect={params}", fast_executemany=True, future=True)
-engine = make_engine_trusted(SERVER, DATABASE)
+engine = make_engine_trusted("localhost\\SQLEXPRESS", "USA")
 
 
 # ============ CREATION DES TABLES ============

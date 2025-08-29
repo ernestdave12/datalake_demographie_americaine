@@ -2,7 +2,7 @@
 import pandas as pd
 import re
 
-df = pd.read_csv("education/education_2023.csv")
+df = pd.read_csv("../Data_Source_1/Data Source/education/education_2023.csv")
 
 # --- 1) Normaliser le label & construire age_group ---
 def clean(x):

@@ -373,10 +373,8 @@ if __name__ == "__main__":
     # fact_earning_by_education.to_csv("fact_earning_by_education.csv", index=False)
     # #####
     # Ecriture dans la db
-    SERVER   = r"NEOS-NBK1158\SQLEXPRESS"
-    DATABASE = "USA"
 
-    engine = make_engine_trusted(SERVER, DATABASE)
+    engine = make_engine_trusted("localhost\\SQLEXPRESS", "USA")
     dim_state.to_sql(
         "state",
         con=engine,
