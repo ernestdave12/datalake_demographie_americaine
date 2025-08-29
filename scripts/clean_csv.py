@@ -1,5 +1,22 @@
 import pandas as pd
 
+def clean_estimate(val):
+    if pd.isna(val) or str(val).strip() in ["(X)", "X"]:
+        return None
+    try:
+        return float(str(val).replace(",", "").strip())
+    except ValueError:
+        return None  # si vraiment pas convertible
+
+
+def clean_percent(val):
+    if pd.isna(val) or str(val).strip() in ["(X)", "X"]:
+        return None
+    try:
+        return float(str(val).replace("%", "").strip())
+    except ValueError:
+        return None
+
 def clean(df):
     # Renommer les colonnes
     df = df.rename(columns={
@@ -9,22 +26,6 @@ def clean(df):
         "Percent": "percent"
     })
 
-    # Nettoyage des colonnes
-    def clean_estimate(val):
-        if pd.isna(val) or str(val).strip() in ["(X)", "X"]:
-            return None
-        try:
-            return float(str(val).replace(",", "").strip())
-        except ValueError:
-            return None  # si vraiment pas convertible
-
-    def clean_percent(val):
-        if pd.isna(val) or str(val).strip() in ["(X)", "X"]:
-            return None
-        try:
-            return float(str(val).replace("%", "").strip())
-        except ValueError:
-            return None
 
     df["estimate"] = df["estimate"].apply(clean_estimate)
     df["percent"] = df["percent"].apply(clean_percent)
