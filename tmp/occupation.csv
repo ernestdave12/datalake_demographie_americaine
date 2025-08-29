@@ -1,0 +1,796 @@
+state_id,year_id,indicator,Estimate,Percent
+United States,2021,"Management, business, science, and arts occupations","66,001,412",42.2%
+Alabama,2021,"Management, business, science, and arts occupations","817,226",37.3%
+Alaska,2021,"Management, business, science, and arts occupations","130,810",39.9%
+Arizona,2021,"Management, business, science, and arts occupations","1,358,986",41.0%
+Arkansas,2021,"Management, business, science, and arts occupations","489,497",37.0%
+California,2021,"Management, business, science, and arts occupations","7,787,205",42.9%
+Colorado,2021,"Management, business, science, and arts occupations","1,408,414",46.9%
+Connecticut,2021,"Management, business, science, and arts occupations","847,978",46.8%
+Delaware,2021,"Management, business, science, and arts occupations","194,221",42.1%
+District of Columbia,2021,"Management, business, science, and arts occupations","256,907",72.3%
+Florida,2021,"Management, business, science, and arts occupations","3,898,357",39.0%
+Georgia,2021,"Management, business, science, and arts occupations","2,087,547",41.5%
+Hawaii,2021,"Management, business, science, and arts occupations","251,878",39.5%
+Idaho,2021,"Management, business, science, and arts occupations","341,530",37.9%
+Illinois,2021,"Management, business, science, and arts occupations","2,617,285",43.1%
+Indiana,2021,"Management, business, science, and arts occupations","1,235,077",37.9%
+Iowa,2021,"Management, business, science, and arts occupations","630,813",39.0%
+Kansas,2021,"Management, business, science, and arts occupations","601,381",41.8%
+Kentucky,2021,"Management, business, science, and arts occupations","738,568",37.1%
+Louisiana,2021,"Management, business, science, and arts occupations","755,606",38.6%
+Maine,2021,"Management, business, science, and arts occupations","286,631",42.6%
+Maryland,2021,"Management, business, science, and arts occupations","1,535,711",50.0%
+Massachusetts,2021,"Management, business, science, and arts occupations","1,848,359",51.3%
+Michigan,2021,"Management, business, science, and arts occupations","1,839,312",39.8%
+Minnesota,2021,"Management, business, science, and arts occupations","1,326,526",44.8%
+Mississippi,2021,"Management, business, science, and arts occupations","435,368",35.5%
+Missouri,2021,"Management, business, science, and arts occupations","1,199,849",40.8%
+Montana,2021,"Management, business, science, and arts occupations","218,720",41.5%
+Nebraska,2021,"Management, business, science, and arts occupations","410,508",40.3%
+Nevada,2021,"Management, business, science, and arts occupations","483,428",33.9%
+New Hampshire,2021,"Management, business, science, and arts occupations","331,322",44.4%
+New Jersey,2021,"Management, business, science, and arts occupations","2,158,829",47.9%
+New Mexico,2021,"Management, business, science, and arts occupations","364,490",41.5%
+New York,2021,"Management, business, science, and arts occupations","4,265,380",46.2%
+North Carolina,2021,"Management, business, science, and arts occupations","2,058,589",42.1%
+North Dakota,2021,"Management, business, science, and arts occupations","158,755",40.2%
+Ohio,2021,"Management, business, science, and arts occupations","2,242,242",40.0%
+Oklahoma,2021,"Management, business, science, and arts occupations","675,678",38.0%
+Oregon,2021,"Management, business, science, and arts occupations","853,014",42.5%
+Pennsylvania,2021,"Management, business, science, and arts occupations","2,640,310",42.6%
+Rhode Island,2021,"Management, business, science, and arts occupations","235,631",43.1%
+South Carolina,2021,"Management, business, science, and arts occupations","896,036",38.4%
+South Dakota,2021,"Management, business, science, and arts occupations","178,728",39.8%
+Tennessee,2021,"Management, business, science, and arts occupations","1,255,140",38.7%
+Texas,2021,"Management, business, science, and arts occupations","5,532,536",40.1%
+Utah,2021,"Management, business, science, and arts occupations","697,597",42.2%
+Vermont,2021,"Management, business, science, and arts occupations","156,758",47.1%
+Virginia,2021,"Management, business, science, and arts occupations","2,031,791",48.3%
+Washington,2021,"Management, business, science, and arts occupations","1,678,636",45.4%
+West Virginia,2021,"Management, business, science, and arts occupations","268,365",37.2%
+Wisconsin,2021,"Management, business, science, and arts occupations","1,180,744",39.5%
+Wyoming,2021,"Management, business, science, and arts occupations","107,143",37.3%
+Puerto Rico,2021,"Management, business, science, and arts occupations","324,102",29.9%
+United States,2021,Service occupations,"25,151,071",16.1%
+Alabama,2021,Service occupations,"346,448",15.8%
+Alaska,2021,Service occupations,"56,475",17.2%
+Arizona,2021,Service occupations,"554,814",16.7%
+Arkansas,2021,Service occupations,"208,638",15.8%
+California,2021,Service occupations,"3,042,502",16.8%
+Colorado,2021,Service occupations,"439,959",14.7%
+Connecticut,2021,Service occupations,"286,400",15.8%
+Delaware,2021,Service occupations,"79,742",17.3%
+District of Columbia,2021,Service occupations,"36,259",10.2%
+Florida,2021,Service occupations,"1,795,505",18.0%
+Georgia,2021,Service occupations,"757,381",15.0%
+Hawaii,2021,Service occupations,"132,423",20.8%
+Idaho,2021,Service occupations,"153,613",17.0%
+Illinois,2021,Service occupations,"957,038",15.7%
+Indiana,2021,Service occupations,"493,787",15.2%
+Iowa,2021,Service occupations,"239,952",14.8%
+Kansas,2021,Service occupations,"222,044",15.4%
+Kentucky,2021,Service occupations,"294,491",14.8%
+Louisiana,2021,Service occupations,"351,370",17.9%
+Maine,2021,Service occupations,"103,219",15.3%
+Maryland,2021,Service occupations,"457,929",14.9%
+Massachusetts,2021,Service occupations,"546,565",15.2%
+Michigan,2021,Service occupations,"716,796",15.5%
+Minnesota,2021,Service occupations,"438,211",14.8%
+Mississippi,2021,Service occupations,"195,916",16.0%
+Missouri,2021,Service occupations,"445,761",15.2%
+Montana,2021,Service occupations,"93,097",17.6%
+Nebraska,2021,Service occupations,"157,563",15.5%
+Nevada,2021,Service occupations,"314,713",22.1%
+New Hampshire,2021,Service occupations,"103,365",13.9%
+New Jersey,2021,Service occupations,"617,919",13.7%
+New Mexico,2021,Service occupations,"166,198",18.9%
+New York,2021,Service occupations,"1,666,875",18.1%
+North Carolina,2021,Service occupations,"730,706",14.9%
+North Dakota,2021,Service occupations,"67,091",17.0%
+Ohio,2021,Service occupations,"882,771",15.8%
+Oklahoma,2021,Service occupations,"301,084",16.9%
+Oregon,2021,Service occupations,"332,420",16.6%
+Pennsylvania,2021,Service occupations,"975,291",15.8%
+Rhode Island,2021,Service occupations,"97,220",17.8%
+South Carolina,2021,Service occupations,"389,084",16.7%
+South Dakota,2021,Service occupations,"71,487",15.9%
+Tennessee,2021,Service occupations,"496,963",15.3%
+Texas,2021,Service occupations,"2,236,307",16.2%
+Utah,2021,Service occupations,"226,607",13.7%
+Vermont,2021,Service occupations,"46,009",13.8%
+Virginia,2021,Service occupations,"646,999",15.4%
+Washington,2021,Service occupations,"554,097",15.0%
+West Virginia,2021,Service occupations,"131,829",18.3%
+Wisconsin,2021,Service occupations,"443,972",14.8%
+Wyoming,2021,Service occupations,"48,166",16.8%
+Puerto Rico,2021,Service occupations,"227,050",20.9%
+United States,2021,Sales and office occupations,"31,329,510",20.0%
+Alabama,2021,Sales and office occupations,"443,703",20.3%
+Alaska,2021,Sales and office occupations,"60,360",18.4%
+Arizona,2021,Sales and office occupations,"745,405",22.5%
+Arkansas,2021,Sales and office occupations,"267,159",20.2%
+California,2021,Sales and office occupations,"3,545,812",19.5%
+Colorado,2021,Sales and office occupations,"593,476",19.8%
+Connecticut,2021,Sales and office occupations,"353,421",19.5%
+Delaware,2021,Sales and office occupations,"93,315",20.2%
+District of Columbia,2021,Sales and office occupations,"41,890",11.8%
+Florida,2021,Sales and office occupations,"2,298,337",23.0%
+Georgia,2021,Sales and office occupations,"1,029,532",20.5%
+Hawaii,2021,Sales and office occupations,"139,161",21.8%
+Idaho,2021,Sales and office occupations,"180,926",20.1%
+Illinois,2021,Sales and office occupations,"1,201,635",19.8%
+Indiana,2021,Sales and office occupations,"618,780",19.0%
+Iowa,2021,Sales and office occupations,"318,367",19.7%
+Kansas,2021,Sales and office occupations,"290,451",20.2%
+Kentucky,2021,Sales and office occupations,"406,303",20.4%
+Louisiana,2021,Sales and office occupations,"399,365",20.4%
+Maine,2021,Sales and office occupations,"133,695",19.9%
+Maryland,2021,Sales and office occupations,"563,763",18.4%
+Massachusetts,2021,Sales and office occupations,"646,437",17.9%
+Michigan,2021,Sales and office occupations,"908,817",19.7%
+Minnesota,2021,Sales and office occupations,"564,988",19.1%
+Mississippi,2021,Sales and office occupations,"255,720",20.8%
+Missouri,2021,Sales and office occupations,"609,799",20.7%
+Montana,2021,Sales and office occupations,"96,933",18.4%
+Nebraska,2021,Sales and office occupations,"202,914",19.9%
+Nevada,2021,Sales and office occupations,"317,011",22.3%
+New Hampshire,2021,Sales and office occupations,"153,630",20.6%
+New Jersey,2021,Sales and office occupations,"916,889",20.3%
+New Mexico,2021,Sales and office occupations,"163,516",18.6%
+New York,2021,Sales and office occupations,"1,796,908",19.5%
+North Carolina,2021,Sales and office occupations,"978,145",20.0%
+North Dakota,2021,Sales and office occupations,"76,242",19.3%
+Ohio,2021,Sales and office occupations,"1,115,342",19.9%
+Oklahoma,2021,Sales and office occupations,"363,743",20.4%
+Oregon,2021,Sales and office occupations,"400,501",20.0%
+Pennsylvania,2021,Sales and office occupations,"1,208,310",19.5%
+Rhode Island,2021,Sales and office occupations,"111,672",20.4%
+South Carolina,2021,Sales and office occupations,"475,177",20.3%
+South Dakota,2021,Sales and office occupations,"90,829",20.2%
+Tennessee,2021,Sales and office occupations,"671,642",20.7%
+Texas,2021,Sales and office occupations,"2,841,657",20.6%
+Utah,2021,Sales and office occupations,"364,072",22.0%
+Vermont,2021,Sales and office occupations,"59,201",17.8%
+Virginia,2021,Sales and office occupations,"768,138",18.3%
+Washington,2021,Sales and office occupations,"677,758",18.3%
+West Virginia,2021,Sales and office occupations,"146,661",20.3%
+Wisconsin,2021,Sales and office occupations,"569,596",19.0%
+Wyoming,2021,Sales and office occupations,"52,406",18.2%
+Puerto Rico,2021,Sales and office occupations,"289,971",26.7%
+United States,2021,"Natural resources, construction, and maintenance occupations","13,368,928",8.5%
+Alabama,2021,"Natural resources, construction, and maintenance occupations","210,602",9.6%
+Alaska,2021,"Natural resources, construction, and maintenance occupations","35,248",10.7%
+Arizona,2021,"Natural resources, construction, and maintenance occupations","290,747",8.8%
+Arkansas,2021,"Natural resources, construction, and maintenance occupations","136,988",10.4%
+California,2021,"Natural resources, construction, and maintenance occupations","1,590,478",8.8%
+Colorado,2021,"Natural resources, construction, and maintenance occupations","260,978",8.7%
+Connecticut,2021,"Natural resources, construction, and maintenance occupations","124,126",6.9%
+Delaware,2021,"Natural resources, construction, and maintenance occupations","39,838",8.6%
+District of Columbia,2021,"Natural resources, construction, and maintenance occupations","7,084",2.0%
+Florida,2021,"Natural resources, construction, and maintenance occupations","906,972",9.1%
+Georgia,2021,"Natural resources, construction, and maintenance occupations","414,251",8.2%
+Hawaii,2021,"Natural resources, construction, and maintenance occupations","59,615",9.4%
+Idaho,2021,"Natural resources, construction, and maintenance occupations","103,131",11.4%
+Illinois,2021,"Natural resources, construction, and maintenance occupations","423,839",7.0%
+Indiana,2021,"Natural resources, construction, and maintenance occupations","288,486",8.9%
+Iowa,2021,"Natural resources, construction, and maintenance occupations","156,103",9.7%
+Kansas,2021,"Natural resources, construction, and maintenance occupations","129,227",9.0%
+Kentucky,2021,"Natural resources, construction, and maintenance occupations","168,853",8.5%
+Louisiana,2021,"Natural resources, construction, and maintenance occupations","204,015",10.4%
+Maine,2021,"Natural resources, construction, and maintenance occupations","66,654",9.9%
+Maryland,2021,"Natural resources, construction, and maintenance occupations","227,477",7.4%
+Massachusetts,2021,"Natural resources, construction, and maintenance occupations","237,876",6.6%
+Michigan,2021,"Natural resources, construction, and maintenance occupations","380,538",8.2%
+Minnesota,2021,"Natural resources, construction, and maintenance occupations","231,654",7.8%
+Mississippi,2021,"Natural resources, construction, and maintenance occupations","119,154",9.7%
+Missouri,2021,"Natural resources, construction, and maintenance occupations","246,027",8.4%
+Montana,2021,"Natural resources, construction, and maintenance occupations","62,453",11.8%
+Nebraska,2021,"Natural resources, construction, and maintenance occupations","99,177",9.7%
+Nevada,2021,"Natural resources, construction, and maintenance occupations","131,518",9.2%
+New Hampshire,2021,"Natural resources, construction, and maintenance occupations","65,132",8.7%
+New Jersey,2021,"Natural resources, construction, and maintenance occupations","309,345",6.9%
+New Mexico,2021,"Natural resources, construction, and maintenance occupations","90,370",10.3%
+New York,2021,"Natural resources, construction, and maintenance occupations","620,059",6.7%
+North Carolina,2021,"Natural resources, construction, and maintenance occupations","433,194",8.9%
+North Dakota,2021,"Natural resources, construction, and maintenance occupations","44,158",11.2%
+Ohio,2021,"Natural resources, construction, and maintenance occupations","421,029",7.5%
+Oklahoma,2021,"Natural resources, construction, and maintenance occupations","189,169",10.6%
+Oregon,2021,"Natural resources, construction, and maintenance occupations","169,995",8.5%
+Pennsylvania,2021,"Natural resources, construction, and maintenance occupations","484,560",7.8%
+Rhode Island,2021,"Natural resources, construction, and maintenance occupations","40,708",7.5%
+South Carolina,2021,"Natural resources, construction, and maintenance occupations","216,508",9.3%
+South Dakota,2021,"Natural resources, construction, and maintenance occupations","47,869",10.7%
+Tennessee,2021,"Natural resources, construction, and maintenance occupations","268,404",8.3%
+Texas,2021,"Natural resources, construction, and maintenance occupations","1,400,439",10.2%
+Utah,2021,"Natural resources, construction, and maintenance occupations","143,180",8.7%
+Vermont,2021,"Natural resources, construction, and maintenance occupations","34,263",10.3%
+Virginia,2021,"Natural resources, construction, and maintenance occupations","315,036",7.5%
+Washington,2021,"Natural resources, construction, and maintenance occupations","342,465",9.3%
+West Virginia,2021,"Natural resources, construction, and maintenance occupations","73,580",10.2%
+Wisconsin,2021,"Natural resources, construction, and maintenance occupations","265,809",8.9%
+Wyoming,2021,"Natural resources, construction, and maintenance occupations","40,547",14.1%
+Puerto Rico,2021,"Natural resources, construction, and maintenance occupations","108,107",10.0%
+United States,2021,"Production, transportation, and material moving occupations","20,529,512",13.1%
+Alabama,2021,"Production, transportation, and material moving occupations","372,936",17.0%
+Alaska,2021,"Production, transportation, and material moving occupations","45,060",13.7%
+Arizona,2021,"Production, transportation, and material moving occupations","364,847",11.0%
+Arkansas,2021,"Production, transportation, and material moving occupations","221,229",16.7%
+California,2021,"Production, transportation, and material moving occupations","2,190,054",12.1%
+Colorado,2021,"Production, transportation, and material moving occupations","299,279",10.0%
+Connecticut,2021,"Production, transportation, and material moving occupations","199,017",11.0%
+Delaware,2021,"Production, transportation, and material moving occupations","53,980",11.7%
+District of Columbia,2021,"Production, transportation, and material moving occupations","13,258",3.7%
+Florida,2021,"Production, transportation, and material moving occupations","1,084,090",10.9%
+Georgia,2021,"Production, transportation, and material moving occupations","743,748",14.8%
+Hawaii,2021,"Production, transportation, and material moving occupations","53,886",8.5%
+Idaho,2021,"Production, transportation, and material moving occupations","122,619",13.6%
+Illinois,2021,"Production, transportation, and material moving occupations","879,395",14.5%
+Indiana,2021,"Production, transportation, and material moving occupations","623,048",19.1%
+Iowa,2021,"Production, transportation, and material moving occupations","271,298",16.8%
+Kansas,2021,"Production, transportation, and material moving occupations","194,369",13.5%
+Kentucky,2021,"Production, transportation, and material moving occupations","384,116",19.3%
+Louisiana,2021,"Production, transportation, and material moving occupations","247,434",12.6%
+Maine,2021,"Production, transportation, and material moving occupations","82,281",12.2%
+Maryland,2021,"Production, transportation, and material moving occupations","285,870",9.3%
+Massachusetts,2021,"Production, transportation, and material moving occupations","325,435",9.0%
+Michigan,2021,"Production, transportation, and material moving occupations","772,155",16.7%
+Minnesota,2021,"Production, transportation, and material moving occupations","396,572",13.4%
+Mississippi,2021,"Production, transportation, and material moving occupations","221,458",18.0%
+Missouri,2021,"Production, transportation, and material moving occupations","437,995",14.9%
+Montana,2021,"Production, transportation, and material moving occupations","56,362",10.7%
+Nebraska,2021,"Production, transportation, and material moving occupations","148,938",14.6%
+Nevada,2021,"Production, transportation, and material moving occupations","178,023",12.5%
+New Hampshire,2021,"Production, transportation, and material moving occupations","92,301",12.4%
+New Jersey,2021,"Production, transportation, and material moving occupations","505,537",11.2%
+New Mexico,2021,"Production, transportation, and material moving occupations","94,032",10.7%
+New York,2021,"Production, transportation, and material moving occupations","877,151",9.5%
+North Carolina,2021,"Production, transportation, and material moving occupations","689,232",14.1%
+North Dakota,2021,"Production, transportation, and material moving occupations","48,355",12.3%
+Ohio,2021,"Production, transportation, and material moving occupations","938,825",16.8%
+Oklahoma,2021,"Production, transportation, and material moving occupations","250,412",14.1%
+Oregon,2021,"Production, transportation, and material moving occupations","251,538",12.5%
+Pennsylvania,2021,"Production, transportation, and material moving occupations","882,325",14.3%
+Rhode Island,2021,"Production, transportation, and material moving occupations","61,018",11.2%
+South Carolina,2021,"Production, transportation, and material moving occupations","358,549",15.4%
+South Dakota,2021,"Production, transportation, and material moving occupations","60,522",13.5%
+Tennessee,2021,"Production, transportation, and material moving occupations","547,162",16.9%
+Texas,2021,"Production, transportation, and material moving occupations","1,785,290",12.9%
+Utah,2021,"Production, transportation, and material moving occupations","222,312",13.4%
+Vermont,2021,"Production, transportation, and material moving occupations","36,904",11.1%
+Virginia,2021,"Production, transportation, and material moving occupations","444,458",10.6%
+Washington,2021,"Production, transportation, and material moving occupations","443,608",12.0%
+West Virginia,2021,"Production, transportation, and material moving occupations","101,044",14.0%
+Wisconsin,2021,"Production, transportation, and material moving occupations","531,015",17.8%
+Wyoming,2021,"Production, transportation, and material moving occupations","39,170",13.6%
+Puerto Rico,2021,"Production, transportation, and material moving occupations","136,384",12.6%
+United States,2022,"Management, business, science, and arts occupations","69,122,191",42.5%
+Alabama,2022,"Management, business, science, and arts occupations","858,201",37.7%
+Alaska,2022,"Management, business, science, and arts occupations","137,610",39.9%
+Arizona,2022,"Management, business, science, and arts occupations","1,407,004",40.9%
+Arkansas,2022,"Management, business, science, and arts occupations","486,446",36.4%
+California,2022,"Management, business, science, and arts occupations","8,105,868",42.8%
+Colorado,2022,"Management, business, science, and arts occupations","1,502,732",48.0%
+Connecticut,2022,"Management, business, science, and arts occupations","882,726",47.4%
+Delaware,2022,"Management, business, science, and arts occupations","216,580",43.4%
+District of Columbia,2022,"Management, business, science, and arts occupations","271,588",72.4%
+Florida,2022,"Management, business, science, and arts occupations","4,180,490",39.9%
+Georgia,2022,"Management, business, science, and arts occupations","2,183,018",41.4%
+Hawaii,2022,"Management, business, science, and arts occupations","267,684",39.7%
+Idaho,2022,"Management, business, science, and arts occupations","365,094",39.6%
+Illinois,2022,"Management, business, science, and arts occupations","2,720,451",43.2%
+Indiana,2022,"Management, business, science, and arts occupations","1,277,411",38.1%
+Iowa,2022,"Management, business, science, and arts occupations","655,999",39.6%
+Kansas,2022,"Management, business, science, and arts occupations","612,552",42.1%
+Kentucky,2022,"Management, business, science, and arts occupations","775,675",37.6%
+Louisiana,2022,"Management, business, science, and arts occupations","775,381",38.0%
+Maine,2022,"Management, business, science, and arts occupations","295,100",42.4%
+Maryland,2022,"Management, business, science, and arts occupations","1,620,690",51.2%
+Massachusetts,2022,"Management, business, science, and arts occupations","1,896,640",51.1%
+Michigan,2022,"Management, business, science, and arts occupations","1,950,521",40.6%
+Minnesota,2022,"Management, business, science, and arts occupations","1,355,388",45.1%
+Mississippi,2022,"Management, business, science, and arts occupations","443,366",35.3%
+Missouri,2022,"Management, business, science, and arts occupations","1,210,654",40.5%
+Montana,2022,"Management, business, science, and arts occupations","231,137",41.3%
+Nebraska,2022,"Management, business, science, and arts occupations","416,077",40.6%
+Nevada,2022,"Management, business, science, and arts occupations","510,975",33.5%
+New Hampshire,2022,"Management, business, science, and arts occupations","343,269",45.5%
+New Jersey,2022,"Management, business, science, and arts occupations","2,244,619",47.7%
+New Mexico,2022,"Management, business, science, and arts occupations","377,072",40.2%
+New York,2022,"Management, business, science, and arts occupations","4,409,016",45.9%
+North Carolina,2022,"Management, business, science, and arts occupations","2,157,952",42.0%
+North Dakota,2022,"Management, business, science, and arts occupations","164,522",40.3%
+Ohio,2022,"Management, business, science, and arts occupations","2,353,790",40.9%
+Oklahoma,2022,"Management, business, science, and arts occupations","700,537",38.1%
+Oregon,2022,"Management, business, science, and arts occupations","906,473",43.3%
+Pennsylvania,2022,"Management, business, science, and arts occupations","2,753,430",43.0%
+Rhode Island,2022,"Management, business, science, and arts occupations","258,608",46.1%
+South Carolina,2022,"Management, business, science, and arts occupations","952,551",38.8%
+South Dakota,2022,"Management, business, science, and arts occupations","186,086",40.4%
+Tennessee,2022,"Management, business, science, and arts occupations","1,348,026",39.5%
+Texas,2022,"Management, business, science, and arts occupations","5,919,246",40.6%
+Utah,2022,"Management, business, science, and arts occupations","743,605",42.8%
+Vermont,2022,"Management, business, science, and arts occupations","164,567",47.8%
+Virginia,2022,"Management, business, science, and arts occupations","2,110,846",49.1%
+Washington,2022,"Management, business, science, and arts occupations","1,796,674",46.5%
+West Virginia,2022,"Management, business, science, and arts occupations","289,119",39.3%
+Wisconsin,2022,"Management, business, science, and arts occupations","1,213,187",39.9%
+Wyoming,2022,"Management, business, science, and arts occupations","115,938",39.8%
+Puerto Rico,2022,"Management, business, science, and arts occupations","391,288",33.6%
+United States,2022,Service occupations,"26,256,366",16.1%
+Alabama,2022,Service occupations,"359,768",15.8%
+Alaska,2022,Service occupations,"59,227",17.2%
+Arizona,2022,Service occupations,"588,425",17.1%
+Arkansas,2022,Service occupations,"211,004",15.8%
+California,2022,Service occupations,"3,326,298",17.6%
+Colorado,2022,Service occupations,"458,174",14.6%
+Connecticut,2022,Service occupations,"281,763",15.1%
+Delaware,2022,Service occupations,"84,666",17.0%
+District of Columbia,2022,Service occupations,"37,275",9.9%
+Florida,2022,Service occupations,"1,874,759",17.9%
+Georgia,2022,Service occupations,"768,972",14.6%
+Hawaii,2022,Service occupations,"145,925",21.6%
+Idaho,2022,Service occupations,"150,062",16.3%
+Illinois,2022,Service occupations,"960,565",15.3%
+Indiana,2022,Service occupations,"496,026",14.8%
+Iowa,2022,Service occupations,"252,728",15.2%
+Kansas,2022,Service occupations,"209,800",14.4%
+Kentucky,2022,Service occupations,"308,381",15.0%
+Louisiana,2022,Service occupations,"372,631",18.3%
+Maine,2022,Service occupations,"104,143",15.0%
+Maryland,2022,Service occupations,"482,596",15.2%
+Massachusetts,2022,Service occupations,"572,369",15.4%
+Michigan,2022,Service occupations,"760,848",15.9%
+Minnesota,2022,Service occupations,"433,534",14.4%
+Mississippi,2022,Service occupations,"205,566",16.3%
+Missouri,2022,Service occupations,"469,606",15.7%
+Montana,2022,Service occupations,"94,199",16.8%
+Nebraska,2022,Service occupations,"159,076",15.5%
+Nevada,2022,Service occupations,"344,707",22.6%
+New Hampshire,2022,Service occupations,"105,845",14.0%
+New Jersey,2022,Service occupations,"677,061",14.4%
+New Mexico,2022,Service occupations,"179,085",19.1%
+New York,2022,Service occupations,"1,797,855",18.7%
+North Carolina,2022,Service occupations,"786,243",15.3%
+North Dakota,2022,Service occupations,"64,498",15.8%
+Ohio,2022,Service occupations,"900,757",15.6%
+Oklahoma,2022,Service occupations,"293,932",16.0%
+Oregon,2022,Service occupations,"361,183",17.2%
+Pennsylvania,2022,Service occupations,"1,021,963",16.0%
+Rhode Island,2022,Service occupations,"94,757",16.9%
+South Carolina,2022,Service occupations,"400,751",16.3%
+South Dakota,2022,Service occupations,"73,241",15.9%
+Tennessee,2022,Service occupations,"487,903",14.3%
+Texas,2022,Service occupations,"2,292,234",15.7%
+Utah,2022,Service occupations,"246,800",14.2%
+Vermont,2022,Service occupations,"52,679",15.3%
+Virginia,2022,Service occupations,"644,303",15.0%
+Washington,2022,Service occupations,"581,916",15.1%
+West Virginia,2022,Service occupations,"119,684",16.3%
+Wisconsin,2022,Service occupations,"452,131",14.9%
+Wyoming,2022,Service occupations,"48,452",16.6%
+Puerto Rico,2022,Service occupations,"237,759",20.4%
+United States,2022,Sales and office occupations,"32,236,485",19.8%
+Alabama,2022,Sales and office occupations,"458,199",20.1%
+Alaska,2022,Sales and office occupations,"67,060",19.4%
+Arizona,2022,Sales and office occupations,"768,767",22.3%
+Arkansas,2022,Sales and office occupations,"277,966",20.8%
+California,2022,Sales and office occupations,"3,636,887",19.2%
+Colorado,2022,Sales and office occupations,"601,147",19.2%
+Connecticut,2022,Sales and office occupations,"362,670",19.5%
+Delaware,2022,Sales and office occupations,"94,971",19.0%
+District of Columbia,2022,Sales and office occupations,"48,938",13.1%
+Florida,2022,Sales and office occupations,"2,370,329",22.6%
+Georgia,2022,Sales and office occupations,"1,099,830",20.9%
+Hawaii,2022,Sales and office occupations,"140,885",20.9%
+Idaho,2022,Sales and office occupations,"183,408",19.9%
+Illinois,2022,Sales and office occupations,"1,237,481",19.7%
+Indiana,2022,Sales and office occupations,"642,013",19.1%
+Iowa,2022,Sales and office occupations,"311,301",18.8%
+Kansas,2022,Sales and office occupations,"287,836",19.8%
+Kentucky,2022,Sales and office occupations,"415,237",20.1%
+Louisiana,2022,Sales and office occupations,"419,569",20.6%
+Maine,2022,Sales and office occupations,"141,827",20.4%
+Maryland,2022,Sales and office occupations,"538,769",17.0%
+Massachusetts,2022,Sales and office occupations,"639,083",17.2%
+Michigan,2022,Sales and office occupations,"927,386",19.3%
+Minnesota,2022,Sales and office occupations,"565,515",18.8%
+Mississippi,2022,Sales and office occupations,"254,430",20.2%
+Missouri,2022,Sales and office occupations,"606,843",20.3%
+Montana,2022,Sales and office occupations,"104,616",18.7%
+Nebraska,2022,Sales and office occupations,"203,233",19.8%
+Nevada,2022,Sales and office occupations,"334,607",21.9%
+New Hampshire,2022,Sales and office occupations,"156,653",20.8%
+New Jersey,2022,Sales and office occupations,"934,779",19.9%
+New Mexico,2022,Sales and office occupations,"184,757",19.7%
+New York,2022,Sales and office occupations,"1,822,086",19.0%
+North Carolina,2022,Sales and office occupations,"1,023,620",19.9%
+North Dakota,2022,Sales and office occupations,"79,890",19.6%
+Ohio,2022,Sales and office occupations,"1,116,913",19.4%
+Oklahoma,2022,Sales and office occupations,"393,608",21.4%
+Oregon,2022,Sales and office occupations,"397,607",19.0%
+Pennsylvania,2022,Sales and office occupations,"1,232,371",19.2%
+Rhode Island,2022,Sales and office occupations,"104,281",18.6%
+South Carolina,2022,Sales and office occupations,"509,520",20.8%
+South Dakota,2022,Sales and office occupations,"91,692",19.9%
+Tennessee,2022,Sales and office occupations,"716,361",21.0%
+Texas,2022,Sales and office occupations,"3,050,842",20.9%
+Utah,2022,Sales and office occupations,"362,531",20.9%
+Vermont,2022,Sales and office occupations,"60,944",17.7%
+Virginia,2022,Sales and office occupations,"791,189",18.4%
+Washington,2022,Sales and office occupations,"689,705",17.8%
+West Virginia,2022,Sales and office occupations,"151,485",20.6%
+Wisconsin,2022,Sales and office occupations,"574,792",18.9%
+Wyoming,2022,Sales and office occupations,"50,056",17.2%
+Puerto Rico,2022,Sales and office occupations,"279,469",24.0%
+United States,2022,"Natural resources, construction, and maintenance occupations","13,767,385",8.5%
+Alabama,2022,"Natural resources, construction, and maintenance occupations","214,221",9.4%
+Alaska,2022,"Natural resources, construction, and maintenance occupations","37,808",11.0%
+Arizona,2022,"Natural resources, construction, and maintenance occupations","301,758",8.8%
+Arkansas,2022,"Natural resources, construction, and maintenance occupations","133,875",10.0%
+California,2022,"Natural resources, construction, and maintenance occupations","1,611,641",8.5%
+Colorado,2022,"Natural resources, construction, and maintenance occupations","259,767",8.3%
+Connecticut,2022,"Natural resources, construction, and maintenance occupations","134,590",7.2%
+Delaware,2022,"Natural resources, construction, and maintenance occupations","42,187",8.5%
+District of Columbia,2022,"Natural resources, construction, and maintenance occupations","3,630",1.0%
+Florida,2022,"Natural resources, construction, and maintenance occupations","946,989",9.0%
+Georgia,2022,"Natural resources, construction, and maintenance occupations","424,957",8.1%
+Hawaii,2022,"Natural resources, construction, and maintenance occupations","60,443",9.0%
+Idaho,2022,"Natural resources, construction, and maintenance occupations","109,572",11.9%
+Illinois,2022,"Natural resources, construction, and maintenance occupations","441,346",7.0%
+Indiana,2022,"Natural resources, construction, and maintenance occupations","287,675",8.6%
+Iowa,2022,"Natural resources, construction, and maintenance occupations","154,186",9.3%
+Kansas,2022,"Natural resources, construction, and maintenance occupations","127,026",8.7%
+Kentucky,2022,"Natural resources, construction, and maintenance occupations","174,595",8.5%
+Louisiana,2022,"Natural resources, construction, and maintenance occupations","211,553",10.4%
+Maine,2022,"Natural resources, construction, and maintenance occupations","74,535",10.7%
+Maryland,2022,"Natural resources, construction, and maintenance occupations","242,880",7.7%
+Massachusetts,2022,"Natural resources, construction, and maintenance occupations","264,310",7.1%
+Michigan,2022,"Natural resources, construction, and maintenance occupations","380,893",7.9%
+Minnesota,2022,"Natural resources, construction, and maintenance occupations","238,154",7.9%
+Mississippi,2022,"Natural resources, construction, and maintenance occupations","132,533",10.5%
+Missouri,2022,"Natural resources, construction, and maintenance occupations","262,226",8.8%
+Montana,2022,"Natural resources, construction, and maintenance occupations","67,769",12.1%
+Nebraska,2022,"Natural resources, construction, and maintenance occupations","105,422",10.3%
+Nevada,2022,"Natural resources, construction, and maintenance occupations","136,070",8.9%
+New Hampshire,2022,"Natural resources, construction, and maintenance occupations","58,905",7.8%
+New Jersey,2022,"Natural resources, construction, and maintenance occupations","325,653",6.9%
+New Mexico,2022,"Natural resources, construction, and maintenance occupations","102,607",11.0%
+New York,2022,"Natural resources, construction, and maintenance occupations","633,254",6.6%
+North Carolina,2022,"Natural resources, construction, and maintenance occupations","444,601",8.7%
+North Dakota,2022,"Natural resources, construction, and maintenance occupations","47,800",11.7%
+Ohio,2022,"Natural resources, construction, and maintenance occupations","430,513",7.5%
+Oklahoma,2022,"Natural resources, construction, and maintenance occupations","193,946",10.6%
+Oregon,2022,"Natural resources, construction, and maintenance occupations","182,683",8.7%
+Pennsylvania,2022,"Natural resources, construction, and maintenance occupations","485,455",7.6%
+Rhode Island,2022,"Natural resources, construction, and maintenance occupations","39,547",7.1%
+South Carolina,2022,"Natural resources, construction, and maintenance occupations","205,694",8.4%
+South Dakota,2022,"Natural resources, construction, and maintenance occupations","47,928",10.4%
+Tennessee,2022,"Natural resources, construction, and maintenance occupations","291,978",8.6%
+Texas,2022,"Natural resources, construction, and maintenance occupations","1,468,406",10.1%
+Utah,2022,"Natural resources, construction, and maintenance occupations","152,209",8.8%
+Vermont,2022,"Natural resources, construction, and maintenance occupations","32,207",9.4%
+Virginia,2022,"Natural resources, construction, and maintenance occupations","315,650",7.3%
+Washington,2022,"Natural resources, construction, and maintenance occupations","349,534",9.0%
+West Virginia,2022,"Natural resources, construction, and maintenance occupations","70,333",9.6%
+Wisconsin,2022,"Natural resources, construction, and maintenance occupations","261,577",8.6%
+Wyoming,2022,"Natural resources, construction, and maintenance occupations","44,294",15.2%
+Puerto Rico,2022,"Natural resources, construction, and maintenance occupations","114,312",9.8%
+United States,2022,"Production, transportation, and material moving occupations","21,207,794",13.0%
+Alabama,2022,"Production, transportation, and material moving occupations","388,105",17.0%
+Alaska,2022,"Production, transportation, and material moving occupations","43,496",12.6%
+Arizona,2022,"Production, transportation, and material moving occupations","375,722",10.9%
+Arkansas,2022,"Production, transportation, and material moving occupations","226,269",16.9%
+California,2022,"Production, transportation, and material moving occupations","2,262,283",11.9%
+Colorado,2022,"Production, transportation, and material moving occupations","309,324",9.9%
+Connecticut,2022,"Production, transportation, and material moving occupations","199,753",10.7%
+Delaware,2022,"Production, transportation, and material moving occupations","60,317",12.1%
+District of Columbia,2022,"Production, transportation, and material moving occupations","13,451",3.6%
+Florida,2022,"Production, transportation, and material moving occupations","1,116,649",10.6%
+Georgia,2022,"Production, transportation, and material moving occupations","796,399",15.1%
+Hawaii,2022,"Production, transportation, and material moving occupations","59,595",8.8%
+Idaho,2022,"Production, transportation, and material moving occupations","113,005",12.3%
+Illinois,2022,"Production, transportation, and material moving occupations","933,964",14.8%
+Indiana,2022,"Production, transportation, and material moving occupations","652,281",19.4%
+Iowa,2022,"Production, transportation, and material moving occupations","284,393",17.1%
+Kansas,2022,"Production, transportation, and material moving occupations","219,288",15.1%
+Kentucky,2022,"Production, transportation, and material moving occupations","387,350",18.8%
+Louisiana,2022,"Production, transportation, and material moving occupations","259,206",12.7%
+Maine,2022,"Production, transportation, and material moving occupations","80,797",11.6%
+Maryland,2022,"Production, transportation, and material moving occupations","283,483",8.9%
+Massachusetts,2022,"Production, transportation, and material moving occupations","342,421",9.2%
+Michigan,2022,"Production, transportation, and material moving occupations","780,580",16.3%
+Minnesota,2022,"Production, transportation, and material moving occupations","416,036",13.8%
+Mississippi,2022,"Production, transportation, and material moving occupations","221,667",17.6%
+Missouri,2022,"Production, transportation, and material moving occupations","438,538",14.7%
+Montana,2022,"Production, transportation, and material moving occupations","61,883",11.1%
+Nebraska,2022,"Production, transportation, and material moving occupations","141,301",13.8%
+Nevada,2022,"Production, transportation, and material moving occupations","198,535",13.0%
+New Hampshire,2022,"Production, transportation, and material moving occupations","89,058",11.8%
+New Jersey,2022,"Production, transportation, and material moving occupations","525,678",11.2%
+New Mexico,2022,"Production, transportation, and material moving occupations","93,506",10.0%
+New York,2022,"Production, transportation, and material moving occupations","938,127",9.8%
+North Carolina,2022,"Production, transportation, and material moving occupations","722,891",14.1%
+North Dakota,2022,"Production, transportation, and material moving occupations","51,853",12.7%
+Ohio,2022,"Production, transportation, and material moving occupations","960,034",16.7%
+Oklahoma,2022,"Production, transportation, and material moving occupations","254,282",13.8%
+Oregon,2022,"Production, transportation, and material moving occupations","247,417",11.8%
+Pennsylvania,2022,"Production, transportation, and material moving occupations","909,023",14.2%
+Rhode Island,2022,"Production, transportation, and material moving occupations","63,375",11.3%
+South Carolina,2022,"Production, transportation, and material moving occupations","385,531",15.7%
+South Dakota,2022,"Production, transportation, and material moving occupations","62,036",13.5%
+Tennessee,2022,"Production, transportation, and material moving occupations","569,192",16.7%
+Texas,2022,"Production, transportation, and material moving occupations","1,847,705",12.7%
+Utah,2022,"Production, transportation, and material moving occupations","230,709",13.3%
+Vermont,2022,"Production, transportation, and material moving occupations","34,004",9.9%
+Virginia,2022,"Production, transportation, and material moving occupations","436,573",10.2%
+Washington,2022,"Production, transportation, and material moving occupations","448,112",11.6%
+West Virginia,2022,"Production, transportation, and material moving occupations","105,023",14.3%
+Wisconsin,2022,"Production, transportation, and material moving occupations","535,276",17.6%
+Wyoming,2022,"Production, transportation, and material moving occupations","32,298",11.1%
+Puerto Rico,2022,"Production, transportation, and material moving occupations","141,314",12.1%
+United States,2023,"Management, business, science, and arts occupations","70,919,638",43.2%
+Alabama,2023,"Management, business, science, and arts occupations","911,198",39.7%
+Alaska,2023,"Management, business, science, and arts occupations","142,374",41.2%
+Arizona,2023,"Management, business, science, and arts occupations","1,470,298",42.1%
+Arkansas,2023,"Management, business, science, and arts occupations","508,707",37.0%
+California,2023,"Management, business, science, and arts occupations","8,259,042",43.4%
+Colorado,2023,"Management, business, science, and arts occupations","1,553,895",49.3%
+Connecticut,2023,"Management, business, science, and arts occupations","893,283",47.4%
+Delaware,2023,"Management, business, science, and arts occupations","223,427",44.3%
+District of Columbia,2023,"Management, business, science, and arts occupations","280,424",72.8%
+Florida,2023,"Management, business, science, and arts occupations","4,352,221",40.6%
+Georgia,2023,"Management, business, science, and arts occupations","2,260,304",42.3%
+Hawaii,2023,"Management, business, science, and arts occupations","262,494",39.3%
+Idaho,2023,"Management, business, science, and arts occupations","371,737",39.7%
+Illinois,2023,"Management, business, science, and arts occupations","2,771,785",43.8%
+Indiana,2023,"Management, business, science, and arts occupations","1,325,172",39.1%
+Iowa,2023,"Management, business, science, and arts occupations","657,528",39.7%
+Kansas,2023,"Management, business, science, and arts occupations","629,396",42.6%
+Kentucky,2023,"Management, business, science, and arts occupations","810,980",38.9%
+Louisiana,2023,"Management, business, science, and arts occupations","789,245",38.9%
+Maine,2023,"Management, business, science, and arts occupations","304,411",43.0%
+Maryland,2023,"Management, business, science, and arts occupations","1,617,915",50.7%
+Massachusetts,2023,"Management, business, science, and arts occupations","1,929,478",51.4%
+Michigan,2023,"Management, business, science, and arts occupations","1,966,406",40.8%
+Minnesota,2023,"Management, business, science, and arts occupations","1,394,150",45.7%
+Mississippi,2023,"Management, business, science, and arts occupations","455,432",35.6%
+Missouri,2023,"Management, business, science, and arts occupations","1,293,145",42.1%
+Montana,2023,"Management, business, science, and arts occupations","229,248",40.8%
+Nebraska,2023,"Management, business, science, and arts occupations","442,537",42.5%
+Nevada,2023,"Management, business, science, and arts occupations","545,564",35.0%
+New Hampshire,2023,"Management, business, science, and arts occupations","353,151",46.1%
+New Jersey,2023,"Management, business, science, and arts occupations","2,267,396",47.4%
+New Mexico,2023,"Management, business, science, and arts occupations","394,182",41.6%
+New York,2023,"Management, business, science, and arts occupations","4,433,988",46.2%
+North Carolina,2023,"Management, business, science, and arts occupations","2,279,731",43.6%
+North Dakota,2023,"Management, business, science, and arts occupations","174,165",42.5%
+Ohio,2023,"Management, business, science, and arts occupations","2,389,233",41.3%
+Oklahoma,2023,"Management, business, science, and arts occupations","713,842",38.6%
+Oregon,2023,"Management, business, science, and arts occupations","942,805",44.9%
+Pennsylvania,2023,"Management, business, science, and arts occupations","2,774,903",43.4%
+Rhode Island,2023,"Management, business, science, and arts occupations","252,609",45.1%
+South Carolina,2023,"Management, business, science, and arts occupations","992,392",39.4%
+South Dakota,2023,"Management, business, science, and arts occupations","192,238",40.7%
+Tennessee,2023,"Management, business, science, and arts occupations","1,388,929",40.3%
+Texas,2023,"Management, business, science, and arts occupations","6,168,674",41.3%
+Utah,2023,"Management, business, science, and arts occupations","780,547",44.4%
+Vermont,2023,"Management, business, science, and arts occupations","163,418",47.3%
+Virginia,2023,"Management, business, science, and arts occupations","2,126,365",49.2%
+Washington,2023,"Management, business, science, and arts occupations","1,828,470",47.0%
+West Virginia,2023,"Management, business, science, and arts occupations","281,219",37.1%
+Wisconsin,2023,"Management, business, science, and arts occupations","1,259,920",41.2%
+Wyoming,2023,"Management, business, science, and arts occupations","109,665",38.5%
+Puerto Rico,2023,"Management, business, science, and arts occupations","403,819",34.1%
+United States,2023,Service occupations,"26,983,243",16.4%
+Alabama,2023,Service occupations,"342,022",14.9%
+Alaska,2023,Service occupations,"57,588",16.7%
+Arizona,2023,Service occupations,"588,025",16.8%
+Arkansas,2023,Service occupations,"212,859",15.5%
+California,2023,Service occupations,"3,382,046",17.8%
+Colorado,2023,Service occupations,"479,684",15.2%
+Connecticut,2023,Service occupations,"313,964",16.7%
+Delaware,2023,Service occupations,"83,966",16.6%
+District of Columbia,2023,Service occupations,"47,497",12.3%
+Florida,2023,Service occupations,"1,949,077",18.2%
+Georgia,2023,Service occupations,"806,409",15.1%
+Hawaii,2023,Service occupations,"148,448",22.2%
+Idaho,2023,Service occupations,"152,780",16.3%
+Illinois,2023,Service occupations,"990,789",15.7%
+Indiana,2023,Service occupations,"500,580",14.8%
+Iowa,2023,Service occupations,"250,304",15.1%
+Kansas,2023,Service occupations,"225,532",15.3%
+Kentucky,2023,Service occupations,"320,106",15.4%
+Louisiana,2023,Service occupations,"364,798",18.0%
+Maine,2023,Service occupations,"115,154",16.2%
+Maryland,2023,Service occupations,"509,844",16.0%
+Massachusetts,2023,Service occupations,"601,524",16.0%
+Michigan,2023,Service occupations,"765,763",15.9%
+Minnesota,2023,Service occupations,"459,634",15.1%
+Mississippi,2023,Service occupations,"214,404",16.8%
+Missouri,2023,Service occupations,"475,979",15.5%
+Montana,2023,Service occupations,"103,254",18.4%
+Nebraska,2023,Service occupations,"155,445",14.9%
+Nevada,2023,Service occupations,"336,285",21.6%
+New Hampshire,2023,Service occupations,"109,812",14.3%
+New Jersey,2023,Service occupations,"742,492",15.5%
+New Mexico,2023,Service occupations,"183,625",19.4%
+New York,2023,Service occupations,"1,826,819",19.0%
+North Carolina,2023,Service occupations,"804,592",15.4%
+North Dakota,2023,Service occupations,"63,199",15.4%
+Ohio,2023,Service occupations,"915,747",15.8%
+Oklahoma,2023,Service occupations,"301,286",16.3%
+Oregon,2023,Service occupations,"344,964",16.4%
+Pennsylvania,2023,Service occupations,"1,040,410",16.3%
+Rhode Island,2023,Service occupations,"92,905",16.6%
+South Carolina,2023,Service occupations,"410,317",16.3%
+South Dakota,2023,Service occupations,"77,865",16.5%
+Tennessee,2023,Service occupations,"538,539",15.6%
+Texas,2023,Service occupations,"2,360,713",15.8%
+Utah,2023,Service occupations,"257,113",14.6%
+Vermont,2023,Service occupations,"51,971",15.0%
+Virginia,2023,Service occupations,"661,220",15.3%
+Washington,2023,Service occupations,"608,725",15.7%
+West Virginia,2023,Service occupations,"139,119",18.4%
+Wisconsin,2023,Service occupations,"447,821",14.7%
+Wyoming,2023,Service occupations,"50,229",17.6%
+Puerto Rico,2023,Service occupations,"245,055",20.7%
+United States,2023,Sales and office occupations,"31,425,450",19.1%
+Alabama,2023,Sales and office occupations,"444,186",19.3%
+Alaska,2023,Sales and office occupations,"64,165",18.6%
+Arizona,2023,Sales and office occupations,"730,838",20.9%
+Arkansas,2023,Sales and office occupations,"284,915",20.7%
+California,2023,Sales and office occupations,"3,512,116",18.5%
+Colorado,2023,Sales and office occupations,"576,985",18.3%
+Connecticut,2023,Sales and office occupations,"349,048",18.5%
+Delaware,2023,Sales and office occupations,"93,980",18.6%
+District of Columbia,2023,Sales and office occupations,"42,183",10.9%
+Florida,2023,Sales and office occupations,"2,336,494",21.8%
+Georgia,2023,Sales and office occupations,"1,088,710",20.4%
+Hawaii,2023,Sales and office occupations,"135,387",20.3%
+Idaho,2023,Sales and office occupations,"181,420",19.4%
+Illinois,2023,Sales and office occupations,"1,206,824",19.1%
+Indiana,2023,Sales and office occupations,"627,731",18.5%
+Iowa,2023,Sales and office occupations,"309,676",18.7%
+Kansas,2023,Sales and office occupations,"280,715",19.0%
+Kentucky,2023,Sales and office occupations,"407,565",19.5%
+Louisiana,2023,Sales and office occupations,"408,852",20.1%
+Maine,2023,Sales and office occupations,"135,663",19.1%
+Maryland,2023,Sales and office occupations,"548,686",17.2%
+Massachusetts,2023,Sales and office occupations,"631,650",16.8%
+Michigan,2023,Sales and office occupations,"937,734",19.4%
+Minnesota,2023,Sales and office occupations,"542,232",17.8%
+Mississippi,2023,Sales and office occupations,"261,284",20.4%
+Missouri,2023,Sales and office occupations,"603,970",19.7%
+Montana,2023,Sales and office occupations,"106,548",18.9%
+Nebraska,2023,Sales and office occupations,"205,730",19.8%
+Nevada,2023,Sales and office occupations,"321,467",20.7%
+New Hampshire,2023,Sales and office occupations,"144,087",18.8%
+New Jersey,2023,Sales and office occupations,"908,958",19.0%
+New Mexico,2023,Sales and office occupations,"179,961",19.0%
+New York,2023,Sales and office occupations,"1,771,141",18.4%
+North Carolina,2023,Sales and office occupations,"984,034",18.8%
+North Dakota,2023,Sales and office occupations,"77,010",18.8%
+Ohio,2023,Sales and office occupations,"1,088,941",18.8%
+Oklahoma,2023,Sales and office occupations,"376,150",20.4%
+Oregon,2023,Sales and office occupations,"393,179",18.7%
+Pennsylvania,2023,Sales and office occupations,"1,178,118",18.4%
+Rhode Island,2023,Sales and office occupations,"102,689",18.3%
+South Carolina,2023,Sales and office occupations,"517,148",20.5%
+South Dakota,2023,Sales and office occupations,"88,455",18.7%
+Tennessee,2023,Sales and office occupations,"674,144",19.6%
+Texas,2023,Sales and office occupations,"2,979,789",20.0%
+Utah,2023,Sales and office occupations,"352,447",20.0%
+Vermont,2023,Sales and office occupations,"59,819",17.3%
+Virginia,2023,Sales and office occupations,"758,226",17.6%
+Washington,2023,Sales and office occupations,"659,049",17.0%
+West Virginia,2023,Sales and office occupations,"143,318",18.9%
+Wisconsin,2023,Sales and office occupations,"561,113",18.4%
+Wyoming,2023,Sales and office occupations,"50,920",17.9%
+Puerto Rico,2023,Sales and office occupations,"281,214",23.7%
+United States,2023,"Natural resources, construction, and maintenance occupations","13,849,501",8.4%
+Alabama,2023,"Natural resources, construction, and maintenance occupations","213,219",9.3%
+Alaska,2023,"Natural resources, construction, and maintenance occupations","37,630",10.9%
+Arizona,2023,"Natural resources, construction, and maintenance occupations","310,190",8.9%
+Arkansas,2023,"Natural resources, construction, and maintenance occupations","140,683",10.2%
+California,2023,"Natural resources, construction, and maintenance occupations","1,617,563",8.5%
+Colorado,2023,"Natural resources, construction, and maintenance occupations","265,031",8.4%
+Connecticut,2023,"Natural resources, construction, and maintenance occupations","132,297",7.0%
+Delaware,2023,"Natural resources, construction, and maintenance occupations","39,890",7.9%
+District of Columbia,2023,"Natural resources, construction, and maintenance occupations","4,982",1.3%
+Florida,2023,"Natural resources, construction, and maintenance occupations","938,786",8.7%
+Georgia,2023,"Natural resources, construction, and maintenance occupations","438,385",8.2%
+Hawaii,2023,"Natural resources, construction, and maintenance occupations","58,099",8.7%
+Idaho,2023,"Natural resources, construction, and maintenance occupations","106,693",11.4%
+Illinois,2023,"Natural resources, construction, and maintenance occupations","430,906",6.8%
+Indiana,2023,"Natural resources, construction, and maintenance occupations","295,723",8.7%
+Iowa,2023,"Natural resources, construction, and maintenance occupations","167,185",10.1%
+Kansas,2023,"Natural resources, construction, and maintenance occupations","134,038",9.1%
+Kentucky,2023,"Natural resources, construction, and maintenance occupations","181,365",8.7%
+Louisiana,2023,"Natural resources, construction, and maintenance occupations","208,954",10.3%
+Maine,2023,"Natural resources, construction, and maintenance occupations","67,618",9.5%
+Maryland,2023,"Natural resources, construction, and maintenance occupations","240,592",7.5%
+Massachusetts,2023,"Natural resources, construction, and maintenance occupations","260,039",6.9%
+Michigan,2023,"Natural resources, construction, and maintenance occupations","380,878",7.9%
+Minnesota,2023,"Natural resources, construction, and maintenance occupations","235,390",7.7%
+Mississippi,2023,"Natural resources, construction, and maintenance occupations","125,012",9.8%
+Missouri,2023,"Natural resources, construction, and maintenance occupations","259,097",8.4%
+Montana,2023,"Natural resources, construction, and maintenance occupations","62,321",11.1%
+Nebraska,2023,"Natural resources, construction, and maintenance occupations","99,291",9.5%
+Nevada,2023,"Natural resources, construction, and maintenance occupations","137,144",8.8%
+New Hampshire,2023,"Natural resources, construction, and maintenance occupations","66,918",8.7%
+New Jersey,2023,"Natural resources, construction, and maintenance occupations","331,562",6.9%
+New Mexico,2023,"Natural resources, construction, and maintenance occupations","96,801",10.2%
+New York,2023,"Natural resources, construction, and maintenance occupations","635,567",6.6%
+North Carolina,2023,"Natural resources, construction, and maintenance occupations","448,264",8.6%
+North Dakota,2023,"Natural resources, construction, and maintenance occupations","41,127",10.0%
+Ohio,2023,"Natural resources, construction, and maintenance occupations","445,390",7.7%
+Oklahoma,2023,"Natural resources, construction, and maintenance occupations","198,142",10.7%
+Oregon,2023,"Natural resources, construction, and maintenance occupations","173,716",8.3%
+Pennsylvania,2023,"Natural resources, construction, and maintenance occupations","498,310",7.8%
+Rhode Island,2023,"Natural resources, construction, and maintenance occupations","39,165",7.0%
+South Carolina,2023,"Natural resources, construction, and maintenance occupations","226,708",9.0%
+South Dakota,2023,"Natural resources, construction, and maintenance occupations","50,628",10.7%
+Tennessee,2023,"Natural resources, construction, and maintenance occupations","284,444",8.3%
+Texas,2023,"Natural resources, construction, and maintenance occupations","1,470,482",9.9%
+Utah,2023,"Natural resources, construction, and maintenance occupations","160,998",9.2%
+Vermont,2023,"Natural resources, construction, and maintenance occupations","33,313",9.6%
+Virginia,2023,"Natural resources, construction, and maintenance occupations","316,124",7.3%
+Washington,2023,"Natural resources, construction, and maintenance occupations","353,306",9.1%
+West Virginia,2023,"Natural resources, construction, and maintenance occupations","85,793",11.3%
+Wisconsin,2023,"Natural resources, construction, and maintenance occupations","264,642",8.7%
+Wyoming,2023,"Natural resources, construction, and maintenance occupations","39,100",13.7%
+Puerto Rico,2023,"Natural resources, construction, and maintenance occupations","115,794",9.8%
+United States,2023,"Production, transportation, and material moving occupations","21,169,161",12.9%
+Alabama,2023,"Production, transportation, and material moving occupations","387,316",16.9%
+Alaska,2023,"Production, transportation, and material moving occupations","43,703",12.7%
+Arizona,2023,"Production, transportation, and material moving occupations","394,192",11.3%
+Arkansas,2023,"Production, transportation, and material moving occupations","228,387",16.6%
+California,2023,"Production, transportation, and material moving occupations","2,255,799",11.9%
+Colorado,2023,"Production, transportation, and material moving occupations","276,099",8.8%
+Connecticut,2023,"Production, transportation, and material moving occupations","195,533",10.4%
+Delaware,2023,"Production, transportation, and material moving occupations","63,066",12.5%
+District of Columbia,2023,"Production, transportation, and material moving occupations","10,188",2.6%
+Florida,2023,"Production, transportation, and material moving occupations","1,154,617",10.8%
+Georgia,2023,"Production, transportation, and material moving occupations","752,746",14.1%
+Hawaii,2023,"Production, transportation, and material moving occupations","63,407",9.5%
+Idaho,2023,"Production, transportation, and material moving occupations","123,649",13.2%
+Illinois,2023,"Production, transportation, and material moving occupations","928,826",14.7%
+Indiana,2023,"Production, transportation, and material moving occupations","638,024",18.8%
+Iowa,2023,"Production, transportation, and material moving occupations","269,587",16.3%
+Kansas,2023,"Production, transportation, and material moving occupations","207,912",14.1%
+Kentucky,2023,"Production, transportation, and material moving occupations","365,338",17.5%
+Louisiana,2023,"Production, transportation, and material moving occupations","259,100",12.8%
+Maine,2023,"Production, transportation, and material moving occupations","85,814",12.1%
+Maryland,2023,"Production, transportation, and material moving occupations","276,991",8.7%
+Massachusetts,2023,"Production, transportation, and material moving occupations","331,756",8.8%
+Michigan,2023,"Production, transportation, and material moving occupations","772,216",16.0%
+Minnesota,2023,"Production, transportation, and material moving occupations","416,914",13.7%
+Mississippi,2023,"Production, transportation, and material moving occupations","222,290",17.4%
+Missouri,2023,"Production, transportation, and material moving occupations","439,159",14.3%
+Montana,2023,"Production, transportation, and material moving occupations","61,001",10.8%
+Nebraska,2023,"Production, transportation, and material moving occupations","138,135",13.3%
+Nevada,2023,"Production, transportation, and material moving occupations","216,127",13.9%
+New Hampshire,2023,"Production, transportation, and material moving occupations","91,904",12.0%
+New Jersey,2023,"Production, transportation, and material moving occupations","535,097",11.2%
+New Mexico,2023,"Production, transportation, and material moving occupations","93,101",9.8%
+New York,2023,"Production, transportation, and material moving occupations","933,178",9.7%
+North Carolina,2023,"Production, transportation, and material moving occupations","713,525",13.6%
+North Dakota,2023,"Production, transportation, and material moving occupations","54,565",13.3%
+Ohio,2023,"Production, transportation, and material moving occupations","944,790",16.3%
+Oklahoma,2023,"Production, transportation, and material moving occupations","258,326",14.0%
+Oregon,2023,"Production, transportation, and material moving occupations","245,249",11.7%
+Pennsylvania,2023,"Production, transportation, and material moving occupations","908,270",14.2%
+Rhode Island,2023,"Production, transportation, and material moving occupations","72,374",12.9%
+South Carolina,2023,"Production, transportation, and material moving occupations","370,154",14.7%
+South Dakota,2023,"Production, transportation, and material moving occupations","63,395",13.4%
+Tennessee,2023,"Production, transportation, and material moving occupations","556,364",16.2%
+Texas,2023,"Production, transportation, and material moving occupations","1,947,103",13.0%
+Utah,2023,"Production, transportation, and material moving occupations","206,955",11.8%
+Vermont,2023,"Production, transportation, and material moving occupations","37,231",10.8%
+Virginia,2023,"Production, transportation, and material moving occupations","456,065",10.6%
+Washington,2023,"Production, transportation, and material moving occupations","437,600",11.3%
+West Virginia,2023,"Production, transportation, and material moving occupations","107,856",14.2%
+Wisconsin,2023,"Production, transportation, and material moving occupations","523,035",17.1%
+Wyoming,2023,"Production, transportation, and material moving occupations","35,132",12.3%
+Puerto Rico,2023,"Production, transportation, and material moving occupations","139,747",11.8%

@@ -1,0 +1,2068 @@
+state_id,year_id,indicator,Estimate,Percent
+United States,2021,"Agriculture, forestry, fishing and hunting, and mining","2,445,458",1.6%
+Alabama,2021,"Agriculture, forestry, fishing and hunting, and mining","27,206",1.2%
+Alaska,2021,"Agriculture, forestry, fishing and hunting, and mining","14,032",4.3%
+Arizona,2021,"Agriculture, forestry, fishing and hunting, and mining","38,354",1.2%
+Arkansas,2021,"Agriculture, forestry, fishing and hunting, and mining","31,949",2.4%
+California,2021,"Agriculture, forestry, fishing and hunting, and mining","380,249",2.1%
+Colorado,2021,"Agriculture, forestry, fishing and hunting, and mining","52,752",1.8%
+Connecticut,2021,"Agriculture, forestry, fishing and hunting, and mining","7,304",0.4%
+Delaware,2021,"Agriculture, forestry, fishing and hunting, and mining","4,236",0.9%
+District of Columbia,2021,"Agriculture, forestry, fishing and hunting, and mining",276,0.1%
+Florida,2021,"Agriculture, forestry, fishing and hunting, and mining","79,316",0.8%
+Georgia,2021,"Agriculture, forestry, fishing and hunting, and mining","47,121",0.9%
+Hawaii,2021,"Agriculture, forestry, fishing and hunting, and mining","7,192",1.1%
+Idaho,2021,"Agriculture, forestry, fishing and hunting, and mining","40,168",4.5%
+Illinois,2021,"Agriculture, forestry, fishing and hunting, and mining","61,883",1.0%
+Indiana,2021,"Agriculture, forestry, fishing and hunting, and mining","42,416",1.3%
+Iowa,2021,"Agriculture, forestry, fishing and hunting, and mining","60,810",3.8%
+Kansas,2021,"Agriculture, forestry, fishing and hunting, and mining","46,063",3.2%
+Kentucky,2021,"Agriculture, forestry, fishing and hunting, and mining","34,116",1.7%
+Louisiana,2021,"Agriculture, forestry, fishing and hunting, and mining","60,246",3.1%
+Maine,2021,"Agriculture, forestry, fishing and hunting, and mining","15,842",2.4%
+Maryland,2021,"Agriculture, forestry, fishing and hunting, and mining","18,720",0.6%
+Massachusetts,2021,"Agriculture, forestry, fishing and hunting, and mining","16,858",0.5%
+Michigan,2021,"Agriculture, forestry, fishing and hunting, and mining","49,647",1.1%
+Minnesota,2021,"Agriculture, forestry, fishing and hunting, and mining","63,692",2.2%
+Mississippi,2021,"Agriculture, forestry, fishing and hunting, and mining","26,509",2.2%
+Missouri,2021,"Agriculture, forestry, fishing and hunting, and mining","48,727",1.7%
+Montana,2021,"Agriculture, forestry, fishing and hunting, and mining","32,368",6.1%
+Nebraska,2021,"Agriculture, forestry, fishing and hunting, and mining","42,178",4.1%
+Nevada,2021,"Agriculture, forestry, fishing and hunting, and mining","17,945",1.3%
+New Hampshire,2021,"Agriculture, forestry, fishing and hunting, and mining","4,737",0.6%
+New Jersey,2021,"Agriculture, forestry, fishing and hunting, and mining","15,678",0.3%
+New Mexico,2021,"Agriculture, forestry, fishing and hunting, and mining","34,482",3.9%
+New York,2021,"Agriculture, forestry, fishing and hunting, and mining","52,793",0.6%
+North Carolina,2021,"Agriculture, forestry, fishing and hunting, and mining","52,538",1.1%
+North Dakota,2021,"Agriculture, forestry, fishing and hunting, and mining","28,507",7.2%
+Ohio,2021,"Agriculture, forestry, fishing and hunting, and mining","53,323",1.0%
+Oklahoma,2021,"Agriculture, forestry, fishing and hunting, and mining","63,140",3.5%
+Oregon,2021,"Agriculture, forestry, fishing and hunting, and mining","47,509",2.4%
+Pennsylvania,2021,"Agriculture, forestry, fishing and hunting, and mining","72,868",1.2%
+Rhode Island,2021,"Agriculture, forestry, fishing and hunting, and mining","2,041",0.4%
+South Carolina,2021,"Agriculture, forestry, fishing and hunting, and mining","21,248",0.9%
+South Dakota,2021,"Agriculture, forestry, fishing and hunting, and mining","26,923",6.0%
+Tennessee,2021,"Agriculture, forestry, fishing and hunting, and mining","26,851",0.8%
+Texas,2021,"Agriculture, forestry, fishing and hunting, and mining","304,046",2.2%
+Utah,2021,"Agriculture, forestry, fishing and hunting, and mining","23,245",1.4%
+Vermont,2021,"Agriculture, forestry, fishing and hunting, and mining","8,859",2.7%
+Virginia,2021,"Agriculture, forestry, fishing and hunting, and mining","37,298",0.9%
+Washington,2021,"Agriculture, forestry, fishing and hunting, and mining","91,320",2.5%
+West Virginia,2021,"Agriculture, forestry, fishing and hunting, and mining","21,444",3.0%
+Wisconsin,2021,"Agriculture, forestry, fishing and hunting, and mining","63,359",2.1%
+Wyoming,2021,"Agriculture, forestry, fishing and hunting, and mining","25,074",8.7%
+Puerto Rico,2021,"Agriculture, forestry, fishing and hunting, and mining","15,611",1.4%
+United States,2021,Construction,"10,773,757",6.9%
+Alabama,2021,Construction,"152,461",7.0%
+Alaska,2021,Construction,"22,214",6.8%
+Arizona,2021,Construction,"251,330",7.6%
+Arkansas,2021,Construction,"96,829",7.3%
+California,2021,Construction,"1,237,615",6.8%
+Colorado,2021,Construction,"243,456",8.1%
+Connecticut,2021,Construction,"110,341",6.1%
+Delaware,2021,Construction,"33,215",7.2%
+District of Columbia,2021,Construction,"8,199",2.3%
+Florida,2021,Construction,"810,704",8.1%
+Georgia,2021,Construction,"341,371",6.8%
+Hawaii,2021,Construction,"49,127",7.7%
+Idaho,2021,Construction,"79,848",8.9%
+Illinois,2021,Construction,"327,842",5.4%
+Indiana,2021,Construction,"210,844",6.5%
+Iowa,2021,Construction,"110,188",6.8%
+Kansas,2021,Construction,"89,995",6.3%
+Kentucky,2021,Construction,"123,318",6.2%
+Louisiana,2021,Construction,"154,956",7.9%
+Maine,2021,Construction,"52,798",7.9%
+Maryland,2021,Construction,"223,139",7.3%
+Massachusetts,2021,Construction,"214,046",5.9%
+Michigan,2021,Construction,"271,401",5.9%
+Minnesota,2021,Construction,"189,110",6.4%
+Mississippi,2021,Construction,"86,734",7.1%
+Missouri,2021,Construction,"189,071",6.4%
+Montana,2021,Construction,"49,735",9.4%
+Nebraska,2021,Construction,"69,825",6.9%
+Nevada,2021,Construction,"107,180",7.5%
+New Hampshire,2021,Construction,"53,345",7.2%
+New Jersey,2021,Construction,"279,036",6.2%
+New Mexico,2021,Construction,"63,040",7.2%
+New York,2021,Construction,"528,699",5.7%
+North Carolina,2021,Construction,"366,196",7.5%
+North Dakota,2021,Construction,"32,593",8.3%
+Ohio,2021,Construction,"331,497",5.9%
+Oklahoma,2021,Construction,"124,087",7.0%
+Oregon,2021,Construction,"136,167",6.8%
+Pennsylvania,2021,Construction,"367,232",5.9%
+Rhode Island,2021,Construction,"31,725",5.8%
+South Carolina,2021,Construction,"162,819",7.0%
+South Dakota,2021,Construction,"34,319",7.6%
+Tennessee,2021,Construction,"218,571",6.7%
+Texas,2021,Construction,"1,175,579",8.5%
+Utah,2021,Construction,"133,614",8.1%
+Vermont,2021,Construction,"28,383",8.5%
+Virginia,2021,Construction,"269,427",6.4%
+Washington,2021,Construction,"267,584",7.2%
+West Virginia,2021,Construction,"47,475",6.6%
+Wisconsin,2021,Construction,"191,304",6.4%
+Wyoming,2021,Construction,"24,173",8.4%
+Puerto Rico,2021,Construction,"70,661",6.5%
+United States,2021,Manufacturing,"15,738,828",10.1%
+Alabama,2021,Manufacturing,"301,254",13.8%
+Alaska,2021,Manufacturing,"16,203",4.9%
+Arizona,2021,Manufacturing,"259,959",7.8%
+Arkansas,2021,Manufacturing,"167,214",12.6%
+California,2021,Manufacturing,"1,640,451",9.0%
+Colorado,2021,Manufacturing,"210,645",7.0%
+Connecticut,2021,Manufacturing,"201,255",11.1%
+Delaware,2021,Manufacturing,"30,269",6.6%
+District of Columbia,2021,Manufacturing,"4,591",1.3%
+Florida,2021,Manufacturing,"534,250",5.4%
+Georgia,2021,Manufacturing,"517,695",10.3%
+Hawaii,2021,Manufacturing,"17,007",2.7%
+Idaho,2021,Manufacturing,"90,121",10.0%
+Illinois,2021,Manufacturing,"725,108",11.9%
+Indiana,2021,Manufacturing,"594,074",18.2%
+Iowa,2021,Manufacturing,"243,260",15.0%
+Kansas,2021,Manufacturing,"169,392",11.8%
+Kentucky,2021,Manufacturing,"286,268",14.4%
+Louisiana,2021,Manufacturing,"141,057",7.2%
+Maine,2021,Manufacturing,"65,777",9.8%
+Maryland,2021,Manufacturing,"151,339",4.9%
+Massachusetts,2021,Manufacturing,"320,993",8.9%
+Michigan,2021,Manufacturing,"860,026",18.6%
+Minnesota,2021,Manufacturing,"392,342",13.3%
+Mississippi,2021,Manufacturing,"158,511",12.9%
+Missouri,2021,Manufacturing,"340,241",11.6%
+Montana,2021,Manufacturing,"21,833",4.1%
+Nebraska,2021,Manufacturing,"108,116",10.6%
+Nevada,2021,Manufacturing,"76,333",5.4%
+New Hampshire,2021,Manufacturing,"93,542",12.5%
+New Jersey,2021,Manufacturing,"369,961",8.2%
+New Mexico,2021,Manufacturing,"34,904",4.0%
+New York,2021,Manufacturing,"538,530",5.8%
+North Carolina,2021,Manufacturing,"582,761",11.9%
+North Dakota,2021,Manufacturing,"25,644",6.5%
+Ohio,2021,Manufacturing,"835,426",14.9%
+Oklahoma,2021,Manufacturing,"162,789",9.1%
+Oregon,2021,Manufacturing,"216,114",10.8%
+Pennsylvania,2021,Manufacturing,"730,702",11.8%
+Rhode Island,2021,Manufacturing,"55,621",10.2%
+South Carolina,2021,Manufacturing,"315,027",13.5%
+South Dakota,2021,Manufacturing,"44,338",9.9%
+Tennessee,2021,Manufacturing,"422,620",13.0%
+Texas,2021,Manufacturing,"1,195,047",8.7%
+Utah,2021,Manufacturing,"180,217",10.9%
+Vermont,2021,Manufacturing,"33,484",10.1%
+Virginia,2021,Manufacturing,"298,227",7.1%
+Washington,2021,Manufacturing,"347,899",9.4%
+West Virginia,2021,Manufacturing,"58,279",8.1%
+Wisconsin,2021,Manufacturing,"538,994",18.0%
+Wyoming,2021,Manufacturing,"13,118",4.6%
+Puerto Rico,2021,Manufacturing,"102,485",9.4%
+United States,2021,Wholesale trade,"3,616,410",2.3%
+Alabama,2021,Wholesale trade,"48,471",2.2%
+Alaska,2021,Wholesale trade,"4,026",1.2%
+Arizona,2021,Wholesale trade,"69,281",2.1%
+Arkansas,2021,Wholesale trade,"30,696",2.3%
+California,2021,Wholesale trade,"468,531",2.6%
+Colorado,2021,Wholesale trade,"71,076",2.4%
+Connecticut,2021,Wholesale trade,"37,208",2.1%
+Delaware,2021,Wholesale trade,"6,676",1.4%
+District of Columbia,2021,Wholesale trade,"2,177",0.6%
+Florida,2021,Wholesale trade,"240,653",2.4%
+Georgia,2021,Wholesale trade,"124,241",2.5%
+Hawaii,2021,Wholesale trade,"14,493",2.3%
+Idaho,2021,Wholesale trade,"22,394",2.5%
+Illinois,2021,Wholesale trade,"167,081",2.7%
+Indiana,2021,Wholesale trade,"70,663",2.2%
+Iowa,2021,Wholesale trade,"42,313",2.6%
+Kansas,2021,Wholesale trade,"32,222",2.2%
+Kentucky,2021,Wholesale trade,"39,557",2.0%
+Louisiana,2021,Wholesale trade,"44,721",2.3%
+Maine,2021,Wholesale trade,"12,667",1.9%
+Maryland,2021,Wholesale trade,"52,985",1.7%
+Massachusetts,2021,Wholesale trade,"63,927",1.8%
+Michigan,2021,Wholesale trade,"93,022",2.0%
+Minnesota,2021,Wholesale trade,"77,870",2.6%
+Mississippi,2021,Wholesale trade,"23,744",1.9%
+Missouri,2021,Wholesale trade,"71,349",2.4%
+Montana,2021,Wholesale trade,"10,419",2.0%
+Nebraska,2021,Wholesale trade,"24,951",2.4%
+Nevada,2021,Wholesale trade,"22,453",1.6%
+New Hampshire,2021,Wholesale trade,"16,306",2.2%
+New Jersey,2021,Wholesale trade,"129,217",2.9%
+New Mexico,2021,Wholesale trade,"15,884",1.8%
+New York,2021,Wholesale trade,"186,741",2.0%
+North Carolina,2021,Wholesale trade,"108,432",2.2%
+North Dakota,2021,Wholesale trade,"11,473",2.9%
+Ohio,2021,Wholesale trade,"133,396",2.4%
+Oklahoma,2021,Wholesale trade,"38,077",2.1%
+Oregon,2021,Wholesale trade,"55,538",2.8%
+Pennsylvania,2021,Wholesale trade,"150,784",2.4%
+Rhode Island,2021,Wholesale trade,"13,597",2.5%
+South Carolina,2021,Wholesale trade,"48,650",2.1%
+South Dakota,2021,Wholesale trade,"10,609",2.4%
+Tennessee,2021,Wholesale trade,"76,814",2.4%
+Texas,2021,Wholesale trade,"341,050",2.5%
+Utah,2021,Wholesale trade,"39,157",2.4%
+Vermont,2021,Wholesale trade,"5,449",1.6%
+Virginia,2021,Wholesale trade,"69,845",1.7%
+Washington,2021,Wholesale trade,"82,466",2.2%
+West Virginia,2021,Wholesale trade,"13,570",1.9%
+Wisconsin,2021,Wholesale trade,"74,744",2.5%
+Wyoming,2021,Wholesale trade,"4,744",1.7%
+Puerto Rico,2021,Wholesale trade,"33,407",3.1%
+United States,2021,Retail trade,"17,307,114",11.1%
+Alabama,2021,Retail trade,"263,015",12.0%
+Alaska,2021,Retail trade,"33,233",10.1%
+Arizona,2021,Retail trade,"403,265",12.2%
+Arkansas,2021,Retail trade,"175,889",13.3%
+California,2021,Retail trade,"1,853,463",10.2%
+Colorado,2021,Retail trade,"323,595",10.8%
+Connecticut,2021,Retail trade,"201,964",11.2%
+Delaware,2021,Retail trade,"59,784",13.0%
+District of Columbia,2021,Retail trade,"17,118",4.8%
+Florida,2021,Retail trade,"1,240,027",12.4%
+Georgia,2021,Retail trade,"583,283",11.6%
+Hawaii,2021,Retail trade,"68,195",10.7%
+Idaho,2021,Retail trade,"100,248",11.1%
+Illinois,2021,Retail trade,"626,923",10.3%
+Indiana,2021,Retail trade,"356,064",10.9%
+Iowa,2021,Retail trade,"192,609",11.9%
+Kansas,2021,Retail trade,"152,477",10.6%
+Kentucky,2021,Retail trade,"245,217",12.3%
+Louisiana,2021,Retail trade,"228,328",11.7%
+Maine,2021,Retail trade,"79,449",11.8%
+Maryland,2021,Retail trade,"285,245",9.3%
+Massachusetts,2021,Retail trade,"362,438",10.1%
+Michigan,2021,Retail trade,"509,078",11.0%
+Minnesota,2021,Retail trade,"326,598",11.0%
+Mississippi,2021,Retail trade,"143,446",11.7%
+Missouri,2021,Retail trade,"343,907",11.7%
+Montana,2021,Retail trade,"59,962",11.4%
+Nebraska,2021,Retail trade,"104,938",10.3%
+Nevada,2021,Retail trade,"166,065",11.7%
+New Hampshire,2021,Retail trade,"89,806",12.0%
+New Jersey,2021,Retail trade,"498,473",11.1%
+New Mexico,2021,Retail trade,"91,606",10.4%
+New York,2021,Retail trade,"905,505",9.8%
+North Carolina,2021,Retail trade,"557,148",11.4%
+North Dakota,2021,Retail trade,"41,252",10.5%
+Ohio,2021,Retail trade,"626,535",11.2%
+Oklahoma,2021,Retail trade,"219,469",12.3%
+Oregon,2021,Retail trade,"238,636",11.9%
+Pennsylvania,2021,Retail trade,"691,726",11.2%
+Rhode Island,2021,Retail trade,"61,498",11.3%
+South Carolina,2021,Retail trade,"265,613",11.4%
+South Dakota,2021,Retail trade,"54,662",12.2%
+Tennessee,2021,Retail trade,"382,121",11.8%
+Texas,2021,Retail trade,"1,538,871",11.2%
+Utah,2021,Retail trade,"192,521",11.6%
+Vermont,2021,Retail trade,"38,037",11.4%
+Virginia,2021,Retail trade,"407,007",9.7%
+Washington,2021,Retail trade,"438,617",11.9%
+West Virginia,2021,Retail trade,"86,773",12.0%
+Wisconsin,2021,Retail trade,"341,415",11.4%
+Wyoming,2021,Retail trade,"34,000",11.8%
+Puerto Rico,2021,Retail trade,"150,743",13.9%
+United States,2021,"Transportation and warehousing, and utilities","9,237,812",5.9%
+Alabama,2021,"Transportation and warehousing, and utilities","129,367",5.9%
+Alaska,2021,"Transportation and warehousing, and utilities","30,863",9.4%
+Arizona,2021,"Transportation and warehousing, and utilities","185,743",5.6%
+Arkansas,2021,"Transportation and warehousing, and utilities","83,383",6.3%
+California,2021,"Transportation and warehousing, and utilities","1,117,219",6.2%
+Colorado,2021,"Transportation and warehousing, and utilities","154,005",5.1%
+Connecticut,2021,"Transportation and warehousing, and utilities","79,878",4.4%
+Delaware,2021,"Transportation and warehousing, and utilities","25,798",5.6%
+District of Columbia,2021,"Transportation and warehousing, and utilities","11,582",3.3%
+Florida,2021,"Transportation and warehousing, and utilities","623,577",6.2%
+Georgia,2021,"Transportation and warehousing, and utilities","375,618",7.5%
+Hawaii,2021,"Transportation and warehousing, and utilities","40,772",6.4%
+Idaho,2021,"Transportation and warehousing, and utilities","47,531",5.3%
+Illinois,2021,"Transportation and warehousing, and utilities","416,692",6.9%
+Indiana,2021,"Transportation and warehousing, and utilities","204,191",6.3%
+Iowa,2021,"Transportation and warehousing, and utilities","81,393",5.0%
+Kansas,2021,"Transportation and warehousing, and utilities","80,235",5.6%
+Kentucky,2021,"Transportation and warehousing, and utilities","140,162",7.0%
+Louisiana,2021,"Transportation and warehousing, and utilities","113,952",5.8%
+Maine,2021,"Transportation and warehousing, and utilities","29,052",4.3%
+Maryland,2021,"Transportation and warehousing, and utilities","161,205",5.2%
+Massachusetts,2021,"Transportation and warehousing, and utilities","151,744",4.2%
+Michigan,2021,"Transportation and warehousing, and utilities","224,485",4.9%
+Minnesota,2021,"Transportation and warehousing, and utilities","147,065",5.0%
+Mississippi,2021,"Transportation and warehousing, and utilities","89,946",7.3%
+Missouri,2021,"Transportation and warehousing, and utilities","171,570",5.8%
+Montana,2021,"Transportation and warehousing, and utilities","27,061",5.1%
+Nebraska,2021,"Transportation and warehousing, and utilities","61,453",6.0%
+Nevada,2021,"Transportation and warehousing, and utilities","100,787",7.1%
+New Hampshire,2021,"Transportation and warehousing, and utilities","30,252",4.1%
+New Jersey,2021,"Transportation and warehousing, and utilities","290,884",6.5%
+New Mexico,2021,"Transportation and warehousing, and utilities","45,778",5.2%
+New York,2021,"Transportation and warehousing, and utilities","511,124",5.5%
+North Carolina,2021,"Transportation and warehousing, and utilities","268,544",5.5%
+North Dakota,2021,"Transportation and warehousing, and utilities","21,843",5.5%
+Ohio,2021,"Transportation and warehousing, and utilities","341,843",6.1%
+Oklahoma,2021,"Transportation and warehousing, and utilities","104,874",5.9%
+Oregon,2021,"Transportation and warehousing, and utilities","100,020",5.0%
+Pennsylvania,2021,"Transportation and warehousing, and utilities","369,136",6.0%
+Rhode Island,2021,"Transportation and warehousing, and utilities","28,267",5.2%
+South Carolina,2021,"Transportation and warehousing, and utilities","128,775",5.5%
+South Dakota,2021,"Transportation and warehousing, and utilities","21,635",4.8%
+Tennessee,2021,"Transportation and warehousing, and utilities","231,507",7.1%
+Texas,2021,"Transportation and warehousing, and utilities","904,310",6.6%
+Utah,2021,"Transportation and warehousing, and utilities","85,572",5.2%
+Vermont,2021,"Transportation and warehousing, and utilities","11,248",3.4%
+Virginia,2021,"Transportation and warehousing, and utilities","200,552",4.8%
+Washington,2021,"Transportation and warehousing, and utilities","220,480",6.0%
+West Virginia,2021,"Transportation and warehousing, and utilities","42,313",5.9%
+Wisconsin,2021,"Transportation and warehousing, and utilities","154,317",5.2%
+Wyoming,2021,"Transportation and warehousing, and utilities","18,209",6.3%
+Puerto Rico,2021,"Transportation and warehousing, and utilities","37,334",3.4%
+United States,2021,Information,"2,908,107",1.9%
+Alabama,2021,Information,"26,097",1.2%
+Alaska,2021,Information,"5,933",1.8%
+Arizona,2021,Information,"51,676",1.6%
+Arkansas,2021,Information,"16,250",1.2%
+California,2021,Information,"531,079",2.9%
+Colorado,2021,Information,"74,000",2.5%
+Connecticut,2021,Information,"34,952",1.9%
+Delaware,2021,Information,"5,458",1.2%
+District of Columbia,2021,Information,"11,648",3.3%
+Florida,2021,Information,"159,985",1.6%
+Georgia,2021,Information,"104,985",2.1%
+Hawaii,2021,Information,"8,001",1.3%
+Idaho,2021,Information,"12,688",1.4%
+Illinois,2021,Information,"101,744",1.7%
+Indiana,2021,Information,"40,781",1.3%
+Iowa,2021,Information,"22,434",1.4%
+Kansas,2021,Information,"23,538",1.6%
+Kentucky,2021,Information,"25,771",1.3%
+Louisiana,2021,Information,"24,464",1.2%
+Maine,2021,Information,"10,853",1.6%
+Maryland,2021,Information,"53,637",1.7%
+Massachusetts,2021,Information,"69,756",1.9%
+Michigan,2021,Information,"53,987",1.2%
+Minnesota,2021,Information,"37,081",1.3%
+Mississippi,2021,Information,"13,092",1.1%
+Missouri,2021,Information,"42,705",1.5%
+Montana,2021,Information,"10,095",1.9%
+Nebraska,2021,Information,"13,605",1.3%
+Nevada,2021,Information,"23,244",1.6%
+New Hampshire,2021,Information,"15,383",2.1%
+New Jersey,2021,Information,"121,899",2.7%
+New Mexico,2021,Information,"10,809",1.2%
+New York,2021,Information,"257,893",2.8%
+North Carolina,2021,Information,"75,086",1.5%
+North Dakota,2021,Information,"4,321",1.1%
+Ohio,2021,Information,"74,746",1.3%
+Oklahoma,2021,Information,"31,372",1.8%
+Oregon,2021,Information,"24,466",1.2%
+Pennsylvania,2021,Information,"100,066",1.6%
+Rhode Island,2021,Information,"7,787",1.4%
+South Carolina,2021,Information,"34,881",1.5%
+South Dakota,2021,Information,"6,386",1.4%
+Tennessee,2021,Information,"48,850",1.5%
+Texas,2021,Information,"217,088",1.6%
+Utah,2021,Information,"29,060",1.8%
+Vermont,2021,Information,"6,668",2.0%
+Virginia,2021,Information,"76,466",1.8%
+Washington,2021,Information,"95,831",2.6%
+West Virginia,2021,Information,"10,860",1.5%
+Wisconsin,2021,Information,"44,009",1.5%
+Wyoming,2021,Information,"4,641",1.6%
+Puerto Rico,2021,Information,"17,162",1.6%
+United States,2021,"Finance and insurance, and real estate and rental and leasing","10,659,331",6.8%
+Alabama,2021,"Finance and insurance, and real estate and rental and leasing","124,330",5.7%
+Alaska,2021,"Finance and insurance, and real estate and rental and leasing","12,670",3.9%
+Arizona,2021,"Finance and insurance, and real estate and rental and leasing","290,133",8.8%
+Arkansas,2021,"Finance and insurance, and real estate and rental and leasing","71,059",5.4%
+California,2021,"Finance and insurance, and real estate and rental and leasing","1,054,129",5.8%
+Colorado,2021,"Finance and insurance, and real estate and rental and leasing","224,524",7.5%
+Connecticut,2021,"Finance and insurance, and real estate and rental and leasing","163,071",9.0%
+Delaware,2021,"Finance and insurance, and real estate and rental and leasing","44,755",9.7%
+District of Columbia,2021,"Finance and insurance, and real estate and rental and leasing","25,937",7.3%
+Florida,2021,"Finance and insurance, and real estate and rental and leasing","824,385",8.3%
+Georgia,2021,"Finance and insurance, and real estate and rental and leasing","303,357",6.0%
+Hawaii,2021,"Finance and insurance, and real estate and rental and leasing","44,494",7.0%
+Idaho,2021,"Finance and insurance, and real estate and rental and leasing","51,679",5.7%
+Illinois,2021,"Finance and insurance, and real estate and rental and leasing","460,378",7.6%
+Indiana,2021,"Finance and insurance, and real estate and rental and leasing","181,748",5.6%
+Iowa,2021,"Finance and insurance, and real estate and rental and leasing","126,918",7.9%
+Kansas,2021,"Finance and insurance, and real estate and rental and leasing","95,078",6.6%
+Kentucky,2021,"Finance and insurance, and real estate and rental and leasing","114,995",5.8%
+Louisiana,2021,"Finance and insurance, and real estate and rental and leasing","102,550",5.2%
+Maine,2021,"Finance and insurance, and real estate and rental and leasing","47,710",7.1%
+Maryland,2021,"Finance and insurance, and real estate and rental and leasing","184,961",6.0%
+Massachusetts,2021,"Finance and insurance, and real estate and rental and leasing","272,379",7.6%
+Michigan,2021,"Finance and insurance, and real estate and rental and leasing","284,642",6.2%
+Minnesota,2021,"Finance and insurance, and real estate and rental and leasing","213,145",7.2%
+Mississippi,2021,"Finance and insurance, and real estate and rental and leasing","60,493",4.9%
+Missouri,2021,"Finance and insurance, and real estate and rental and leasing","211,850",7.2%
+Montana,2021,"Finance and insurance, and real estate and rental and leasing","26,932",5.1%
+Nebraska,2021,"Finance and insurance, and real estate and rental and leasing","83,447",8.2%
+Nevada,2021,"Finance and insurance, and real estate and rental and leasing","94,142",6.6%
+New Hampshire,2021,"Finance and insurance, and real estate and rental and leasing","47,570",6.4%
+New Jersey,2021,"Finance and insurance, and real estate and rental and leasing","401,342",8.9%
+New Mexico,2021,"Finance and insurance, and real estate and rental and leasing","41,529",4.7%
+New York,2021,"Finance and insurance, and real estate and rental and leasing","752,336",8.2%
+North Carolina,2021,"Finance and insurance, and real estate and rental and leasing","354,673",7.3%
+North Dakota,2021,"Finance and insurance, and real estate and rental and leasing","24,414",6.2%
+Ohio,2021,"Finance and insurance, and real estate and rental and leasing","384,537",6.9%
+Oklahoma,2021,"Finance and insurance, and real estate and rental and leasing","99,492",5.6%
+Oregon,2021,"Finance and insurance, and real estate and rental and leasing","107,198",5.3%
+Pennsylvania,2021,"Finance and insurance, and real estate and rental and leasing","412,499",6.7%
+Rhode Island,2021,"Finance and insurance, and real estate and rental and leasing","42,166",7.7%
+South Carolina,2021,"Finance and insurance, and real estate and rental and leasing","144,684",6.2%
+South Dakota,2021,"Finance and insurance, and real estate and rental and leasing","34,029",7.6%
+Tennessee,2021,"Finance and insurance, and real estate and rental and leasing","198,380",6.1%
+Texas,2021,"Finance and insurance, and real estate and rental and leasing","978,598",7.1%
+Utah,2021,"Finance and insurance, and real estate and rental and leasing","124,403",7.5%
+Vermont,2021,"Finance and insurance, and real estate and rental and leasing","16,367",4.9%
+Virginia,2021,"Finance and insurance, and real estate and rental and leasing","269,753",6.4%
+Washington,2021,"Finance and insurance, and real estate and rental and leasing","197,593",5.3%
+West Virginia,2021,"Finance and insurance, and real estate and rental and leasing","33,280",4.6%
+Wisconsin,2021,"Finance and insurance, and real estate and rental and leasing","187,056",6.3%
+Wyoming,2021,"Finance and insurance, and real estate and rental and leasing","11,541",4.0%
+Puerto Rico,2021,"Finance and insurance, and real estate and rental and leasing","57,530",5.3%
+United States,2021,"Professional, scientific, and management, and administrative and waste management services","19,360,141",12.4%
+Alabama,2021,"Professional, scientific, and management, and administrative and waste management services","222,287",10.1%
+Alaska,2021,"Professional, scientific, and management, and administrative and waste management services","30,677",9.4%
+Arizona,2021,"Professional, scientific, and management, and administrative and waste management services","414,391",12.5%
+Arkansas,2021,"Professional, scientific, and management, and administrative and waste management services","104,934",7.9%
+California,2021,"Professional, scientific, and management, and administrative and waste management services","2,600,262",14.3%
+Colorado,2021,"Professional, scientific, and management, and administrative and waste management services","453,518",15.1%
+Connecticut,2021,"Professional, scientific, and management, and administrative and waste management services","214,586",11.8%
+Delaware,2021,"Professional, scientific, and management, and administrative and waste management services","57,002",12.4%
+District of Columbia,2021,"Professional, scientific, and management, and administrative and waste management services","95,313",26.8%
+Florida,2021,"Professional, scientific, and management, and administrative and waste management services","1,404,283",14.1%
+Georgia,2021,"Professional, scientific, and management, and administrative and waste management services","685,537",13.6%
+Hawaii,2021,"Professional, scientific, and management, and administrative and waste management services","68,294",10.7%
+Idaho,2021,"Professional, scientific, and management, and administrative and waste management services","93,422",10.4%
+Illinois,2021,"Professional, scientific, and management, and administrative and waste management services","777,295",12.8%
+Indiana,2021,"Professional, scientific, and management, and administrative and waste management services","288,289",8.8%
+Iowa,2021,"Professional, scientific, and management, and administrative and waste management services","121,702",7.5%
+Kansas,2021,"Professional, scientific, and management, and administrative and waste management services","146,107",10.2%
+Kentucky,2021,"Professional, scientific, and management, and administrative and waste management services","180,627",9.1%
+Louisiana,2021,"Professional, scientific, and management, and administrative and waste management services","190,771",9.7%
+Maine,2021,"Professional, scientific, and management, and administrative and waste management services","71,053",10.6%
+Maryland,2021,"Professional, scientific, and management, and administrative and waste management services","506,392",16.5%
+Massachusetts,2021,"Professional, scientific, and management, and administrative and waste management services","573,994",15.9%
+Michigan,2021,"Professional, scientific, and management, and administrative and waste management services","465,725",10.1%
+Minnesota,2021,"Professional, scientific, and management, and administrative and waste management services","308,706",10.4%
+Mississippi,2021,"Professional, scientific, and management, and administrative and waste management services","87,237",7.1%
+Missouri,2021,"Professional, scientific, and management, and administrative and waste management services","300,957",10.2%
+Montana,2021,"Professional, scientific, and management, and administrative and waste management services","52,363",9.9%
+Nebraska,2021,"Professional, scientific, and management, and administrative and waste management services","96,751",9.5%
+Nevada,2021,"Professional, scientific, and management, and administrative and waste management services","166,016",11.7%
+New Hampshire,2021,"Professional, scientific, and management, and administrative and waste management services","91,821",12.3%
+New Jersey,2021,"Professional, scientific, and management, and administrative and waste management services","640,634",14.2%
+New Mexico,2021,"Professional, scientific, and management, and administrative and waste management services","118,736",13.5%
+New York,2021,"Professional, scientific, and management, and administrative and waste management services","1,204,536",13.1%
+North Carolina,2021,"Professional, scientific, and management, and administrative and waste management services","585,623",12.0%
+North Dakota,2021,"Professional, scientific, and management, and administrative and waste management services","27,150",6.9%
+Ohio,2021,"Professional, scientific, and management, and administrative and waste management services","556,947",9.9%
+Oklahoma,2021,"Professional, scientific, and management, and administrative and waste management services","161,172",9.1%
+Oregon,2021,"Professional, scientific, and management, and administrative and waste management services","248,458",12.4%
+Pennsylvania,2021,"Professional, scientific, and management, and administrative and waste management services","681,661",11.0%
+Rhode Island,2021,"Professional, scientific, and management, and administrative and waste management services","62,065",11.4%
+South Carolina,2021,"Professional, scientific, and management, and administrative and waste management services","265,765",11.4%
+South Dakota,2021,"Professional, scientific, and management, and administrative and waste management services","29,841",6.6%
+Tennessee,2021,"Professional, scientific, and management, and administrative and waste management services","332,083",10.3%
+Texas,2021,"Professional, scientific, and management, and administrative and waste management services","1,730,616",12.5%
+Utah,2021,"Professional, scientific, and management, and administrative and waste management services","211,569",12.8%
+Vermont,2021,"Professional, scientific, and management, and administrative and waste management services","31,848",9.6%
+Virginia,2021,"Professional, scientific, and management, and administrative and waste management services","714,298",17.0%
+Washington,2021,"Professional, scientific, and management, and administrative and waste management services","537,826",14.5%
+West Virginia,2021,"Professional, scientific, and management, and administrative and waste management services","56,713",7.9%
+Wisconsin,2021,"Professional, scientific, and management, and administrative and waste management services","269,609",9.0%
+Wyoming,2021,"Professional, scientific, and management, and administrative and waste management services","22,679",7.9%
+Puerto Rico,2021,"Professional, scientific, and management, and administrative and waste management services","119,548",11.0%
+United States,2021,"Educational services, and health care and social assistance","36,749,102",23.5%
+Alabama,2021,"Educational services, and health care and social assistance","504,187",23.0%
+Alaska,2021,"Educational services, and health care and social assistance","75,547",23.0%
+Arizona,2021,"Educational services, and health care and social assistance","730,334",22.0%
+Arkansas,2021,"Educational services, and health care and social assistance","325,570",24.6%
+California,2021,"Educational services, and health care and social assistance","3,992,891",22.0%
+Colorado,2021,"Educational services, and health care and social assistance","655,227",21.8%
+Connecticut,2021,"Educational services, and health care and social assistance","491,448",27.1%
+Delaware,2021,"Educational services, and health care and social assistance","112,722",24.4%
+District of Columbia,2021,"Educational services, and health care and social assistance","58,473",16.5%
+Florida,2021,"Educational services, and health care and social assistance","2,087,299",20.9%
+Georgia,2021,"Educational services, and health care and social assistance","1,076,870",21.4%
+Hawaii,2021,"Educational services, and health care and social assistance","155,853",24.5%
+Idaho,2021,"Educational services, and health care and social assistance","199,352",22.1%
+Illinois,2021,"Educational services, and health care and social assistance","1,437,997",23.7%
+Indiana,2021,"Educational services, and health care and social assistance","748,435",23.0%
+Iowa,2021,"Educational services, and health care and social assistance","385,913",23.9%
+Kansas,2021,"Educational services, and health care and social assistance","361,293",25.1%
+Kentucky,2021,"Educational services, and health care and social assistance","473,295",23.8%
+Louisiana,2021,"Educational services, and health care and social assistance","503,607",25.7%
+Maine,2021,"Educational services, and health care and social assistance","183,488",27.3%
+Maryland,2021,"Educational services, and health care and social assistance","724,766",23.6%
+Massachusetts,2021,"Educational services, and health care and social assistance","1,011,958",28.1%
+Michigan,2021,"Educational services, and health care and social assistance","1,062,781",23.0%
+Minnesota,2021,"Educational services, and health care and social assistance","760,313",25.7%
+Mississippi,2021,"Educational services, and health care and social assistance","302,707",24.7%
+Missouri,2021,"Educational services, and health care and social assistance","719,271",24.5%
+Montana,2021,"Educational services, and health care and social assistance","127,378",24.1%
+Nebraska,2021,"Educational services, and health care and social assistance","248,797",24.4%
+Nevada,2021,"Educational services, and health care and social assistance","256,243",18.0%
+New Hampshire,2021,"Educational services, and health care and social assistance","188,566",25.3%
+New Jersey,2021,"Educational services, and health care and social assistance","1,084,790",24.1%
+New Mexico,2021,"Educational services, and health care and social assistance","227,048",25.8%
+New York,2021,"Educational services, and health care and social assistance","2,741,806",29.7%
+North Carolina,2021,"Educational services, and health care and social assistance","1,108,733",22.7%
+North Dakota,2021,"Educational services, and health care and social assistance","103,795",26.3%
+Ohio,2021,"Educational services, and health care and social assistance","1,349,570",24.1%
+Oklahoma,2021,"Educational services, and health care and social assistance","417,859",23.5%
+Oregon,2021,"Educational services, and health care and social assistance","458,952",22.9%
+Pennsylvania,2021,"Educational services, and health care and social assistance","1,633,062",26.4%
+Rhode Island,2021,"Educational services, and health care and social assistance","149,769",27.4%
+South Carolina,2021,"Educational services, and health care and social assistance","517,169",22.1%
+South Dakota,2021,"Educational services, and health care and social assistance","112,040",24.9%
+Tennessee,2021,"Educational services, and health care and social assistance","727,020",22.4%
+Texas,2021,"Educational services, and health care and social assistance","3,001,036",21.8%
+Utah,2021,"Educational services, and health care and social assistance","360,602",21.8%
+Vermont,2021,"Educational services, and health care and social assistance","96,066",28.8%
+Virginia,2021,"Educational services, and health care and social assistance","940,477",22.4%
+Washington,2021,"Educational services, and health care and social assistance","786,465",21.3%
+West Virginia,2021,"Educational services, and health care and social assistance","207,716",28.8%
+Wisconsin,2021,"Educational services, and health care and social assistance","692,766",23.2%
+Wyoming,2021,"Educational services, and health care and social assistance","69,780",24.3%
+Puerto Rico,2021,"Educational services, and health care and social assistance","229,167",21.1%
+United States,2021,"Arts, entertainment, and recreation, and accommodation and food services","12,892,907",8.2%
+Alabama,2021,"Arts, entertainment, and recreation, and accommodation and food services","173,723",7.9%
+Alaska,2021,"Arts, entertainment, and recreation, and accommodation and food services","29,745",9.1%
+Arizona,2021,"Arts, entertainment, and recreation, and accommodation and food services","315,485",9.5%
+Arkansas,2021,"Arts, entertainment, and recreation, and accommodation and food services","98,310",7.4%
+California,2021,"Arts, entertainment, and recreation, and accommodation and food services","1,581,602",8.7%
+Colorado,2021,"Arts, entertainment, and recreation, and accommodation and food services","251,379",8.4%
+Connecticut,2021,"Arts, entertainment, and recreation, and accommodation and food services","127,438",7.0%
+Delaware,2021,"Arts, entertainment, and recreation, and accommodation and food services","36,519",7.9%
+District of Columbia,2021,"Arts, entertainment, and recreation, and accommodation and food services","21,884",6.2%
+Florida,2021,"Arts, entertainment, and recreation, and accommodation and food services","1,042,782",10.4%
+Georgia,2021,"Arts, entertainment, and recreation, and accommodation and food services","411,832",8.2%
+Hawaii,2021,"Arts, entertainment, and recreation, and accommodation and food services","87,169",13.7%
+Idaho,2021,"Arts, entertainment, and recreation, and accommodation and food services","79,810",8.8%
+Illinois,2021,"Arts, entertainment, and recreation, and accommodation and food services","473,320",7.8%
+Indiana,2021,"Arts, entertainment, and recreation, and accommodation and food services","253,814",7.8%
+Iowa,2021,"Arts, entertainment, and recreation, and accommodation and food services","106,713",6.6%
+Kansas,2021,"Arts, entertainment, and recreation, and accommodation and food services","108,293",7.5%
+Kentucky,2021,"Arts, entertainment, and recreation, and accommodation and food services","149,142",7.5%
+Louisiana,2021,"Arts, entertainment, and recreation, and accommodation and food services","180,101",9.2%
+Maine,2021,"Arts, entertainment, and recreation, and accommodation and food services","44,707",6.6%
+Maryland,2021,"Arts, entertainment, and recreation, and accommodation and food services","212,473",6.9%
+Massachusetts,2021,"Arts, entertainment, and recreation, and accommodation and food services","253,885",7.0%
+Michigan,2021,"Arts, entertainment, and recreation, and accommodation and food services","372,357",8.1%
+Minnesota,2021,"Arts, entertainment, and recreation, and accommodation and food services","198,134",6.7%
+Mississippi,2021,"Arts, entertainment, and recreation, and accommodation and food services","107,021",8.7%
+Missouri,2021,"Arts, entertainment, and recreation, and accommodation and food services","236,858",8.1%
+Montana,2021,"Arts, entertainment, and recreation, and accommodation and food services","51,982",9.9%
+Nebraska,2021,"Arts, entertainment, and recreation, and accommodation and food services","72,962",7.2%
+Nevada,2021,"Arts, entertainment, and recreation, and accommodation and food services","263,115",18.5%
+New Hampshire,2021,"Arts, entertainment, and recreation, and accommodation and food services","54,235",7.3%
+New Jersey,2021,"Arts, entertainment, and recreation, and accommodation and food services","294,527",6.5%
+New Mexico,2021,"Arts, entertainment, and recreation, and accommodation and food services","81,181",9.2%
+New York,2021,"Arts, entertainment, and recreation, and accommodation and food services","684,714",7.4%
+North Carolina,2021,"Arts, entertainment, and recreation, and accommodation and food services","394,912",8.1%
+North Dakota,2021,"Arts, entertainment, and recreation, and accommodation and food services","35,435",9.0%
+Ohio,2021,"Arts, entertainment, and recreation, and accommodation and food services","463,832",8.3%
+Oklahoma,2021,"Arts, entertainment, and recreation, and accommodation and food services","157,586",8.9%
+Oregon,2021,"Arts, entertainment, and recreation, and accommodation and food services","174,713",8.7%
+Pennsylvania,2021,"Arts, entertainment, and recreation, and accommodation and food services","437,165",7.1%
+Rhode Island,2021,"Arts, entertainment, and recreation, and accommodation and food services","45,858",8.4%
+South Carolina,2021,"Arts, entertainment, and recreation, and accommodation and food services","207,167",8.9%
+South Dakota,2021,"Arts, entertainment, and recreation, and accommodation and food services","35,053",7.8%
+Tennessee,2021,"Arts, entertainment, and recreation, and accommodation and food services","277,366",8.6%
+Texas,2021,"Arts, entertainment, and recreation, and accommodation and food services","1,139,063",8.3%
+Utah,2021,"Arts, entertainment, and recreation, and accommodation and food services","126,399",7.6%
+Vermont,2021,"Arts, entertainment, and recreation, and accommodation and food services","25,927",7.8%
+Virginia,2021,"Arts, entertainment, and recreation, and accommodation and food services","335,545",8.0%
+Washington,2021,"Arts, entertainment, and recreation, and accommodation and food services","287,335",7.8%
+West Virginia,2021,"Arts, entertainment, and recreation, and accommodation and food services","62,075",8.6%
+Wisconsin,2021,"Arts, entertainment, and recreation, and accommodation and food services","205,221",6.9%
+Wyoming,2021,"Arts, entertainment, and recreation, and accommodation and food services","25,043",8.7%
+Puerto Rico,2021,"Arts, entertainment, and recreation, and accommodation and food services","96,766",8.9%
+United States,2021,"Other services, except public administration","7,170,404",4.6%
+Alabama,2021,"Other services, except public administration","102,169",4.7%
+Alaska,2021,"Other services, except public administration","12,756",3.9%
+Arizona,2021,"Other services, except public administration","144,511",4.4%
+Arkansas,2021,"Other services, except public administration","61,312",4.6%
+California,2021,"Other services, except public administration","834,295",4.6%
+Colorado,2021,"Other services, except public administration","149,546",5.0%
+Connecticut,2021,"Other services, except public administration","77,439",4.3%
+Delaware,2021,"Other services, except public administration","16,518",3.6%
+District of Columbia,2021,"Other services, except public administration","32,384",9.1%
+Florida,2021,"Other services, except public administration","495,106",5.0%
+Georgia,2021,"Other services, except public administration","215,249",4.3%
+Hawaii,2021,"Other services, except public administration","24,195",3.8%
+Idaho,2021,"Other services, except public administration","38,703",4.3%
+Illinois,2021,"Other services, except public administration","261,660",4.3%
+Indiana,2021,"Other services, except public administration","148,162",4.5%
+Iowa,2021,"Other services, except public administration","67,614",4.2%
+Kansas,2021,"Other services, except public administration","61,189",4.3%
+Kentucky,2021,"Other services, except public administration","93,410",4.7%
+Louisiana,2021,"Other services, except public administration","100,293",5.1%
+Maine,2021,"Other services, except public administration","27,348",4.1%
+Maryland,2021,"Other services, except public administration","151,477",4.9%
+Massachusetts,2021,"Other services, except public administration","141,996",3.9%
+Michigan,2021,"Other services, except public administration","207,655",4.5%
+Minnesota,2021,"Other services, except public administration","131,358",4.4%
+Mississippi,2021,"Other services, except public administration","57,092",4.7%
+Missouri,2021,"Other services, except public administration","142,098",4.8%
+Montana,2021,"Other services, except public administration","25,732",4.9%
+Nebraska,2021,"Other services, except public administration","44,475",4.4%
+Nevada,2021,"Other services, except public administration","62,586",4.4%
+New Hampshire,2021,"Other services, except public administration","27,698",3.7%
+New Jersey,2021,"Other services, except public administration","182,739",4.1%
+New Mexico,2021,"Other services, except public administration","39,531",4.5%
+New York,2021,"Other services, except public administration","415,047",4.5%
+North Carolina,2021,"Other services, except public administration","227,673",4.7%
+North Dakota,2021,"Other services, except public administration","18,604",4.7%
+Ohio,2021,"Other services, except public administration","237,411",4.2%
+Oklahoma,2021,"Other services, except public administration","87,398",4.9%
+Oregon,2021,"Other services, except public administration","100,714",5.0%
+Pennsylvania,2021,"Other services, except public administration","280,333",4.5%
+Rhode Island,2021,"Other services, except public administration","22,207",4.1%
+South Carolina,2021,"Other services, except public administration","115,559",4.9%
+South Dakota,2021,"Other services, except public administration","20,753",4.6%
+Tennessee,2021,"Other services, except public administration","162,916",5.0%
+Texas,2021,"Other services, except public administration","680,249",4.9%
+Utah,2021,"Other services, except public administration","69,604",4.2%
+Vermont,2021,"Other services, except public administration","15,195",4.6%
+Virginia,2021,"Other services, except public administration","220,393",5.2%
+Washington,2021,"Other services, except public administration","150,639",4.1%
+West Virginia,2021,"Other services, except public administration","33,292",4.6%
+Wisconsin,2021,"Other services, except public administration","119,611",4.0%
+Wyoming,2021,"Other services, except public administration","14,510",5.0%
+Puerto Rico,2021,"Other services, except public administration","68,059",6.3%
+United States,2021,Public administration,"7,521,062",4.8%
+Alabama,2021,Public administration,"116,348",5.3%
+Alaska,2021,Public administration,"40,054",12.2%
+Arizona,2021,Public administration,"160,337",4.8%
+Arkansas,2021,Public administration,"60,116",4.5%
+California,2021,Public administration,"864,265",4.8%
+Colorado,2021,Public administration,"138,383",4.6%
+Connecticut,2021,Public administration,"64,058",3.5%
+Delaware,2021,Public administration,"28,144",6.1%
+District of Columbia,2021,Public administration,"65,816",18.5%
+Florida,2021,Public administration,"440,894",4.4%
+Georgia,2021,Public administration,"245,300",4.9%
+Hawaii,2021,Public administration,"52,171",8.2%
+Idaho,2021,Public administration,"45,855",5.1%
+Illinois,2021,Public administration,"241,269",4.0%
+Indiana,2021,Public administration,"119,697",3.7%
+Iowa,2021,Public administration,"54,666",3.4%
+Kansas,2021,Public administration,"71,590",5.0%
+Kentucky,2021,Public administration,"86,453",4.3%
+Louisiana,2021,Public administration,"112,744",5.8%
+Maine,2021,Public administration,"31,736",4.7%
+Maryland,2021,Public administration,"344,411",11.2%
+Massachusetts,2021,Public administration,"150,698",4.2%
+Michigan,2021,Public administration,"162,812",3.5%
+Minnesota,2021,Public administration,"112,537",3.8%
+Mississippi,2021,Public administration,"71,084",5.8%
+Missouri,2021,Public administration,"120,827",4.1%
+Montana,2021,Public administration,"31,705",6.0%
+Nebraska,2021,Public administration,"47,602",4.7%
+Nevada,2021,Public administration,"68,584",4.8%
+New Hampshire,2021,Public administration,"32,489",4.4%
+New Jersey,2021,Public administration,"199,339",4.4%
+New Mexico,2021,Public administration,"74,078",8.4%
+New York,2021,Public administration,"446,649",4.8%
+North Carolina,2021,Public administration,"207,547",4.2%
+North Dakota,2021,Public administration,"19,570",5.0%
+Ohio,2021,Public administration,"211,146",3.8%
+Oklahoma,2021,Public administration,"112,771",6.3%
+Oregon,2021,Public administration,"98,983",4.9%
+Pennsylvania,2021,Public administration,"263,562",4.3%
+Rhode Island,2021,Public administration,"23,648",4.3%
+South Carolina,2021,Public administration,"107,997",4.6%
+South Dakota,2021,Public administration,"18,847",4.2%
+Tennessee,2021,Public administration,"134,212",4.1%
+Texas,2021,Public administration,"590,676",4.3%
+Utah,2021,Public administration,"77,805",4.7%
+Vermont,2021,Public administration,"15,604",4.7%
+Virginia,2021,Public administration,"367,134",8.7%
+Washington,2021,Public administration,"192,509",5.2%
+West Virginia,2021,Public administration,"47,689",6.6%
+Wisconsin,2021,Public administration,"108,731",3.6%
+Wyoming,2021,Public administration,"19,920",6.9%
+Puerto Rico,2021,Public administration,"87,141",8.0%
+United States,2022,"Agriculture, forestry, fishing and hunting, and mining","2,546,743",1.6%
+Alabama,2022,"Agriculture, forestry, fishing and hunting, and mining","28,524",1.3%
+Alaska,2022,"Agriculture, forestry, fishing and hunting, and mining","16,250",4.7%
+Arizona,2022,"Agriculture, forestry, fishing and hunting, and mining","47,913",1.4%
+Arkansas,2022,"Agriculture, forestry, fishing and hunting, and mining","31,370",2.3%
+California,2022,"Agriculture, forestry, fishing and hunting, and mining","388,020",2.0%
+Colorado,2022,"Agriculture, forestry, fishing and hunting, and mining","51,873",1.7%
+Connecticut,2022,"Agriculture, forestry, fishing and hunting, and mining","7,848",0.4%
+Delaware,2022,"Agriculture, forestry, fishing and hunting, and mining","5,134",1.0%
+District of Columbia,2022,"Agriculture, forestry, fishing and hunting, and mining",168,0.0%
+Florida,2022,"Agriculture, forestry, fishing and hunting, and mining","90,336",0.9%
+Georgia,2022,"Agriculture, forestry, fishing and hunting, and mining","45,987",0.9%
+Hawaii,2022,"Agriculture, forestry, fishing and hunting, and mining","8,347",1.2%
+Idaho,2022,"Agriculture, forestry, fishing and hunting, and mining","35,928",3.9%
+Illinois,2022,"Agriculture, forestry, fishing and hunting, and mining","70,513",1.1%
+Indiana,2022,"Agriculture, forestry, fishing and hunting, and mining","44,354",1.3%
+Iowa,2022,"Agriculture, forestry, fishing and hunting, and mining","63,405",3.8%
+Kansas,2022,"Agriculture, forestry, fishing and hunting, and mining","44,604",3.1%
+Kentucky,2022,"Agriculture, forestry, fishing and hunting, and mining","35,752",1.7%
+Louisiana,2022,"Agriculture, forestry, fishing and hunting, and mining","61,239",3.0%
+Maine,2022,"Agriculture, forestry, fishing and hunting, and mining","16,411",2.4%
+Maryland,2022,"Agriculture, forestry, fishing and hunting, and mining","16,708",0.5%
+Massachusetts,2022,"Agriculture, forestry, fishing and hunting, and mining","19,302",0.5%
+Michigan,2022,"Agriculture, forestry, fishing and hunting, and mining","53,066",1.1%
+Minnesota,2022,"Agriculture, forestry, fishing and hunting, and mining","59,802",2.0%
+Mississippi,2022,"Agriculture, forestry, fishing and hunting, and mining","30,666",2.4%
+Missouri,2022,"Agriculture, forestry, fishing and hunting, and mining","44,775",1.5%
+Montana,2022,"Agriculture, forestry, fishing and hunting, and mining","37,914",6.8%
+Nebraska,2022,"Agriculture, forestry, fishing and hunting, and mining","42,787",4.2%
+Nevada,2022,"Agriculture, forestry, fishing and hunting, and mining","21,824",1.4%
+New Hampshire,2022,"Agriculture, forestry, fishing and hunting, and mining","6,365",0.8%
+New Jersey,2022,"Agriculture, forestry, fishing and hunting, and mining","11,287",0.2%
+New Mexico,2022,"Agriculture, forestry, fishing and hunting, and mining","27,959",3.0%
+New York,2022,"Agriculture, forestry, fishing and hunting, and mining","53,487",0.6%
+North Carolina,2022,"Agriculture, forestry, fishing and hunting, and mining","55,186",1.1%
+North Dakota,2022,"Agriculture, forestry, fishing and hunting, and mining","32,506",8.0%
+Ohio,2022,"Agriculture, forestry, fishing and hunting, and mining","50,847",0.9%
+Oklahoma,2022,"Agriculture, forestry, fishing and hunting, and mining","70,719",3.9%
+Oregon,2022,"Agriculture, forestry, fishing and hunting, and mining","56,988",2.7%
+Pennsylvania,2022,"Agriculture, forestry, fishing and hunting, and mining","79,330",1.2%
+Rhode Island,2022,"Agriculture, forestry, fishing and hunting, and mining","5,261",0.9%
+South Carolina,2022,"Agriculture, forestry, fishing and hunting, and mining","19,100",0.8%
+South Dakota,2022,"Agriculture, forestry, fishing and hunting, and mining","29,549",6.4%
+Tennessee,2022,"Agriculture, forestry, fishing and hunting, and mining","27,815",0.8%
+Texas,2022,"Agriculture, forestry, fishing and hunting, and mining","320,064",2.2%
+Utah,2022,"Agriculture, forestry, fishing and hunting, and mining","24,906",1.4%
+Vermont,2022,"Agriculture, forestry, fishing and hunting, and mining","8,519",2.5%
+Virginia,2022,"Agriculture, forestry, fishing and hunting, and mining","39,063",0.9%
+Washington,2022,"Agriculture, forestry, fishing and hunting, and mining","93,015",2.4%
+West Virginia,2022,"Agriculture, forestry, fishing and hunting, and mining","21,149",2.9%
+Wisconsin,2022,"Agriculture, forestry, fishing and hunting, and mining","66,238",2.2%
+Wyoming,2022,"Agriculture, forestry, fishing and hunting, and mining","26,570",9.1%
+Puerto Rico,2022,"Agriculture, forestry, fishing and hunting, and mining","18,584",1.6%
+United States,2022,Construction,"11,213,024",6.9%
+Alabama,2022,Construction,"154,225",6.8%
+Alaska,2022,Construction,"25,127",7.3%
+Arizona,2022,Construction,"266,613",7.7%
+Arkansas,2022,Construction,"90,213",6.8%
+California,2022,Construction,"1,269,979",6.7%
+Colorado,2022,Construction,"251,318",8.0%
+Connecticut,2022,Construction,"118,612",6.4%
+Delaware,2022,Construction,"35,625",7.1%
+District of Columbia,2022,Construction,"6,351",1.7%
+Florida,2022,Construction,"856,991",8.2%
+Georgia,2022,Construction,"358,496",6.8%
+Hawaii,2022,Construction,"49,451",7.3%
+Idaho,2022,Construction,"89,856",9.8%
+Illinois,2022,Construction,"336,059",5.3%
+Indiana,2022,Construction,"222,231",6.6%
+Iowa,2022,Construction,"113,842",6.9%
+Kansas,2022,Construction,"87,172",6.0%
+Kentucky,2022,Construction,"129,289",6.3%
+Louisiana,2022,Construction,"162,602",8.0%
+Maine,2022,Construction,"54,168",7.8%
+Maryland,2022,Construction,"226,633",7.2%
+Massachusetts,2022,Construction,"234,056",6.3%
+Michigan,2022,Construction,"285,081",5.9%
+Minnesota,2022,Construction,"195,884",6.5%
+Mississippi,2022,Construction,"90,027",7.2%
+Missouri,2022,Construction,"204,833",6.9%
+Montana,2022,Construction,"50,349",9.0%
+Nebraska,2022,Construction,"80,363",7.8%
+Nevada,2022,Construction,"114,629",7.5%
+New Hampshire,2022,Construction,"54,409",7.2%
+New Jersey,2022,Construction,"285,861",6.1%
+New Mexico,2022,Construction,"71,253",7.6%
+New York,2022,Construction,"545,675",5.7%
+North Carolina,2022,Construction,"372,237",7.2%
+North Dakota,2022,Construction,"28,725",7.0%
+Ohio,2022,Construction,"340,739",5.9%
+Oklahoma,2022,Construction,"132,607",7.2%
+Oregon,2022,Construction,"142,543",6.8%
+Pennsylvania,2022,Construction,"371,654",5.8%
+Rhode Island,2022,Construction,"33,162",5.9%
+South Carolina,2022,Construction,"162,846",6.6%
+South Dakota,2022,Construction,"33,992",7.4%
+Tennessee,2022,Construction,"228,572",6.7%
+Texas,2022,Construction,"1,266,232",8.7%
+Utah,2022,Construction,"142,262",8.2%
+Vermont,2022,Construction,"24,736",7.2%
+Virginia,2022,Construction,"271,652",6.3%
+Washington,2022,Construction,"278,153",7.2%
+West Virginia,2022,Construction,"50,330",6.8%
+Wisconsin,2022,Construction,"187,841",6.2%
+Wyoming,2022,Construction,"27,468",9.4%
+Puerto Rico,2022,Construction,"75,137",6.5%
+United States,2022,Manufacturing,"16,096,892",9.9%
+Alabama,2022,Manufacturing,"318,435",14.0%
+Alaska,2022,Manufacturing,"15,265",4.4%
+Arizona,2022,Manufacturing,"258,236",7.5%
+Arkansas,2022,Manufacturing,"181,800",13.6%
+California,2022,Manufacturing,"1,657,206",8.7%
+Colorado,2022,Manufacturing,"225,887",7.2%
+Connecticut,2022,Manufacturing,"197,152",10.6%
+Delaware,2022,Manufacturing,"36,139",7.2%
+District of Columbia,2022,Manufacturing,"6,959",1.9%
+Florida,2022,Manufacturing,"545,806",5.2%
+Georgia,2022,Manufacturing,"549,389",10.4%
+Hawaii,2022,Manufacturing,"22,983",3.4%
+Idaho,2022,Manufacturing,"84,860",9.2%
+Illinois,2022,Manufacturing,"725,928",11.5%
+Indiana,2022,Manufacturing,"620,384",18.5%
+Iowa,2022,Manufacturing,"239,736",14.5%
+Kansas,2022,Manufacturing,"179,593",12.3%
+Kentucky,2022,Manufacturing,"299,639",14.5%
+Louisiana,2022,Manufacturing,"149,175",7.3%
+Maine,2022,Manufacturing,"61,944",8.9%
+Maryland,2022,Manufacturing,"152,925",4.8%
+Massachusetts,2022,Manufacturing,"339,811",9.1%
+Michigan,2022,Manufacturing,"873,187",18.2%
+Minnesota,2022,Manufacturing,"402,986",13.4%
+Mississippi,2022,Manufacturing,"174,869",13.9%
+Missouri,2022,Manufacturing,"342,559",11.5%
+Montana,2022,Manufacturing,"25,828",4.6%
+Nebraska,2022,Manufacturing,"101,641",9.9%
+Nevada,2022,Manufacturing,"84,087",5.5%
+New Hampshire,2022,Manufacturing,"97,919",13.0%
+New Jersey,2022,Manufacturing,"392,662",8.3%
+New Mexico,2022,Manufacturing,"40,993",4.4%
+New York,2022,Manufacturing,"543,105",5.7%
+North Carolina,2022,Manufacturing,"601,741",11.7%
+North Dakota,2022,Manufacturing,"32,253",7.9%
+Ohio,2022,Manufacturing,"856,921",14.9%
+Oklahoma,2022,Manufacturing,"165,615",9.0%
+Oregon,2022,Manufacturing,"218,540",10.4%
+Pennsylvania,2022,Manufacturing,"706,729",11.0%
+Rhode Island,2022,Manufacturing,"60,133",10.7%
+South Carolina,2022,Manufacturing,"321,012",13.1%
+South Dakota,2022,Manufacturing,"45,709",9.9%
+Tennessee,2022,Manufacturing,"437,353",12.8%
+Texas,2022,Manufacturing,"1,217,594",8.4%
+Utah,2022,Manufacturing,"173,631",10.0%
+Vermont,2022,Manufacturing,"30,076",8.7%
+Virginia,2022,Manufacturing,"303,076",7.1%
+Washington,2022,Manufacturing,"346,303",9.0%
+West Virginia,2022,Manufacturing,"60,045",8.2%
+Wisconsin,2022,Manufacturing,"558,063",18.4%
+Wyoming,2022,Manufacturing,"13,010",4.5%
+Puerto Rico,2022,Manufacturing,"104,432",9.0%
+United States,2022,Wholesale trade,"3,502,056",2.2%
+Alabama,2022,Wholesale trade,"44,172",1.9%
+Alaska,2022,Wholesale trade,"4,757",1.4%
+Arizona,2022,Wholesale trade,"64,314",1.9%
+Arkansas,2022,Wholesale trade,"23,311",1.7%
+California,2022,Wholesale trade,"448,280",2.4%
+Colorado,2022,Wholesale trade,"57,209",1.8%
+Connecticut,2022,Wholesale trade,"36,074",1.9%
+Delaware,2022,Wholesale trade,"9,252",1.9%
+District of Columbia,2022,Wholesale trade,"1,562",0.4%
+Florida,2022,Wholesale trade,"235,585",2.2%
+Georgia,2022,Wholesale trade,"124,127",2.4%
+Hawaii,2022,Wholesale trade,"11,315",1.7%
+Idaho,2022,Wholesale trade,"19,175",2.1%
+Illinois,2022,Wholesale trade,"157,156",2.5%
+Indiana,2022,Wholesale trade,"64,847",1.9%
+Iowa,2022,Wholesale trade,"40,370",2.4%
+Kansas,2022,Wholesale trade,"32,961",2.3%
+Kentucky,2022,Wholesale trade,"41,357",2.0%
+Louisiana,2022,Wholesale trade,"44,599",2.2%
+Maine,2022,Wholesale trade,"11,615",1.7%
+Maryland,2022,Wholesale trade,"44,606",1.4%
+Massachusetts,2022,Wholesale trade,"69,821",1.9%
+Michigan,2022,Wholesale trade,"90,036",1.9%
+Minnesota,2022,Wholesale trade,"71,800",2.4%
+Mississippi,2022,Wholesale trade,"24,636",2.0%
+Missouri,2022,Wholesale trade,"65,361",2.2%
+Montana,2022,Wholesale trade,"15,258",2.7%
+Nebraska,2022,Wholesale trade,"23,138",2.3%
+Nevada,2022,Wholesale trade,"30,895",2.0%
+New Hampshire,2022,Wholesale trade,"17,369",2.3%
+New Jersey,2022,Wholesale trade,"132,637",2.8%
+New Mexico,2022,Wholesale trade,"13,431",1.4%
+New York,2022,Wholesale trade,"177,093",1.8%
+North Carolina,2022,Wholesale trade,"103,272",2.0%
+North Dakota,2022,Wholesale trade,"11,574",2.8%
+Ohio,2022,Wholesale trade,"124,868",2.2%
+Oklahoma,2022,Wholesale trade,"35,100",1.9%
+Oregon,2022,Wholesale trade,"46,450",2.2%
+Pennsylvania,2022,Wholesale trade,"148,515",2.3%
+Rhode Island,2022,Wholesale trade,"13,166",2.3%
+South Carolina,2022,Wholesale trade,"51,082",2.1%
+South Dakota,2022,Wholesale trade,"9,692",2.1%
+Tennessee,2022,Wholesale trade,"74,526",2.2%
+Texas,2022,Wholesale trade,"346,420",2.4%
+Utah,2022,Wholesale trade,"35,311",2.0%
+Vermont,2022,Wholesale trade,"7,652",2.2%
+Virginia,2022,Wholesale trade,"69,347",1.6%
+Washington,2022,Wholesale trade,"86,265",2.2%
+West Virginia,2022,Wholesale trade,"12,552",1.7%
+Wisconsin,2022,Wholesale trade,"73,768",2.4%
+Wyoming,2022,Wholesale trade,"4,377",1.5%
+Puerto Rico,2022,Wholesale trade,"28,564",2.5%
+United States,2022,Retail trade,"18,073,795",11.1%
+Alabama,2022,Retail trade,"265,627",11.7%
+Alaska,2022,Retail trade,"36,390",10.5%
+Arizona,2022,Retail trade,"420,736",12.2%
+Arkansas,2022,Retail trade,"182,615",13.7%
+California,2022,Retail trade,"1,962,874",10.4%
+Colorado,2022,Retail trade,"330,116",10.5%
+Connecticut,2022,Retail trade,"194,829",10.5%
+Delaware,2022,Retail trade,"61,886",12.4%
+District of Columbia,2022,Retail trade,"18,498",4.9%
+Florida,2022,Retail trade,"1,295,078",12.3%
+Georgia,2022,Retail trade,"600,160",11.4%
+Hawaii,2022,Retail trade,"69,870",10.4%
+Idaho,2022,Retail trade,"111,022",12.1%
+Illinois,2022,Retail trade,"675,894",10.7%
+Indiana,2022,Retail trade,"367,445",11.0%
+Iowa,2022,Retail trade,"189,143",11.4%
+Kansas,2022,Retail trade,"159,224",10.9%
+Kentucky,2022,Retail trade,"236,730",11.5%
+Louisiana,2022,Retail trade,"232,732",11.4%
+Maine,2022,Retail trade,"93,134",13.4%
+Maryland,2022,Retail trade,"274,271",8.7%
+Massachusetts,2022,Retail trade,"353,185",9.5%
+Michigan,2022,Retail trade,"514,108",10.7%
+Minnesota,2022,Retail trade,"334,218",11.1%
+Mississippi,2022,Retail trade,"138,888",11.0%
+Missouri,2022,Retail trade,"339,150",11.4%
+Montana,2022,Retail trade,"65,831",11.8%
+Nebraska,2022,Retail trade,"114,723",11.2%
+Nevada,2022,Retail trade,"172,812",11.3%
+New Hampshire,2022,Retail trade,"94,351",12.5%
+New Jersey,2022,Retail trade,"499,307",10.6%
+New Mexico,2022,Retail trade,"103,417",11.0%
+New York,2022,Retail trade,"964,908",10.1%
+North Carolina,2022,Retail trade,"579,427",11.3%
+North Dakota,2022,Retail trade,"46,126",11.3%
+Ohio,2022,Retail trade,"650,264",11.3%
+Oklahoma,2022,Retail trade,"226,403",12.3%
+Oregon,2022,Retail trade,"254,729",12.2%
+Pennsylvania,2022,Retail trade,"736,894",11.5%
+Rhode Island,2022,Retail trade,"58,880",10.5%
+South Carolina,2022,Retail trade,"276,863",11.3%
+South Dakota,2022,Retail trade,"52,733",11.4%
+Tennessee,2022,Retail trade,"417,554",12.2%
+Texas,2022,Retail trade,"1,696,879",11.6%
+Utah,2022,Retail trade,"203,478",11.7%
+Vermont,2022,Retail trade,"38,634",11.2%
+Virginia,2022,Retail trade,"436,700",10.2%
+Washington,2022,Retail trade,"469,979",12.2%
+West Virginia,2022,Retail trade,"94,660",12.9%
+Wisconsin,2022,Retail trade,"331,505",10.9%
+Wyoming,2022,Retail trade,"28,915",9.9%
+Puerto Rico,2022,Retail trade,"148,801",12.8%
+United States,2022,"Transportation and warehousing, and utilities","9,779,768",6.0%
+Alabama,2022,"Transportation and warehousing, and utilities","132,429",5.8%
+Alaska,2022,"Transportation and warehousing, and utilities","29,892",8.7%
+Arizona,2022,"Transportation and warehousing, and utilities","209,332",6.1%
+Arkansas,2022,"Transportation and warehousing, and utilities","83,144",6.2%
+California,2022,"Transportation and warehousing, and utilities","1,153,859",6.1%
+Colorado,2022,"Transportation and warehousing, and utilities","173,840",5.6%
+Connecticut,2022,"Transportation and warehousing, and utilities","85,763",4.6%
+Delaware,2022,"Transportation and warehousing, and utilities","30,272",6.1%
+District of Columbia,2022,"Transportation and warehousing, and utilities","11,823",3.2%
+Florida,2022,"Transportation and warehousing, and utilities","663,044",6.3%
+Georgia,2022,"Transportation and warehousing, and utilities","402,635",7.6%
+Hawaii,2022,"Transportation and warehousing, and utilities","41,800",6.2%
+Idaho,2022,"Transportation and warehousing, and utilities","43,887",4.8%
+Illinois,2022,"Transportation and warehousing, and utilities","454,511",7.2%
+Indiana,2022,"Transportation and warehousing, and utilities","208,696",6.2%
+Iowa,2022,"Transportation and warehousing, and utilities","87,972",5.3%
+Kansas,2022,"Transportation and warehousing, and utilities","79,995",5.5%
+Kentucky,2022,"Transportation and warehousing, and utilities","151,412",7.3%
+Louisiana,2022,"Transportation and warehousing, and utilities","114,479",5.6%
+Maine,2022,"Transportation and warehousing, and utilities","27,530",4.0%
+Maryland,2022,"Transportation and warehousing, and utilities","172,449",5.4%
+Massachusetts,2022,"Transportation and warehousing, and utilities","157,636",4.2%
+Michigan,2022,"Transportation and warehousing, and utilities","243,738",5.1%
+Minnesota,2022,"Transportation and warehousing, and utilities","158,282",5.3%
+Mississippi,2022,"Transportation and warehousing, and utilities","88,411",7.0%
+Missouri,2022,"Transportation and warehousing, and utilities","186,514",6.2%
+Montana,2022,"Transportation and warehousing, and utilities","29,385",5.3%
+Nebraska,2022,"Transportation and warehousing, and utilities","60,850",5.9%
+Nevada,2022,"Transportation and warehousing, and utilities","111,295",7.3%
+New Hampshire,2022,"Transportation and warehousing, and utilities","31,178",4.1%
+New Jersey,2022,"Transportation and warehousing, and utilities","302,557",6.4%
+New Mexico,2022,"Transportation and warehousing, and utilities","47,399",5.1%
+New York,2022,"Transportation and warehousing, and utilities","558,089",5.8%
+North Carolina,2022,"Transportation and warehousing, and utilities","282,670",5.5%
+North Dakota,2022,"Transportation and warehousing, and utilities","24,728",6.1%
+Ohio,2022,"Transportation and warehousing, and utilities","345,971",6.0%
+Oklahoma,2022,"Transportation and warehousing, and utilities","112,357",6.1%
+Oregon,2022,"Transportation and warehousing, and utilities","95,889",4.6%
+Pennsylvania,2022,"Transportation and warehousing, and utilities","397,213",6.2%
+Rhode Island,2022,"Transportation and warehousing, and utilities","26,216",4.7%
+South Carolina,2022,"Transportation and warehousing, and utilities","141,648",5.8%
+South Dakota,2022,"Transportation and warehousing, and utilities","20,313",4.4%
+Tennessee,2022,"Transportation and warehousing, and utilities","248,148",7.3%
+Texas,2022,"Transportation and warehousing, and utilities","992,889",6.8%
+Utah,2022,"Transportation and warehousing, and utilities","103,674",6.0%
+Vermont,2022,"Transportation and warehousing, and utilities","10,473",3.0%
+Virginia,2022,"Transportation and warehousing, and utilities","209,714",4.9%
+Washington,2022,"Transportation and warehousing, and utilities","225,053",5.8%
+West Virginia,2022,"Transportation and warehousing, and utilities","41,166",5.6%
+Wisconsin,2022,"Transportation and warehousing, and utilities","149,708",4.9%
+Wyoming,2022,"Transportation and warehousing, and utilities","17,840",6.1%
+Puerto Rico,2022,"Transportation and warehousing, and utilities","48,633",4.2%
+United States,2022,Information,"3,137,801",1.9%
+Alabama,2022,Information,"25,219",1.1%
+Alaska,2022,Information,"6,016",1.7%
+Arizona,2022,Information,"47,342",1.4%
+Arkansas,2022,Information,"18,152",1.4%
+California,2022,Information,"576,751",3.0%
+Colorado,2022,Information,"85,311",2.7%
+Connecticut,2022,Information,"40,860",2.2%
+Delaware,2022,Information,"5,252",1.1%
+District of Columbia,2022,Information,"15,429",4.1%
+Florida,2022,Information,"166,629",1.6%
+Georgia,2022,Information,"121,274",2.3%
+Hawaii,2022,Information,"12,066",1.8%
+Idaho,2022,Information,"13,150",1.4%
+Illinois,2022,Information,"108,513",1.7%
+Indiana,2022,Information,"37,812",1.1%
+Iowa,2022,Information,"23,514",1.4%
+Kansas,2022,Information,"23,418",1.6%
+Kentucky,2022,Information,"28,261",1.4%
+Louisiana,2022,Information,"30,525",1.5%
+Maine,2022,Information,"12,646",1.8%
+Maryland,2022,Information,"57,287",1.8%
+Massachusetts,2022,Information,"72,738",2.0%
+Michigan,2022,Information,"60,178",1.3%
+Minnesota,2022,Information,"44,361",1.5%
+Mississippi,2022,Information,"10,990",0.9%
+Missouri,2022,Information,"48,262",1.6%
+Montana,2022,Information,"9,010",1.6%
+Nebraska,2022,Information,"13,905",1.4%
+Nevada,2022,Information,"26,603",1.7%
+New Hampshire,2022,Information,"14,812",2.0%
+New Jersey,2022,Information,"118,985",2.5%
+New Mexico,2022,Information,"16,622",1.8%
+New York,2022,Information,"281,486",2.9%
+North Carolina,2022,Information,"83,677",1.6%
+North Dakota,2022,Information,"4,210",1.0%
+Ohio,2022,Information,"81,865",1.4%
+Oklahoma,2022,Information,"26,936",1.5%
+Oregon,2022,Information,"36,129",1.7%
+Pennsylvania,2022,Information,"92,268",1.4%
+Rhode Island,2022,Information,"6,616",1.2%
+South Carolina,2022,Information,"40,061",1.6%
+South Dakota,2022,Information,"6,686",1.5%
+Tennessee,2022,Information,"56,215",1.6%
+Texas,2022,Information,"240,003",1.6%
+Utah,2022,Information,"35,187",2.0%
+Vermont,2022,Information,"6,496",1.9%
+Virginia,2022,Information,"80,321",1.9%
+Washington,2022,Information,"108,377",2.8%
+West Virginia,2022,Information,"10,849",1.5%
+Wisconsin,2022,Information,"44,192",1.5%
+Wyoming,2022,Information,"4,334",1.5%
+Puerto Rico,2022,Information,"17,937",1.5%
+United States,2022,"Finance and insurance, and real estate and rental and leasing","10,967,381",6.7%
+Alabama,2022,"Finance and insurance, and real estate and rental and leasing","134,908",5.9%
+Alaska,2022,"Finance and insurance, and real estate and rental and leasing","14,570",4.2%
+Arizona,2022,"Finance and insurance, and real estate and rental and leasing","305,745",8.9%
+Arkansas,2022,"Finance and insurance, and real estate and rental and leasing","72,932",5.5%
+California,2022,"Finance and insurance, and real estate and rental and leasing","1,079,549",5.7%
+Colorado,2022,"Finance and insurance, and real estate and rental and leasing","225,573",7.2%
+Connecticut,2022,"Finance and insurance, and real estate and rental and leasing","163,231",8.8%
+Delaware,2022,"Finance and insurance, and real estate and rental and leasing","47,192",9.5%
+District of Columbia,2022,"Finance and insurance, and real estate and rental and leasing","19,954",5.3%
+Florida,2022,"Finance and insurance, and real estate and rental and leasing","874,381",8.3%
+Georgia,2022,"Finance and insurance, and real estate and rental and leasing","336,549",6.4%
+Hawaii,2022,"Finance and insurance, and real estate and rental and leasing","42,929",6.4%
+Idaho,2022,"Finance and insurance, and real estate and rental and leasing","53,207",5.8%
+Illinois,2022,"Finance and insurance, and real estate and rental and leasing","477,204",7.6%
+Indiana,2022,"Finance and insurance, and real estate and rental and leasing","178,237",5.3%
+Iowa,2022,"Finance and insurance, and real estate and rental and leasing","127,920",7.7%
+Kansas,2022,"Finance and insurance, and real estate and rental and leasing","98,202",6.7%
+Kentucky,2022,"Finance and insurance, and real estate and rental and leasing","112,588",5.5%
+Louisiana,2022,"Finance and insurance, and real estate and rental and leasing","113,509",5.6%
+Maine,2022,"Finance and insurance, and real estate and rental and leasing","40,590",5.8%
+Maryland,2022,"Finance and insurance, and real estate and rental and leasing","177,681",5.6%
+Massachusetts,2022,"Finance and insurance, and real estate and rental and leasing","265,665",7.2%
+Michigan,2022,"Finance and insurance, and real estate and rental and leasing","280,272",5.8%
+Minnesota,2022,"Finance and insurance, and real estate and rental and leasing","208,198",6.9%
+Mississippi,2022,"Finance and insurance, and real estate and rental and leasing","59,898",4.8%
+Missouri,2022,"Finance and insurance, and real estate and rental and leasing","217,997",7.3%
+Montana,2022,"Finance and insurance, and real estate and rental and leasing","33,440",6.0%
+Nebraska,2022,"Finance and insurance, and real estate and rental and leasing","80,042",7.8%
+Nevada,2022,"Finance and insurance, and real estate and rental and leasing","89,300",5.9%
+New Hampshire,2022,"Finance and insurance, and real estate and rental and leasing","48,507",6.4%
+New Jersey,2022,"Finance and insurance, and real estate and rental and leasing","404,161",8.6%
+New Mexico,2022,"Finance and insurance, and real estate and rental and leasing","48,150",5.1%
+New York,2022,"Finance and insurance, and real estate and rental and leasing","769,597",8.0%
+North Carolina,2022,"Finance and insurance, and real estate and rental and leasing","371,202",7.2%
+North Dakota,2022,"Finance and insurance, and real estate and rental and leasing","24,438",6.0%
+Ohio,2022,"Finance and insurance, and real estate and rental and leasing","368,165",6.4%
+Oklahoma,2022,"Finance and insurance, and real estate and rental and leasing","106,791",5.8%
+Oregon,2022,"Finance and insurance, and real estate and rental and leasing","119,678",5.7%
+Pennsylvania,2022,"Finance and insurance, and real estate and rental and leasing","427,310",6.7%
+Rhode Island,2022,"Finance and insurance, and real estate and rental and leasing","41,192",7.3%
+South Carolina,2022,"Finance and insurance, and real estate and rental and leasing","155,787",6.3%
+South Dakota,2022,"Finance and insurance, and real estate and rental and leasing","27,514",6.0%
+Tennessee,2022,"Finance and insurance, and real estate and rental and leasing","222,414",6.5%
+Texas,2022,"Finance and insurance, and real estate and rental and leasing","1,035,951",7.1%
+Utah,2022,"Finance and insurance, and real estate and rental and leasing","118,242",6.8%
+Vermont,2022,"Finance and insurance, and real estate and rental and leasing","16,949",4.9%
+Virginia,2022,"Finance and insurance, and real estate and rental and leasing","287,348",6.7%
+Washington,2022,"Finance and insurance, and real estate and rental and leasing","211,157",5.5%
+West Virginia,2022,"Finance and insurance, and real estate and rental and leasing","33,856",4.6%
+Wisconsin,2022,"Finance and insurance, and real estate and rental and leasing","184,373",6.1%
+Wyoming,2022,"Finance and insurance, and real estate and rental and leasing","13,136",4.5%
+Puerto Rico,2022,"Finance and insurance, and real estate and rental and leasing","65,868",5.7%
+United States,2022,"Professional, scientific, and management, and administrative and waste management services","20,474,027",12.6%
+Alabama,2022,"Professional, scientific, and management, and administrative and waste management services","236,249",10.4%
+Alaska,2022,"Professional, scientific, and management, and administrative and waste management services","29,652",8.6%
+Arizona,2022,"Professional, scientific, and management, and administrative and waste management services","428,687",12.5%
+Arkansas,2022,"Professional, scientific, and management, and administrative and waste management services","115,519",8.6%
+California,2022,"Professional, scientific, and management, and administrative and waste management services","2,738,428",14.5%
+Colorado,2022,"Professional, scientific, and management, and administrative and waste management services","494,060",15.8%
+Connecticut,2022,"Professional, scientific, and management, and administrative and waste management services","228,604",12.3%
+Delaware,2022,"Professional, scientific, and management, and administrative and waste management services","60,244",12.1%
+District of Columbia,2022,"Professional, scientific, and management, and administrative and waste management services","92,089",24.6%
+Florida,2022,"Professional, scientific, and management, and administrative and waste management services","1,482,591",14.1%
+Georgia,2022,"Professional, scientific, and management, and administrative and waste management services","702,476",13.3%
+Hawaii,2022,"Professional, scientific, and management, and administrative and waste management services","76,063",11.3%
+Idaho,2022,"Professional, scientific, and management, and administrative and waste management services","97,448",10.6%
+Illinois,2022,"Professional, scientific, and management, and administrative and waste management services","814,229",12.9%
+Indiana,2022,"Professional, scientific, and management, and administrative and waste management services","320,902",9.6%
+Iowa,2022,"Professional, scientific, and management, and administrative and waste management services","130,131",7.8%
+Kansas,2022,"Professional, scientific, and management, and administrative and waste management services","149,387",10.3%
+Kentucky,2022,"Professional, scientific, and management, and administrative and waste management services","193,895",9.4%
+Louisiana,2022,"Professional, scientific, and management, and administrative and waste management services","203,713",10.0%
+Maine,2022,"Professional, scientific, and management, and administrative and waste management services","73,162",10.5%
+Maryland,2022,"Professional, scientific, and management, and administrative and waste management services","528,858",16.7%
+Massachusetts,2022,"Professional, scientific, and management, and administrative and waste management services","581,883",15.7%
+Michigan,2022,"Professional, scientific, and management, and administrative and waste management services","491,926",10.2%
+Minnesota,2022,"Professional, scientific, and management, and administrative and waste management services","324,473",10.8%
+Mississippi,2022,"Professional, scientific, and management, and administrative and waste management services","93,693",7.5%
+Missouri,2022,"Professional, scientific, and management, and administrative and waste management services","311,260",10.4%
+Montana,2022,"Professional, scientific, and management, and administrative and waste management services","53,243",9.5%
+Nebraska,2022,"Professional, scientific, and management, and administrative and waste management services","98,759",9.6%
+Nevada,2022,"Professional, scientific, and management, and administrative and waste management services","194,939",12.8%
+New Hampshire,2022,"Professional, scientific, and management, and administrative and waste management services","94,072",12.5%
+New Jersey,2022,"Professional, scientific, and management, and administrative and waste management services","693,668",14.7%
+New Mexico,2022,"Professional, scientific, and management, and administrative and waste management services","116,828",12.5%
+New York,2022,"Professional, scientific, and management, and administrative and waste management services","1,251,908",13.0%
+North Carolina,2022,"Professional, scientific, and management, and administrative and waste management services","664,913",12.9%
+North Dakota,2022,"Professional, scientific, and management, and administrative and waste management services","32,229",7.9%
+Ohio,2022,"Professional, scientific, and management, and administrative and waste management services","590,006",10.2%
+Oklahoma,2022,"Professional, scientific, and management, and administrative and waste management services","174,387",9.5%
+Oregon,2022,"Professional, scientific, and management, and administrative and waste management services","259,282",12.4%
+Pennsylvania,2022,"Professional, scientific, and management, and administrative and waste management services","717,763",11.2%
+Rhode Island,2022,"Professional, scientific, and management, and administrative and waste management services","65,136",11.6%
+South Carolina,2022,"Professional, scientific, and management, and administrative and waste management services","280,612",11.4%
+South Dakota,2022,"Professional, scientific, and management, and administrative and waste management services","31,058",6.7%
+Tennessee,2022,"Professional, scientific, and management, and administrative and waste management services","363,513",10.6%
+Texas,2022,"Professional, scientific, and management, and administrative and waste management services","1,883,085",12.9%
+Utah,2022,"Professional, scientific, and management, and administrative and waste management services","221,270",12.7%
+Vermont,2022,"Professional, scientific, and management, and administrative and waste management services","36,077",10.5%
+Virginia,2022,"Professional, scientific, and management, and administrative and waste management services","719,949",16.7%
+Washington,2022,"Professional, scientific, and management, and administrative and waste management services","566,981",14.7%
+West Virginia,2022,"Professional, scientific, and management, and administrative and waste management services","65,136",8.9%
+Wisconsin,2022,"Professional, scientific, and management, and administrative and waste management services","278,066",9.2%
+Wyoming,2022,"Professional, scientific, and management, and administrative and waste management services","21,525",7.4%
+Puerto Rico,2022,"Professional, scientific, and management, and administrative and waste management services","129,162",11.1%
+United States,2022,"Educational services, and health care and social assistance","37,480,570",23.1%
+Alabama,2022,"Educational services, and health care and social assistance","508,143",22.3%
+Alaska,2022,"Educational services, and health care and social assistance","84,691",24.5%
+Arizona,2022,"Educational services, and health care and social assistance","737,821",21.4%
+Arkansas,2022,"Educational services, and health care and social assistance","303,716",22.7%
+California,2022,"Educational services, and health care and social assistance","4,011,315",21.2%
+Colorado,2022,"Educational services, and health care and social assistance","660,789",21.1%
+Connecticut,2022,"Educational services, and health care and social assistance","501,210",26.9%
+Delaware,2022,"Educational services, and health care and social assistance","116,988",23.5%
+District of Columbia,2022,"Educational services, and health care and social assistance","66,685",17.8%
+Florida,2022,"Educational services, and health care and social assistance","2,173,580",20.7%
+Georgia,2022,"Educational services, and health care and social assistance","1,082,317",20.5%
+Hawaii,2022,"Educational services, and health care and social assistance","146,813",21.8%
+Idaho,2022,"Educational services, and health care and social assistance","209,407",22.7%
+Illinois,2022,"Educational services, and health care and social assistance","1,455,070",23.1%
+Indiana,2022,"Educational services, and health care and social assistance","772,855",23.0%
+Iowa,2022,"Educational services, and health care and social assistance","408,143",24.6%
+Kansas,2022,"Educational services, and health care and social assistance","359,307",24.7%
+Kentucky,2022,"Educational services, and health care and social assistance","491,272",23.8%
+Louisiana,2022,"Educational services, and health care and social assistance","506,044",24.8%
+Maine,2022,"Educational services, and health care and social assistance","186,588",26.8%
+Maryland,2022,"Educational services, and health care and social assistance","759,853",24.0%
+Massachusetts,2022,"Educational services, and health care and social assistance","1,039,344",28.0%
+Michigan,2022,"Educational services, and health care and social assistance","1,105,569",23.0%
+Minnesota,2022,"Educational services, and health care and social assistance","755,046",25.1%
+Mississippi,2022,"Educational services, and health care and social assistance","314,566",25.0%
+Missouri,2022,"Educational services, and health care and social assistance","718,776",24.1%
+Montana,2022,"Educational services, and health care and social assistance","124,287",22.2%
+Nebraska,2022,"Educational services, and health care and social assistance","246,616",24.1%
+Nevada,2022,"Educational services, and health care and social assistance","246,867",16.2%
+New Hampshire,2022,"Educational services, and health care and social assistance","173,016",23.0%
+New Jersey,2022,"Educational services, and health care and social assistance","1,134,597",24.1%
+New Mexico,2022,"Educational services, and health care and social assistance","240,384",25.7%
+New York,2022,"Educational services, and health care and social assistance","2,748,119",28.6%
+North Carolina,2022,"Educational services, and health care and social assistance","1,138,353",22.2%
+North Dakota,2022,"Educational services, and health care and social assistance","101,985",25.0%
+Ohio,2022,"Educational services, and health care and social assistance","1,395,049",24.2%
+Oklahoma,2022,"Educational services, and health care and social assistance","406,978",22.2%
+Oregon,2022,"Educational services, and health care and social assistance","477,425",22.8%
+Pennsylvania,2022,"Educational services, and health care and social assistance","1,705,571",26.6%
+Rhode Island,2022,"Educational services, and health care and social assistance","149,643",26.7%
+South Carolina,2022,"Educational services, and health care and social assistance","548,186",22.3%
+South Dakota,2022,"Educational services, and health care and social assistance","121,289",26.3%
+Tennessee,2022,"Educational services, and health care and social assistance","743,549",21.8%
+Texas,2022,"Educational services, and health care and social assistance","3,077,246",21.1%
+Utah,2022,"Educational services, and health care and social assistance","386,482",22.3%
+Vermont,2022,"Educational services, and health care and social assistance","98,936",28.7%
+Virginia,2022,"Educational services, and health care and social assistance","952,173",22.2%
+Washington,2022,"Educational services, and health care and social assistance","807,893",20.9%
+West Virginia,2022,"Educational services, and health care and social assistance","202,844",27.6%
+Wisconsin,2022,"Educational services, and health care and social assistance","705,847",23.2%
+Wyoming,2022,"Educational services, and health care and social assistance","71,327",24.5%
+Puerto Rico,2022,"Educational services, and health care and social assistance","246,857",21.2%
+United States,2022,"Arts, entertainment, and recreation, and accommodation and food services","14,097,318",8.7%
+Alabama,2022,"Arts, entertainment, and recreation, and accommodation and food services","188,033",8.3%
+Alaska,2022,"Arts, entertainment, and recreation, and accommodation and food services","27,855",8.1%
+Arizona,2022,"Arts, entertainment, and recreation, and accommodation and food services","332,030",9.6%
+Arkansas,2022,"Arts, entertainment, and recreation, and accommodation and food services","107,791",8.1%
+California,2022,"Arts, entertainment, and recreation, and accommodation and food services","1,846,259",9.7%
+Colorado,2022,"Arts, entertainment, and recreation, and accommodation and food services","288,924",9.2%
+Connecticut,2022,"Arts, entertainment, and recreation, and accommodation and food services","144,133",7.7%
+Delaware,2022,"Arts, entertainment, and recreation, and accommodation and food services","42,138",8.4%
+District of Columbia,2022,"Arts, entertainment, and recreation, and accommodation and food services","28,090",7.5%
+Florida,2022,"Arts, entertainment, and recreation, and accommodation and food services","1,140,617",10.9%
+Georgia,2022,"Arts, entertainment, and recreation, and accommodation and food services","442,851",8.4%
+Hawaii,2022,"Arts, entertainment, and recreation, and accommodation and food services","104,560",15.5%
+Idaho,2022,"Arts, entertainment, and recreation, and accommodation and food services","74,854",8.1%
+Illinois,2022,"Arts, entertainment, and recreation, and accommodation and food services","499,532",7.9%
+Indiana,2022,"Arts, entertainment, and recreation, and accommodation and food services","245,607",7.3%
+Iowa,2022,"Arts, entertainment, and recreation, and accommodation and food services","110,470",6.7%
+Kansas,2022,"Arts, entertainment, and recreation, and accommodation and food services","112,331",7.7%
+Kentucky,2022,"Arts, entertainment, and recreation, and accommodation and food services","155,974",7.6%
+Louisiana,2022,"Arts, entertainment, and recreation, and accommodation and food services","192,353",9.4%
+Maine,2022,"Arts, entertainment, and recreation, and accommodation and food services","53,985",7.8%
+Maryland,2022,"Arts, entertainment, and recreation, and accommodation and food services","241,580",7.6%
+Massachusetts,2022,"Arts, entertainment, and recreation, and accommodation and food services","287,647",7.7%
+Michigan,2022,"Arts, entertainment, and recreation, and accommodation and food services","417,800",8.7%
+Minnesota,2022,"Arts, entertainment, and recreation, and accommodation and food services","215,426",7.2%
+Mississippi,2022,"Arts, entertainment, and recreation, and accommodation and food services","107,620",8.6%
+Missouri,2022,"Arts, entertainment, and recreation, and accommodation and food services","235,828",7.9%
+Montana,2022,"Arts, entertainment, and recreation, and accommodation and food services","56,960",10.2%
+Nebraska,2022,"Arts, entertainment, and recreation, and accommodation and food services","72,309",7.1%
+Nevada,2022,"Arts, entertainment, and recreation, and accommodation and food services","303,182",19.9%
+New Hampshire,2022,"Arts, entertainment, and recreation, and accommodation and food services","56,929",7.6%
+New Jersey,2022,"Arts, entertainment, and recreation, and accommodation and food services","329,656",7.0%
+New Mexico,2022,"Arts, entertainment, and recreation, and accommodation and food services","93,344",10.0%
+New York,2022,"Arts, entertainment, and recreation, and accommodation and food services","807,729",8.4%
+North Carolina,2022,"Arts, entertainment, and recreation, and accommodation and food services","424,593",8.3%
+North Dakota,2022,"Arts, entertainment, and recreation, and accommodation and food services","30,912",7.6%
+Ohio,2022,"Arts, entertainment, and recreation, and accommodation and food services","481,215",8.4%
+Oklahoma,2022,"Arts, entertainment, and recreation, and accommodation and food services","164,807",9.0%
+Oregon,2022,"Arts, entertainment, and recreation, and accommodation and food services","194,863",9.3%
+Pennsylvania,2022,"Arts, entertainment, and recreation, and accommodation and food services","470,718",7.4%
+Rhode Island,2022,"Arts, entertainment, and recreation, and accommodation and food services","51,781",9.2%
+South Carolina,2022,"Arts, entertainment, and recreation, and accommodation and food services","236,450",9.6%
+South Dakota,2022,"Arts, entertainment, and recreation, and accommodation and food services","40,464",8.8%
+Tennessee,2022,"Arts, entertainment, and recreation, and accommodation and food services","299,156",8.8%
+Texas,2022,"Arts, entertainment, and recreation, and accommodation and food services","1,211,030",8.3%
+Utah,2022,"Arts, entertainment, and recreation, and accommodation and food services","138,035",8.0%
+Vermont,2022,"Arts, entertainment, and recreation, and accommodation and food services","34,263",9.9%
+Virginia,2022,"Arts, entertainment, and recreation, and accommodation and food services","326,205",7.6%
+Washington,2022,"Arts, entertainment, and recreation, and accommodation and food services","317,161",8.2%
+West Virginia,2022,"Arts, entertainment, and recreation, and accommodation and food services","60,615",8.2%
+Wisconsin,2022,"Arts, entertainment, and recreation, and accommodation and food services","221,839",7.3%
+Wyoming,2022,"Arts, entertainment, and recreation, and accommodation and food services","28,814",9.9%
+Puerto Rico,2022,"Arts, entertainment, and recreation, and accommodation and food services","111,185",9.6%
+United States,2022,"Other services, except public administration","7,675,317",4.7%
+Alabama,2022,"Other services, except public administration","112,324",4.9%
+Alaska,2022,"Other services, except public administration","15,758",4.6%
+Arizona,2022,"Other services, except public administration","158,798",4.6%
+Arkansas,2022,"Other services, except public administration","64,382",4.8%
+California,2022,"Other services, except public administration","931,206",4.9%
+Colorado,2022,"Other services, except public administration","149,142",4.8%
+Connecticut,2022,"Other services, except public administration","78,744",4.2%
+Delaware,2022,"Other services, except public administration","23,757",4.8%
+District of Columbia,2022,"Other services, except public administration","39,280",10.5%
+Florida,2022,"Other services, except public administration","531,459",5.1%
+Georgia,2022,"Other services, except public administration","253,971",4.8%
+Hawaii,2022,"Other services, except public administration","27,884",4.1%
+Idaho,2022,"Other services, except public administration","41,533",4.5%
+Illinois,2022,"Other services, except public administration","291,903",4.6%
+Indiana,2022,"Other services, except public administration","150,106",4.5%
+Iowa,2022,"Other services, except public administration","67,834",4.1%
+Kansas,2022,"Other services, except public administration","66,316",4.6%
+Kentucky,2022,"Other services, except public administration","100,055",4.9%
+Louisiana,2022,"Other services, except public administration","112,531",5.5%
+Maine,2022,"Other services, except public administration","34,185",4.9%
+Maryland,2022,"Other services, except public administration","163,564",5.2%
+Massachusetts,2022,"Other services, except public administration","156,386",4.2%
+Michigan,2022,"Other services, except public administration","216,466",4.5%
+Minnesota,2022,"Other services, except public administration","132,361",4.4%
+Mississippi,2022,"Other services, except public administration","59,106",4.7%
+Missouri,2022,"Other services, except public administration","141,676",4.7%
+Montana,2022,"Other services, except public administration","28,054",5.0%
+Nebraska,2022,"Other services, except public administration","43,951",4.3%
+Nevada,2022,"Other services, except public administration","74,518",4.9%
+New Hampshire,2022,"Other services, except public administration","33,120",4.4%
+New Jersey,2022,"Other services, except public administration","188,348",4.0%
+New Mexico,2022,"Other services, except public administration","47,351",5.1%
+New York,2022,"Other services, except public administration","456,949",4.8%
+North Carolina,2022,"Other services, except public administration","249,767",4.9%
+North Dakota,2022,"Other services, except public administration","18,275",4.5%
+Ohio,2022,"Other services, except public administration","253,982",4.4%
+Oklahoma,2022,"Other services, except public administration","96,891",5.3%
+Oregon,2022,"Other services, except public administration","98,891",4.7%
+Pennsylvania,2022,"Other services, except public administration","296,399",4.6%
+Rhode Island,2022,"Other services, except public administration","23,584",4.2%
+South Carolina,2022,"Other services, except public administration","115,925",4.7%
+South Dakota,2022,"Other services, except public administration","19,684",4.3%
+Tennessee,2022,"Other services, except public administration","160,347",4.7%
+Texas,2022,"Other services, except public administration","701,537",4.8%
+Utah,2022,"Other services, except public administration","75,922",4.4%
+Vermont,2022,"Other services, except public administration","13,707",4.0%
+Virginia,2022,"Other services, except public administration","220,399",5.1%
+Washington,2022,"Other services, except public administration","164,068",4.2%
+West Virginia,2022,"Other services, except public administration","31,141",4.2%
+Wisconsin,2022,"Other services, except public administration","126,367",4.2%
+Wyoming,2022,"Other services, except public administration","15,413",5.3%
+Puerto Rico,2022,"Other services, except public administration","73,987",6.4%
+United States,2022,Public administration,"7,545,529",4.6%
+Alabama,2022,Public administration,"130,206",5.7%
+Alaska,2022,Public administration,"38,978",11.3%
+Arizona,2022,Public administration,"164,109",4.8%
+Arkansas,2022,Public administration,"60,615",4.5%
+California,2022,Public administration,"879,251",4.6%
+Colorado,2022,Public administration,"137,102",4.4%
+Connecticut,2022,Public administration,"64,442",3.5%
+Delaware,2022,Public administration,"24,842",5.0%
+District of Columbia,2022,Public administration,"67,994",18.1%
+Florida,2022,Public administration,"433,119",4.1%
+Georgia,2022,Public administration,"252,944",4.8%
+Hawaii,2022,Public administration,"60,451",9.0%
+Idaho,2022,Public administration,"46,814",5.1%
+Illinois,2022,Public administration,"227,295",3.6%
+Indiana,2022,Public administration,"121,930",3.6%
+Iowa,2022,Public administration,"56,127",3.4%
+Kansas,2022,Public administration,"63,992",4.4%
+Kentucky,2022,Public administration,"85,014",4.1%
+Louisiana,2022,Public administration,"114,839",5.6%
+Maine,2022,Public administration,"30,444",4.4%
+Maryland,2022,Public administration,"352,003",11.1%
+Massachusetts,2022,Public administration,"137,349",3.7%
+Michigan,2022,Public administration,"168,801",3.5%
+Minnesota,2022,Public administration,"105,790",3.5%
+Mississippi,2022,Public administration,"64,192",5.1%
+Missouri,2022,Public administration,"130,876",4.4%
+Montana,2022,Public administration,"30,045",5.4%
+Nebraska,2022,Public administration,"46,025",4.5%
+Nevada,2022,Public administration,"53,943",3.5%
+New Hampshire,2022,Public administration,"31,683",4.2%
+New Jersey,2022,Public administration,"214,064",4.5%
+New Mexico,2022,Public administration,"69,896",7.5%
+New York,2022,Public administration,"442,193",4.6%
+North Carolina,2022,Public administration,"208,269",4.1%
+North Dakota,2022,Public administration,"20,602",5.0%
+Ohio,2022,Public administration,"222,115",3.9%
+Oklahoma,2022,Public administration,"116,714",6.4%
+Oregon,2022,Public administration,"93,956",4.5%
+Pennsylvania,2022,Public administration,"251,878",3.9%
+Rhode Island,2022,Public administration,"25,798",4.6%
+South Carolina,2022,Public administration,"104,475",4.3%
+South Dakota,2022,Public administration,"22,300",4.8%
+Tennessee,2022,Public administration,"134,298",3.9%
+Texas,2022,Public administration,"589,503",4.0%
+Utah,2022,Public administration,"77,454",4.5%
+Vermont,2022,Public administration,"17,883",5.2%
+Virginia,2022,Public administration,"382,614",8.9%
+Washington,2022,Public administration,"191,536",5.0%
+West Virginia,2022,Public administration,"51,301",7.0%
+Wisconsin,2022,Public administration,"109,156",3.6%
+Wyoming,2022,Public administration,"18,309",6.3%
+Puerto Rico,2022,Public administration,"94,995",8.2%
+United States,2023,"Agriculture, forestry, fishing and hunting, and mining","2,568,128",1.6%
+Alabama,2023,"Agriculture, forestry, fishing and hunting, and mining","27,552",1.2%
+Alaska,2023,"Agriculture, forestry, fishing and hunting, and mining","18,392",5.3%
+Arizona,2023,"Agriculture, forestry, fishing and hunting, and mining","40,774",1.2%
+Arkansas,2023,"Agriculture, forestry, fishing and hunting, and mining","29,910",2.2%
+California,2023,"Agriculture, forestry, fishing and hunting, and mining","379,601",2.0%
+Colorado,2023,"Agriculture, forestry, fishing and hunting, and mining","59,222",1.9%
+Connecticut,2023,"Agriculture, forestry, fishing and hunting, and mining","9,836",0.5%
+Delaware,2023,"Agriculture, forestry, fishing and hunting, and mining","4,125",0.8%
+District of Columbia,2023,"Agriculture, forestry, fishing and hunting, and mining",381,0.1%
+Florida,2023,"Agriculture, forestry, fishing and hunting, and mining","91,355",0.9%
+Georgia,2023,"Agriculture, forestry, fishing and hunting, and mining","55,683",1.0%
+Hawaii,2023,"Agriculture, forestry, fishing and hunting, and mining","7,824",1.2%
+Idaho,2023,"Agriculture, forestry, fishing and hunting, and mining","33,852",3.6%
+Illinois,2023,"Agriculture, forestry, fishing and hunting, and mining","67,625",1.1%
+Indiana,2023,"Agriculture, forestry, fishing and hunting, and mining","40,221",1.2%
+Iowa,2023,"Agriculture, forestry, fishing and hunting, and mining","60,194",3.6%
+Kansas,2023,"Agriculture, forestry, fishing and hunting, and mining","48,718",3.3%
+Kentucky,2023,"Agriculture, forestry, fishing and hunting, and mining","35,895",1.7%
+Louisiana,2023,"Agriculture, forestry, fishing and hunting, and mining","62,479",3.1%
+Maine,2023,"Agriculture, forestry, fishing and hunting, and mining","16,820",2.4%
+Maryland,2023,"Agriculture, forestry, fishing and hunting, and mining","14,657",0.5%
+Massachusetts,2023,"Agriculture, forestry, fishing and hunting, and mining","14,186",0.4%
+Michigan,2023,"Agriculture, forestry, fishing and hunting, and mining","56,733",1.2%
+Minnesota,2023,"Agriculture, forestry, fishing and hunting, and mining","64,627",2.1%
+Mississippi,2023,"Agriculture, forestry, fishing and hunting, and mining","26,279",2.1%
+Missouri,2023,"Agriculture, forestry, fishing and hunting, and mining","52,619",1.7%
+Montana,2023,"Agriculture, forestry, fishing and hunting, and mining","30,696",5.5%
+Nebraska,2023,"Agriculture, forestry, fishing and hunting, and mining","45,830",4.4%
+Nevada,2023,"Agriculture, forestry, fishing and hunting, and mining","23,092",1.5%
+New Hampshire,2023,"Agriculture, forestry, fishing and hunting, and mining","3,982",0.5%
+New Jersey,2023,"Agriculture, forestry, fishing and hunting, and mining","16,638",0.3%
+New Mexico,2023,"Agriculture, forestry, fishing and hunting, and mining","32,911",3.5%
+New York,2023,"Agriculture, forestry, fishing and hunting, and mining","47,979",0.5%
+North Carolina,2023,"Agriculture, forestry, fishing and hunting, and mining","50,505",1.0%
+North Dakota,2023,"Agriculture, forestry, fishing and hunting, and mining","33,343",8.1%
+Ohio,2023,"Agriculture, forestry, fishing and hunting, and mining","55,465",1.0%
+Oklahoma,2023,"Agriculture, forestry, fishing and hunting, and mining","66,101",3.6%
+Oregon,2023,"Agriculture, forestry, fishing and hunting, and mining","59,001",2.8%
+Pennsylvania,2023,"Agriculture, forestry, fishing and hunting, and mining","78,726",1.2%
+Rhode Island,2023,"Agriculture, forestry, fishing and hunting, and mining","4,376",0.8%
+South Carolina,2023,"Agriculture, forestry, fishing and hunting, and mining","23,742",0.9%
+South Dakota,2023,"Agriculture, forestry, fishing and hunting, and mining","31,506",6.7%
+Tennessee,2023,"Agriculture, forestry, fishing and hunting, and mining","31,831",0.9%
+Texas,2023,"Agriculture, forestry, fishing and hunting, and mining","339,671",2.3%
+Utah,2023,"Agriculture, forestry, fishing and hunting, and mining","25,602",1.5%
+Vermont,2023,"Agriculture, forestry, fishing and hunting, and mining","8,502",2.5%
+Virginia,2023,"Agriculture, forestry, fishing and hunting, and mining","33,103",0.8%
+Washington,2023,"Agriculture, forestry, fishing and hunting, and mining","93,447",2.4%
+West Virginia,2023,"Agriculture, forestry, fishing and hunting, and mining","25,554",3.4%
+Wisconsin,2023,"Agriculture, forestry, fishing and hunting, and mining","59,945",2.0%
+Wyoming,2023,"Agriculture, forestry, fishing and hunting, and mining","27,020",9.5%
+Puerto Rico,2023,"Agriculture, forestry, fishing and hunting, and mining","15,332",1.3%
+United States,2023,Construction,"11,365,506",6.9%
+Alabama,2023,Construction,"157,105",6.8%
+Alaska,2023,Construction,"25,277",7.3%
+Arizona,2023,Construction,"276,793",7.9%
+Arkansas,2023,Construction,"101,521",7.4%
+California,2023,Construction,"1,258,660",6.6%
+Colorado,2023,Construction,"248,490",7.9%
+Connecticut,2023,Construction,"114,383",6.1%
+Delaware,2023,Construction,"33,711",6.7%
+District of Columbia,2023,Construction,"8,409",2.2%
+Florida,2023,Construction,"864,271",8.1%
+Georgia,2023,Construction,"381,495",7.1%
+Hawaii,2023,Construction,"48,447",7.3%
+Idaho,2023,Construction,"88,760",9.5%
+Illinois,2023,Construction,"333,370",5.3%
+Indiana,2023,Construction,"222,441",6.6%
+Iowa,2023,Construction,"119,969",7.3%
+Kansas,2023,Construction,"95,154",6.4%
+Kentucky,2023,Construction,"136,769",6.6%
+Louisiana,2023,Construction,"171,497",8.4%
+Maine,2023,Construction,"51,852",7.3%
+Maryland,2023,Construction,"224,309",7.0%
+Massachusetts,2023,Construction,"244,535",6.5%
+Michigan,2023,Construction,"288,409",6.0%
+Minnesota,2023,Construction,"197,166",6.5%
+Mississippi,2023,Construction,"80,144",6.3%
+Missouri,2023,Construction,"209,758",6.8%
+Montana,2023,Construction,"52,927",9.4%
+Nebraska,2023,Construction,"69,937",6.7%
+Nevada,2023,Construction,"117,903",7.6%
+New Hampshire,2023,Construction,"56,770",7.4%
+New Jersey,2023,Construction,"301,236",6.3%
+New Mexico,2023,Construction,"67,939",7.2%
+New York,2023,Construction,"539,292",5.6%
+North Carolina,2023,Construction,"379,889",7.3%
+North Dakota,2023,Construction,"24,307",5.9%
+Ohio,2023,Construction,"349,312",6.0%
+Oklahoma,2023,Construction,"130,450",7.1%
+Oregon,2023,Construction,"140,579",6.7%
+Pennsylvania,2023,Construction,"397,964",6.2%
+Rhode Island,2023,Construction,"35,265",6.3%
+South Carolina,2023,Construction,"185,082",7.4%
+South Dakota,2023,Construction,"35,598",7.5%
+Tennessee,2023,Construction,"239,612",7.0%
+Texas,2023,Construction,"1,256,316",8.4%
+Utah,2023,Construction,"141,862",8.1%
+Vermont,2023,Construction,"29,472",8.5%
+Virginia,2023,Construction,"282,335",6.5%
+Washington,2023,Construction,"270,143",6.9%
+West Virginia,2023,Construction,"55,461",7.3%
+Wisconsin,2023,Construction,"199,088",6.5%
+Wyoming,2023,Construction,"24,072",8.4%
+Puerto Rico,2023,Construction,"82,668",7.0%
+United States,2023,Manufacturing,"16,271,926",9.9%
+Alabama,2023,Manufacturing,"335,908",14.6%
+Alaska,2023,Manufacturing,"14,639",4.2%
+Arizona,2023,Manufacturing,"266,997",7.6%
+Arkansas,2023,Manufacturing,"172,936",12.6%
+California,2023,Manufacturing,"1,684,528",8.9%
+Colorado,2023,Manufacturing,"211,426",6.7%
+Connecticut,2023,Manufacturing,"198,895",10.6%
+Delaware,2023,Manufacturing,"43,807",8.7%
+District of Columbia,2023,Manufacturing,"6,266",1.6%
+Florida,2023,Manufacturing,"582,027",5.4%
+Georgia,2023,Manufacturing,"510,765",9.6%
+Hawaii,2023,Manufacturing,"19,364",2.9%
+Idaho,2023,Manufacturing,"92,454",9.9%
+Illinois,2023,Manufacturing,"737,266",11.6%
+Indiana,2023,Manufacturing,"599,898",17.7%
+Iowa,2023,Manufacturing,"245,542",14.8%
+Kansas,2023,Manufacturing,"178,874",12.1%
+Kentucky,2023,Manufacturing,"293,122",14.1%
+Louisiana,2023,Manufacturing,"151,000",7.4%
+Maine,2023,Manufacturing,"63,838",9.0%
+Maryland,2023,Manufacturing,"145,398",4.6%
+Massachusetts,2023,Manufacturing,"331,323",8.8%
+Michigan,2023,Manufacturing,"876,837",18.2%
+Minnesota,2023,Manufacturing,"411,437",13.5%
+Mississippi,2023,Manufacturing,"161,908",12.7%
+Missouri,2023,Manufacturing,"340,125",11.1%
+Montana,2023,Manufacturing,"28,277",5.0%
+Nebraska,2023,Manufacturing,"108,412",10.4%
+Nevada,2023,Manufacturing,"84,195",5.4%
+New Hampshire,2023,Manufacturing,"95,210",12.4%
+New Jersey,2023,Manufacturing,"395,679",8.3%
+New Mexico,2023,Manufacturing,"44,790",4.7%
+New York,2023,Manufacturing,"565,332",5.9%
+North Carolina,2023,Manufacturing,"614,073",11.7%
+North Dakota,2023,Manufacturing,"31,504",7.7%
+Ohio,2023,Manufacturing,"836,154",14.5%
+Oklahoma,2023,Manufacturing,"169,014",9.1%
+Oregon,2023,Manufacturing,"230,700",11.0%
+Pennsylvania,2023,Manufacturing,"728,522",11.4%
+Rhode Island,2023,Manufacturing,"61,149",10.9%
+South Carolina,2023,Manufacturing,"340,247",13.5%
+South Dakota,2023,Manufacturing,"46,618",9.9%
+Tennessee,2023,Manufacturing,"426,971",12.4%
+Texas,2023,Manufacturing,"1,292,264",8.7%
+Utah,2023,Manufacturing,"178,417",10.1%
+Vermont,2023,Manufacturing,"34,128",9.9%
+Virginia,2023,Manufacturing,"308,522",7.1%
+Washington,2023,Manufacturing,"346,216",8.9%
+West Virginia,2023,Manufacturing,"60,178",7.9%
+Wisconsin,2023,Manufacturing,"555,120",18.2%
+Wyoming,2023,Manufacturing,"13,654",4.8%
+Puerto Rico,2023,Manufacturing,"107,242",9.0%
+United States,2023,Wholesale trade,"3,340,218",2.0%
+Alabama,2023,Wholesale trade,"48,812",2.1%
+Alaska,2023,Wholesale trade,"7,846",2.3%
+Arizona,2023,Wholesale trade,"63,559",1.8%
+Arkansas,2023,Wholesale trade,"24,397",1.8%
+California,2023,Wholesale trade,"406,848",2.1%
+Colorado,2023,Wholesale trade,"58,779",1.9%
+Connecticut,2023,Wholesale trade,"31,820",1.7%
+Delaware,2023,Wholesale trade,"7,769",1.5%
+District of Columbia,2023,Wholesale trade,"2,142",0.6%
+Florida,2023,Wholesale trade,"237,140",2.2%
+Georgia,2023,Wholesale trade,"120,405",2.3%
+Hawaii,2023,Wholesale trade,"14,541",2.2%
+Idaho,2023,Wholesale trade,"18,143",1.9%
+Illinois,2023,Wholesale trade,"152,428",2.4%
+Indiana,2023,Wholesale trade,"71,058",2.1%
+Iowa,2023,Wholesale trade,"39,366",2.4%
+Kansas,2023,Wholesale trade,"32,149",2.2%
+Kentucky,2023,Wholesale trade,"35,440",1.7%
+Louisiana,2023,Wholesale trade,"41,396",2.0%
+Maine,2023,Wholesale trade,"10,794",1.5%
+Maryland,2023,Wholesale trade,"44,990",1.4%
+Massachusetts,2023,Wholesale trade,"58,551",1.6%
+Michigan,2023,Wholesale trade,"89,827",1.9%
+Minnesota,2023,Wholesale trade,"76,585",2.5%
+Mississippi,2023,Wholesale trade,"26,141",2.0%
+Missouri,2023,Wholesale trade,"66,432",2.2%
+Montana,2023,Wholesale trade,"11,219",2.0%
+Nebraska,2023,Wholesale trade,"24,039",2.3%
+Nevada,2023,Wholesale trade,"28,528",1.8%
+New Hampshire,2023,Wholesale trade,"16,197",2.1%
+New Jersey,2023,Wholesale trade,"120,192",2.5%
+New Mexico,2023,Wholesale trade,"13,493",1.4%
+New York,2023,Wholesale trade,"164,029",1.7%
+North Carolina,2023,Wholesale trade,"97,379",1.9%
+North Dakota,2023,Wholesale trade,"13,339",3.3%
+Ohio,2023,Wholesale trade,"115,641",2.0%
+Oklahoma,2023,Wholesale trade,"36,969",2.0%
+Oregon,2023,Wholesale trade,"43,598",2.1%
+Pennsylvania,2023,Wholesale trade,"135,875",2.1%
+Rhode Island,2023,Wholesale trade,"8,546",1.5%
+South Carolina,2023,Wholesale trade,"50,706",2.0%
+South Dakota,2023,Wholesale trade,"10,508",2.2%
+Tennessee,2023,Wholesale trade,"70,823",2.1%
+Texas,2023,Wholesale trade,"334,594",2.2%
+Utah,2023,Wholesale trade,"33,529",1.9%
+Vermont,2023,Wholesale trade,"4,939",1.4%
+Virginia,2023,Wholesale trade,"60,814",1.4%
+Washington,2023,Wholesale trade,"78,202",2.0%
+West Virginia,2023,Wholesale trade,"10,166",1.3%
+Wisconsin,2023,Wholesale trade,"65,281",2.1%
+Wyoming,2023,Wholesale trade,"4,254",1.5%
+Puerto Rico,2023,Wholesale trade,"26,485",2.2%
+United States,2023,Retail trade,"17,465,488",10.6%
+Alabama,2023,Retail trade,"253,773",11.0%
+Alaska,2023,Retail trade,"35,568",10.3%
+Arizona,2023,Retail trade,"400,028",11.5%
+Arkansas,2023,Retail trade,"187,686",13.6%
+California,2023,Retail trade,"1,888,499",9.9%
+Colorado,2023,Retail trade,"313,321",9.9%
+Connecticut,2023,Retail trade,"185,022",9.8%
+Delaware,2023,Retail trade,"51,565",10.2%
+District of Columbia,2023,Retail trade,"13,938",3.6%
+Florida,2023,Retail trade,"1,247,110",11.6%
+Georgia,2023,Retail trade,"592,897",11.1%
+Hawaii,2023,Retail trade,"75,243",11.3%
+Idaho,2023,Retail trade,"104,131",11.1%
+Illinois,2023,Retail trade,"640,361",10.1%
+Indiana,2023,Retail trade,"355,283",10.5%
+Iowa,2023,Retail trade,"181,933",11.0%
+Kansas,2023,Retail trade,"158,711",10.7%
+Kentucky,2023,Retail trade,"245,166",11.8%
+Louisiana,2023,Retail trade,"223,992",11.0%
+Maine,2023,Retail trade,"89,467",12.6%
+Maryland,2023,Retail trade,"280,140",8.8%
+Massachusetts,2023,Retail trade,"360,314",9.6%
+Michigan,2023,Retail trade,"524,261",10.9%
+Minnesota,2023,Retail trade,"317,718",10.4%
+Mississippi,2023,Retail trade,"147,251",11.5%
+Missouri,2023,Retail trade,"350,480",11.4%
+Montana,2023,Retail trade,"60,537",10.8%
+Nebraska,2023,Retail trade,"104,929",10.1%
+Nevada,2023,Retail trade,"169,915",10.9%
+New Hampshire,2023,Retail trade,"90,333",11.8%
+New Jersey,2023,Retail trade,"476,000",9.9%
+New Mexico,2023,Retail trade,"98,003",10.3%
+New York,2023,Retail trade,"896,941",9.3%
+North Carolina,2023,Retail trade,"567,942",10.9%
+North Dakota,2023,Retail trade,"42,767",10.4%
+Ohio,2023,Retail trade,"639,788",11.1%
+Oklahoma,2023,Retail trade,"225,083",12.2%
+Oregon,2023,Retail trade,"249,745",11.9%
+Pennsylvania,2023,Retail trade,"695,186",10.9%
+Rhode Island,2023,Retail trade,"66,507",11.9%
+South Carolina,2023,Retail trade,"272,785",10.8%
+South Dakota,2023,Retail trade,"52,317",11.1%
+Tennessee,2023,Retail trade,"383,980",11.2%
+Texas,2023,Retail trade,"1,616,885",10.8%
+Utah,2023,Retail trade,"194,593",11.1%
+Vermont,2023,Retail trade,"36,019",10.4%
+Virginia,2023,Retail trade,"423,440",9.8%
+Washington,2023,Retail trade,"432,337",11.1%
+West Virginia,2023,Retail trade,"84,752",11.2%
+Wisconsin,2023,Retail trade,"332,436",10.9%
+Wyoming,2023,Retail trade,"28,410",10.0%
+Puerto Rico,2023,Retail trade,"144,579",12.2%
+United States,2023,"Transportation and warehousing, and utilities","9,884,522",6.0%
+Alabama,2023,"Transportation and warehousing, and utilities","144,652",6.3%
+Alaska,2023,"Transportation and warehousing, and utilities","27,648",8.0%
+Arizona,2023,"Transportation and warehousing, and utilities","202,313",5.8%
+Arkansas,2023,"Transportation and warehousing, and utilities","92,696",6.7%
+California,2023,"Transportation and warehousing, and utilities","1,186,824",6.2%
+Colorado,2023,"Transportation and warehousing, and utilities","160,011",5.1%
+Connecticut,2023,"Transportation and warehousing, and utilities","91,215",4.8%
+Delaware,2023,"Transportation and warehousing, and utilities","33,675",6.7%
+District of Columbia,2023,"Transportation and warehousing, and utilities","7,695",2.0%
+Florida,2023,"Transportation and warehousing, and utilities","701,313",6.5%
+Georgia,2023,"Transportation and warehousing, and utilities","389,144",7.3%
+Hawaii,2023,"Transportation and warehousing, and utilities","45,247",6.8%
+Idaho,2023,"Transportation and warehousing, and utilities","49,323",5.3%
+Illinois,2023,"Transportation and warehousing, and utilities","445,993",7.0%
+Indiana,2023,"Transportation and warehousing, and utilities","201,442",5.9%
+Iowa,2023,"Transportation and warehousing, and utilities","88,051",5.3%
+Kansas,2023,"Transportation and warehousing, and utilities","85,421",5.8%
+Kentucky,2023,"Transportation and warehousing, and utilities","137,438",6.6%
+Louisiana,2023,"Transportation and warehousing, and utilities","127,520",6.3%
+Maine,2023,"Transportation and warehousing, and utilities","31,126",4.4%
+Maryland,2023,"Transportation and warehousing, and utilities","169,452",5.3%
+Massachusetts,2023,"Transportation and warehousing, and utilities","150,318",4.0%
+Michigan,2023,"Transportation and warehousing, and utilities","228,517",4.7%
+Minnesota,2023,"Transportation and warehousing, and utilities","146,635",4.8%
+Mississippi,2023,"Transportation and warehousing, and utilities","98,895",7.7%
+Missouri,2023,"Transportation and warehousing, and utilities","176,632",5.8%
+Montana,2023,"Transportation and warehousing, and utilities","29,888",5.3%
+Nebraska,2023,"Transportation and warehousing, and utilities","65,604",6.3%
+Nevada,2023,"Transportation and warehousing, and utilities","124,979",8.0%
+New Hampshire,2023,"Transportation and warehousing, and utilities","31,418",4.1%
+New Jersey,2023,"Transportation and warehousing, and utilities","314,444",6.6%
+New Mexico,2023,"Transportation and warehousing, and utilities","42,679",4.5%
+New York,2023,"Transportation and warehousing, and utilities","557,501",5.8%
+North Carolina,2023,"Transportation and warehousing, and utilities","281,618",5.4%
+North Dakota,2023,"Transportation and warehousing, and utilities","25,028",6.1%
+Ohio,2023,"Transportation and warehousing, and utilities","347,448",6.0%
+Oklahoma,2023,"Transportation and warehousing, and utilities","114,625",6.2%
+Oregon,2023,"Transportation and warehousing, and utilities","98,026",4.7%
+Pennsylvania,2023,"Transportation and warehousing, and utilities","403,343",6.3%
+Rhode Island,2023,"Transportation and warehousing, and utilities","26,997",4.8%
+South Carolina,2023,"Transportation and warehousing, and utilities","139,155",5.5%
+South Dakota,2023,"Transportation and warehousing, and utilities","18,691",4.0%
+Tennessee,2023,"Transportation and warehousing, and utilities","257,519",7.5%
+Texas,2023,"Transportation and warehousing, and utilities","1,016,606",6.8%
+Utah,2023,"Transportation and warehousing, and utilities","88,938",5.1%
+Vermont,2023,"Transportation and warehousing, and utilities","12,402",3.6%
+Virginia,2023,"Transportation and warehousing, and utilities","227,550",5.3%
+Washington,2023,"Transportation and warehousing, and utilities","224,971",5.8%
+West Virginia,2023,"Transportation and warehousing, and utilities","47,352",6.3%
+Wisconsin,2023,"Transportation and warehousing, and utilities","151,169",4.9%
+Wyoming,2023,"Transportation and warehousing, and utilities","17,375",6.1%
+Puerto Rico,2023,"Transportation and warehousing, and utilities","46,953",4.0%
+United States,2023,Information,"3,054,393",1.9%
+Alabama,2023,Information,"28,134",1.2%
+Alaska,2023,Information,"5,288",1.5%
+Arizona,2023,Information,"59,889",1.7%
+Arkansas,2023,Information,"17,484",1.3%
+California,2023,Information,"553,090",2.9%
+Colorado,2023,Information,"82,446",2.6%
+Connecticut,2023,Information,"37,947",2.0%
+Delaware,2023,Information,"4,963",1.0%
+District of Columbia,2023,Information,"11,263",2.9%
+Florida,2023,Information,"159,752",1.5%
+Georgia,2023,Information,"115,327",2.2%
+Hawaii,2023,Information,"9,436",1.4%
+Idaho,2023,Information,"14,190",1.5%
+Illinois,2023,Information,"104,014",1.6%
+Indiana,2023,Information,"39,691",1.2%
+Iowa,2023,Information,"23,101",1.4%
+Kansas,2023,Information,"26,088",1.8%
+Kentucky,2023,Information,"23,567",1.1%
+Louisiana,2023,Information,"28,970",1.4%
+Maine,2023,Information,"12,292",1.7%
+Maryland,2023,Information,"56,440",1.8%
+Massachusetts,2023,Information,"68,631",1.8%
+Michigan,2023,Information,"59,409",1.2%
+Minnesota,2023,Information,"43,844",1.4%
+Mississippi,2023,Information,"13,980",1.1%
+Missouri,2023,Information,"50,008",1.6%
+Montana,2023,Information,"7,353",1.3%
+Nebraska,2023,Information,"14,883",1.4%
+Nevada,2023,Information,"24,228",1.6%
+New Hampshire,2023,Information,"14,003",1.8%
+New Jersey,2023,Information,"123,512",2.6%
+New Mexico,2023,Information,"14,929",1.6%
+New York,2023,Information,"261,520",2.7%
+North Carolina,2023,Information,"79,144",1.5%
+North Dakota,2023,Information,"6,865",1.7%
+Ohio,2023,Information,"76,121",1.3%
+Oklahoma,2023,Information,"24,238",1.3%
+Oregon,2023,Information,"35,907",1.7%
+Pennsylvania,2023,Information,"101,997",1.6%
+Rhode Island,2023,Information,"6,808",1.2%
+South Carolina,2023,Information,"33,508",1.3%
+South Dakota,2023,Information,"7,614",1.6%
+Tennessee,2023,Information,"57,961",1.7%
+Texas,2023,Information,"249,810",1.7%
+Utah,2023,Information,"28,963",1.6%
+Vermont,2023,Information,"5,250",1.5%
+Virginia,2023,Information,"75,298",1.7%
+Washington,2023,Information,"102,715",2.6%
+West Virginia,2023,Information,"10,652",1.4%
+Wisconsin,2023,Information,"37,173",1.2%
+Wyoming,2023,Information,"4,697",1.6%
+Puerto Rico,2023,Information,"17,674",1.5%
+United States,2023,"Finance and insurance, and real estate and rental and leasing","10,878,803",6.6%
+Alabama,2023,"Finance and insurance, and real estate and rental and leasing","123,364",5.4%
+Alaska,2023,"Finance and insurance, and real estate and rental and leasing","10,269",3.0%
+Arizona,2023,"Finance and insurance, and real estate and rental and leasing","306,269",8.8%
+Arkansas,2023,"Finance and insurance, and real estate and rental and leasing","77,891",5.7%
+California,2023,"Finance and insurance, and real estate and rental and leasing","1,013,177",5.3%
+Colorado,2023,"Finance and insurance, and real estate and rental and leasing","218,616",6.9%
+Connecticut,2023,"Finance and insurance, and real estate and rental and leasing","154,846",8.2%
+Delaware,2023,"Finance and insurance, and real estate and rental and leasing","48,516",9.6%
+District of Columbia,2023,"Finance and insurance, and real estate and rental and leasing","24,366",6.3%
+Florida,2023,"Finance and insurance, and real estate and rental and leasing","902,625",8.4%
+Georgia,2023,"Finance and insurance, and real estate and rental and leasing","347,073",6.5%
+Hawaii,2023,"Finance and insurance, and real estate and rental and leasing","40,733",6.1%
+Idaho,2023,"Finance and insurance, and real estate and rental and leasing","51,202",5.5%
+Illinois,2023,"Finance and insurance, and real estate and rental and leasing","463,840",7.3%
+Indiana,2023,"Finance and insurance, and real estate and rental and leasing","182,989",5.4%
+Iowa,2023,"Finance and insurance, and real estate and rental and leasing","121,006",7.3%
+Kansas,2023,"Finance and insurance, and real estate and rental and leasing","100,237",6.8%
+Kentucky,2023,"Finance and insurance, and real estate and rental and leasing","121,475",5.8%
+Louisiana,2023,"Finance and insurance, and real estate and rental and leasing","104,014",5.1%
+Maine,2023,"Finance and insurance, and real estate and rental and leasing","42,565",6.0%
+Maryland,2023,"Finance and insurance, and real estate and rental and leasing","181,978",5.7%
+Massachusetts,2023,"Finance and insurance, and real estate and rental and leasing","273,671",7.3%
+Michigan,2023,"Finance and insurance, and real estate and rental and leasing","275,278",5.7%
+Minnesota,2023,"Finance and insurance, and real estate and rental and leasing","209,474",6.9%
+Mississippi,2023,"Finance and insurance, and real estate and rental and leasing","59,685",4.7%
+Missouri,2023,"Finance and insurance, and real estate and rental and leasing","223,903",7.3%
+Montana,2023,"Finance and insurance, and real estate and rental and leasing","35,352",6.3%
+Nebraska,2023,"Finance and insurance, and real estate and rental and leasing","81,080",7.8%
+Nevada,2023,"Finance and insurance, and real estate and rental and leasing","89,816",5.8%
+New Hampshire,2023,"Finance and insurance, and real estate and rental and leasing","53,743",7.0%
+New Jersey,2023,"Finance and insurance, and real estate and rental and leasing","408,815",8.5%
+New Mexico,2023,"Finance and insurance, and real estate and rental and leasing","42,936",4.5%
+New York,2023,"Finance and insurance, and real estate and rental and leasing","767,316",8.0%
+North Carolina,2023,"Finance and insurance, and real estate and rental and leasing","376,827",7.2%
+North Dakota,2023,"Finance and insurance, and real estate and rental and leasing","26,529",6.5%
+Ohio,2023,"Finance and insurance, and real estate and rental and leasing","370,758",6.4%
+Oklahoma,2023,"Finance and insurance, and real estate and rental and leasing","104,512",5.7%
+Oregon,2023,"Finance and insurance, and real estate and rental and leasing","107,092",5.1%
+Pennsylvania,2023,"Finance and insurance, and real estate and rental and leasing","398,788",6.2%
+Rhode Island,2023,"Finance and insurance, and real estate and rental and leasing","36,907",6.6%
+South Carolina,2023,"Finance and insurance, and real estate and rental and leasing","164,053",6.5%
+South Dakota,2023,"Finance and insurance, and real estate and rental and leasing","29,608",6.3%
+Tennessee,2023,"Finance and insurance, and real estate and rental and leasing","197,819",5.7%
+Texas,2023,"Finance and insurance, and real estate and rental and leasing","1,055,683",7.1%
+Utah,2023,"Finance and insurance, and real estate and rental and leasing","119,428",6.8%
+Vermont,2023,"Finance and insurance, and real estate and rental and leasing","14,905",4.3%
+Virginia,2023,"Finance and insurance, and real estate and rental and leasing","281,437",6.5%
+Washington,2023,"Finance and insurance, and real estate and rental and leasing","202,792",5.2%
+West Virginia,2023,"Finance and insurance, and real estate and rental and leasing","35,829",4.7%
+Wisconsin,2023,"Finance and insurance, and real estate and rental and leasing","183,121",6.0%
+Wyoming,2023,"Finance and insurance, and real estate and rental and leasing","14,595",5.1%
+Puerto Rico,2023,"Finance and insurance, and real estate and rental and leasing","74,893",6.3%
+United States,2023,"Professional, scientific, and management, and administrative and waste management services","20,998,610",12.8%
+Alabama,2023,"Professional, scientific, and management, and administrative and waste management services","236,111",10.3%
+Alaska,2023,"Professional, scientific, and management, and administrative and waste management services","29,860",8.6%
+Arizona,2023,"Professional, scientific, and management, and administrative and waste management services","438,822",12.6%
+Arkansas,2023,"Professional, scientific, and management, and administrative and waste management services","119,371",8.7%
+California,2023,"Professional, scientific, and management, and administrative and waste management services","2,780,335",14.6%
+Colorado,2023,"Professional, scientific, and management, and administrative and waste management services","504,863",16.0%
+Connecticut,2023,"Professional, scientific, and management, and administrative and waste management services","239,073",12.7%
+Delaware,2023,"Professional, scientific, and management, and administrative and waste management services","55,983",11.1%
+District of Columbia,2023,"Professional, scientific, and management, and administrative and waste management services","100,964",26.2%
+Florida,2023,"Professional, scientific, and management, and administrative and waste management services","1,544,219",14.4%
+Georgia,2023,"Professional, scientific, and management, and administrative and waste management services","736,121",13.8%
+Hawaii,2023,"Professional, scientific, and management, and administrative and waste management services","73,376",11.0%
+Idaho,2023,"Professional, scientific, and management, and administrative and waste management services","102,263",10.9%
+Illinois,2023,"Professional, scientific, and management, and administrative and waste management services","821,426",13.0%
+Indiana,2023,"Professional, scientific, and management, and administrative and waste management services","316,814",9.4%
+Iowa,2023,"Professional, scientific, and management, and administrative and waste management services","128,269",7.8%
+Kansas,2023,"Professional, scientific, and management, and administrative and waste management services","151,678",10.3%
+Kentucky,2023,"Professional, scientific, and management, and administrative and waste management services","185,911",8.9%
+Louisiana,2023,"Professional, scientific, and management, and administrative and waste management services","201,982",9.9%
+Maine,2023,"Professional, scientific, and management, and administrative and waste management services","78,875",11.1%
+Maryland,2023,"Professional, scientific, and management, and administrative and waste management services","534,581",16.7%
+Massachusetts,2023,"Professional, scientific, and management, and administrative and waste management services","593,939",15.8%
+Michigan,2023,"Professional, scientific, and management, and administrative and waste management services","507,803",10.5%
+Minnesota,2023,"Professional, scientific, and management, and administrative and waste management services","321,338",10.5%
+Mississippi,2023,"Professional, scientific, and management, and administrative and waste management services","102,106",8.0%
+Missouri,2023,"Professional, scientific, and management, and administrative and waste management services","333,016",10.8%
+Montana,2023,"Professional, scientific, and management, and administrative and waste management services","54,958",9.8%
+Nebraska,2023,"Professional, scientific, and management, and administrative and waste management services","98,478",9.5%
+Nevada,2023,"Professional, scientific, and management, and administrative and waste management services","196,552",12.6%
+New Hampshire,2023,"Professional, scientific, and management, and administrative and waste management services","99,097",12.9%
+New Jersey,2023,"Professional, scientific, and management, and administrative and waste management services","689,028",14.4%
+New Mexico,2023,"Professional, scientific, and management, and administrative and waste management services","129,812",13.7%
+New York,2023,"Professional, scientific, and management, and administrative and waste management services","1,300,240",13.5%
+North Carolina,2023,"Professional, scientific, and management, and administrative and waste management services","679,217",13.0%
+North Dakota,2023,"Professional, scientific, and management, and administrative and waste management services","28,412",6.9%
+Ohio,2023,"Professional, scientific, and management, and administrative and waste management services","614,449",10.6%
+Oklahoma,2023,"Professional, scientific, and management, and administrative and waste management services","173,067",9.4%
+Oregon,2023,"Professional, scientific, and management, and administrative and waste management services","254,229",12.1%
+Pennsylvania,2023,"Professional, scientific, and management, and administrative and waste management services","738,479",11.5%
+Rhode Island,2023,"Professional, scientific, and management, and administrative and waste management services","66,371",11.9%
+South Carolina,2023,"Professional, scientific, and management, and administrative and waste management services","295,256",11.7%
+South Dakota,2023,"Professional, scientific, and management, and administrative and waste management services","35,637",7.5%
+Tennessee,2023,"Professional, scientific, and management, and administrative and waste management services","384,901",11.2%
+Texas,2023,"Professional, scientific, and management, and administrative and waste management services","1,950,259",13.1%
+Utah,2023,"Professional, scientific, and management, and administrative and waste management services","234,140",13.3%
+Vermont,2023,"Professional, scientific, and management, and administrative and waste management services","39,566",11.4%
+Virginia,2023,"Professional, scientific, and management, and administrative and waste management services","723,831",16.8%
+Washington,2023,"Professional, scientific, and management, and administrative and waste management services","584,053",15.0%
+West Virginia,2023,"Professional, scientific, and management, and administrative and waste management services","64,252",8.5%
+Wisconsin,2023,"Professional, scientific, and management, and administrative and waste management services","301,369",9.9%
+Wyoming,2023,"Professional, scientific, and management, and administrative and waste management services","23,858",8.4%
+Puerto Rico,2023,"Professional, scientific, and management, and administrative and waste management services","135,362",11.4%
+United States,2023,"Educational services, and health care and social assistance","38,561,546",23.5%
+Alabama,2023,"Educational services, and health care and social assistance","527,241",22.9%
+Alaska,2023,"Educational services, and health care and social assistance","87,856",25.4%
+Arizona,2023,"Educational services, and health care and social assistance","779,176",22.3%
+Arkansas,2023,"Educational services, and health care and social assistance","324,867",23.6%
+California,2023,"Educational services, and health care and social assistance","4,238,380",22.3%
+Colorado,2023,"Educational services, and health care and social assistance","685,627",21.8%
+Connecticut,2023,"Educational services, and health care and social assistance","526,501",27.9%
+Delaware,2023,"Educational services, and health care and social assistance","125,296",24.8%
+District of Columbia,2023,"Educational services, and health care and social assistance","70,856",18.4%
+Florida,2023,"Educational services, and health care and social assistance","2,224,422",20.7%
+Georgia,2023,"Educational services, and health care and social assistance","1,121,134",21.0%
+Hawaii,2023,"Educational services, and health care and social assistance","148,668",22.3%
+Idaho,2023,"Educational services, and health care and social assistance","208,927",22.3%
+Illinois,2023,"Educational services, and health care and social assistance","1,501,273",23.7%
+Indiana,2023,"Educational services, and health care and social assistance","807,258",23.8%
+Iowa,2023,"Educational services, and health care and social assistance","399,795",24.2%
+Kansas,2023,"Educational services, and health care and social assistance","366,454",24.8%
+Kentucky,2023,"Educational services, and health care and social assistance","514,250",24.7%
+Louisiana,2023,"Educational services, and health care and social assistance","515,027",25.4%
+Maine,2023,"Educational services, and health care and social assistance","188,970",26.7%
+Maryland,2023,"Educational services, and health care and social assistance","758,303",23.7%
+Massachusetts,2023,"Educational services, and health care and social assistance","1,046,129",27.9%
+Michigan,2023,"Educational services, and health care and social assistance","1,108,825",23.0%
+Minnesota,2023,"Educational services, and health care and social assistance","788,280",25.9%
+Mississippi,2023,"Educational services, and health care and social assistance","321,724",25.2%
+Missouri,2023,"Educational services, and health care and social assistance","741,005",24.1%
+Montana,2023,"Educational services, and health care and social assistance","131,530",23.4%
+Nebraska,2023,"Educational services, and health care and social assistance","255,646",24.6%
+Nevada,2023,"Educational services, and health care and social assistance","257,601",16.5%
+New Hampshire,2023,"Educational services, and health care and social assistance","184,030",24.0%
+New Jersey,2023,"Educational services, and health care and social assistance","1,155,983",24.2%
+New Mexico,2023,"Educational services, and health care and social assistance","242,632",25.6%
+New York,2023,"Educational services, and health care and social assistance","2,780,251",29.0%
+North Carolina,2023,"Educational services, and health care and social assistance","1,175,385",22.5%
+North Dakota,2023,"Educational services, and health care and social assistance","106,858",26.1%
+Ohio,2023,"Educational services, and health care and social assistance","1,406,704",24.3%
+Oklahoma,2023,"Educational services, and health care and social assistance","424,790",23.0%
+Oregon,2023,"Educational services, and health care and social assistance","500,942",23.9%
+Pennsylvania,2023,"Educational services, and health care and social assistance","1,684,773",26.3%
+Rhode Island,2023,"Educational services, and health care and social assistance","146,311",26.1%
+South Carolina,2023,"Educational services, and health care and social assistance","547,914",21.8%
+South Dakota,2023,"Educational services, and health care and social assistance","120,820",25.6%
+Tennessee,2023,"Educational services, and health care and social assistance","765,695",22.2%
+Texas,2023,"Educational services, and health care and social assistance","3,242,529",21.7%
+Utah,2023,"Educational services, and health care and social assistance","411,204",23.4%
+Vermont,2023,"Educational services, and health care and social assistance","98,594",28.5%
+Virginia,2023,"Educational services, and health care and social assistance","955,009",22.1%
+Washington,2023,"Educational services, and health care and social assistance","848,181",21.8%
+West Virginia,2023,"Educational services, and health care and social assistance","208,663",27.6%
+Wisconsin,2023,"Educational services, and health care and social assistance","713,483",23.3%
+Wyoming,2023,"Educational services, and health care and social assistance","69,774",24.5%
+Puerto Rico,2023,"Educational services, and health care and social assistance","247,901",20.9%
+United States,2023,"Arts, entertainment, and recreation, and accommodation and food services","14,492,950",8.8%
+Alabama,2023,"Arts, entertainment, and recreation, and accommodation and food services","178,983",7.8%
+Alaska,2023,"Arts, entertainment, and recreation, and accommodation and food services","28,349",8.2%
+Arizona,2023,"Arts, entertainment, and recreation, and accommodation and food services","330,303",9.5%
+Arkansas,2023,"Arts, entertainment, and recreation, and accommodation and food services","104,975",7.6%
+California,2023,"Arts, entertainment, and recreation, and accommodation and food services","1,838,902",9.7%
+Colorado,2023,"Arts, entertainment, and recreation, and accommodation and food services","302,116",9.6%
+Connecticut,2023,"Arts, entertainment, and recreation, and accommodation and food services","150,779",8.0%
+Delaware,2023,"Arts, entertainment, and recreation, and accommodation and food services","45,321",9.0%
+District of Columbia,2023,"Arts, entertainment, and recreation, and accommodation and food services","30,955",8.0%
+Florida,2023,"Arts, entertainment, and recreation, and accommodation and food services","1,190,822",11.1%
+Georgia,2023,"Arts, entertainment, and recreation, and accommodation and food services","460,382",8.6%
+Hawaii,2023,"Arts, entertainment, and recreation, and accommodation and food services","97,746",14.6%
+Idaho,2023,"Arts, entertainment, and recreation, and accommodation and food services","85,863",9.2%
+Illinois,2023,"Arts, entertainment, and recreation, and accommodation and food services","527,342",8.3%
+Indiana,2023,"Arts, entertainment, and recreation, and accommodation and food services","261,825",7.7%
+Iowa,2023,"Arts, entertainment, and recreation, and accommodation and food services","118,363",7.2%
+Kansas,2023,"Arts, entertainment, and recreation, and accommodation and food services","104,568",7.1%
+Kentucky,2023,"Arts, entertainment, and recreation, and accommodation and food services","172,435",8.3%
+Louisiana,2023,"Arts, entertainment, and recreation, and accommodation and food services","193,529",9.5%
+Maine,2023,"Arts, entertainment, and recreation, and accommodation and food services","59,719",8.4%
+Maryland,2023,"Arts, entertainment, and recreation, and accommodation and food services","260,133",8.1%
+Massachusetts,2023,"Arts, entertainment, and recreation, and accommodation and food services","297,523",7.9%
+Michigan,2023,"Arts, entertainment, and recreation, and accommodation and food services","417,488",8.7%
+Minnesota,2023,"Arts, entertainment, and recreation, and accommodation and food services","222,710",7.3%
+Mississippi,2023,"Arts, entertainment, and recreation, and accommodation and food services","111,572",8.7%
+Missouri,2023,"Arts, entertainment, and recreation, and accommodation and food services","248,101",8.1%
+Montana,2023,"Arts, entertainment, and recreation, and accommodation and food services","58,169",10.3%
+Nebraska,2023,"Arts, entertainment, and recreation, and accommodation and food services","80,873",7.8%
+Nevada,2023,"Arts, entertainment, and recreation, and accommodation and food services","312,034",20.0%
+New Hampshire,2023,"Arts, entertainment, and recreation, and accommodation and food services","59,236",7.7%
+New Jersey,2023,"Arts, entertainment, and recreation, and accommodation and food services","367,685",7.7%
+New Mexico,2023,"Arts, entertainment, and recreation, and accommodation and food services","104,165",11.0%
+New York,2023,"Arts, entertainment, and recreation, and accommodation and food services","812,191",8.5%
+North Carolina,2023,"Arts, entertainment, and recreation, and accommodation and food services","454,167",8.7%
+North Dakota,2023,"Arts, entertainment, and recreation, and accommodation and food services","28,642",7.0%
+Ohio,2023,"Arts, entertainment, and recreation, and accommodation and food services","482,115",8.3%
+Oklahoma,2023,"Arts, entertainment, and recreation, and accommodation and food services","169,601",9.2%
+Oregon,2023,"Arts, entertainment, and recreation, and accommodation and food services","177,853",8.5%
+Pennsylvania,2023,"Arts, entertainment, and recreation, and accommodation and food services","498,846",7.8%
+Rhode Island,2023,"Arts, entertainment, and recreation, and accommodation and food services","50,292",9.0%
+South Carolina,2023,"Arts, entertainment, and recreation, and accommodation and food services","223,981",8.9%
+South Dakota,2023,"Arts, entertainment, and recreation, and accommodation and food services","36,817",7.8%
+Tennessee,2023,"Arts, entertainment, and recreation, and accommodation and food services","307,495",8.9%
+Texas,2023,"Arts, entertainment, and recreation, and accommodation and food services","1,267,048",8.5%
+Utah,2023,"Arts, entertainment, and recreation, and accommodation and food services","144,255",8.2%
+Vermont,2023,"Arts, entertainment, and recreation, and accommodation and food services","31,309",9.1%
+Virginia,2023,"Arts, entertainment, and recreation, and accommodation and food services","346,175",8.0%
+Washington,2023,"Arts, entertainment, and recreation, and accommodation and food services","333,640",8.6%
+West Virginia,2023,"Arts, entertainment, and recreation, and accommodation and food services","63,522",8.4%
+Wisconsin,2023,"Arts, entertainment, and recreation, and accommodation and food services","219,402",7.2%
+Wyoming,2023,"Arts, entertainment, and recreation, and accommodation and food services","22,633",7.9%
+Puerto Rico,2023,"Arts, entertainment, and recreation, and accommodation and food services","122,145",10.3%
+United States,2023,"Other services, except public administration","7,832,146",4.8%
+Alabama,2023,"Other services, except public administration","111,073",4.8%
+Alaska,2023,"Other services, except public administration","15,792",4.6%
+Arizona,2023,"Other services, except public administration","162,391",4.6%
+Arkansas,2023,"Other services, except public administration","64,021",4.7%
+California,2023,"Other services, except public administration","914,766",4.8%
+Colorado,2023,"Other services, except public administration","154,960",4.9%
+Connecticut,2023,"Other services, except public administration","77,977",4.1%
+Delaware,2023,"Other services, except public administration","19,605",3.9%
+District of Columbia,2023,"Other services, except public administration","36,348",9.4%
+Florida,2023,"Other services, except public administration","554,589",5.2%
+Georgia,2023,"Other services, except public administration","262,468",4.9%
+Hawaii,2023,"Other services, except public administration","33,710",5.0%
+Idaho,2023,"Other services, except public administration","43,376",4.6%
+Illinois,2023,"Other services, except public administration","294,574",4.7%
+Indiana,2023,"Other services, except public administration","163,104",4.8%
+Iowa,2023,"Other services, except public administration","71,876",4.3%
+Kansas,2023,"Other services, except public administration","60,642",4.1%
+Kentucky,2023,"Other services, except public administration","93,110",4.5%
+Louisiana,2023,"Other services, except public administration","105,636",5.2%
+Maine,2023,"Other services, except public administration","32,407",4.6%
+Maryland,2023,"Other services, except public administration","171,338",5.4%
+Massachusetts,2023,"Other services, except public administration","170,247",4.5%
+Michigan,2023,"Other services, except public administration","214,890",4.5%
+Minnesota,2023,"Other services, except public administration","133,342",4.4%
+Mississippi,2023,"Other services, except public administration","67,145",5.3%
+Missouri,2023,"Other services, except public administration","150,959",4.9%
+Montana,2023,"Other services, except public administration","30,220",5.4%
+Nebraska,2023,"Other services, except public administration","49,716",4.8%
+Nevada,2023,"Other services, except public administration","64,668",4.2%
+New Hampshire,2023,"Other services, except public administration","31,570",4.1%
+New Jersey,2023,"Other services, except public administration","211,755",4.4%
+New Mexico,2023,"Other services, except public administration","48,002",5.1%
+New York,2023,"Other services, except public administration","458,628",4.8%
+North Carolina,2023,"Other services, except public administration","259,167",5.0%
+North Dakota,2023,"Other services, except public administration","18,617",4.5%
+Ohio,2023,"Other services, except public administration","259,092",4.5%
+Oklahoma,2023,"Other services, except public administration","95,314",5.2%
+Oregon,2023,"Other services, except public administration","100,191",4.8%
+Pennsylvania,2023,"Other services, except public administration","289,826",4.5%
+Rhode Island,2023,"Other services, except public administration","25,276",4.5%
+South Carolina,2023,"Other services, except public administration","132,324",5.3%
+South Dakota,2023,"Other services, except public administration","23,386",4.9%
+Tennessee,2023,"Other services, except public administration","165,778",4.8%
+Texas,2023,"Other services, except public administration","722,912",4.8%
+Utah,2023,"Other services, except public administration","77,110",4.4%
+Vermont,2023,"Other services, except public administration","13,598",3.9%
+Virginia,2023,"Other services, except public administration","223,968",5.2%
+Washington,2023,"Other services, except public administration","173,522",4.5%
+West Virginia,2023,"Other services, except public administration","33,500",4.4%
+Wisconsin,2023,"Other services, except public administration","128,187",4.2%
+Wyoming,2023,"Other services, except public administration","15,473",5.4%
+Puerto Rico,2023,"Other services, except public administration","78,990",6.7%
+United States,2023,Public administration,"7,632,757",4.6%
+Alabama,2023,Public administration,"125,233",5.4%
+Alaska,2023,Public administration,"38,676",11.2%
+Arizona,2023,Public administration,"166,229",4.8%
+Arkansas,2023,Public administration,"57,796",4.2%
+California,2023,Public administration,"882,956",4.6%
+Colorado,2023,Public administration,"151,817",4.8%
+Connecticut,2023,Public administration,"65,831",3.5%
+Delaware,2023,Public administration,"29,993",5.9%
+District of Columbia,2023,Public administration,"71,691",18.6%
+Florida,2023,Public administration,"431,550",4.0%
+Georgia,2023,Public administration,"253,660",4.7%
+Hawaii,2023,Public administration,"53,500",8.0%
+Idaho,2023,Public administration,"43,795",4.7%
+Illinois,2023,Public administration,"239,618",3.8%
+Indiana,2023,Public administration,"125,206",3.7%
+Iowa,2023,Public administration,"56,815",3.4%
+Kansas,2023,Public administration,"68,899",4.7%
+Kentucky,2023,Public administration,"90,776",4.4%
+Louisiana,2023,Public administration,"103,907",5.1%
+Maine,2023,Public administration,"29,935",4.2%
+Maryland,2023,Public administration,"352,309",11.0%
+Massachusetts,2023,Public administration,"145,080",3.9%
+Michigan,2023,Public administration,"174,720",3.6%
+Minnesota,2023,Public administration,"115,164",3.8%
+Mississippi,2023,Public administration,"61,592",4.8%
+Missouri,2023,Public administration,"128,312",4.2%
+Montana,2023,Public administration,"31,246",5.6%
+Nebraska,2023,Public administration,"41,711",4.0%
+Nevada,2023,Public administration,"63,076",4.1%
+New Hampshire,2023,Public administration,"30,283",4.0%
+New Jersey,2023,Public administration,"204,538",4.3%
+New Mexico,2023,Public administration,"65,379",6.9%
+New York,2023,Public administration,"449,473",4.7%
+North Carolina,2023,Public administration,"214,833",4.1%
+North Dakota,2023,Public administration,"23,855",5.8%
+Ohio,2023,Public administration,"231,054",4.0%
+Oklahoma,2023,Public administration,"113,982",6.2%
+Oregon,2023,Public administration,"102,050",4.9%
+Pennsylvania,2023,Public administration,"247,686",3.9%
+Rhode Island,2023,Public administration,"24,937",4.5%
+South Carolina,2023,Public administration,"107,966",4.3%
+South Dakota,2023,Public administration,"23,461",5.0%
+Tennessee,2023,Public administration,"152,035",4.4%
+Texas,2023,Public administration,"582,184",3.9%
+Utah,2023,Public administration,"80,019",4.6%
+Vermont,2023,Public administration,"17,068",4.9%
+Virginia,2023,Public administration,"376,518",8.7%
+Washington,2023,Public administration,"196,931",5.1%
+West Virginia,2023,Public administration,"57,424",7.6%
+Wisconsin,2023,Public administration,"110,757",3.6%
+Wyoming,2023,Public administration,"19,231",6.7%
+Puerto Rico,2023,Public administration,"85,405",7.2%

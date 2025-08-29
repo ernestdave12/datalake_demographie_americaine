@@ -1,0 +1,2227 @@
+state_id,year_id,indicator,Estimate,Percent
+United States,2021,In labor force,"168,236,937",63.0%
+Alabama,2021,In labor force,"2,335,486",57.7%
+Alaska,2021,In labor force,"376,965",65.9%
+Arizona,2021,In labor force,"3,544,778",60.6%
+Arkansas,2021,In labor force,"1,408,602",58.6%
+California,2021,In labor force,"19,961,610",63.4%
+Colorado,2021,In labor force,"3,212,836",68.1%
+Connecticut,2021,In labor force,"1,950,159",65.6%
+Delaware,2021,In labor force,"492,382",60.1%
+District of Columbia,2021,In labor force,"391,439",70.7%
+Florida,2021,In labor force,"10,652,489",59.1%
+Georgia,2021,In labor force,"5,394,701",62.9%
+Hawaii,2021,In labor force,"739,336",63.4%
+Idaho,2021,In labor force,"937,369",63.1%
+Illinois,2021,In labor force,"6,584,794",64.5%
+Indiana,2021,In labor force,"3,426,897",63.4%
+Iowa,2021,In labor force,"1,681,087",66.1%
+Kansas,2021,In labor force,"1,520,362",65.7%
+Kentucky,2021,In labor force,"2,125,669",58.8%
+Louisiana,2021,In labor force,"2,143,567",58.5%
+Maine,2021,In labor force,"708,906",61.3%
+Maryland,2021,In labor force,"3,304,168",66.6%
+Massachusetts,2021,In labor force,"3,865,417",66.8%
+Michigan,2021,In labor force,"4,966,693",60.9%
+Minnesota,2021,In labor force,"3,114,145",68.4%
+Mississippi,2021,In labor force,"1,325,864",56.6%
+Missouri,2021,In labor force,"3,107,007",62.8%
+Montana,2021,In labor force,"554,118",61.8%
+Nebraska,2021,In labor force,"1,053,466",68.6%
+Nevada,2021,In labor force,"1,590,604",63.0%
+New Hampshire,2021,In labor force,"776,061",66.7%
+New Jersey,2021,In labor force,"4,914,835",65.6%
+New Mexico,2021,In labor force,"967,832",56.9%
+New York,2021,In labor force,"10,138,385",62.5%
+North Carolina,2021,In labor force,"5,301,767",62.2%
+North Dakota,2021,In labor force,"415,807",68.1%
+Ohio,2021,In labor force,"5,936,933",62.6%
+Oklahoma,2021,In labor force,"1,917,143",61.0%
+Oregon,2021,In labor force,"2,147,998",61.6%
+Pennsylvania,2021,In labor force,"6,618,867",62.4%
+Rhode Island,2021,In labor force,"594,888",65.1%
+South Carolina,2021,In labor force,"2,507,997",59.6%
+South Dakota,2021,In labor force,"466,270",66.6%
+Tennessee,2021,In labor force,"3,439,821",61.2%
+Texas,2021,In labor force,"14,826,344",64.6%
+Utah,2021,In labor force,"1,721,142",68.7%
+Vermont,2021,In labor force,"349,096",64.3%
+Virginia,2021,In labor force,"4,553,835",65.2%
+Washington,2021,In labor force,"3,993,077",63.9%
+West Virginia,2021,In labor force,"771,429",52.6%
+Wisconsin,2021,In labor force,"3,105,191",65.1%
+Wyoming,2021,In labor force,"301,303",65.3%
+Puerto Rico,2021,In labor force,"1,252,484",44.8%
+United States,2021,Civilian labor force,"166,900,336",62.5%
+Alabama,2021,Civilian labor force,"2,314,723",57.2%
+Alaska,2021,Civilian labor force,"352,556",61.7%
+Arizona,2021,Civilian labor force,"3,518,555",60.1%
+Arkansas,2021,Civilian labor force,"1,400,997",58.3%
+California,2021,Civilian labor force,"19,805,371",62.9%
+Colorado,2021,Civilian labor force,"3,170,677",67.2%
+Connecticut,2021,Civilian labor force,"1,940,575",65.3%
+Delaware,2021,Civilian labor force,"488,236",59.6%
+District of Columbia,2021,Civilian labor force,"387,147",70.0%
+Florida,2021,Civilian labor force,"10,575,428",58.7%
+Georgia,2021,Civilian labor force,"5,327,244",62.1%
+Hawaii,2021,Civilian labor force,"690,200",59.2%
+Idaho,2021,Civilian labor force,"932,677",62.8%
+Illinois,2021,Civilian labor force,"6,562,079",64.3%
+Indiana,2021,Civilian labor force,"3,419,218",63.3%
+Iowa,2021,Civilian labor force,"1,676,731",65.9%
+Kansas,2021,Civilian labor force,"1,502,947",64.9%
+Kentucky,2021,Civilian labor force,"2,106,986",58.3%
+Louisiana,2021,Civilian labor force,"2,119,555",57.9%
+Maine,2021,Civilian labor force,"706,911",61.2%
+Maryland,2021,Civilian labor force,"3,263,025",65.7%
+Massachusetts,2021,Civilian labor force,"3,859,910",66.7%
+Michigan,2021,Civilian labor force,"4,960,466",60.8%
+Minnesota,2021,Civilian labor force,"3,109,756",68.3%
+Mississippi,2021,Civilian labor force,"1,311,618",56.0%
+Missouri,2021,Civilian labor force,"3,081,928",62.3%
+Montana,2021,Civilian labor force,"549,441",61.3%
+Nebraska,2021,Civilian labor force,"1,046,926",68.2%
+Nevada,2021,Civilian labor force,"1,577,568",62.4%
+New Hampshire,2021,Civilian labor force,"773,673",66.5%
+New Jersey,2021,Civilian labor force,"4,903,656",65.5%
+New Mexico,2021,Civilian labor force,"953,327",56.1%
+New York,2021,Civilian labor force,"10,110,281",62.4%
+North Carolina,2021,Civilian labor force,"5,190,304",60.9%
+North Dakota,2021,Civilian labor force,"406,228",66.5%
+Ohio,2021,Civilian labor force,"5,922,703",62.5%
+Oklahoma,2021,Civilian labor force,"1,892,357",60.3%
+Oregon,2021,Civilian labor force,"2,143,749",61.5%
+Pennsylvania,2021,Civilian labor force,"6,611,539",62.4%
+Rhode Island,2021,Civilian labor force,"591,545",64.8%
+South Carolina,2021,Civilian labor force,"2,475,111",58.8%
+South Dakota,2021,Civilian labor force,"462,358",66.1%
+Tennessee,2021,Civilian labor force,"3,420,157",60.9%
+Texas,2021,Civilian labor force,"14,707,042",64.1%
+Utah,2021,Civilian labor force,"1,713,461",68.3%
+Vermont,2021,Civilian labor force,"347,783",64.1%
+Virginia,2021,Civilian labor force,"4,417,746",63.3%
+Washington,2021,Civilian labor force,"3,928,658",62.8%
+West Virginia,2021,Civilian labor force,"769,420",52.5%
+Wisconsin,2021,Civilian labor force,"3,101,184",65.0%
+Wyoming,2021,Civilian labor force,"298,603",64.7%
+Puerto Rico,2021,Civilian labor force,"1,248,968",44.7%
+United States,2021,Employed,"156,380,433",58.6%
+Alabama,2021,Employed,"2,190,915",54.1%
+Alaska,2021,Employed,"327,953",57.4%
+Arizona,2021,Employed,"3,314,799",56.6%
+Arkansas,2021,Employed,"1,323,511",55.0%
+California,2021,Employed,"18,156,051",57.6%
+Colorado,2021,Employed,"3,002,106",63.6%
+Connecticut,2021,Employed,"1,810,942",60.9%
+Delaware,2021,Employed,"461,096",56.2%
+District of Columbia,2021,Employed,"355,398",64.2%
+Florida,2021,Employed,"9,983,261",55.4%
+Georgia,2021,Employed,"5,032,459",58.7%
+Hawaii,2021,Employed,"636,963",54.6%
+Idaho,2021,Employed,"901,819",60.7%
+Illinois,2021,Employed,"6,079,192",59.6%
+Indiana,2021,Employed,"3,259,178",60.3%
+Iowa,2021,Employed,"1,616,533",63.6%
+Kansas,2021,Employed,"1,437,472",62.1%
+Kentucky,2021,Employed,"1,992,331",55.1%
+Louisiana,2021,Employed,"1,957,790",53.4%
+Maine,2021,Employed,"672,480",58.2%
+Maryland,2021,Employed,"3,070,750",61.9%
+Massachusetts,2021,Employed,"3,604,672",62.3%
+Michigan,2021,Employed,"4,617,618",56.6%
+Minnesota,2021,Employed,"2,957,951",65.0%
+Mississippi,2021,Employed,"1,227,616",52.5%
+Missouri,2021,Employed,"2,939,431",59.4%
+Montana,2021,Employed,"527,565",58.9%
+Nebraska,2021,Employed,"1,019,100",66.4%
+Nevada,2021,Employed,"1,424,693",56.4%
+New Hampshire,2021,Employed,"745,750",64.1%
+New Jersey,2021,Employed,"4,508,519",60.2%
+New Mexico,2021,Employed,"878,606",51.7%
+New York,2021,Employed,"9,226,373",56.9%
+North Carolina,2021,Employed,"4,889,866",57.4%
+North Dakota,2021,Employed,"394,601",64.6%
+Ohio,2021,Employed,"5,600,209",59.1%
+Oklahoma,2021,Employed,"1,780,086",56.7%
+Oregon,2021,Employed,"2,007,468",57.6%
+Pennsylvania,2021,Employed,"6,190,796",58.4%
+Rhode Island,2021,Employed,"546,249",59.8%
+South Carolina,2021,Employed,"2,335,354",55.5%
+South Dakota,2021,Employed,"449,435",64.2%
+Tennessee,2021,Employed,"3,239,311",57.7%
+Texas,2021,Employed,"13,796,229",60.2%
+Utah,2021,Employed,"1,653,768",66.0%
+Vermont,2021,Employed,"333,135",61.4%
+Virginia,2021,Employed,"4,206,422",60.3%
+Washington,2021,Employed,"3,696,564",59.1%
+West Virginia,2021,Employed,"721,479",49.2%
+Wisconsin,2021,Employed,"2,991,136",62.7%
+Wyoming,2021,Employed,"287,432",62.3%
+Puerto Rico,2021,Employed,"1,085,614",38.8%
+United States,2021,Unemployed,"10,519,903",3.9%
+Alabama,2021,Unemployed,"123,808",3.1%
+Alaska,2021,Unemployed,"24,603",4.3%
+Arizona,2021,Unemployed,"203,756",3.5%
+Arkansas,2021,Unemployed,"77,486",3.2%
+California,2021,Unemployed,"1,649,320",5.2%
+Colorado,2021,Unemployed,"168,571",3.6%
+Connecticut,2021,Unemployed,"129,633",4.4%
+Delaware,2021,Unemployed,"27,140",3.3%
+District of Columbia,2021,Unemployed,"31,749",5.7%
+Florida,2021,Unemployed,"592,167",3.3%
+Georgia,2021,Unemployed,"294,785",3.4%
+Hawaii,2021,Unemployed,"53,237",4.6%
+Idaho,2021,Unemployed,"30,858",2.1%
+Illinois,2021,Unemployed,"482,887",4.7%
+Indiana,2021,Unemployed,"160,040",3.0%
+Iowa,2021,Unemployed,"60,198",2.4%
+Kansas,2021,Unemployed,"65,475",2.8%
+Kentucky,2021,Unemployed,"114,655",3.2%
+Louisiana,2021,Unemployed,"161,765",4.4%
+Maine,2021,Unemployed,"34,431",3.0%
+Maryland,2021,Unemployed,"192,275",3.9%
+Massachusetts,2021,Unemployed,"255,238",4.4%
+Michigan,2021,Unemployed,"342,848",4.2%
+Minnesota,2021,Unemployed,"151,805",3.3%
+Mississippi,2021,Unemployed,"84,002",3.6%
+Missouri,2021,Unemployed,"142,497",2.9%
+Montana,2021,Unemployed,"21,876",2.4%
+Nebraska,2021,Unemployed,"27,826",1.8%
+Nevada,2021,Unemployed,"152,875",6.1%
+New Hampshire,2021,Unemployed,"27,923",2.4%
+New Jersey,2021,Unemployed,"395,137",5.3%
+New Mexico,2021,Unemployed,"74,721",4.4%
+New York,2021,Unemployed,"883,908",5.5%
+North Carolina,2021,Unemployed,"300,438",3.5%
+North Dakota,2021,Unemployed,"11,627",1.9%
+Ohio,2021,Unemployed,"322,494",3.4%
+Oklahoma,2021,Unemployed,"112,271",3.6%
+Oregon,2021,Unemployed,"136,281",3.9%
+Pennsylvania,2021,Unemployed,"420,743",4.0%
+Rhode Island,2021,Unemployed,"45,296",5.0%
+South Carolina,2021,Unemployed,"139,757",3.3%
+South Dakota,2021,Unemployed,"12,923",1.8%
+Tennessee,2021,Unemployed,"180,846",3.2%
+Texas,2021,Unemployed,"910,813",4.0%
+Utah,2021,Unemployed,"59,693",2.4%
+Vermont,2021,Unemployed,"14,648",2.7%
+Virginia,2021,Unemployed,"211,324",3.0%
+Washington,2021,Unemployed,"232,094",3.7%
+West Virginia,2021,Unemployed,"47,941",3.3%
+Wisconsin,2021,Unemployed,"110,048",2.3%
+Wyoming,2021,Unemployed,"11,171",2.4%
+Puerto Rico,2021,Unemployed,"163,354",5.8%
+United States,2021,Armed Forces,"1,336,601",0.5%
+Alabama,2021,Armed Forces,"20,763",0.5%
+Alaska,2021,Armed Forces,"24,409",4.3%
+Arizona,2021,Armed Forces,"26,223",0.4%
+Arkansas,2021,Armed Forces,"7,605",0.3%
+California,2021,Armed Forces,"156,239",0.5%
+Colorado,2021,Armed Forces,"42,159",0.9%
+Connecticut,2021,Armed Forces,"9,584",0.3%
+Delaware,2021,Armed Forces,"4,146",0.5%
+District of Columbia,2021,Armed Forces,"4,292",0.8%
+Florida,2021,Armed Forces,"77,061",0.4%
+Georgia,2021,Armed Forces,"67,457",0.8%
+Hawaii,2021,Armed Forces,"49,136",4.2%
+Idaho,2021,Armed Forces,"4,692",0.3%
+Illinois,2021,Armed Forces,"22,715",0.2%
+Indiana,2021,Armed Forces,"7,679",0.1%
+Iowa,2021,Armed Forces,"4,356",0.2%
+Kansas,2021,Armed Forces,"17,415",0.8%
+Kentucky,2021,Armed Forces,"18,683",0.5%
+Louisiana,2021,Armed Forces,"24,012",0.7%
+Maine,2021,Armed Forces,"1,995",0.2%
+Maryland,2021,Armed Forces,"41,143",0.8%
+Massachusetts,2021,Armed Forces,"5,507",0.1%
+Michigan,2021,Armed Forces,"6,227",0.1%
+Minnesota,2021,Armed Forces,"4,389",0.1%
+Mississippi,2021,Armed Forces,"14,246",0.6%
+Missouri,2021,Armed Forces,"25,079",0.5%
+Montana,2021,Armed Forces,"4,677",0.5%
+Nebraska,2021,Armed Forces,"6,540",0.4%
+Nevada,2021,Armed Forces,"13,036",0.5%
+New Hampshire,2021,Armed Forces,"2,388",0.2%
+New Jersey,2021,Armed Forces,"11,179",0.1%
+New Mexico,2021,Armed Forces,"14,505",0.9%
+New York,2021,Armed Forces,"28,104",0.2%
+North Carolina,2021,Armed Forces,"111,463",1.3%
+North Dakota,2021,Armed Forces,"9,579",1.6%
+Ohio,2021,Armed Forces,"14,230",0.2%
+Oklahoma,2021,Armed Forces,"24,786",0.8%
+Oregon,2021,Armed Forces,"4,249",0.1%
+Pennsylvania,2021,Armed Forces,"7,328",0.1%
+Rhode Island,2021,Armed Forces,"3,343",0.4%
+South Carolina,2021,Armed Forces,"32,886",0.8%
+South Dakota,2021,Armed Forces,"3,912",0.6%
+Tennessee,2021,Armed Forces,"19,664",0.4%
+Texas,2021,Armed Forces,"119,302",0.5%
+Utah,2021,Armed Forces,"7,681",0.3%
+Vermont,2021,Armed Forces,"1,313",0.2%
+Virginia,2021,Armed Forces,"136,089",1.9%
+Washington,2021,Armed Forces,"64,419",1.0%
+West Virginia,2021,Armed Forces,"2,009",0.1%
+Wisconsin,2021,Armed Forces,"4,007",0.1%
+Wyoming,2021,Armed Forces,"2,700",0.6%
+Puerto Rico,2021,Armed Forces,"3,516",0.1%
+United States,2021,Not in labor force,"98,820,756",37.0%
+Alabama,2021,Not in labor force,"1,711,141",42.3%
+Alaska,2021,Not in labor force,"194,867",34.1%
+Arizona,2021,Not in labor force,"2,308,135",39.4%
+Arkansas,2021,Not in labor force,"996,433",41.4%
+California,2021,Not in labor force,"11,545,627",36.6%
+Colorado,2021,Not in labor force,"1,507,790",31.9%
+Connecticut,2021,Not in labor force,"1,021,155",34.4%
+Delaware,2021,Not in labor force,"327,486",39.9%
+District of Columbia,2021,Not in labor force,"161,998",29.3%
+Florida,2021,Not in labor force,"7,358,170",40.9%
+Georgia,2021,Not in labor force,"3,181,217",37.1%
+Hawaii,2021,Not in labor force,"426,884",36.6%
+Idaho,2021,Not in labor force,"547,563",36.9%
+Illinois,2021,Not in labor force,"3,618,250",35.5%
+Indiana,2021,Not in labor force,"1,974,180",36.6%
+Iowa,2021,Not in labor force,"862,438",33.9%
+Kansas,2021,Not in labor force,"795,017",34.3%
+Kentucky,2021,Not in labor force,"1,487,189",41.2%
+Louisiana,2021,Not in labor force,"1,519,502",41.5%
+Maine,2021,Not in labor force,"446,793",38.7%
+Maryland,2021,Not in labor force,"1,660,583",33.4%
+Massachusetts,2021,Not in labor force,"1,924,844",33.2%
+Michigan,2021,Not in labor force,"3,189,718",39.1%
+Minnesota,2021,Not in labor force,"1,439,981",31.6%
+Mississippi,2021,Not in labor force,"1,014,621",43.4%
+Missouri,2021,Not in labor force,"1,842,621",37.2%
+Montana,2021,Not in labor force,"341,868",38.2%
+Nebraska,2021,Not in labor force,"481,430",31.4%
+Nevada,2021,Not in labor force,"935,724",37.0%
+New Hampshire,2021,Not in labor force,"388,192",33.3%
+New Jersey,2021,Not in labor force,"2,574,454",34.4%
+New Mexico,2021,Not in labor force,"732,250",43.1%
+New York,2021,Not in labor force,"6,072,068",37.5%
+North Carolina,2021,Not in labor force,"3,222,501",37.8%
+North Dakota,2021,Not in labor force,"194,907",31.9%
+Ohio,2021,Not in labor force,"3,543,401",37.4%
+Oklahoma,2021,Not in labor force,"1,223,656",39.0%
+Oregon,2021,Not in labor force,"1,339,921",38.4%
+Pennsylvania,2021,Not in labor force,"3,983,304",37.6%
+Rhode Island,2021,Not in labor force,"318,248",34.9%
+South Carolina,2021,Not in labor force,"1,699,368",40.4%
+South Dakota,2021,Not in labor force,"233,623",33.4%
+Tennessee,2021,Not in labor force,"2,176,887",38.8%
+Texas,2021,Not in labor force,"8,107,679",35.4%
+Utah,2021,Not in labor force,"785,887",31.3%
+Vermont,2021,Not in labor force,"193,731",35.7%
+Virginia,2021,Not in labor force,"2,426,883",34.8%
+Washington,2021,Not in labor force,"2,257,791",36.1%
+West Virginia,2021,Not in labor force,"694,326",47.4%
+Wisconsin,2021,Not in labor force,"1,668,135",34.9%
+Wyoming,2021,Not in labor force,"160,319",34.7%
+Puerto Rico,2021,Not in labor force,"1,542,475",55.2%
+United States,2021,Civilian labor force,"166,900,336","166,900,336"
+Alabama,2021,Civilian labor force,"2,314,723","2,314,723"
+Alaska,2021,Civilian labor force,"352,556","352,556"
+Arizona,2021,Civilian labor force,"3,518,555","3,518,555"
+Arkansas,2021,Civilian labor force,"1,400,997","1,400,997"
+California,2021,Civilian labor force,"19,805,371","19,805,371"
+Colorado,2021,Civilian labor force,"3,170,677","3,170,677"
+Connecticut,2021,Civilian labor force,"1,940,575","1,940,575"
+Delaware,2021,Civilian labor force,"488,236","488,236"
+District of Columbia,2021,Civilian labor force,"387,147","387,147"
+Florida,2021,Civilian labor force,"10,575,428","10,575,428"
+Georgia,2021,Civilian labor force,"5,327,244","5,327,244"
+Hawaii,2021,Civilian labor force,"690,200","690,200"
+Idaho,2021,Civilian labor force,"932,677","932,677"
+Illinois,2021,Civilian labor force,"6,562,079","6,562,079"
+Indiana,2021,Civilian labor force,"3,419,218","3,419,218"
+Iowa,2021,Civilian labor force,"1,676,731","1,676,731"
+Kansas,2021,Civilian labor force,"1,502,947","1,502,947"
+Kentucky,2021,Civilian labor force,"2,106,986","2,106,986"
+Louisiana,2021,Civilian labor force,"2,119,555","2,119,555"
+Maine,2021,Civilian labor force,"706,911","706,911"
+Maryland,2021,Civilian labor force,"3,263,025","3,263,025"
+Massachusetts,2021,Civilian labor force,"3,859,910","3,859,910"
+Michigan,2021,Civilian labor force,"4,960,466","4,960,466"
+Minnesota,2021,Civilian labor force,"3,109,756","3,109,756"
+Mississippi,2021,Civilian labor force,"1,311,618","1,311,618"
+Missouri,2021,Civilian labor force,"3,081,928","3,081,928"
+Montana,2021,Civilian labor force,"549,441","549,441"
+Nebraska,2021,Civilian labor force,"1,046,926","1,046,926"
+Nevada,2021,Civilian labor force,"1,577,568","1,577,568"
+New Hampshire,2021,Civilian labor force,"773,673","773,673"
+New Jersey,2021,Civilian labor force,"4,903,656","4,903,656"
+New Mexico,2021,Civilian labor force,"953,327","953,327"
+New York,2021,Civilian labor force,"10,110,281","10,110,281"
+North Carolina,2021,Civilian labor force,"5,190,304","5,190,304"
+North Dakota,2021,Civilian labor force,"406,228","406,228"
+Ohio,2021,Civilian labor force,"5,922,703","5,922,703"
+Oklahoma,2021,Civilian labor force,"1,892,357","1,892,357"
+Oregon,2021,Civilian labor force,"2,143,749","2,143,749"
+Pennsylvania,2021,Civilian labor force,"6,611,539","6,611,539"
+Rhode Island,2021,Civilian labor force,"591,545","591,545"
+South Carolina,2021,Civilian labor force,"2,475,111","2,475,111"
+South Dakota,2021,Civilian labor force,"462,358","462,358"
+Tennessee,2021,Civilian labor force,"3,420,157","3,420,157"
+Texas,2021,Civilian labor force,"14,707,042","14,707,042"
+Utah,2021,Civilian labor force,"1,713,461","1,713,461"
+Vermont,2021,Civilian labor force,"347,783","347,783"
+Virginia,2021,Civilian labor force,"4,417,746","4,417,746"
+Washington,2021,Civilian labor force,"3,928,658","3,928,658"
+West Virginia,2021,Civilian labor force,"769,420","769,420"
+Wisconsin,2021,Civilian labor force,"3,101,184","3,101,184"
+Wyoming,2021,Civilian labor force,"298,603","298,603"
+Puerto Rico,2021,Civilian labor force,"1,248,968","1,248,968"
+United States,2021,Unemployment Rate,(X),6.3%
+Alabama,2021,Unemployment Rate,(X),5.3%
+Alaska,2021,Unemployment Rate,(X),7.0%
+Arizona,2021,Unemployment Rate,(X),5.8%
+Arkansas,2021,Unemployment Rate,(X),5.5%
+California,2021,Unemployment Rate,(X),8.3%
+Colorado,2021,Unemployment Rate,(X),5.3%
+Connecticut,2021,Unemployment Rate,(X),6.7%
+Delaware,2021,Unemployment Rate,(X),5.6%
+District of Columbia,2021,Unemployment Rate,(X),8.2%
+Florida,2021,Unemployment Rate,(X),5.6%
+Georgia,2021,Unemployment Rate,(X),5.5%
+Hawaii,2021,Unemployment Rate,(X),7.7%
+Idaho,2021,Unemployment Rate,(X),3.3%
+Illinois,2021,Unemployment Rate,(X),7.4%
+Indiana,2021,Unemployment Rate,(X),4.7%
+Iowa,2021,Unemployment Rate,(X),3.6%
+Kansas,2021,Unemployment Rate,(X),4.4%
+Kentucky,2021,Unemployment Rate,(X),5.4%
+Louisiana,2021,Unemployment Rate,(X),7.6%
+Maine,2021,Unemployment Rate,(X),4.9%
+Maryland,2021,Unemployment Rate,(X),5.9%
+Massachusetts,2021,Unemployment Rate,(X),6.6%
+Michigan,2021,Unemployment Rate,(X),6.9%
+Minnesota,2021,Unemployment Rate,(X),4.9%
+Mississippi,2021,Unemployment Rate,(X),6.4%
+Missouri,2021,Unemployment Rate,(X),4.6%
+Montana,2021,Unemployment Rate,(X),4.0%
+Nebraska,2021,Unemployment Rate,(X),2.7%
+Nevada,2021,Unemployment Rate,(X),9.7%
+New Hampshire,2021,Unemployment Rate,(X),3.6%
+New Jersey,2021,Unemployment Rate,(X),8.1%
+New Mexico,2021,Unemployment Rate,(X),7.8%
+New York,2021,Unemployment Rate,(X),8.7%
+North Carolina,2021,Unemployment Rate,(X),5.8%
+North Dakota,2021,Unemployment Rate,(X),2.9%
+Ohio,2021,Unemployment Rate,(X),5.4%
+Oklahoma,2021,Unemployment Rate,(X),5.9%
+Oregon,2021,Unemployment Rate,(X),6.4%
+Pennsylvania,2021,Unemployment Rate,(X),6.4%
+Rhode Island,2021,Unemployment Rate,(X),7.7%
+South Carolina,2021,Unemployment Rate,(X),5.6%
+South Dakota,2021,Unemployment Rate,(X),2.8%
+Tennessee,2021,Unemployment Rate,(X),5.3%
+Texas,2021,Unemployment Rate,(X),6.2%
+Utah,2021,Unemployment Rate,(X),3.5%
+Vermont,2021,Unemployment Rate,(X),4.2%
+Virginia,2021,Unemployment Rate,(X),4.8%
+Washington,2021,Unemployment Rate,(X),5.9%
+West Virginia,2021,Unemployment Rate,(X),6.2%
+Wisconsin,2021,Unemployment Rate,(X),3.5%
+Wyoming,2021,Unemployment Rate,(X),3.7%
+Puerto Rico,2021,Unemployment Rate,(X),13.1%
+United States,2021,Females 16 years and over,"135,931,305","135,931,305"
+Alabama,2021,Females 16 years and over,"2,108,579","2,108,579"
+Alaska,2021,Females 16 years and over,"271,903","271,903"
+Arizona,2021,Females 16 years and over,"2,948,916","2,948,916"
+Arkansas,2021,Females 16 years and over,"1,232,087","1,232,087"
+California,2021,Females 16 years and over,"15,849,282","15,849,282"
+Colorado,2021,Females 16 years and over,"2,339,409","2,339,409"
+Connecticut,2021,Females 16 years and over,"1,526,241","1,526,241"
+Delaware,2021,Females 16 years and over,"426,434","426,434"
+District of Columbia,2021,Females 16 years and over,"293,698","293,698"
+Florida,2021,Females 16 years and over,"9,226,366","9,226,366"
+Georgia,2021,Females 16 years and over,"4,444,358","4,444,358"
+Hawaii,2021,Females 16 years and over,"583,704","583,704"
+Idaho,2021,Females 16 years and over,"743,030","743,030"
+Illinois,2021,Females 16 years and over,"5,197,759","5,197,759"
+Indiana,2021,Females 16 years and over,"2,747,360","2,747,360"
+Iowa,2021,Females 16 years and over,"1,276,371","1,276,371"
+Kansas,2021,Females 16 years and over,"1,160,842","1,160,842"
+Kentucky,2021,Females 16 years and over,"1,843,421","1,843,421"
+Louisiana,2021,Females 16 years and over,"1,890,122","1,890,122"
+Maine,2021,Females 16 years and over,"592,335","592,335"
+Maryland,2021,Females 16 years and over,"2,577,967","2,577,967"
+Massachusetts,2021,Females 16 years and over,"2,990,232","2,990,232"
+Michigan,2021,Females 16 years and over,"4,149,063","4,149,063"
+Minnesota,2021,Females 16 years and over,"2,286,234","2,286,234"
+Mississippi,2021,Females 16 years and over,"1,219,487","1,219,487"
+Missouri,2021,Females 16 years and over,"2,532,888","2,532,888"
+Montana,2021,Females 16 years and over,"443,691","443,691"
+Nebraska,2021,Females 16 years and over,"769,832","769,832"
+Nevada,2021,Females 16 years and over,"1,258,005","1,258,005"
+New Hampshire,2021,Females 16 years and over,"585,929","585,929"
+New Jersey,2021,Females 16 years and over,"3,834,684","3,834,684"
+New Mexico,2021,Females 16 years and over,"860,152","860,152"
+New York,2021,Females 16 years and over,"8,371,450","8,371,450"
+North Carolina,2021,Females 16 years and over,"4,411,303","4,411,303"
+North Dakota,2021,Females 16 years and over,"296,329","296,329"
+Ohio,2021,Females 16 years and over,"4,850,819","4,850,819"
+Oklahoma,2021,Females 16 years and over,"1,593,669","1,593,669"
+Oregon,2021,Females 16 years and over,"1,757,946","1,757,946"
+Pennsylvania,2021,Females 16 years and over,"5,414,203","5,414,203"
+Rhode Island,2021,Females 16 years and over,"471,134","471,134"
+South Carolina,2021,Females 16 years and over,"2,185,013","2,185,013"
+South Dakota,2021,Females 16 years and over,"347,398","347,398"
+Tennessee,2021,Females 16 years and over,"2,895,527","2,895,527"
+Texas,2021,Females 16 years and over,"11,566,758","11,566,758"
+Utah,2021,Females 16 years and over,"1,244,825","1,244,825"
+Vermont,2021,Females 16 years and over,"275,496","275,496"
+Virginia,2021,Females 16 years and over,"3,561,553","3,561,553"
+Washington,2021,Females 16 years and over,"3,114,906","3,114,906"
+West Virginia,2021,Females 16 years and over,"740,484","740,484"
+Wisconsin,2021,Females 16 years and over,"2,396,497","2,396,497"
+Wyoming,2021,Females 16 years and over,"225,614","225,614"
+Puerto Rico,2021,Females 16 years and over,"1,486,350","1,486,350"
+United States,2021,In labor force,"79,347,771",58.4%
+Alabama,2021,In labor force,"1,118,539",53.0%
+Alaska,2021,In labor force,"168,579",62.0%
+Arizona,2021,In labor force,"1,634,927",55.4%
+Arkansas,2021,In labor force,"669,496",54.3%
+California,2021,In labor force,"9,158,980",57.8%
+Colorado,2021,In labor force,"1,474,067",63.0%
+Connecticut,2021,In labor force,"937,126",61.4%
+Delaware,2021,In labor force,"243,231",57.0%
+District of Columbia,2021,In labor force,"200,256",68.2%
+Florida,2021,In labor force,"5,041,191",54.6%
+Georgia,2021,In labor force,"2,608,492",58.7%
+Hawaii,2021,In labor force,"348,913",59.8%
+Idaho,2021,In labor force,"426,980",57.5%
+Illinois,2021,In labor force,"3,134,466",60.3%
+Indiana,2021,In labor force,"1,610,065",58.6%
+Iowa,2021,In labor force,"789,866",61.9%
+Kansas,2021,In labor force,"710,067",61.2%
+Kentucky,2021,In labor force,"1,007,880",54.7%
+Louisiana,2021,In labor force,"1,044,241",55.2%
+Maine,2021,In labor force,"342,844",57.9%
+Maryland,2021,In labor force,"1,611,772",62.5%
+Massachusetts,2021,In labor force,"1,887,367",63.1%
+Michigan,2021,In labor force,"2,345,378",56.5%
+Minnesota,2021,In labor force,"1,486,208",65.0%
+Mississippi,2021,In labor force,"653,999",53.6%
+Missouri,2021,In labor force,"1,489,612",58.8%
+Montana,2021,In labor force,"258,250",58.2%
+Nebraska,2021,In labor force,"494,524",64.2%
+Nevada,2021,In labor force,"737,131",58.6%
+New Hampshire,2021,In labor force,"363,734",62.1%
+New Jersey,2021,In labor force,"2,328,998",60.7%
+New Mexico,2021,In labor force,"459,231",53.4%
+New York,2021,In labor force,"4,936,289",59.0%
+North Carolina,2021,In labor force,"2,526,446",57.3%
+North Dakota,2021,In labor force,"186,414",62.9%
+Ohio,2021,In labor force,"2,845,347",58.7%
+Oklahoma,2021,In labor force,"901,829",56.6%
+Oregon,2021,In labor force,"1,010,207",57.5%
+Pennsylvania,2021,In labor force,"3,163,191",58.4%
+Rhode Island,2021,In labor force,"289,207",61.4%
+South Carolina,2021,In labor force,"1,208,136",55.3%
+South Dakota,2021,In labor force,"218,879",63.0%
+Tennessee,2021,In labor force,"1,631,077",56.3%
+Texas,2021,In labor force,"6,752,311",58.4%
+Utah,2021,In labor force,"761,086",61.1%
+Vermont,2021,In labor force,"169,753",61.6%
+Virginia,2021,In labor force,"2,153,640",60.5%
+Washington,2021,In labor force,"1,832,539",58.8%
+West Virginia,2021,In labor force,"364,235",49.2%
+Wisconsin,2021,In labor force,"1,475,467",61.6%
+Wyoming,2021,In labor force,"135,308",60.0%
+Puerto Rico,2021,In labor force,"604,675",40.7%
+United States,2021,Civilian labor force,"79,128,144",58.2%
+Alabama,2021,Civilian labor force,"1,115,813",52.9%
+Alaska,2021,Civilian labor force,"164,975",60.7%
+Arizona,2021,Civilian labor force,"1,630,864",55.3%
+Arkansas,2021,Civilian labor force,"668,306",54.2%
+California,2021,Civilian labor force,"9,133,097",57.6%
+Colorado,2021,Civilian labor force,"1,468,104",62.8%
+Connecticut,2021,Civilian labor force,"936,589",61.4%
+Delaware,2021,Civilian labor force,"242,474",56.9%
+District of Columbia,2021,Civilian labor force,"199,794",68.0%
+Florida,2021,Civilian labor force,"5,026,772",54.5%
+Georgia,2021,Civilian labor force,"2,596,411",58.4%
+Hawaii,2021,Civilian labor force,"340,259",58.3%
+Idaho,2021,Civilian labor force,"426,116",57.3%
+Illinois,2021,Civilian labor force,"3,130,638",60.2%
+Indiana,2021,Civilian labor force,"1,609,150",58.6%
+Iowa,2021,Civilian labor force,"789,277",61.8%
+Kansas,2021,Civilian labor force,"707,793",61.0%
+Kentucky,2021,Civilian labor force,"1,005,868",54.6%
+Louisiana,2021,Civilian labor force,"1,041,409",55.1%
+Maine,2021,Civilian labor force,"342,453",57.8%
+Maryland,2021,Civilian labor force,"1,603,268",62.2%
+Massachusetts,2021,Civilian labor force,"1,886,363",63.1%
+Michigan,2021,Civilian labor force,"2,344,745",56.5%
+Minnesota,2021,Civilian labor force,"1,485,423",65.0%
+Mississippi,2021,Civilian labor force,"650,765",53.4%
+Missouri,2021,Civilian labor force,"1,486,071",58.7%
+Montana,2021,Civilian labor force,"257,485",58.0%
+Nebraska,2021,Civilian labor force,"493,983",64.2%
+Nevada,2021,Civilian labor force,"734,724",58.4%
+New Hampshire,2021,Civilian labor force,"363,271",62.0%
+New Jersey,2021,Civilian labor force,"2,327,508",60.7%
+New Mexico,2021,Civilian labor force,"457,644",53.2%
+New York,2021,Civilian labor force,"4,932,734",58.9%
+North Carolina,2021,Civilian labor force,"2,512,377",57.0%
+North Dakota,2021,Civilian labor force,"184,072",62.1%
+Ohio,2021,Civilian labor force,"2,843,092",58.6%
+Oklahoma,2021,Civilian labor force,"897,989",56.3%
+Oregon,2021,Civilian labor force,"1,009,481",57.4%
+Pennsylvania,2021,Civilian labor force,"3,162,022",58.4%
+Rhode Island,2021,Civilian labor force,"288,521",61.2%
+South Carolina,2021,Civilian labor force,"1,201,754",55.0%
+South Dakota,2021,Civilian labor force,"218,304",62.8%
+Tennessee,2021,Civilian labor force,"1,628,216",56.2%
+Texas,2021,Civilian labor force,"6,731,734",58.2%
+Utah,2021,Civilian labor force,"760,043",61.1%
+Vermont,2021,Civilian labor force,"169,583",61.6%
+Virginia,2021,Civilian labor force,"2,124,809",59.7%
+Washington,2021,Civilian labor force,"1,822,293",58.5%
+West Virginia,2021,Civilian labor force,"364,050",49.2%
+Wisconsin,2021,Civilian labor force,"1,474,624",61.5%
+Wyoming,2021,Civilian labor force,"135,034",59.9%
+Puerto Rico,2021,Civilian labor force,"604,226",40.7%
+United States,2021,Employed,"74,173,887",54.6%
+Alabama,2021,Employed,"1,056,767",50.1%
+Alaska,2021,Employed,"153,980",56.6%
+Arizona,2021,Employed,"1,535,024",52.1%
+Arkansas,2021,Employed,"635,779",51.6%
+California,2021,Employed,"8,336,884",52.6%
+Colorado,2021,Employed,"1,391,072",59.5%
+Connecticut,2021,Employed,"877,908",57.5%
+Delaware,2021,Employed,"229,749",53.9%
+District of Columbia,2021,Employed,"184,459",62.8%
+Florida,2021,Employed,"4,739,660",51.4%
+Georgia,2021,Employed,"2,449,818",55.1%
+Hawaii,2021,Employed,"314,025",53.8%
+Idaho,2021,Employed,"413,023",55.6%
+Illinois,2021,Employed,"2,903,617",55.9%
+Indiana,2021,Employed,"1,536,075",55.9%
+Iowa,2021,Employed,"763,005",59.8%
+Kansas,2021,Employed,"679,179",58.5%
+Kentucky,2021,Employed,"955,281",51.8%
+Louisiana,2021,Employed,"968,175",51.2%
+Maine,2021,Employed,"326,515",55.1%
+Maryland,2021,Employed,"1,510,603",58.6%
+Massachusetts,2021,Employed,"1,767,299",59.1%
+Michigan,2021,Employed,"2,183,117",52.6%
+Minnesota,2021,Employed,"1,419,389",62.1%
+Mississippi,2021,Employed,"608,162",49.9%
+Missouri,2021,Employed,"1,416,770",55.9%
+Montana,2021,Employed,"247,625",55.8%
+Nebraska,2021,Employed,"480,267",62.4%
+Nevada,2021,Employed,"665,168",52.9%
+New Hampshire,2021,Employed,"349,504",59.6%
+New Jersey,2021,Employed,"2,140,529",55.8%
+New Mexico,2021,Employed,"422,236",49.1%
+New York,2021,Employed,"4,527,400",54.1%
+North Carolina,2021,Employed,"2,364,721",53.6%
+North Dakota,2021,Employed,"179,791",60.7%
+Ohio,2021,Employed,"2,690,437",55.5%
+Oklahoma,2021,Employed,"849,822",53.3%
+Oregon,2021,Employed,"946,892",53.9%
+Pennsylvania,2021,Employed,"2,967,795",54.8%
+Rhode Island,2021,Employed,"267,434",56.8%
+South Carolina,2021,Employed,"1,133,673",51.9%
+South Dakota,2021,Employed,"213,271",61.4%
+Tennessee,2021,Employed,"1,540,467",53.2%
+Texas,2021,Employed,"6,303,670",54.5%
+Utah,2021,Employed,"731,719",58.8%
+Vermont,2021,Employed,"163,418",59.3%
+Virginia,2021,Employed,"2,018,995",56.7%
+Washington,2021,Employed,"1,712,581",55.0%
+West Virginia,2021,Employed,"343,296",46.4%
+Wisconsin,2021,Employed,"1,426,927",59.5%
+Wyoming,2021,Employed,"130,914",58.0%
+Puerto Rico,2021,Employed,"527,885",35.5%
+United States,2021,All parents in family in labor force,"14,432,156",66.7%
+Alabama,2021,All parents in family in labor force,"213,573",65.5%
+Alaska,2021,All parents in family in labor force,"33,532",60.3%
+Arizona,2021,All parents in family in labor force,"297,408",64.5%
+Arkansas,2021,All parents in family in labor force,"137,864",66.9%
+California,2021,All parents in family in labor force,"1,654,166",64.7%
+Colorado,2021,All parents in family in labor force,"231,933",64.8%
+Connecticut,2021,All parents in family in labor force,"151,586",72.8%
+Delaware,2021,All parents in family in labor force,"42,156",67.7%
+District of Columbia,2021,All parents in family in labor force,"35,721",78.0%
+Florida,2021,All parents in family in labor force,"858,339",68.2%
+Georgia,2021,All parents in family in labor force,"472,180",64.8%
+Hawaii,2021,All parents in family in labor force,"56,892",64.0%
+Idaho,2021,All parents in family in labor force,"76,390",56.5%
+Illinois,2021,All parents in family in labor force,"573,705",69.7%
+Indiana,2021,All parents in family in labor force,"307,831",65.1%
+Iowa,2021,All parents in family in labor force,"165,684",74.5%
+Kansas,2021,All parents in family in labor force,"148,404",71.7%
+Kentucky,2021,All parents in family in labor force,"190,680",64.0%
+Louisiana,2021,All parents in family in labor force,"222,031",67.5%
+Maine,2021,All parents in family in labor force,"49,749",69.2%
+Maryland,2021,All parents in family in labor force,"291,464",71.3%
+Massachusetts,2021,All parents in family in labor force,"302,182",75.3%
+Michigan,2021,All parents in family in labor force,"417,072",65.4%
+Minnesota,2021,All parents in family in labor force,"295,996",75.7%
+Mississippi,2021,All parents in family in labor force,"136,175",68.9%
+Missouri,2021,All parents in family in labor force,"289,485",70.5%
+Montana,2021,All parents in family in labor force,"45,986",69.9%
+Nebraska,2021,All parents in family in labor force,"107,078",72.3%
+Nevada,2021,All parents in family in labor force,"134,854",65.7%
+New Hampshire,2021,All parents in family in labor force,"51,363",71.8%
+New Jersey,2021,All parents in family in labor force,"419,743",69.3%
+New Mexico,2021,All parents in family in labor force,"86,890",63.9%
+New York,2021,All parents in family in labor force,"844,067",68.1%
+North Carolina,2021,All parents in family in labor force,"441,803",66.2%
+North Dakota,2021,All parents in family in labor force,"42,204",70.6%
+Ohio,2021,All parents in family in labor force,"526,112",68.7%
+Oklahoma,2021,All parents in family in labor force,"178,824",63.2%
+Oregon,2021,All parents in family in labor force,"156,560",64.8%
+Pennsylvania,2021,All parents in family in labor force,"537,695",68.2%
+Rhode Island,2021,All parents in family in labor force,"46,559",76.2%
+South Carolina,2021,All parents in family in labor force,"215,292",68.0%
+South Dakota,2021,All parents in family in labor force,"49,331",73.8%
+Tennessee,2021,All parents in family in labor force,"295,506",64.8%
+Texas,2021,All parents in family in labor force,"1,384,042",62.4%
+Utah,2021,All parents in family in labor force,"149,187",53.7%
+Vermont,2021,All parents in family in labor force,"24,297",77.0%
+Virginia,2021,All parents in family in labor force,"381,572",68.2%
+Washington,2021,All parents in family in labor force,"308,604",61.5%
+West Virginia,2021,All parents in family in labor force,"59,205",59.9%
+Wisconsin,2021,All parents in family in labor force,"269,218",72.8%
+Wyoming,2021,All parents in family in labor force,"23,966",68.8%
+Puerto Rico,2021,All parents in family in labor force,"86,499",66.5%
+United States,2021,All parents in family in labor force,"34,209,802",71.2%
+Alabama,2021,All parents in family in labor force,"494,874",69.8%
+Alaska,2021,All parents in family in labor force,"77,878",68.7%
+Arizona,2021,All parents in family in labor force,"715,702",67.2%
+Arkansas,2021,All parents in family in labor force,"320,638",72.0%
+California,2021,All parents in family in labor force,"3,904,825",67.5%
+Colorado,2021,All parents in family in labor force,"616,852",73.9%
+Connecticut,2021,All parents in family in labor force,"373,313",76.4%
+Delaware,2021,All parents in family in labor force,"98,730",73.3%
+District of Columbia,2021,All parents in family in labor force,"51,785",73.6%
+Florida,2021,All parents in family in labor force,"2,011,393",72.0%
+Georgia,2021,All parents in family in labor force,"1,164,349",70.9%
+Hawaii,2021,All parents in family in labor force,"137,126",71.4%
+Idaho,2021,All parents in family in labor force,"208,075",66.3%
+Illinois,2021,All parents in family in labor force,"1,368,678",73.6%
+Indiana,2021,All parents in family in labor force,"737,682",72.1%
+Iowa,2021,All parents in family in labor force,"391,070",80.4%
+Kansas,2021,All parents in family in labor force,"346,358",75.2%
+Kentucky,2021,All parents in family in labor force,"433,934",68.3%
+Louisiana,2021,All parents in family in labor force,"496,968",72.1%
+Maine,2021,All parents in family in labor force,"123,535",74.8%
+Maryland,2021,All parents in family in labor force,"676,393",76.3%
+Massachusetts,2021,All parents in family in labor force,"689,245",76.2%
+Michigan,2021,All parents in family in labor force,"1,001,832",70.6%
+Minnesota,2021,All parents in family in labor force,"693,886",80.3%
+Mississippi,2021,All parents in family in labor force,"308,455",69.0%
+Missouri,2021,All parents in family in labor force,"666,830",74.8%
+Montana,2021,All parents in family in labor force,"115,565",74.6%
+Nebraska,2021,All parents in family in labor force,"246,842",78.7%
+Nevada,2021,All parents in family in labor force,"313,823",69.3%
+New Hampshire,2021,All parents in family in labor force,"130,876",75.4%
+New Jersey,2021,All parents in family in labor force,"963,311",72.2%
+New Mexico,2021,All parents in family in labor force,"215,410",70.6%
+New York,2021,All parents in family in labor force,"1,889,820",71.2%
+North Carolina,2021,All parents in family in labor force,"1,081,080",72.0%
+North Dakota,2021,All parents in family in labor force,"88,208",76.5%
+Ohio,2021,All parents in family in labor force,"1,248,095",74.0%
+Oklahoma,2021,All parents in family in labor force,"425,491",69.4%
+Oregon,2021,All parents in family in labor force,"391,402",69.1%
+Pennsylvania,2021,All parents in family in labor force,"1,287,318",73.0%
+Rhode Island,2021,All parents in family in labor force,"106,370",78.3%
+South Carolina,2021,All parents in family in labor force,"517,668",71.1%
+South Dakota,2021,All parents in family in labor force,"110,863",80.0%
+Tennessee,2021,All parents in family in labor force,"680,917",70.0%
+Texas,2021,All parents in family in labor force,"3,292,852",67.3%
+Utah,2021,All parents in family in labor force,"404,626",63.7%
+Vermont,2021,All parents in family in labor force,"65,017",79.9%
+Virginia,2021,All parents in family in labor force,"907,451",74.0%
+Washington,2021,All parents in family in labor force,"733,964",67.0%
+West Virginia,2021,All parents in family in labor force,"147,785",65.3%
+Wisconsin,2021,All parents in family in labor force,"667,502",78.2%
+Wyoming,2021,All parents in family in labor force,"67,140",74.1%
+Puerto Rico,2021,All parents in family in labor force,"269,184",68.8%
+United States,2022,In labor force,"171,200,767",63.5%
+Alabama,2022,In labor force,"2,398,213",58.6%
+Alaska,2022,In labor force,"386,093",67.0%
+Arizona,2022,In labor force,"3,619,698",60.7%
+Arkansas,2022,In labor force,"1,404,190",57.8%
+California,2022,In labor force,"20,174,168",63.9%
+Colorado,2022,In labor force,"3,288,975",68.9%
+Connecticut,2022,In labor force,"1,961,345",65.7%
+Delaware,2022,In labor force,"524,136",62.7%
+District of Columbia,2022,In labor force,"400,108",71.8%
+Florida,2022,In labor force,"11,005,548",59.6%
+Georgia,2022,In labor force,"5,562,669",63.9%
+Hawaii,2022,In labor force,"746,185",63.5%
+Idaho,2022,In labor force,"955,160",62.4%
+Illinois,2022,In labor force,"6,628,754",65.0%
+Indiana,2022,In labor force,"3,484,005",63.9%
+Iowa,2022,In labor force,"1,712,981",66.6%
+Kansas,2022,In labor force,"1,531,077",65.7%
+Kentucky,2022,In labor force,"2,170,852",59.9%
+Louisiana,2022,In labor force,"2,173,507",59.4%
+Maine,2022,In labor force,"722,044",61.7%
+Maryland,2022,In labor force,"3,332,616",67.0%
+Massachusetts,2022,In labor force,"3,878,044",66.8%
+Michigan,2022,In labor force,"5,039,051",61.6%
+Minnesota,2022,In labor force,"3,111,888",68.0%
+Mississippi,2022,In labor force,"1,337,386",57.1%
+Missouri,2022,In labor force,"3,126,129",62.8%
+Montana,2022,In labor force,"581,891",63.5%
+Nebraska,2022,In labor force,"1,056,773",68.3%
+Nevada,2022,In labor force,"1,628,015",63.3%
+New Hampshire,2022,In labor force,"774,998",65.8%
+New Jersey,2022,In labor force,"4,971,726",66.2%
+New Mexico,2022,In labor force,"1,000,712",58.5%
+New York,2022,In labor force,"10,145,004",62.8%
+North Carolina,2022,In labor force,"5,447,108",62.8%
+North Dakota,2022,In labor force,"424,113",68.7%
+Ohio,2022,In labor force,"5,999,325",63.1%
+Oklahoma,2022,In labor force,"1,940,528",61.0%
+Oregon,2022,In labor force,"2,191,659",62.4%
+Pennsylvania,2022,In labor force,"6,698,469",62.8%
+Rhode Island,2022,In labor force,"591,365",64.6%
+South Carolina,2022,In labor force,"2,607,685",60.7%
+South Dakota,2022,In labor force,"479,744",66.9%
+Tennessee,2022,In labor force,"3,558,019",62.4%
+Texas,2022,In labor force,"15,376,318",65.5%
+Utah,2022,In labor force,"1,791,947",70.0%
+Vermont,2022,In labor force,"356,111",65.0%
+Virginia,2022,In labor force,"4,600,045",65.3%
+Washington,2022,In labor force,"4,095,487",64.7%
+West Virginia,2022,In labor force,"774,750",52.8%
+Wisconsin,2022,In labor force,"3,127,697",65.1%
+Wyoming,2022,In labor force,"306,456",65.8%
+Puerto Rico,2022,In labor force,"1,295,844",46.6%
+United States,2022,Civilian labor force,"169,852,882",63.0%
+Alabama,2022,Civilian labor force,"2,381,733",58.2%
+Alaska,2022,Civilian labor force,"361,685",62.8%
+Arizona,2022,Civilian labor force,"3,595,613",60.3%
+Arkansas,2022,Civilian labor force,"1,397,919",57.5%
+California,2022,Civilian labor force,"20,003,799",63.4%
+Colorado,2022,Civilian labor force,"3,244,388",67.9%
+Connecticut,2022,Civilian labor force,"1,954,099",65.4%
+Delaware,2022,Civilian labor force,"520,993",62.4%
+District of Columbia,2022,Civilian labor force,"395,081",70.9%
+Florida,2022,Civilian labor force,"10,924,091",59.2%
+Georgia,2022,Civilian labor force,"5,502,894",63.2%
+Hawaii,2022,Civilian labor force,"699,927",59.5%
+Idaho,2022,Civilian labor force,"949,350",62.0%
+Illinois,2022,Civilian labor force,"6,608,621",64.8%
+Indiana,2022,Civilian labor force,"3,479,919",63.8%
+Iowa,2022,Civilian labor force,"1,708,988",66.5%
+Kansas,2022,Civilian labor force,"1,511,335",64.8%
+Kentucky,2022,Civilian labor force,"2,154,704",59.4%
+Louisiana,2022,Civilian labor force,"2,155,084",58.9%
+Maine,2022,Civilian labor force,"719,995",61.5%
+Maryland,2022,Civilian labor force,"3,299,405",66.3%
+Massachusetts,2022,Civilian labor force,"3,872,969",66.7%
+Michigan,2022,Civilian labor force,"5,034,322",61.5%
+Minnesota,2022,Civilian labor force,"3,108,458",67.9%
+Mississippi,2022,Civilian labor force,"1,322,376",56.5%
+Missouri,2022,Civilian labor force,"3,103,274",62.4%
+Montana,2022,Civilian labor force,"577,037",63.0%
+Nebraska,2022,Civilian labor force,"1,049,579",67.8%
+Nevada,2022,Civilian labor force,"1,613,389",62.7%
+New Hampshire,2022,Civilian labor force,"773,372",65.7%
+New Jersey,2022,Civilian labor force,"4,957,313",66.0%
+New Mexico,2022,Civilian labor force,"984,151",57.5%
+New York,2022,Civilian labor force,"10,117,576",62.6%
+North Carolina,2022,Civilian labor force,"5,335,954",61.5%
+North Dakota,2022,Civilian labor force,"417,556",67.6%
+Ohio,2022,Civilian labor force,"5,984,422",63.0%
+Oklahoma,2022,Civilian labor force,"1,916,016",60.3%
+Oregon,2022,Civilian labor force,"2,188,501",62.4%
+Pennsylvania,2022,Civilian labor force,"6,689,958",62.8%
+Rhode Island,2022,Civilian labor force,"587,236",64.1%
+South Carolina,2022,Civilian labor force,"2,565,719",59.7%
+South Dakota,2022,Civilian labor force,"474,292",66.2%
+Tennessee,2022,Civilian labor force,"3,534,983",62.0%
+Texas,2022,Civilian labor force,"15,249,347",65.0%
+Utah,2022,Civilian labor force,"1,783,862",69.7%
+Vermont,2022,Civilian labor force,"354,414",64.7%
+Virginia,2022,Civilian labor force,"4,459,666",63.3%
+Washington,2022,Civilian labor force,"4,029,420",63.7%
+West Virginia,2022,Civilian labor force,"772,226",52.7%
+Wisconsin,2022,Civilian labor force,"3,123,424",65.0%
+Wyoming,2022,Civilian labor force,"302,447",64.9%
+Puerto Rico,2022,Civilian labor force,"1,291,895",46.4%
+United States,2022,Employed,"162,590,221",60.3%
+Alabama,2022,Employed,"2,278,494",55.7%
+Alaska,2022,Employed,"345,201",59.9%
+Arizona,2022,Employed,"3,441,676",57.7%
+Arkansas,2022,Employed,"1,335,560",54.9%
+California,2022,Employed,"18,942,977",60.0%
+Colorado,2022,Employed,"3,131,144",65.6%
+Connecticut,2022,Employed,"1,861,502",62.3%
+Delaware,2022,Employed,"498,721",59.7%
+District of Columbia,2022,Employed,"374,882",67.2%
+Florida,2022,Employed,"10,489,216",56.8%
+Georgia,2022,Employed,"5,273,176",60.6%
+Hawaii,2022,Employed,"674,532",57.4%
+Idaho,2022,Employed,"921,141",60.2%
+Illinois,2022,Employed,"6,293,807",61.7%
+Indiana,2022,Employed,"3,355,406",61.5%
+Iowa,2022,Employed,"1,658,607",64.5%
+Kansas,2022,Employed,"1,456,502",62.5%
+Kentucky,2022,Employed,"2,061,238",56.8%
+Louisiana,2022,Employed,"2,038,340",55.7%
+Maine,2022,Employed,"696,402",59.5%
+Maryland,2022,Employed,"3,168,418",63.7%
+Massachusetts,2022,Employed,"3,714,823",64.0%
+Michigan,2022,Employed,"4,800,228",58.7%
+Minnesota,2022,Employed,"3,008,627",65.7%
+Mississippi,2022,Employed,"1,257,562",53.7%
+Missouri,2022,Employed,"2,987,867",60.1%
+Montana,2022,Employed,"559,604",61.1%
+Nebraska,2022,Employed,"1,025,109",66.2%
+Nevada,2022,Employed,"1,524,894",59.3%
+New Hampshire,2022,Employed,"753,730",64.0%
+New Jersey,2022,Employed,"4,707,790",62.7%
+New Mexico,2022,Employed,"937,027",54.8%
+New York,2022,Employed,"9,600,338",59.4%
+North Carolina,2022,Employed,"5,135,307",59.2%
+North Dakota,2022,Employed,"408,563",66.1%
+Ohio,2022,Employed,"5,762,007",60.6%
+Oklahoma,2022,Employed,"1,836,305",57.8%
+Oregon,2022,Employed,"2,095,363",59.7%
+Pennsylvania,2022,Employed,"6,402,242",60.1%
+Rhode Island,2022,Employed,"560,568",61.2%
+South Carolina,2022,Employed,"2,454,047",57.1%
+South Dakota,2022,Employed,"460,983",64.3%
+Tennessee,2022,Employed,"3,413,460",59.9%
+Texas,2022,Employed,"14,578,433",62.1%
+Utah,2022,Employed,"1,735,854",67.8%
+Vermont,2022,Employed,"344,401",62.8%
+Virginia,2022,Employed,"4,298,561",61.0%
+Washington,2022,Employed,"3,865,941",61.1%
+West Virginia,2022,Employed,"735,644",50.2%
+Wisconsin,2022,Employed,"3,036,963",63.2%
+Wyoming,2022,Employed,"291,038",62.5%
+Puerto Rico,2022,Employed,"1,164,142",41.9%
+United States,2022,Unemployed,"7,262,661",2.7%
+Alabama,2022,Unemployed,"103,239",2.5%
+Alaska,2022,Unemployed,"16,484",2.9%
+Arizona,2022,Unemployed,"153,937",2.6%
+Arkansas,2022,Unemployed,"62,359",2.6%
+California,2022,Unemployed,"1,060,822",3.4%
+Colorado,2022,Unemployed,"113,244",2.4%
+Connecticut,2022,Unemployed,"92,597",3.1%
+Delaware,2022,Unemployed,"22,272",2.7%
+District of Columbia,2022,Unemployed,"20,199",3.6%
+Florida,2022,Unemployed,"434,875",2.4%
+Georgia,2022,Unemployed,"229,718",2.6%
+Hawaii,2022,Unemployed,"25,395",2.2%
+Idaho,2022,Unemployed,"28,209",1.8%
+Illinois,2022,Unemployed,"314,814",3.1%
+Indiana,2022,Unemployed,"124,513",2.3%
+Iowa,2022,Unemployed,"50,381",2.0%
+Kansas,2022,Unemployed,"54,833",2.4%
+Kentucky,2022,Unemployed,"93,466",2.6%
+Louisiana,2022,Unemployed,"116,744",3.2%
+Maine,2022,Unemployed,"23,593",2.0%
+Maryland,2022,Unemployed,"130,987",2.6%
+Massachusetts,2022,Unemployed,"158,146",2.7%
+Michigan,2022,Unemployed,"234,094",2.9%
+Minnesota,2022,Unemployed,"99,831",2.2%
+Mississippi,2022,Unemployed,"64,814",2.8%
+Missouri,2022,Unemployed,"115,407",2.3%
+Montana,2022,Unemployed,"17,433",1.9%
+Nebraska,2022,Unemployed,"24,470",1.6%
+Nevada,2022,Unemployed,"88,495",3.4%
+New Hampshire,2022,Unemployed,"19,642",1.7%
+New Jersey,2022,Unemployed,"249,523",3.3%
+New Mexico,2022,Unemployed,"47,124",2.8%
+New York,2022,Unemployed,"517,238",3.2%
+North Carolina,2022,Unemployed,"200,647",2.3%
+North Dakota,2022,Unemployed,"8,993",1.5%
+Ohio,2022,Unemployed,"222,415",2.3%
+Oklahoma,2022,Unemployed,"79,711",2.5%
+Oregon,2022,Unemployed,"93,138",2.7%
+Pennsylvania,2022,Unemployed,"287,716",2.7%
+Rhode Island,2022,Unemployed,"26,668",2.9%
+South Carolina,2022,Unemployed,"111,672",2.6%
+South Dakota,2022,Unemployed,"13,309",1.9%
+Tennessee,2022,Unemployed,"121,523",2.1%
+Texas,2022,Unemployed,"670,914",2.9%
+Utah,2022,Unemployed,"48,008",1.9%
+Vermont,2022,Unemployed,"10,013",1.8%
+Virginia,2022,Unemployed,"161,105",2.3%
+Washington,2022,Unemployed,"163,479",2.6%
+West Virginia,2022,Unemployed,"36,582",2.5%
+Wisconsin,2022,Unemployed,"86,461",1.8%
+Wyoming,2022,Unemployed,"11,409",2.4%
+Puerto Rico,2022,Unemployed,"127,753",4.6%
+United States,2022,Armed Forces,"1,347,885",0.5%
+Alabama,2022,Armed Forces,"16,480",0.4%
+Alaska,2022,Armed Forces,"24,408",4.2%
+Arizona,2022,Armed Forces,"24,085",0.4%
+Arkansas,2022,Armed Forces,"6,271",0.3%
+California,2022,Armed Forces,"170,369",0.5%
+Colorado,2022,Armed Forces,"44,587",0.9%
+Connecticut,2022,Armed Forces,"7,246",0.2%
+Delaware,2022,Armed Forces,"3,143",0.4%
+District of Columbia,2022,Armed Forces,"5,027",0.9%
+Florida,2022,Armed Forces,"81,457",0.4%
+Georgia,2022,Armed Forces,"59,775",0.7%
+Hawaii,2022,Armed Forces,"46,258",3.9%
+Idaho,2022,Armed Forces,"5,810",0.4%
+Illinois,2022,Armed Forces,"20,133",0.2%
+Indiana,2022,Armed Forces,"4,086",0.1%
+Iowa,2022,Armed Forces,"3,993",0.2%
+Kansas,2022,Armed Forces,"19,742",0.8%
+Kentucky,2022,Armed Forces,"16,148",0.4%
+Louisiana,2022,Armed Forces,"18,423",0.5%
+Maine,2022,Armed Forces,"2,049",0.2%
+Maryland,2022,Armed Forces,"33,211",0.7%
+Massachusetts,2022,Armed Forces,"5,075",0.1%
+Michigan,2022,Armed Forces,"4,729",0.1%
+Minnesota,2022,Armed Forces,"3,430",0.1%
+Mississippi,2022,Armed Forces,"15,010",0.6%
+Missouri,2022,Armed Forces,"22,855",0.5%
+Montana,2022,Armed Forces,"4,854",0.5%
+Nebraska,2022,Armed Forces,"7,194",0.5%
+Nevada,2022,Armed Forces,"14,626",0.6%
+New Hampshire,2022,Armed Forces,"1,626",0.1%
+New Jersey,2022,Armed Forces,"14,413",0.2%
+New Mexico,2022,Armed Forces,"16,561",1.0%
+New York,2022,Armed Forces,"27,428",0.2%
+North Carolina,2022,Armed Forces,"111,154",1.3%
+North Dakota,2022,Armed Forces,"6,557",1.1%
+Ohio,2022,Armed Forces,"14,903",0.2%
+Oklahoma,2022,Armed Forces,"24,512",0.8%
+Oregon,2022,Armed Forces,"3,158",0.1%
+Pennsylvania,2022,Armed Forces,"8,511",0.1%
+Rhode Island,2022,Armed Forces,"4,129",0.5%
+South Carolina,2022,Armed Forces,"41,966",1.0%
+South Dakota,2022,Armed Forces,"5,452",0.8%
+Tennessee,2022,Armed Forces,"23,036",0.4%
+Texas,2022,Armed Forces,"126,971",0.5%
+Utah,2022,Armed Forces,"8,085",0.3%
+Vermont,2022,Armed Forces,"1,697",0.3%
+Virginia,2022,Armed Forces,"140,379",2.0%
+Washington,2022,Armed Forces,"66,067",1.0%
+West Virginia,2022,Armed Forces,"2,524",0.2%
+Wisconsin,2022,Armed Forces,"4,273",0.1%
+Wyoming,2022,Armed Forces,"4,009",0.9%
+Puerto Rico,2022,Armed Forces,"3,949",0.1%
+United States,2022,Not in labor force,"98,354,551",36.5%
+Alabama,2022,Not in labor force,"1,695,527",41.4%
+Alaska,2022,Not in labor force,"189,841",33.0%
+Arizona,2022,Not in labor force,"2,342,035",39.3%
+Arkansas,2022,Not in labor force,"1,026,410",42.2%
+California,2022,Not in labor force,"11,378,540",36.1%
+Colorado,2022,Not in labor force,"1,487,342",31.1%
+Connecticut,2022,Not in labor force,"1,025,110",34.3%
+Delaware,2022,Not in labor force,"311,229",37.3%
+District of Columbia,2022,Not in labor force,"157,439",28.2%
+Florida,2022,Not in labor force,"7,453,505",40.4%
+Georgia,2022,Not in labor force,"3,145,641",36.1%
+Hawaii,2022,Not in labor force,"429,482",36.5%
+Idaho,2022,Not in labor force,"575,569",37.6%
+Illinois,2022,Not in labor force,"3,570,844",35.0%
+Indiana,2022,Not in labor force,"1,972,061",36.1%
+Iowa,2022,Not in labor force,"857,944",33.4%
+Kansas,2022,Not in labor force,"799,765",34.3%
+Kentucky,2022,Not in labor force,"1,455,659",40.1%
+Louisiana,2022,Not in labor force,"1,483,034",40.6%
+Maine,2022,Not in labor force,"448,017",38.3%
+Maryland,2022,Not in labor force,"1,641,733",33.0%
+Massachusetts,2022,Not in labor force,"1,927,421",33.2%
+Michigan,2022,Not in labor force,"3,140,376",38.4%
+Minnesota,2022,Not in labor force,"1,467,555",32.0%
+Mississippi,2022,Not in labor force,"1,003,906",42.9%
+Missouri,2022,Not in labor force,"1,848,663",37.2%
+Montana,2022,Not in labor force,"334,398",36.5%
+Nebraska,2022,Not in labor force,"491,017",31.7%
+Nevada,2022,Not in labor force,"944,008",36.7%
+New Hampshire,2022,Not in labor force,"402,402",34.2%
+New Jersey,2022,Not in labor force,"2,539,257",33.8%
+New Mexico,2022,Not in labor force,"709,747",41.5%
+New York,2022,Not in labor force,"6,009,237",37.2%
+North Carolina,2022,Not in labor force,"3,224,831",37.2%
+North Dakota,2022,Not in labor force,"193,597",31.3%
+Ohio,2022,Not in labor force,"3,507,208",36.9%
+Oklahoma,2022,Not in labor force,"1,238,324",39.0%
+Oregon,2022,Not in labor force,"1,317,805",37.6%
+Pennsylvania,2022,Not in labor force,"3,961,872",37.2%
+Rhode Island,2022,Not in labor force,"324,654",35.4%
+South Carolina,2022,Not in labor force,"1,686,909",39.3%
+South Dakota,2022,Not in labor force,"237,221",33.1%
+Tennessee,2022,Not in labor force,"2,141,584",37.6%
+Texas,2022,Not in labor force,"8,095,123",34.5%
+Utah,2022,Not in labor force,"768,897",30.0%
+Vermont,2022,Not in labor force,"191,939",35.0%
+Virginia,2022,Not in labor force,"2,441,233",34.7%
+Washington,2022,Not in labor force,"2,232,564",35.3%
+West Virginia,2022,Not in labor force,"691,516",47.2%
+Wisconsin,2022,Not in labor force,"1,675,133",34.9%
+Wyoming,2022,Not in labor force,"159,427",34.2%
+Puerto Rico,2022,Not in labor force,"1,485,497",53.4%
+United States,2022,Civilian labor force,"169,852,882","169,852,882"
+Alabama,2022,Civilian labor force,"2,381,733","2,381,733"
+Alaska,2022,Civilian labor force,"361,685","361,685"
+Arizona,2022,Civilian labor force,"3,595,613","3,595,613"
+Arkansas,2022,Civilian labor force,"1,397,919","1,397,919"
+California,2022,Civilian labor force,"20,003,799","20,003,799"
+Colorado,2022,Civilian labor force,"3,244,388","3,244,388"
+Connecticut,2022,Civilian labor force,"1,954,099","1,954,099"
+Delaware,2022,Civilian labor force,"520,993","520,993"
+District of Columbia,2022,Civilian labor force,"395,081","395,081"
+Florida,2022,Civilian labor force,"10,924,091","10,924,091"
+Georgia,2022,Civilian labor force,"5,502,894","5,502,894"
+Hawaii,2022,Civilian labor force,"699,927","699,927"
+Idaho,2022,Civilian labor force,"949,350","949,350"
+Illinois,2022,Civilian labor force,"6,608,621","6,608,621"
+Indiana,2022,Civilian labor force,"3,479,919","3,479,919"
+Iowa,2022,Civilian labor force,"1,708,988","1,708,988"
+Kansas,2022,Civilian labor force,"1,511,335","1,511,335"
+Kentucky,2022,Civilian labor force,"2,154,704","2,154,704"
+Louisiana,2022,Civilian labor force,"2,155,084","2,155,084"
+Maine,2022,Civilian labor force,"719,995","719,995"
+Maryland,2022,Civilian labor force,"3,299,405","3,299,405"
+Massachusetts,2022,Civilian labor force,"3,872,969","3,872,969"
+Michigan,2022,Civilian labor force,"5,034,322","5,034,322"
+Minnesota,2022,Civilian labor force,"3,108,458","3,108,458"
+Mississippi,2022,Civilian labor force,"1,322,376","1,322,376"
+Missouri,2022,Civilian labor force,"3,103,274","3,103,274"
+Montana,2022,Civilian labor force,"577,037","577,037"
+Nebraska,2022,Civilian labor force,"1,049,579","1,049,579"
+Nevada,2022,Civilian labor force,"1,613,389","1,613,389"
+New Hampshire,2022,Civilian labor force,"773,372","773,372"
+New Jersey,2022,Civilian labor force,"4,957,313","4,957,313"
+New Mexico,2022,Civilian labor force,"984,151","984,151"
+New York,2022,Civilian labor force,"10,117,576","10,117,576"
+North Carolina,2022,Civilian labor force,"5,335,954","5,335,954"
+North Dakota,2022,Civilian labor force,"417,556","417,556"
+Ohio,2022,Civilian labor force,"5,984,422","5,984,422"
+Oklahoma,2022,Civilian labor force,"1,916,016","1,916,016"
+Oregon,2022,Civilian labor force,"2,188,501","2,188,501"
+Pennsylvania,2022,Civilian labor force,"6,689,958","6,689,958"
+Rhode Island,2022,Civilian labor force,"587,236","587,236"
+South Carolina,2022,Civilian labor force,"2,565,719","2,565,719"
+South Dakota,2022,Civilian labor force,"474,292","474,292"
+Tennessee,2022,Civilian labor force,"3,534,983","3,534,983"
+Texas,2022,Civilian labor force,"15,249,347","15,249,347"
+Utah,2022,Civilian labor force,"1,783,862","1,783,862"
+Vermont,2022,Civilian labor force,"354,414","354,414"
+Virginia,2022,Civilian labor force,"4,459,666","4,459,666"
+Washington,2022,Civilian labor force,"4,029,420","4,029,420"
+West Virginia,2022,Civilian labor force,"772,226","772,226"
+Wisconsin,2022,Civilian labor force,"3,123,424","3,123,424"
+Wyoming,2022,Civilian labor force,"302,447","302,447"
+Puerto Rico,2022,Civilian labor force,"1,291,895","1,291,895"
+United States,2022,Unemployment Rate,(X),4.3%
+Alabama,2022,Unemployment Rate,(X),4.3%
+Alaska,2022,Unemployment Rate,(X),4.6%
+Arizona,2022,Unemployment Rate,(X),4.3%
+Arkansas,2022,Unemployment Rate,(X),4.5%
+California,2022,Unemployment Rate,(X),5.3%
+Colorado,2022,Unemployment Rate,(X),3.5%
+Connecticut,2022,Unemployment Rate,(X),4.7%
+Delaware,2022,Unemployment Rate,(X),4.3%
+District of Columbia,2022,Unemployment Rate,(X),5.1%
+Florida,2022,Unemployment Rate,(X),4.0%
+Georgia,2022,Unemployment Rate,(X),4.2%
+Hawaii,2022,Unemployment Rate,(X),3.6%
+Idaho,2022,Unemployment Rate,(X),3.0%
+Illinois,2022,Unemployment Rate,(X),4.8%
+Indiana,2022,Unemployment Rate,(X),3.6%
+Iowa,2022,Unemployment Rate,(X),2.9%
+Kansas,2022,Unemployment Rate,(X),3.6%
+Kentucky,2022,Unemployment Rate,(X),4.3%
+Louisiana,2022,Unemployment Rate,(X),5.4%
+Maine,2022,Unemployment Rate,(X),3.3%
+Maryland,2022,Unemployment Rate,(X),4.0%
+Massachusetts,2022,Unemployment Rate,(X),4.1%
+Michigan,2022,Unemployment Rate,(X),4.6%
+Minnesota,2022,Unemployment Rate,(X),3.2%
+Mississippi,2022,Unemployment Rate,(X),4.9%
+Missouri,2022,Unemployment Rate,(X),3.7%
+Montana,2022,Unemployment Rate,(X),3.0%
+Nebraska,2022,Unemployment Rate,(X),2.3%
+Nevada,2022,Unemployment Rate,(X),5.5%
+New Hampshire,2022,Unemployment Rate,(X),2.5%
+New Jersey,2022,Unemployment Rate,(X),5.0%
+New Mexico,2022,Unemployment Rate,(X),4.8%
+New York,2022,Unemployment Rate,(X),5.1%
+North Carolina,2022,Unemployment Rate,(X),3.8%
+North Dakota,2022,Unemployment Rate,(X),2.2%
+Ohio,2022,Unemployment Rate,(X),3.7%
+Oklahoma,2022,Unemployment Rate,(X),4.2%
+Oregon,2022,Unemployment Rate,(X),4.3%
+Pennsylvania,2022,Unemployment Rate,(X),4.3%
+Rhode Island,2022,Unemployment Rate,(X),4.5%
+South Carolina,2022,Unemployment Rate,(X),4.4%
+South Dakota,2022,Unemployment Rate,(X),2.8%
+Tennessee,2022,Unemployment Rate,(X),3.4%
+Texas,2022,Unemployment Rate,(X),4.4%
+Utah,2022,Unemployment Rate,(X),2.7%
+Vermont,2022,Unemployment Rate,(X),2.8%
+Virginia,2022,Unemployment Rate,(X),3.6%
+Washington,2022,Unemployment Rate,(X),4.1%
+West Virginia,2022,Unemployment Rate,(X),4.7%
+Wisconsin,2022,Unemployment Rate,(X),2.8%
+Wyoming,2022,Unemployment Rate,(X),3.8%
+Puerto Rico,2022,Unemployment Rate,(X),9.9%
+United States,2022,Females 16 years and over,"136,948,302","136,948,302"
+Alabama,2022,Females 16 years and over,"2,133,808","2,133,808"
+Alaska,2022,Females 16 years and over,"270,877","270,877"
+Arizona,2022,Females 16 years and over,"2,995,623","2,995,623"
+Arkansas,2022,Females 16 years and over,"1,239,900","1,239,900"
+California,2022,Females 16 years and over,"15,836,963","15,836,963"
+Colorado,2022,Females 16 years and over,"2,356,821","2,356,821"
+Connecticut,2022,Females 16 years and over,"1,536,317","1,536,317"
+Delaware,2022,Females 16 years and over,"433,486","433,486"
+District of Columbia,2022,Females 16 years and over,"295,178","295,178"
+Florida,2022,Females 16 years and over,"9,444,715","9,444,715"
+Georgia,2022,Females 16 years and over,"4,509,831","4,509,831"
+Hawaii,2022,Females 16 years and over,"586,867","586,867"
+Idaho,2022,Females 16 years and over,"760,224","760,224"
+Illinois,2022,Females 16 years and over,"5,189,423","5,189,423"
+Indiana,2022,Females 16 years and over,"2,771,755","2,771,755"
+Iowa,2022,Females 16 years and over,"1,287,174","1,287,174"
+Kansas,2022,Females 16 years and over,"1,166,426","1,166,426"
+Kentucky,2022,Females 16 years and over,"1,846,644","1,846,644"
+Louisiana,2022,Females 16 years and over,"1,891,212","1,891,212"
+Maine,2022,Females 16 years and over,"596,444","596,444"
+Maryland,2022,Females 16 years and over,"2,581,484","2,581,484"
+Massachusetts,2022,Females 16 years and over,"2,988,258","2,988,258"
+Michigan,2022,Females 16 years and over,"4,152,360","4,152,360"
+Minnesota,2022,Females 16 years and over,"2,293,022","2,293,022"
+Mississippi,2022,Females 16 years and over,"1,219,835","1,219,835"
+Missouri,2022,Females 16 years and over,"2,545,917","2,545,917"
+Montana,2022,Females 16 years and over,"453,187","453,187"
+Nebraska,2022,Females 16 years and over,"774,410","774,410"
+Nevada,2022,Females 16 years and over,"1,279,958","1,279,958"
+New Hampshire,2022,Females 16 years and over,"590,919","590,919"
+New Jersey,2022,Females 16 years and over,"3,839,420","3,839,420"
+New Mexico,2022,Females 16 years and over,"868,184","868,184"
+New York,2022,Females 16 years and over,"8,335,003","8,335,003"
+North Carolina,2022,Females 16 years and over,"4,477,069","4,477,069"
+North Dakota,2022,Females 16 years and over,"301,949","301,949"
+Ohio,2022,Females 16 years and over,"4,847,982","4,847,982"
+Oklahoma,2022,Females 16 years and over,"1,605,405","1,605,405"
+Oregon,2022,Females 16 years and over,"1,766,741","1,766,741"
+Pennsylvania,2022,Females 16 years and over,"5,443,468","5,443,468"
+Rhode Island,2022,Females 16 years and over,"469,735","469,735"
+South Carolina,2022,Females 16 years and over,"2,226,965","2,226,965"
+South Dakota,2022,Females 16 years and over,"353,308","353,308"
+Tennessee,2022,Females 16 years and over,"2,930,695","2,930,695"
+Texas,2022,Females 16 years and over,"11,799,896","11,799,896"
+Utah,2022,Females 16 years and over,"1,268,261","1,268,261"
+Vermont,2022,Females 16 years and over,"277,676","277,676"
+Virginia,2022,Females 16 years and over,"3,587,810","3,587,810"
+Washington,2022,Females 16 years and over,"3,144,875","3,144,875"
+West Virginia,2022,Females 16 years and over,"739,311","739,311"
+Wisconsin,2022,Females 16 years and over,"2,407,021","2,407,021"
+Wyoming,2022,Females 16 years and over,"228,490","228,490"
+Puerto Rico,2022,Females 16 years and over,"1,480,119","1,480,119"
+United States,2022,In labor force,"80,491,996",58.8%
+Alabama,2022,In labor force,"1,147,718",53.8%
+Alaska,2022,In labor force,"167,747",61.9%
+Arizona,2022,In labor force,"1,663,364",55.5%
+Arkansas,2022,In labor force,"657,101",53.0%
+California,2022,In labor force,"9,241,471",58.4%
+Colorado,2022,In labor force,"1,505,743",63.9%
+Connecticut,2022,In labor force,"941,365",61.3%
+Delaware,2022,In labor force,"255,262",58.9%
+District of Columbia,2022,In labor force,"206,980",70.1%
+Florida,2022,In labor force,"5,204,583",55.1%
+Georgia,2022,In labor force,"2,678,521",59.4%
+Hawaii,2022,In labor force,"346,138",59.0%
+Idaho,2022,In labor force,"433,796",57.1%
+Illinois,2022,In labor force,"3,132,641",60.4%
+Indiana,2022,In labor force,"1,634,843",59.0%
+Iowa,2022,In labor force,"806,363",62.6%
+Kansas,2022,In labor force,"710,410",60.9%
+Kentucky,2022,In labor force,"1,024,883",55.5%
+Louisiana,2022,In labor force,"1,061,047",56.1%
+Maine,2022,In labor force,"353,553",59.3%
+Maryland,2022,In labor force,"1,622,088",62.8%
+Massachusetts,2022,In labor force,"1,890,420",63.3%
+Michigan,2022,In labor force,"2,377,561",57.3%
+Minnesota,2022,In labor force,"1,472,484",64.2%
+Mississippi,2022,In labor force,"653,742",53.6%
+Missouri,2022,In labor force,"1,499,189",58.9%
+Montana,2022,In labor force,"273,225",60.3%
+Nebraska,2022,In labor force,"492,096",63.5%
+Nevada,2022,In labor force,"750,560",58.6%
+New Hampshire,2022,In labor force,"365,594",61.9%
+New Jersey,2022,In labor force,"2,339,765",60.9%
+New Mexico,2022,In labor force,"470,813",54.2%
+New York,2022,In labor force,"4,916,082",59.0%
+North Carolina,2022,In labor force,"2,600,395",58.1%
+North Dakota,2022,In labor force,"194,803",64.5%
+Ohio,2022,In labor force,"2,851,297",58.8%
+Oklahoma,2022,In labor force,"895,284",55.8%
+Oregon,2022,In labor force,"1,037,203",58.7%
+Pennsylvania,2022,In labor force,"3,192,674",58.7%
+Rhode Island,2022,In labor force,"287,857",61.3%
+South Carolina,2022,In labor force,"1,258,080",56.5%
+South Dakota,2022,In labor force,"223,776",63.3%
+Tennessee,2022,In labor force,"1,682,760",57.4%
+Texas,2022,In labor force,"6,995,226",59.3%
+Utah,2022,In labor force,"792,882",62.5%
+Vermont,2022,In labor force,"173,979",62.7%
+Virginia,2022,In labor force,"2,171,524",60.5%
+Washington,2022,In labor force,"1,852,779",58.9%
+West Virginia,2022,In labor force,"367,233",49.7%
+Wisconsin,2022,In labor force,"1,477,558",61.4%
+Wyoming,2022,In labor force,"139,538",61.1%
+Puerto Rico,2022,In labor force,"623,982",42.2%
+United States,2022,Civilian labor force,"80,260,707",58.6%
+Alabama,2022,Civilian labor force,"1,144,145",53.6%
+Alaska,2022,Civilian labor force,"164,305",60.7%
+Arizona,2022,Civilian labor force,"1,660,197",55.4%
+Arkansas,2022,Civilian labor force,"656,684",53.0%
+California,2022,Civilian labor force,"9,214,682",58.2%
+Colorado,2022,Civilian labor force,"1,498,503",63.6%
+Connecticut,2022,Civilian labor force,"940,297",61.2%
+Delaware,2022,Civilian labor force,"254,945",58.8%
+District of Columbia,2022,Civilian labor force,"206,238",69.9%
+Florida,2022,Civilian labor force,"5,192,393",55.0%
+Georgia,2022,Civilian labor force,"2,669,472",59.2%
+Hawaii,2022,Civilian labor force,"340,318",58.0%
+Idaho,2022,Civilian labor force,"432,826",56.9%
+Illinois,2022,Civilian labor force,"3,128,197",60.3%
+Indiana,2022,Civilian labor force,"1,634,207",59.0%
+Iowa,2022,Civilian labor force,"805,393",62.6%
+Kansas,2022,Civilian labor force,"708,912",60.8%
+Kentucky,2022,Civilian labor force,"1,022,143",55.4%
+Louisiana,2022,Civilian labor force,"1,057,093",55.9%
+Maine,2022,Civilian labor force,"353,393",59.2%
+Maryland,2022,Civilian labor force,"1,614,340",62.5%
+Massachusetts,2022,Civilian labor force,"1,889,723",63.2%
+Michigan,2022,Civilian labor force,"2,376,287",57.2%
+Minnesota,2022,Civilian labor force,"1,471,500",64.2%
+Mississippi,2022,Civilian labor force,"651,169",53.4%
+Missouri,2022,Civilian labor force,"1,493,421",58.7%
+Montana,2022,Civilian labor force,"271,647",59.9%
+Nebraska,2022,Civilian labor force,"490,282",63.3%
+Nevada,2022,Civilian labor force,"748,149",58.5%
+New Hampshire,2022,Civilian labor force,"365,306",61.8%
+New Jersey,2022,Civilian labor force,"2,336,588",60.9%
+New Mexico,2022,Civilian labor force,"467,647",53.9%
+New York,2022,Civilian labor force,"4,912,661",58.9%
+North Carolina,2022,Civilian labor force,"2,586,184",57.8%
+North Dakota,2022,Civilian labor force,"193,553",64.1%
+Ohio,2022,Civilian labor force,"2,847,991",58.7%
+Oklahoma,2022,Civilian labor force,"891,623",55.5%
+Oregon,2022,Civilian labor force,"1,036,821",58.7%
+Pennsylvania,2022,Civilian labor force,"3,191,767",58.6%
+Rhode Island,2022,Civilian labor force,"286,748",61.0%
+South Carolina,2022,Civilian labor force,"1,250,818",56.2%
+South Dakota,2022,Civilian labor force,"223,027",63.1%
+Tennessee,2022,Civilian labor force,"1,678,830",57.3%
+Texas,2022,Civilian labor force,"6,971,385",59.1%
+Utah,2022,Civilian labor force,"790,996",62.4%
+Vermont,2022,Civilian labor force,"173,928",62.6%
+Virginia,2022,Civilian labor force,"2,140,264",59.7%
+Washington,2022,Civilian labor force,"1,841,215",58.5%
+West Virginia,2022,Civilian labor force,"366,991",49.6%
+Wisconsin,2022,Civilian labor force,"1,477,255",61.4%
+Wyoming,2022,Civilian labor force,"138,248",60.5%
+Puerto Rico,2022,Civilian labor force,"623,563",42.1%
+United States,2022,Employed,"76,849,936",56.1%
+Alabama,2022,Employed,"1,088,909",51.0%
+Alaska,2022,Employed,"157,659",58.2%
+Arizona,2022,Employed,"1,585,890",52.9%
+Arkansas,2022,Employed,"624,966",50.4%
+California,2022,Employed,"8,711,717",55.0%
+Colorado,2022,Employed,"1,445,490",61.3%
+Connecticut,2022,Employed,"899,266",58.5%
+Delaware,2022,Employed,"242,423",55.9%
+District of Columbia,2022,Employed,"196,554",66.6%
+Florida,2022,Employed,"4,982,424",52.8%
+Georgia,2022,Employed,"2,549,789",56.5%
+Hawaii,2022,Employed,"329,248",56.1%
+Idaho,2022,Employed,"422,902",55.6%
+Illinois,2022,Employed,"2,986,643",57.6%
+Indiana,2022,Employed,"1,577,003",56.9%
+Iowa,2022,Employed,"782,218",60.8%
+Kansas,2022,Employed,"683,617",58.6%
+Kentucky,2022,Employed,"978,990",53.0%
+Louisiana,2022,Employed,"999,866",52.9%
+Maine,2022,Employed,"342,040",57.3%
+Maryland,2022,Employed,"1,551,410",60.1%
+Massachusetts,2022,Employed,"1,816,966",60.8%
+Michigan,2022,Employed,"2,269,330",54.7%
+Minnesota,2022,Employed,"1,430,625",62.4%
+Mississippi,2022,Employed,"617,322",50.6%
+Missouri,2022,Employed,"1,439,900",56.6%
+Montana,2022,Employed,"264,065",58.3%
+Nebraska,2022,Employed,"478,767",61.8%
+Nevada,2022,Employed,"704,856",55.1%
+New Hampshire,2022,Employed,"357,033",60.4%
+New Jersey,2022,Employed,"2,216,469",57.7%
+New Mexico,2022,Employed,"448,016",51.6%
+New York,2022,Employed,"4,669,935",56.0%
+North Carolina,2022,Employed,"2,488,590",55.6%
+North Dakota,2022,Employed,"189,475",62.8%
+Ohio,2022,Employed,"2,751,696",56.8%
+Oklahoma,2022,Employed,"854,843",53.2%
+Oregon,2022,Employed,"995,115",56.3%
+Pennsylvania,2022,Employed,"3,061,595",56.2%
+Rhode Island,2022,Employed,"273,603",58.2%
+South Carolina,2022,Employed,"1,193,208",53.6%
+South Dakota,2022,Employed,"216,854",61.4%
+Tennessee,2022,Employed,"1,617,241",55.2%
+Texas,2022,Employed,"6,658,198",56.4%
+Utah,2022,Employed,"769,503",60.7%
+Vermont,2022,Employed,"169,567",61.1%
+Virginia,2022,Employed,"2,066,617",57.6%
+Washington,2022,Employed,"1,768,240",56.2%
+West Virginia,2022,Employed,"350,715",47.4%
+Wisconsin,2022,Employed,"1,438,115",59.7%
+Wyoming,2022,Employed,"134,453",58.8%
+Puerto Rico,2022,Employed,"558,669",37.7%
+United States,2022,All parents in family in labor force,"14,415,594",67.8%
+Alabama,2022,All parents in family in labor force,"213,806",66.2%
+Alaska,2022,All parents in family in labor force,"31,502",58.7%
+Arizona,2022,All parents in family in labor force,"288,402",63.1%
+Arkansas,2022,All parents in family in labor force,"127,988",63.1%
+California,2022,All parents in family in labor force,"1,617,412",66.2%
+Colorado,2022,All parents in family in labor force,"239,664",67.1%
+Connecticut,2022,All parents in family in labor force,"156,436",74.6%
+Delaware,2022,All parents in family in labor force,"48,162",77.4%
+District of Columbia,2022,All parents in family in labor force,"33,309",73.6%
+Florida,2022,All parents in family in labor force,"874,127",68.9%
+Georgia,2022,All parents in family in labor force,"500,492",70.3%
+Hawaii,2022,All parents in family in labor force,"59,705",68.4%
+Idaho,2022,All parents in family in labor force,"76,279",58.0%
+Illinois,2022,All parents in family in labor force,"558,101",71.1%
+Indiana,2022,All parents in family in labor force,"308,179",66.5%
+Iowa,2022,All parents in family in labor force,"163,732",76.8%
+Kansas,2022,All parents in family in labor force,"139,052",68.1%
+Kentucky,2022,All parents in family in labor force,"191,370",65.1%
+Louisiana,2022,All parents in family in labor force,"233,414",74.4%
+Maine,2022,All parents in family in labor force,"51,439",72.2%
+Maryland,2022,All parents in family in labor force,"299,416",73.6%
+Massachusetts,2022,All parents in family in labor force,"296,619",74.7%
+Michigan,2022,All parents in family in labor force,"413,244",66.3%
+Minnesota,2022,All parents in family in labor force,"285,657",73.6%
+Mississippi,2022,All parents in family in labor force,"133,091",69.5%
+Missouri,2022,All parents in family in labor force,"291,530",71.0%
+Montana,2022,All parents in family in labor force,"45,477",66.5%
+Nebraska,2022,All parents in family in labor force,"102,335",72.7%
+Nevada,2022,All parents in family in labor force,"134,984",67.2%
+New Hampshire,2022,All parents in family in labor force,"52,299",72.8%
+New Jersey,2022,All parents in family in labor force,"415,621",70.0%
+New Mexico,2022,All parents in family in labor force,"80,529",63.8%
+New York,2022,All parents in family in labor force,"833,827",69.4%
+North Carolina,2022,All parents in family in labor force,"456,819",67.3%
+North Dakota,2022,All parents in family in labor force,"39,065",71.2%
+Ohio,2022,All parents in family in labor force,"543,080",71.0%
+Oklahoma,2022,All parents in family in labor force,"177,967",64.5%
+Oregon,2022,All parents in family in labor force,"158,665",68.2%
+Pennsylvania,2022,All parents in family in labor force,"547,622",71.1%
+Rhode Island,2022,All parents in family in labor force,"44,736",74.2%
+South Carolina,2022,All parents in family in labor force,"223,819",68.9%
+South Dakota,2022,All parents in family in labor force,"49,914",76.3%
+Tennessee,2022,All parents in family in labor force,"291,661",64.8%
+Texas,2022,All parents in family in labor force,"1,365,640",61.8%
+Utah,2022,All parents in family in labor force,"147,525",54.6%
+Vermont,2022,All parents in family in labor force,"25,613",77.1%
+Virginia,2022,All parents in family in labor force,"386,761",69.6%
+Washington,2022,All parents in family in labor force,"307,678",62.6%
+West Virginia,2022,All parents in family in labor force,"62,485",64.4%
+Wisconsin,2022,All parents in family in labor force,"262,481",72.5%
+Wyoming,2022,All parents in family in labor force,"26,863",73.7%
+Puerto Rico,2022,All parents in family in labor force,"79,219",65.9%
+United States,2022,All parents in family in labor force,"34,449,052",72.7%
+Alabama,2022,All parents in family in labor force,"488,125",69.6%
+Alaska,2022,All parents in family in labor force,"80,272",71.2%
+Arizona,2022,All parents in family in labor force,"725,824",69.0%
+Arkansas,2022,All parents in family in labor force,"298,289",67.8%
+California,2022,All parents in family in labor force,"3,918,850",69.5%
+Colorado,2022,All parents in family in labor force,"597,303",74.2%
+Connecticut,2022,All parents in family in labor force,"379,941",77.1%
+Delaware,2022,All parents in family in labor force,"107,252",80.7%
+District of Columbia,2022,All parents in family in labor force,"49,480",66.9%
+Florida,2022,All parents in family in labor force,"2,070,530",74.3%
+Georgia,2022,All parents in family in labor force,"1,240,052",75.2%
+Hawaii,2022,All parents in family in labor force,"138,949",73.6%
+Idaho,2022,All parents in family in labor force,"207,247",66.1%
+Illinois,2022,All parents in family in labor force,"1,361,104",75.1%
+Indiana,2022,All parents in family in labor force,"755,887",73.6%
+Iowa,2022,All parents in family in labor force,"388,743",81.1%
+Kansas,2022,All parents in family in labor force,"344,028",75.3%
+Kentucky,2022,All parents in family in labor force,"446,718",70.9%
+Louisiana,2022,All parents in family in labor force,"515,899",76.1%
+Maine,2022,All parents in family in labor force,"119,864",74.8%
+Maryland,2022,All parents in family in labor force,"686,192",78.0%
+Massachusetts,2022,All parents in family in labor force,"696,944",78.6%
+Michigan,2022,All parents in family in labor force,"1,011,566",73.1%
+Minnesota,2022,All parents in family in labor force,"678,514",79.9%
+Mississippi,2022,All parents in family in labor force,"309,196",71.2%
+Missouri,2022,All parents in family in labor force,"660,399",76.0%
+Montana,2022,All parents in family in labor force,"114,625",76.5%
+Nebraska,2022,All parents in family in labor force,"245,590",78.3%
+Nevada,2022,All parents in family in labor force,"317,071",70.4%
+New Hampshire,2022,All parents in family in labor force,"134,464",80.1%
+New Jersey,2022,All parents in family in labor force,"988,751",74.5%
+New Mexico,2022,All parents in family in labor force,"206,189",69.2%
+New York,2022,All parents in family in labor force,"1,862,859",72.3%
+North Carolina,2022,All parents in family in labor force,"1,059,100",71.3%
+North Dakota,2022,All parents in family in labor force,"90,487",77.5%
+Ohio,2022,All parents in family in labor force,"1,234,394",74.7%
+Oklahoma,2022,All parents in family in labor force,"436,801",70.7%
+Oregon,2022,All parents in family in labor force,"399,774",71.8%
+Pennsylvania,2022,All parents in family in labor force,"1,284,708",74.5%
+Rhode Island,2022,All parents in family in labor force,"106,542",78.9%
+South Carolina,2022,All parents in family in labor force,"522,214",72.6%
+South Dakota,2022,All parents in family in labor force,"110,571",79.8%
+Tennessee,2022,All parents in family in labor force,"703,104",72.3%
+Texas,2022,All parents in family in labor force,"3,355,872",68.7%
+Utah,2022,All parents in family in labor force,"405,757",64.4%
+Vermont,2022,All parents in family in labor force,"61,672",82.5%
+Virginia,2022,All parents in family in labor force,"916,364",75.7%
+Washington,2022,All parents in family in labor force,"740,586",68.4%
+West Virginia,2022,All parents in family in labor force,"145,875",64.2%
+Wisconsin,2022,All parents in family in labor force,"659,197",79.4%
+Wyoming,2022,All parents in family in labor force,"69,317",79.5%
+Puerto Rico,2022,All parents in family in labor force,"258,181",68.5%
+United States,2023,In labor force,"173,038,795",63.8%
+Alabama,2023,In labor force,"2,410,315",58.6%
+Alaska,2023,In labor force,"385,948",66.8%
+Arizona,2023,In labor force,"3,674,799",60.7%
+Arkansas,2023,In labor force,"1,441,034",58.8%
+California,2023,In labor force,"20,298,562",64.3%
+Colorado,2023,In labor force,"3,322,899",69.0%
+Connecticut,2023,In labor force,"1,983,295",66.4%
+Delaware,2023,In labor force,"526,726",62.2%
+District of Columbia,2023,In labor force,"410,840",72.8%
+Florida,2023,In labor force,"11,267,928",60.0%
+Georgia,2023,In labor force,"5,652,842",64.1%
+Hawaii,2023,In labor force,"738,940",63.0%
+Idaho,2023,In labor force,"976,225",62.6%
+Illinois,2023,In labor force,"6,665,114",65.4%
+Indiana,2023,In labor force,"3,521,827",64.4%
+Iowa,2023,In labor force,"1,703,217",66.3%
+Kansas,2023,In labor force,"1,549,558",66.2%
+Kentucky,2023,In labor force,"2,190,697",60.3%
+Louisiana,2023,In labor force,"2,153,263",59.2%
+Maine,2023,In labor force,"733,298",62.1%
+Maryland,2023,In labor force,"3,360,696",67.5%
+Massachusetts,2023,In labor force,"3,917,076",67.2%
+Michigan,2023,In labor force,"5,053,867",61.7%
+Minnesota,2023,In labor force,"3,146,576",68.4%
+Mississippi,2023,In labor force,"1,355,540",57.6%
+Missouri,2023,In labor force,"3,195,524",63.9%
+Montana,2023,In labor force,"582,371",63.0%
+Nebraska,2023,In labor force,"1,075,249",69.0%
+Nevada,2023,In labor force,"1,646,984",63.5%
+New Hampshire,2023,In labor force,"787,493",66.5%
+New Jersey,2023,In labor force,"5,032,256",66.9%
+New Mexico,2023,In labor force,"1,010,975",58.6%
+New York,2023,In labor force,"10,132,536",63.0%
+North Carolina,2023,In labor force,"5,555,824",63.2%
+North Dakota,2023,In labor force,"432,302",69.4%
+Ohio,2023,In labor force,"6,042,703",63.5%
+Oklahoma,2023,In labor force,"1,958,603",61.2%
+Oregon,2023,In labor force,"2,193,069",62.6%
+Pennsylvania,2023,In labor force,"6,690,945",62.8%
+Rhode Island,2023,In labor force,"592,054",64.6%
+South Carolina,2023,In labor force,"2,671,185",61.1%
+South Dakota,2023,In labor force,"488,674",67.3%
+Tennessee,2023,In labor force,"3,603,424",62.7%
+Texas,2023,In labor force,"15,735,802",66.0%
+Utah,2023,In labor force,"1,825,335",70.2%
+Vermont,2023,In labor force,"355,375",64.9%
+Virginia,2023,In labor force,"4,611,949",65.3%
+Washington,2023,In labor force,"4,136,441",65.1%
+West Virginia,2023,In labor force,"795,817",54.4%
+Wisconsin,2023,In labor force,"3,146,602",65.2%
+Wyoming,2023,In labor force,"298,221",63.5%
+Puerto Rico,2023,In labor force,"1,307,588",47.1%
+United States,2023,Civilian labor force,"171,742,922",63.3%
+Alabama,2023,Civilian labor force,"2,394,000",58.2%
+Alaska,2023,Civilian labor force,"362,965",62.8%
+Arizona,2023,Civilian labor force,"3,648,728",60.3%
+Arkansas,2023,Civilian labor force,"1,435,261",58.5%
+California,2023,Civilian labor force,"20,137,422",63.8%
+Colorado,2023,Civilian labor force,"3,276,030",68.0%
+Connecticut,2023,Civilian labor force,"1,974,868",66.1%
+Delaware,2023,Civilian labor force,"522,421",61.7%
+District of Columbia,2023,Civilian labor force,"406,660",72.0%
+Florida,2023,Civilian labor force,"11,191,144",59.6%
+Georgia,2023,Civilian labor force,"5,593,945",63.4%
+Hawaii,2023,Civilian labor force,"692,259",59.0%
+Idaho,2023,Civilian labor force,"971,173",62.3%
+Illinois,2023,Civilian labor force,"6,642,661",65.2%
+Indiana,2023,Civilian labor force,"3,515,202",64.3%
+Iowa,2023,Civilian labor force,"1,701,453",66.2%
+Kansas,2023,Civilian labor force,"1,527,460",65.3%
+Kentucky,2023,Civilian labor force,"2,174,801",59.9%
+Louisiana,2023,Civilian labor force,"2,135,043",58.7%
+Maine,2023,Civilian labor force,"731,851",62.0%
+Maryland,2023,Civilian labor force,"3,326,225",66.8%
+Massachusetts,2023,Civilian labor force,"3,908,554",67.1%
+Michigan,2023,Civilian labor force,"5,048,334",61.7%
+Minnesota,2023,Civilian labor force,"3,143,975",68.3%
+Mississippi,2023,Civilian labor force,"1,343,059",57.1%
+Missouri,2023,Civilian labor force,"3,180,243",63.6%
+Montana,2023,Civilian labor force,"578,080",62.5%
+Nebraska,2023,Civilian labor force,"1,069,514",68.6%
+Nevada,2023,Civilian labor force,"1,631,003",62.9%
+New Hampshire,2023,Civilian labor force,"786,023",66.4%
+New Jersey,2023,Civilian labor force,"5,023,152",66.8%
+New Mexico,2023,Civilian labor force,"995,436",57.7%
+New York,2023,Civilian labor force,"10,107,326",62.8%
+North Carolina,2023,Civilian labor force,"5,449,906",62.0%
+North Dakota,2023,Civilian labor force,"422,155",67.8%
+Ohio,2023,Civilian labor force,"6,027,500",63.3%
+Oklahoma,2023,Civilian labor force,"1,936,559",60.5%
+Oregon,2023,Civilian labor force,"2,190,250",62.5%
+Pennsylvania,2023,Civilian labor force,"6,683,272",62.7%
+Rhode Island,2023,Civilian labor force,"587,754",64.1%
+South Carolina,2023,Civilian labor force,"2,629,504",60.2%
+South Dakota,2023,Civilian labor force,"485,323",66.9%
+Tennessee,2023,Civilian labor force,"3,584,501",62.4%
+Texas,2023,Civilian labor force,"15,612,815",65.4%
+Utah,2023,Civilian labor force,"1,818,709",69.9%
+Vermont,2023,Civilian labor force,"355,022",64.9%
+Virginia,2023,Civilian labor force,"4,482,631",63.4%
+Washington,2023,Civilian labor force,"4,069,534",64.0%
+West Virginia,2023,Civilian labor force,"793,158",54.2%
+Wisconsin,2023,Civilian labor force,"3,143,490",65.2%
+Wyoming,2023,Civilian labor force,"294,568",62.8%
+Puerto Rico,2023,Civilian labor force,"1,305,263",47.0%
+United States,2023,Employed,"164,346,993",60.6%
+Alabama,2023,Employed,"2,297,941",55.8%
+Alaska,2023,Employed,"345,460",59.8%
+Arizona,2023,Employed,"3,493,543",57.8%
+Arkansas,2023,Employed,"1,375,551",56.1%
+California,2023,Employed,"19,026,566",60.2%
+Colorado,2023,Employed,"3,151,694",65.4%
+Connecticut,2023,Employed,"1,884,125",63.1%
+Delaware,2023,Employed,"504,329",59.6%
+District of Columbia,2023,Employed,"385,274",68.2%
+Florida,2023,Employed,"10,731,195",57.2%
+Georgia,2023,Employed,"5,346,554",60.6%
+Hawaii,2023,Employed,"667,835",57.0%
+Idaho,2023,Employed,"936,279",60.1%
+Illinois,2023,Employed,"6,329,130",62.1%
+Indiana,2023,Employed,"3,387,230",61.9%
+Iowa,2023,Employed,"1,654,280",64.4%
+Kansas,2023,Employed,"1,477,593",63.2%
+Kentucky,2023,Employed,"2,085,354",57.4%
+Louisiana,2023,Employed,"2,030,949",55.9%
+Maine,2023,Employed,"708,660",60.0%
+Maryland,2023,Employed,"3,194,028",64.1%
+Massachusetts,2023,Employed,"3,754,447",64.4%
+Michigan,2023,Employed,"4,822,997",58.9%
+Minnesota,2023,Employed,"3,048,320",66.2%
+Mississippi,2023,Employed,"1,278,422",54.3%
+Missouri,2023,Employed,"3,071,350",61.5%
+Montana,2023,Employed,"562,372",60.8%
+Nebraska,2023,Employed,"1,041,138",66.8%
+Nevada,2023,Employed,"1,556,587",60.0%
+New Hampshire,2023,Employed,"765,872",64.7%
+New Jersey,2023,Employed,"4,785,505",63.6%
+New Mexico,2023,Employed,"947,670",55.0%
+New York,2023,Employed,"9,600,693",59.7%
+North Carolina,2023,Employed,"5,230,146",59.5%
+North Dakota,2023,Employed,"410,066",65.9%
+Ohio,2023,Employed,"5,784,101",60.8%
+Oklahoma,2023,Employed,"1,847,746",57.7%
+Oregon,2023,Employed,"2,099,913",59.9%
+Pennsylvania,2023,Employed,"6,400,011",60.0%
+Rhode Island,2023,Employed,"559,742",61.0%
+South Carolina,2023,Employed,"2,516,719",57.6%
+South Dakota,2023,Employed,"472,581",65.1%
+Tennessee,2023,Employed,"3,442,420",59.9%
+Texas,2023,Employed,"14,926,761",62.6%
+Utah,2023,Employed,"1,758,060",67.6%
+Vermont,2023,Employed,"345,752",63.2%
+Virginia,2023,Employed,"4,318,000",61.1%
+Washington,2023,Employed,"3,887,150",61.1%
+West Virginia,2023,Employed,"757,305",51.7%
+Wisconsin,2023,Employed,"3,056,531",63.4%
+Wyoming,2023,Employed,"285,046",60.7%
+Puerto Rico,2023,Employed,"1,185,629",42.7%
+United States,2023,Unemployed,"7,395,929",2.7%
+Alabama,2023,Unemployed,"96,059",2.3%
+Alaska,2023,Unemployed,"17,505",3.0%
+Arizona,2023,Unemployed,"155,185",2.6%
+Arkansas,2023,Unemployed,"59,710",2.4%
+California,2023,Unemployed,"1,110,856",3.5%
+Colorado,2023,Unemployed,"124,336",2.6%
+Connecticut,2023,Unemployed,"90,743",3.0%
+Delaware,2023,Unemployed,"18,092",2.1%
+District of Columbia,2023,Unemployed,"21,386",3.8%
+Florida,2023,Unemployed,"459,949",2.5%
+Georgia,2023,Unemployed,"247,391",2.8%
+Hawaii,2023,Unemployed,"24,424",2.1%
+Idaho,2023,Unemployed,"34,894",2.2%
+Illinois,2023,Unemployed,"313,531",3.1%
+Indiana,2023,Unemployed,"127,972",2.3%
+Iowa,2023,Unemployed,"47,173",1.8%
+Kansas,2023,Unemployed,"49,867",2.1%
+Kentucky,2023,Unemployed,"89,447",2.5%
+Louisiana,2023,Unemployed,"104,094",2.9%
+Maine,2023,Unemployed,"23,191",2.0%
+Maryland,2023,Unemployed,"132,197",2.7%
+Massachusetts,2023,Unemployed,"154,107",2.6%
+Michigan,2023,Unemployed,"225,337",2.8%
+Minnesota,2023,Unemployed,"95,655",2.1%
+Mississippi,2023,Unemployed,"64,637",2.7%
+Missouri,2023,Unemployed,"108,893",2.2%
+Montana,2023,Unemployed,"15,708",1.7%
+Nebraska,2023,Unemployed,"28,376",1.8%
+Nevada,2023,Unemployed,"74,416",2.9%
+New Hampshire,2023,Unemployed,"20,151",1.7%
+New Jersey,2023,Unemployed,"237,647",3.2%
+New Mexico,2023,Unemployed,"47,766",2.8%
+New York,2023,Unemployed,"506,633",3.1%
+North Carolina,2023,Unemployed,"219,760",2.5%
+North Dakota,2023,Unemployed,"12,089",1.9%
+Ohio,2023,Unemployed,"243,399",2.6%
+Oklahoma,2023,Unemployed,"88,813",2.8%
+Oregon,2023,Unemployed,"90,337",2.6%
+Pennsylvania,2023,Unemployed,"283,261",2.7%
+Rhode Island,2023,Unemployed,"28,012",3.1%
+South Carolina,2023,Unemployed,"112,785",2.6%
+South Dakota,2023,Unemployed,"12,742",1.8%
+Tennessee,2023,Unemployed,"142,081",2.5%
+Texas,2023,Unemployed,"686,054",2.9%
+Utah,2023,Unemployed,"60,649",2.3%
+Vermont,2023,Unemployed,"9,270",1.7%
+Virginia,2023,Unemployed,"164,631",2.3%
+Washington,2023,Unemployed,"182,384",2.9%
+West Virginia,2023,Unemployed,"35,853",2.4%
+Wisconsin,2023,Unemployed,"86,959",1.8%
+Wyoming,2023,Unemployed,"9,522",2.0%
+Puerto Rico,2023,Unemployed,"119,634",4.3%
+United States,2023,Armed Forces,"1,295,873",0.5%
+Alabama,2023,Armed Forces,"16,315",0.4%
+Alaska,2023,Armed Forces,"22,983",4.0%
+Arizona,2023,Armed Forces,"26,071",0.4%
+Arkansas,2023,Armed Forces,"5,773",0.2%
+California,2023,Armed Forces,"161,140",0.5%
+Colorado,2023,Armed Forces,"46,869",1.0%
+Connecticut,2023,Armed Forces,"8,427",0.3%
+Delaware,2023,Armed Forces,"4,305",0.5%
+District of Columbia,2023,Armed Forces,"4,180",0.7%
+Florida,2023,Armed Forces,"76,784",0.4%
+Georgia,2023,Armed Forces,"58,897",0.7%
+Hawaii,2023,Armed Forces,"46,681",4.0%
+Idaho,2023,Armed Forces,"5,052",0.3%
+Illinois,2023,Armed Forces,"22,453",0.2%
+Indiana,2023,Armed Forces,"6,625",0.1%
+Iowa,2023,Armed Forces,"1,764",0.1%
+Kansas,2023,Armed Forces,"22,098",0.9%
+Kentucky,2023,Armed Forces,"15,896",0.4%
+Louisiana,2023,Armed Forces,"18,220",0.5%
+Maine,2023,Armed Forces,"1,447",0.1%
+Maryland,2023,Armed Forces,"34,471",0.7%
+Massachusetts,2023,Armed Forces,"8,522",0.1%
+Michigan,2023,Armed Forces,"5,533",0.1%
+Minnesota,2023,Armed Forces,"2,601",0.1%
+Mississippi,2023,Armed Forces,"12,481",0.5%
+Missouri,2023,Armed Forces,"15,281",0.3%
+Montana,2023,Armed Forces,"4,291",0.5%
+Nebraska,2023,Armed Forces,"5,735",0.4%
+Nevada,2023,Armed Forces,"15,981",0.6%
+New Hampshire,2023,Armed Forces,"1,470",0.1%
+New Jersey,2023,Armed Forces,"9,104",0.1%
+New Mexico,2023,Armed Forces,"15,539",0.9%
+New York,2023,Armed Forces,"25,210",0.2%
+North Carolina,2023,Armed Forces,"105,918",1.2%
+North Dakota,2023,Armed Forces,"10,147",1.6%
+Ohio,2023,Armed Forces,"15,203",0.2%
+Oklahoma,2023,Armed Forces,"22,044",0.7%
+Oregon,2023,Armed Forces,"2,819",0.1%
+Pennsylvania,2023,Armed Forces,"7,673",0.1%
+Rhode Island,2023,Armed Forces,"4,300",0.5%
+South Carolina,2023,Armed Forces,"41,681",1.0%
+South Dakota,2023,Armed Forces,"3,351",0.5%
+Tennessee,2023,Armed Forces,"18,923",0.3%
+Texas,2023,Armed Forces,"122,987",0.5%
+Utah,2023,Armed Forces,"6,626",0.3%
+Vermont,2023,Armed Forces,353,0.1%
+Virginia,2023,Armed Forces,"129,318",1.8%
+Washington,2023,Armed Forces,"66,907",1.1%
+West Virginia,2023,Armed Forces,"2,659",0.2%
+Wisconsin,2023,Armed Forces,"3,112",0.1%
+Wyoming,2023,Armed Forces,"3,653",0.8%
+Puerto Rico,2023,Armed Forces,"2,325",0.1%
+United States,2023,Not in labor force,"98,083,934",36.2%
+Alabama,2023,Not in labor force,"1,704,964",41.4%
+Alaska,2023,Not in labor force,"191,650",33.2%
+Arizona,2023,Not in labor force,"2,374,310",39.3%
+Arkansas,2023,Not in labor force,"1,011,739",41.2%
+California,2023,Not in labor force,"11,285,778",35.7%
+Colorado,2023,Not in labor force,"1,495,145",31.0%
+Connecticut,2023,Not in labor force,"1,003,923",33.6%
+Delaware,2023,Not in labor force,"319,688",37.8%
+District of Columbia,2023,Not in labor force,"153,703",27.2%
+Florida,2023,Not in labor force,"7,500,532",40.0%
+Georgia,2023,Not in labor force,"3,166,025",35.9%
+Hawaii,2023,Not in labor force,"433,417",37.0%
+Idaho,2023,Not in labor force,"582,088",37.4%
+Illinois,2023,Not in labor force,"3,527,065",34.6%
+Indiana,2023,Not in labor force,"1,948,926",35.6%
+Iowa,2023,Not in labor force,"867,370",33.7%
+Kansas,2023,Not in labor force,"789,958",33.8%
+Kentucky,2023,Not in labor force,"1,442,967",39.7%
+Louisiana,2023,Not in labor force,"1,481,874",40.8%
+Maine,2023,Not in labor force,"447,385",37.9%
+Maryland,2023,Not in labor force,"1,618,856",32.5%
+Massachusetts,2023,Not in labor force,"1,911,099",32.8%
+Michigan,2023,Not in labor force,"3,132,428",38.3%
+Minnesota,2023,Not in labor force,"1,455,867",31.6%
+Mississippi,2023,Not in labor force,"998,599",42.4%
+Missouri,2023,Not in labor force,"1,801,486",36.1%
+Montana,2023,Not in labor force,"342,498",37.0%
+Nebraska,2023,Not in labor force,"482,757",31.0%
+Nevada,2023,Not in labor force,"947,295",36.5%
+New Hampshire,2023,Not in labor force,"397,103",33.5%
+New Jersey,2023,Not in labor force,"2,487,926",33.1%
+New Mexico,2023,Not in labor force,"712,963",41.4%
+New York,2023,Not in labor force,"5,952,494",37.0%
+North Carolina,2023,Not in labor force,"3,236,606",36.8%
+North Dakota,2023,Not in labor force,"190,198",30.6%
+Ohio,2023,Not in labor force,"3,477,595",36.5%
+Oklahoma,2023,Not in labor force,"1,243,136",38.8%
+Oregon,2023,Not in labor force,"1,312,998",37.4%
+Pennsylvania,2023,Not in labor force,"3,967,690",37.2%
+Rhode Island,2023,Not in labor force,"324,934",35.4%
+South Carolina,2023,Not in labor force,"1,699,541",38.9%
+South Dakota,2023,Not in labor force,"237,114",32.7%
+Tennessee,2023,Not in labor force,"2,144,441",37.3%
+Texas,2023,Not in labor force,"8,121,460",34.0%
+Utah,2023,Not in labor force,"775,615",29.8%
+Vermont,2023,Not in labor force,"191,911",35.1%
+Virginia,2023,Not in labor force,"2,454,478",34.7%
+Washington,2023,Not in labor force,"2,220,667",34.9%
+West Virginia,2023,Not in labor force,"668,239",45.6%
+Wisconsin,2023,Not in labor force,"1,676,299",34.8%
+Wyoming,2023,Not in labor force,"171,134",36.5%
+Puerto Rico,2023,Not in labor force,"1,469,472",52.9%
+United States,2023,Civilian labor force,"171,742,922","171,742,922"
+Alabama,2023,Civilian labor force,"2,394,000","2,394,000"
+Alaska,2023,Civilian labor force,"362,965","362,965"
+Arizona,2023,Civilian labor force,"3,648,728","3,648,728"
+Arkansas,2023,Civilian labor force,"1,435,261","1,435,261"
+California,2023,Civilian labor force,"20,137,422","20,137,422"
+Colorado,2023,Civilian labor force,"3,276,030","3,276,030"
+Connecticut,2023,Civilian labor force,"1,974,868","1,974,868"
+Delaware,2023,Civilian labor force,"522,421","522,421"
+District of Columbia,2023,Civilian labor force,"406,660","406,660"
+Florida,2023,Civilian labor force,"11,191,144","11,191,144"
+Georgia,2023,Civilian labor force,"5,593,945","5,593,945"
+Hawaii,2023,Civilian labor force,"692,259","692,259"
+Idaho,2023,Civilian labor force,"971,173","971,173"
+Illinois,2023,Civilian labor force,"6,642,661","6,642,661"
+Indiana,2023,Civilian labor force,"3,515,202","3,515,202"
+Iowa,2023,Civilian labor force,"1,701,453","1,701,453"
+Kansas,2023,Civilian labor force,"1,527,460","1,527,460"
+Kentucky,2023,Civilian labor force,"2,174,801","2,174,801"
+Louisiana,2023,Civilian labor force,"2,135,043","2,135,043"
+Maine,2023,Civilian labor force,"731,851","731,851"
+Maryland,2023,Civilian labor force,"3,326,225","3,326,225"
+Massachusetts,2023,Civilian labor force,"3,908,554","3,908,554"
+Michigan,2023,Civilian labor force,"5,048,334","5,048,334"
+Minnesota,2023,Civilian labor force,"3,143,975","3,143,975"
+Mississippi,2023,Civilian labor force,"1,343,059","1,343,059"
+Missouri,2023,Civilian labor force,"3,180,243","3,180,243"
+Montana,2023,Civilian labor force,"578,080","578,080"
+Nebraska,2023,Civilian labor force,"1,069,514","1,069,514"
+Nevada,2023,Civilian labor force,"1,631,003","1,631,003"
+New Hampshire,2023,Civilian labor force,"786,023","786,023"
+New Jersey,2023,Civilian labor force,"5,023,152","5,023,152"
+New Mexico,2023,Civilian labor force,"995,436","995,436"
+New York,2023,Civilian labor force,"10,107,326","10,107,326"
+North Carolina,2023,Civilian labor force,"5,449,906","5,449,906"
+North Dakota,2023,Civilian labor force,"422,155","422,155"
+Ohio,2023,Civilian labor force,"6,027,500","6,027,500"
+Oklahoma,2023,Civilian labor force,"1,936,559","1,936,559"
+Oregon,2023,Civilian labor force,"2,190,250","2,190,250"
+Pennsylvania,2023,Civilian labor force,"6,683,272","6,683,272"
+Rhode Island,2023,Civilian labor force,"587,754","587,754"
+South Carolina,2023,Civilian labor force,"2,629,504","2,629,504"
+South Dakota,2023,Civilian labor force,"485,323","485,323"
+Tennessee,2023,Civilian labor force,"3,584,501","3,584,501"
+Texas,2023,Civilian labor force,"15,612,815","15,612,815"
+Utah,2023,Civilian labor force,"1,818,709","1,818,709"
+Vermont,2023,Civilian labor force,"355,022","355,022"
+Virginia,2023,Civilian labor force,"4,482,631","4,482,631"
+Washington,2023,Civilian labor force,"4,069,534","4,069,534"
+West Virginia,2023,Civilian labor force,"793,158","793,158"
+Wisconsin,2023,Civilian labor force,"3,143,490","3,143,490"
+Wyoming,2023,Civilian labor force,"294,568","294,568"
+Puerto Rico,2023,Civilian labor force,"1,305,263","1,305,263"
+United States,2023,Unemployment Rate,(X),4.3%
+Alabama,2023,Unemployment Rate,(X),4.0%
+Alaska,2023,Unemployment Rate,(X),4.8%
+Arizona,2023,Unemployment Rate,(X),4.3%
+Arkansas,2023,Unemployment Rate,(X),4.2%
+California,2023,Unemployment Rate,(X),5.5%
+Colorado,2023,Unemployment Rate,(X),3.8%
+Connecticut,2023,Unemployment Rate,(X),4.6%
+Delaware,2023,Unemployment Rate,(X),3.5%
+District of Columbia,2023,Unemployment Rate,(X),5.3%
+Florida,2023,Unemployment Rate,(X),4.1%
+Georgia,2023,Unemployment Rate,(X),4.4%
+Hawaii,2023,Unemployment Rate,(X),3.5%
+Idaho,2023,Unemployment Rate,(X),3.6%
+Illinois,2023,Unemployment Rate,(X),4.7%
+Indiana,2023,Unemployment Rate,(X),3.6%
+Iowa,2023,Unemployment Rate,(X),2.8%
+Kansas,2023,Unemployment Rate,(X),3.3%
+Kentucky,2023,Unemployment Rate,(X),4.1%
+Louisiana,2023,Unemployment Rate,(X),4.9%
+Maine,2023,Unemployment Rate,(X),3.2%
+Maryland,2023,Unemployment Rate,(X),4.0%
+Massachusetts,2023,Unemployment Rate,(X),3.9%
+Michigan,2023,Unemployment Rate,(X),4.5%
+Minnesota,2023,Unemployment Rate,(X),3.0%
+Mississippi,2023,Unemployment Rate,(X),4.8%
+Missouri,2023,Unemployment Rate,(X),3.4%
+Montana,2023,Unemployment Rate,(X),2.7%
+Nebraska,2023,Unemployment Rate,(X),2.7%
+Nevada,2023,Unemployment Rate,(X),4.6%
+New Hampshire,2023,Unemployment Rate,(X),2.6%
+New Jersey,2023,Unemployment Rate,(X),4.7%
+New Mexico,2023,Unemployment Rate,(X),4.8%
+New York,2023,Unemployment Rate,(X),5.0%
+North Carolina,2023,Unemployment Rate,(X),4.0%
+North Dakota,2023,Unemployment Rate,(X),2.9%
+Ohio,2023,Unemployment Rate,(X),4.0%
+Oklahoma,2023,Unemployment Rate,(X),4.6%
+Oregon,2023,Unemployment Rate,(X),4.1%
+Pennsylvania,2023,Unemployment Rate,(X),4.2%
+Rhode Island,2023,Unemployment Rate,(X),4.8%
+South Carolina,2023,Unemployment Rate,(X),4.3%
+South Dakota,2023,Unemployment Rate,(X),2.6%
+Tennessee,2023,Unemployment Rate,(X),4.0%
+Texas,2023,Unemployment Rate,(X),4.4%
+Utah,2023,Unemployment Rate,(X),3.3%
+Vermont,2023,Unemployment Rate,(X),2.6%
+Virginia,2023,Unemployment Rate,(X),3.7%
+Washington,2023,Unemployment Rate,(X),4.5%
+West Virginia,2023,Unemployment Rate,(X),4.5%
+Wisconsin,2023,Unemployment Rate,(X),2.8%
+Wyoming,2023,Unemployment Rate,(X),3.2%
+Puerto Rico,2023,Unemployment Rate,(X),9.2%
+United States,2023,Females 16 years and over,"138,069,531","138,069,531"
+Alabama,2023,Females 16 years and over,"2,145,250","2,145,250"
+Alaska,2023,Females 16 years and over,"273,563","273,563"
+Arizona,2023,Females 16 years and over,"3,046,429","3,046,429"
+Arkansas,2023,Females 16 years and over,"1,256,209","1,256,209"
+California,2023,Females 16 years and over,"15,919,050","15,919,050"
+Colorado,2023,Females 16 years and over,"2,382,125","2,382,125"
+Connecticut,2023,Females 16 years and over,"1,534,471","1,534,471"
+Delaware,2023,Females 16 years and over,"441,183","441,183"
+District of Columbia,2023,Females 16 years and over,"300,488","300,488"
+Florida,2023,Females 16 years and over,"9,628,103","9,628,103"
+Georgia,2023,Females 16 years and over,"4,570,414","4,570,414"
+Hawaii,2023,Females 16 years and over,"588,159","588,159"
+Idaho,2023,Females 16 years and over,"779,230","779,230"
+Illinois,2023,Females 16 years and over,"5,202,173","5,202,173"
+Indiana,2023,Females 16 years and over,"2,777,493","2,777,493"
+Iowa,2023,Females 16 years and over,"1,291,155","1,291,155"
+Kansas,2023,Females 16 years and over,"1,171,112","1,171,112"
+Kentucky,2023,Females 16 years and over,"1,848,012","1,848,012"
+Louisiana,2023,Females 16 years and over,"1,884,285","1,884,285"
+Maine,2023,Females 16 years and over,"605,316","605,316"
+Maryland,2023,Females 16 years and over,"2,591,602","2,591,602"
+Massachusetts,2023,Females 16 years and over,"3,007,412","3,007,412"
+Michigan,2023,Females 16 years and over,"4,162,479","4,162,479"
+Minnesota,2023,Females 16 years and over,"2,311,724","2,311,724"
+Mississippi,2023,Females 16 years and over,"1,226,156","1,226,156"
+Missouri,2023,Females 16 years and over,"2,558,011","2,558,011"
+Montana,2023,Females 16 years and over,"458,282","458,282"
+Nebraska,2023,Females 16 years and over,"781,831","781,831"
+Nevada,2023,Females 16 years and over,"1,294,059","1,294,059"
+New Hampshire,2023,Females 16 years and over,"597,185","597,185"
+New Jersey,2023,Females 16 years and over,"3,850,944","3,850,944"
+New Mexico,2023,Females 16 years and over,"873,484","873,484"
+New York,2023,Females 16 years and over,"8,315,945","8,315,945"
+North Carolina,2023,Females 16 years and over,"4,541,095","4,541,095"
+North Dakota,2023,Females 16 years and over,"304,072","304,072"
+Ohio,2023,Females 16 years and over,"4,865,747","4,865,747"
+Oklahoma,2023,Females 16 years and over,"1,621,077","1,621,077"
+Oregon,2023,Females 16 years and over,"1,771,789","1,771,789"
+Pennsylvania,2023,Females 16 years and over,"5,450,273","5,450,273"
+Rhode Island,2023,Females 16 years and over,"472,651","472,651"
+South Carolina,2023,Females 16 years and over,"2,273,615","2,273,615"
+South Dakota,2023,Females 16 years and over,"360,114","360,114"
+Tennessee,2023,Females 16 years and over,"2,964,263","2,964,263"
+Texas,2023,Females 16 years and over,"12,033,590","12,033,590"
+Utah,2023,Females 16 years and over,"1,291,084","1,291,084"
+Vermont,2023,Females 16 years and over,"276,185","276,185"
+Virginia,2023,Females 16 years and over,"3,607,923","3,607,923"
+Washington,2023,Females 16 years and over,"3,170,977","3,170,977"
+West Virginia,2023,Females 16 years and over,"739,194","739,194"
+Wisconsin,2023,Females 16 years and over,"2,421,170","2,421,170"
+Wyoming,2023,Females 16 years and over,"231,378","231,378"
+Puerto Rico,2023,Females 16 years and over,"1,479,683","1,479,683"
+United States,2023,In labor force,"81,979,611",59.4%
+Alabama,2023,In labor force,"1,164,403",54.3%
+Alaska,2023,In labor force,"171,197",62.6%
+Arizona,2023,In labor force,"1,711,238",56.2%
+Arkansas,2023,In labor force,"681,497",54.3%
+California,2023,In labor force,"9,385,715",59.0%
+Colorado,2023,In labor force,"1,542,032",64.7%
+Connecticut,2023,In labor force,"963,310",62.8%
+Delaware,2023,In labor force,"259,271",58.8%
+District of Columbia,2023,In labor force,"212,690",70.8%
+Florida,2023,In labor force,"5,369,715",55.8%
+Georgia,2023,In labor force,"2,724,546",59.6%
+Hawaii,2023,In labor force,"348,069",59.2%
+Idaho,2023,In labor force,"448,429",57.5%
+Illinois,2023,In labor force,"3,189,987",61.3%
+Indiana,2023,In labor force,"1,658,530",59.7%
+Iowa,2023,In labor force,"809,000",62.7%
+Kansas,2023,In labor force,"720,324",61.5%
+Kentucky,2023,In labor force,"1,038,273",56.2%
+Louisiana,2023,In labor force,"1,051,897",55.8%
+Maine,2023,In labor force,"352,789",58.3%
+Maryland,2023,In labor force,"1,646,424",63.5%
+Massachusetts,2023,In labor force,"1,916,537",63.7%
+Michigan,2023,In labor force,"2,417,173",58.1%
+Minnesota,2023,In labor force,"1,502,374",65.0%
+Mississippi,2023,In labor force,"668,442",54.5%
+Missouri,2023,In labor force,"1,542,392",60.3%
+Montana,2023,In labor force,"271,438",59.2%
+Nebraska,2023,In labor force,"506,165",64.7%
+Nevada,2023,In labor force,"762,954",59.0%
+New Hampshire,2023,In labor force,"375,293",62.8%
+New Jersey,2023,In labor force,"2,394,450",62.2%
+New Mexico,2023,In labor force,"474,385",54.3%
+New York,2023,In labor force,"4,927,987",59.3%
+North Carolina,2023,In labor force,"2,658,043",58.5%
+North Dakota,2023,In labor force,"198,790",65.4%
+Ohio,2023,In labor force,"2,898,764",59.6%
+Oklahoma,2023,In labor force,"908,806",56.1%
+Oregon,2023,In labor force,"1,031,965",58.2%
+Pennsylvania,2023,In labor force,"3,195,660",58.6%
+Rhode Island,2023,In labor force,"282,799",59.8%
+South Carolina,2023,In labor force,"1,294,654",56.9%
+South Dakota,2023,In labor force,"230,580",64.0%
+Tennessee,2023,In labor force,"1,718,161",58.0%
+Texas,2023,In labor force,"7,238,913",60.2%
+Utah,2023,In labor force,"821,786",63.7%
+Vermont,2023,In labor force,"173,760",62.9%
+Virginia,2023,In labor force,"2,200,847",61.0%
+Washington,2023,In labor force,"1,898,609",59.9%
+West Virginia,2023,In labor force,"379,295",51.3%
+Wisconsin,2023,In labor force,"1,502,676",62.1%
+Wyoming,2023,In labor force,"136,577",59.0%
+Puerto Rico,2023,In labor force,"633,249",42.8%
+United States,2023,Civilian labor force,"81,760,798",59.2%
+Alabama,2023,Civilian labor force,"1,161,912",54.2%
+Alaska,2023,Civilian labor force,"167,816",61.3%
+Arizona,2023,Civilian labor force,"1,707,785",56.1%
+Arkansas,2023,Civilian labor force,"680,589",54.2%
+California,2023,Civilian labor force,"9,358,980",58.8%
+Colorado,2023,Civilian labor force,"1,535,901",64.5%
+Connecticut,2023,Civilian labor force,"962,451",62.7%
+Delaware,2023,Civilian labor force,"258,176",58.5%
+District of Columbia,2023,Civilian labor force,"211,647",70.4%
+Florida,2023,Civilian labor force,"5,356,504",55.6%
+Georgia,2023,Civilian labor force,"2,714,901",59.4%
+Hawaii,2023,Civilian labor force,"341,385",58.0%
+Idaho,2023,Civilian labor force,"447,196",57.4%
+Illinois,2023,Civilian labor force,"3,185,375",61.2%
+Indiana,2023,Civilian labor force,"1,657,843",59.7%
+Iowa,2023,Civilian labor force,"808,635",62.6%
+Kansas,2023,Civilian labor force,"716,660",61.2%
+Kentucky,2023,Civilian labor force,"1,036,456",56.1%
+Louisiana,2023,Civilian labor force,"1,048,907",55.7%
+Maine,2023,Civilian labor force,"352,606",58.3%
+Maryland,2023,Civilian labor force,"1,639,273",63.3%
+Massachusetts,2023,Civilian labor force,"1,915,126",63.7%
+Michigan,2023,Civilian labor force,"2,415,985",58.0%
+Minnesota,2023,Civilian labor force,"1,502,056",65.0%
+Mississippi,2023,Civilian labor force,"665,294",54.3%
+Missouri,2023,Civilian labor force,"1,539,324",60.2%
+Montana,2023,Civilian labor force,"270,678",59.1%
+Nebraska,2023,Civilian labor force,"505,283",64.6%
+Nevada,2023,Civilian labor force,"759,241",58.7%
+New Hampshire,2023,Civilian labor force,"375,221",62.8%
+New Jersey,2023,Civilian labor force,"2,393,258",62.1%
+New Mexico,2023,Civilian labor force,"471,266",54.0%
+New York,2023,Civilian labor force,"4,923,928",59.2%
+North Carolina,2023,Civilian labor force,"2,643,976",58.2%
+North Dakota,2023,Civilian labor force,"197,759",65.0%
+Ohio,2023,Civilian labor force,"2,894,178",59.5%
+Oklahoma,2023,Civilian labor force,"905,963",55.9%
+Oregon,2023,Civilian labor force,"1,031,691",58.2%
+Pennsylvania,2023,Civilian labor force,"3,193,984",58.6%
+Rhode Island,2023,Civilian labor force,"282,103",59.7%
+South Carolina,2023,Civilian labor force,"1,286,820",56.6%
+South Dakota,2023,Civilian labor force,"230,320",64.0%
+Tennessee,2023,Civilian labor force,"1,714,760",57.8%
+Texas,2023,Civilian labor force,"7,216,469",60.0%
+Utah,2023,Civilian labor force,"821,131",63.6%
+Vermont,2023,Civilian labor force,"173,688",62.9%
+Virginia,2023,Civilian labor force,"2,176,235",60.3%
+Washington,2023,Civilian labor force,"1,886,762",59.5%
+West Virginia,2023,Civilian labor force,"378,784",51.2%
+Wisconsin,2023,Civilian labor force,"1,502,130",62.0%
+Wyoming,2023,Civilian labor force,"136,387",58.9%
+Puerto Rico,2023,Civilian labor force,"633,070",42.8%
+United States,2023,Employed,"78,266,177",56.7%
+Alabama,2023,Employed,"1,116,213",52.0%
+Alaska,2023,Employed,"160,371",58.6%
+Arizona,2023,Employed,"1,627,295",53.4%
+Arkansas,2023,Employed,"654,797",52.1%
+California,2023,Employed,"8,852,741",55.6%
+Colorado,2023,Employed,"1,475,341",61.9%
+Connecticut,2023,Employed,"919,020",59.9%
+Delaware,2023,Employed,"249,416",56.5%
+District of Columbia,2023,Employed,"201,466",67.0%
+Florida,2023,Employed,"5,118,680",53.2%
+Georgia,2023,Employed,"2,596,629",56.8%
+Hawaii,2023,Employed,"330,536",56.2%
+Idaho,2023,Employed,"430,784",55.3%
+Illinois,2023,Employed,"3,035,213",58.3%
+Indiana,2023,Employed,"1,596,826",57.5%
+Iowa,2023,Employed,"790,232",61.2%
+Kansas,2023,Employed,"697,181",59.5%
+Kentucky,2023,Employed,"992,025",53.7%
+Louisiana,2023,Employed,"998,099",53.0%
+Maine,2023,Employed,"340,589",56.3%
+Maryland,2023,Employed,"1,578,121",60.9%
+Massachusetts,2023,Employed,"1,847,272",61.4%
+Michigan,2023,Employed,"2,312,782",55.6%
+Minnesota,2023,Employed,"1,460,572",63.2%
+Mississippi,2023,Employed,"631,918",51.5%
+Missouri,2023,Employed,"1,489,129",58.2%
+Montana,2023,Employed,"263,618",57.5%
+Nebraska,2023,Employed,"491,118",62.8%
+Nevada,2023,Employed,"723,752",55.9%
+New Hampshire,2023,Employed,"366,428",61.4%
+New Jersey,2023,Employed,"2,277,875",59.2%
+New Mexico,2023,Employed,"450,148",51.5%
+New York,2023,Employed,"4,689,308",56.4%
+North Carolina,2023,Employed,"2,539,825",55.9%
+North Dakota,2023,Employed,"191,391",62.9%
+Ohio,2023,Employed,"2,782,164",57.2%
+Oklahoma,2023,Employed,"862,972",53.2%
+Oregon,2023,Employed,"993,594",56.1%
+Pennsylvania,2023,Employed,"3,066,619",56.3%
+Rhode Island,2023,Employed,"268,242",56.8%
+South Carolina,2023,Employed,"1,232,723",54.2%
+South Dakota,2023,Employed,"222,814",61.9%
+Tennessee,2023,Employed,"1,642,929",55.4%
+Texas,2023,Employed,"6,880,425",57.2%
+Utah,2023,Employed,"791,650",61.3%
+Vermont,2023,Employed,"168,954",61.2%
+Virginia,2023,Employed,"2,094,108",58.0%
+Washington,2023,Employed,"1,804,034",56.9%
+West Virginia,2023,Employed,"362,356",49.0%
+Wisconsin,2023,Employed,"1,464,849",60.5%
+Wyoming,2023,Employed,"131,033",56.6%
+Puerto Rico,2023,Employed,"573,609",38.8%
+United States,2023,All parents in family in labor force,"14,666,286",69.3%
+Alabama,2023,All parents in family in labor force,"221,459",66.2%
+Alaska,2023,All parents in family in labor force,"32,088",61.5%
+Arizona,2023,All parents in family in labor force,"294,911",65.2%
+Arkansas,2023,All parents in family in labor force,"136,908",67.0%
+California,2023,All parents in family in labor force,"1,634,025",67.9%
+Colorado,2023,All parents in family in labor force,"250,885",70.3%
+Connecticut,2023,All parents in family in labor force,"159,304",75.4%
+Delaware,2023,All parents in family in labor force,"46,771",75.7%
+District of Columbia,2023,All parents in family in labor force,"37,412",84.3%
+Florida,2023,All parents in family in labor force,"896,165",69.2%
+Georgia,2023,All parents in family in labor force,"505,798",70.4%
+Hawaii,2023,All parents in family in labor force,"61,141",71.4%
+Idaho,2023,All parents in family in labor force,"80,683",61.0%
+Illinois,2023,All parents in family in labor force,"570,551",73.9%
+Indiana,2023,All parents in family in labor force,"317,931",68.1%
+Iowa,2023,All parents in family in labor force,"160,831",74.9%
+Kansas,2023,All parents in family in labor force,"139,095",70.6%
+Kentucky,2023,All parents in family in labor force,"204,483",68.4%
+Louisiana,2023,All parents in family in labor force,"223,617",70.7%
+Maine,2023,All parents in family in labor force,"48,922",70.0%
+Maryland,2023,All parents in family in labor force,"302,676",75.2%
+Massachusetts,2023,All parents in family in labor force,"301,591",75.7%
+Michigan,2023,All parents in family in labor force,"425,053",69.2%
+Minnesota,2023,All parents in family in labor force,"286,896",75.6%
+Mississippi,2023,All parents in family in labor force,"128,403",69.4%
+Missouri,2023,All parents in family in labor force,"287,250",71.4%
+Montana,2023,All parents in family in labor force,"42,731",68.1%
+Nebraska,2023,All parents in family in labor force,"103,863",74.4%
+Nevada,2023,All parents in family in labor force,"130,002",65.0%
+New Hampshire,2023,All parents in family in labor force,"54,097",74.5%
+New Jersey,2023,All parents in family in labor force,"447,918",74.1%
+New Mexico,2023,All parents in family in labor force,"80,160",66.0%
+New York,2023,All parents in family in labor force,"833,613",70.8%
+North Carolina,2023,All parents in family in labor force,"470,494",68.9%
+North Dakota,2023,All parents in family in labor force,"40,813",75.9%
+Ohio,2023,All parents in family in labor force,"533,100",70.6%
+Oklahoma,2023,All parents in family in labor force,"177,287",64.2%
+Oregon,2023,All parents in family in labor force,"159,850",68.5%
+Pennsylvania,2023,All parents in family in labor force,"552,561",71.6%
+Rhode Island,2023,All parents in family in labor force,"44,378",68.8%
+South Carolina,2023,All parents in family in labor force,"219,324",67.4%
+South Dakota,2023,All parents in family in labor force,"48,150",75.6%
+Tennessee,2023,All parents in family in labor force,"301,993",64.3%
+Texas,2023,All parents in family in labor force,"1,437,092",65.4%
+Utah,2023,All parents in family in labor force,"167,116",61.0%
+Vermont,2023,All parents in family in labor force,"23,659",75.1%
+Virginia,2023,All parents in family in labor force,"379,275",69.8%
+Washington,2023,All parents in family in labor force,"310,199",63.6%
+West Virginia,2023,All parents in family in labor force,"64,775",65.8%
+Wisconsin,2023,All parents in family in labor force,"263,469",73.2%
+Wyoming,2023,All parents in family in labor force,"25,518",71.3%
+Puerto Rico,2023,All parents in family in labor force,"79,558",68.0%
+United States,2023,All parents in family in labor force,"35,166,631",73.8%
+Alabama,2023,All parents in family in labor force,"512,018",71.4%
+Alaska,2023,All parents in family in labor force,"77,946",69.1%
+Arizona,2023,All parents in family in labor force,"731,051",69.9%
+Arkansas,2023,All parents in family in labor force,"319,032",71.6%
+California,2023,All parents in family in labor force,"3,987,403",70.7%
+Colorado,2023,All parents in family in labor force,"611,863",76.3%
+Connecticut,2023,All parents in family in labor force,"378,941",78.2%
+Delaware,2023,All parents in family in labor force,"112,444",82.4%
+District of Columbia,2023,All parents in family in labor force,"60,446",80.9%
+Florida,2023,All parents in family in labor force,"2,100,215",73.7%
+Georgia,2023,All parents in family in labor force,"1,218,728",73.6%
+Hawaii,2023,All parents in family in labor force,"140,635",75.4%
+Idaho,2023,All parents in family in labor force,"216,826",68.0%
+Illinois,2023,All parents in family in labor force,"1,373,127",76.1%
+Indiana,2023,All parents in family in labor force,"767,570",74.9%
+Iowa,2023,All parents in family in labor force,"385,949",80.3%
+Kansas,2023,All parents in family in labor force,"356,729",77.7%
+Kentucky,2023,All parents in family in labor force,"458,239",71.7%
+Louisiana,2023,All parents in family in labor force,"496,613",73.9%
+Maine,2023,All parents in family in labor force,"123,241",74.7%
+Maryland,2023,All parents in family in labor force,"722,250",80.9%
+Massachusetts,2023,All parents in family in labor force,"703,925",79.2%
+Michigan,2023,All parents in family in labor force,"1,034,160",74.1%
+Minnesota,2023,All parents in family in labor force,"704,584",81.0%
+Mississippi,2023,All parents in family in labor force,"314,215",71.6%
+Missouri,2023,All parents in family in labor force,"672,551",76.0%
+Montana,2023,All parents in family in labor force,"122,132",77.0%
+Nebraska,2023,All parents in family in labor force,"257,611",80.5%
+Nevada,2023,All parents in family in labor force,"320,127",70.8%
+New Hampshire,2023,All parents in family in labor force,"129,823",77.5%
+New Jersey,2023,All parents in family in labor force,"1,021,185",76.8%
+New Mexico,2023,All parents in family in labor force,"212,777",71.0%
+New York,2023,All parents in family in labor force,"1,887,073",74.1%
+North Carolina,2023,All parents in family in labor force,"1,102,939",73.2%
+North Dakota,2023,All parents in family in labor force,"94,402",81.2%
+Ohio,2023,All parents in family in labor force,"1,276,774",76.6%
+Oklahoma,2023,All parents in family in labor force,"438,367",70.1%
+Oregon,2023,All parents in family in labor force,"408,138",72.7%
+Pennsylvania,2023,All parents in family in labor force,"1,306,844",76.4%
+Rhode Island,2023,All parents in family in labor force,"96,819",75.2%
+South Carolina,2023,All parents in family in labor force,"535,119",72.2%
+South Dakota,2023,All parents in family in labor force,"115,492",80.4%
+Tennessee,2023,All parents in family in labor force,"694,776",70.7%
+Texas,2023,All parents in family in labor force,"3,489,800",70.4%
+Utah,2023,All parents in family in labor force,"426,218",67.8%
+Vermont,2023,All parents in family in labor force,"63,787",82.5%
+Virginia,2023,All parents in family in labor force,"933,777",75.8%
+Washington,2023,All parents in family in labor force,"769,972",71.0%
+West Virginia,2023,All parents in family in labor force,"157,486",70.1%
+Wisconsin,2023,All parents in family in labor force,"657,601",78.8%
+Wyoming,2023,All parents in family in labor force,"66,891",76.3%
+Puerto Rico,2023,All parents in family in labor force,"255,980",70.8%
