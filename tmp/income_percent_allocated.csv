@@ -1,0 +1,478 @@
+state_id,year_id,indicator,Households_Estimate,Families_Estimate,Married-couple families_Estimate,Nonfamily households_Estimate
+United States,2021,Household income in the past 12 months,36.5%,(X),(X),(X)
+Alabama,2021,Household income in the past 12 months,38.3%,(X),(X),(X)
+Alaska,2021,Household income in the past 12 months,34.3%,(X),(X),(X)
+Arizona,2021,Household income in the past 12 months,37.5%,(X),(X),(X)
+Arkansas,2021,Household income in the past 12 months,38.2%,(X),(X),(X)
+California,2021,Household income in the past 12 months,38.5%,(X),(X),(X)
+Colorado,2021,Household income in the past 12 months,33.8%,(X),(X),(X)
+Connecticut,2021,Household income in the past 12 months,37.2%,(X),(X),(X)
+Delaware,2021,Household income in the past 12 months,40.1%,(X),(X),(X)
+District of Columbia,2021,Household income in the past 12 months,30.0%,(X),(X),(X)
+Florida,2021,Household income in the past 12 months,39.2%,(X),(X),(X)
+Georgia,2021,Household income in the past 12 months,38.6%,(X),(X),(X)
+Hawaii,2021,Household income in the past 12 months,40.3%,(X),(X),(X)
+Idaho,2021,Household income in the past 12 months,31.3%,(X),(X),(X)
+Illinois,2021,Household income in the past 12 months,36.9%,(X),(X),(X)
+Indiana,2021,Household income in the past 12 months,34.4%,(X),(X),(X)
+Iowa,2021,Household income in the past 12 months,33.3%,(X),(X),(X)
+Kansas,2021,Household income in the past 12 months,32.8%,(X),(X),(X)
+Kentucky,2021,Household income in the past 12 months,34.3%,(X),(X),(X)
+Louisiana,2021,Household income in the past 12 months,40.1%,(X),(X),(X)
+Maine,2021,Household income in the past 12 months,31.0%,(X),(X),(X)
+Maryland,2021,Household income in the past 12 months,35.7%,(X),(X),(X)
+Massachusetts,2021,Household income in the past 12 months,39.1%,(X),(X),(X)
+Michigan,2021,Household income in the past 12 months,35.4%,(X),(X),(X)
+Minnesota,2021,Household income in the past 12 months,31.2%,(X),(X),(X)
+Mississippi,2021,Household income in the past 12 months,39.5%,(X),(X),(X)
+Missouri,2021,Household income in the past 12 months,33.5%,(X),(X),(X)
+Montana,2021,Household income in the past 12 months,34.1%,(X),(X),(X)
+Nebraska,2021,Household income in the past 12 months,33.8%,(X),(X),(X)
+Nevada,2021,Household income in the past 12 months,38.4%,(X),(X),(X)
+New Hampshire,2021,Household income in the past 12 months,32.2%,(X),(X),(X)
+New Jersey,2021,Household income in the past 12 months,39.0%,(X),(X),(X)
+New Mexico,2021,Household income in the past 12 months,33.8%,(X),(X),(X)
+New York,2021,Household income in the past 12 months,42.1%,(X),(X),(X)
+North Carolina,2021,Household income in the past 12 months,35.9%,(X),(X),(X)
+North Dakota,2021,Household income in the past 12 months,35.5%,(X),(X),(X)
+Ohio,2021,Household income in the past 12 months,32.9%,(X),(X),(X)
+Oklahoma,2021,Household income in the past 12 months,36.7%,(X),(X),(X)
+Oregon,2021,Household income in the past 12 months,30.9%,(X),(X),(X)
+Pennsylvania,2021,Household income in the past 12 months,36.7%,(X),(X),(X)
+Rhode Island,2021,Household income in the past 12 months,40.0%,(X),(X),(X)
+South Carolina,2021,Household income in the past 12 months,39.6%,(X),(X),(X)
+South Dakota,2021,Household income in the past 12 months,31.0%,(X),(X),(X)
+Tennessee,2021,Household income in the past 12 months,36.3%,(X),(X),(X)
+Texas,2021,Household income in the past 12 months,36.1%,(X),(X),(X)
+Utah,2021,Household income in the past 12 months,31.4%,(X),(X),(X)
+Vermont,2021,Household income in the past 12 months,31.7%,(X),(X),(X)
+Virginia,2021,Household income in the past 12 months,35.0%,(X),(X),(X)
+Washington,2021,Household income in the past 12 months,30.2%,(X),(X),(X)
+West Virginia,2021,Household income in the past 12 months,34.1%,(X),(X),(X)
+Wisconsin,2021,Household income in the past 12 months,32.3%,(X),(X),(X)
+Wyoming,2021,Household income in the past 12 months,31.3%,(X),(X),(X)
+Puerto Rico,2021,Household income in the past 12 months,34.3%,(X),(X),(X)
+United States,2021,Family income in the past 12 months,(X),37.7%,(X),(X)
+Alabama,2021,Family income in the past 12 months,(X),39.5%,(X),(X)
+Alaska,2021,Family income in the past 12 months,(X),35.8%,(X),(X)
+Arizona,2021,Family income in the past 12 months,(X),39.1%,(X),(X)
+Arkansas,2021,Family income in the past 12 months,(X),38.7%,(X),(X)
+California,2021,Family income in the past 12 months,(X),39.9%,(X),(X)
+Colorado,2021,Family income in the past 12 months,(X),34.4%,(X),(X)
+Connecticut,2021,Family income in the past 12 months,(X),38.5%,(X),(X)
+Delaware,2021,Family income in the past 12 months,(X),40.2%,(X),(X)
+District of Columbia,2021,Family income in the past 12 months,(X),35.5%,(X),(X)
+Florida,2021,Family income in the past 12 months,(X),40.2%,(X),(X)
+Georgia,2021,Family income in the past 12 months,(X),40.0%,(X),(X)
+Hawaii,2021,Family income in the past 12 months,(X),41.7%,(X),(X)
+Idaho,2021,Family income in the past 12 months,(X),31.3%,(X),(X)
+Illinois,2021,Family income in the past 12 months,(X),38.6%,(X),(X)
+Indiana,2021,Family income in the past 12 months,(X),34.9%,(X),(X)
+Iowa,2021,Family income in the past 12 months,(X),33.1%,(X),(X)
+Kansas,2021,Family income in the past 12 months,(X),33.2%,(X),(X)
+Kentucky,2021,Family income in the past 12 months,(X),35.1%,(X),(X)
+Louisiana,2021,Family income in the past 12 months,(X),41.4%,(X),(X)
+Maine,2021,Family income in the past 12 months,(X),31.0%,(X),(X)
+Maryland,2021,Family income in the past 12 months,(X),37.0%,(X),(X)
+Massachusetts,2021,Family income in the past 12 months,(X),40.8%,(X),(X)
+Michigan,2021,Family income in the past 12 months,(X),36.0%,(X),(X)
+Minnesota,2021,Family income in the past 12 months,(X),31.3%,(X),(X)
+Mississippi,2021,Family income in the past 12 months,(X),41.0%,(X),(X)
+Missouri,2021,Family income in the past 12 months,(X),34.4%,(X),(X)
+Montana,2021,Family income in the past 12 months,(X),34.2%,(X),(X)
+Nebraska,2021,Family income in the past 12 months,(X),34.1%,(X),(X)
+Nevada,2021,Family income in the past 12 months,(X),40.0%,(X),(X)
+New Hampshire,2021,Family income in the past 12 months,(X),32.5%,(X),(X)
+New Jersey,2021,Family income in the past 12 months,(X),40.5%,(X),(X)
+New Mexico,2021,Family income in the past 12 months,(X),35.3%,(X),(X)
+New York,2021,Family income in the past 12 months,(X),44.8%,(X),(X)
+North Carolina,2021,Family income in the past 12 months,(X),36.9%,(X),(X)
+North Dakota,2021,Family income in the past 12 months,(X),35.8%,(X),(X)
+Ohio,2021,Family income in the past 12 months,(X),33.7%,(X),(X)
+Oklahoma,2021,Family income in the past 12 months,(X),37.7%,(X),(X)
+Oregon,2021,Family income in the past 12 months,(X),31.0%,(X),(X)
+Pennsylvania,2021,Family income in the past 12 months,(X),37.5%,(X),(X)
+Rhode Island,2021,Family income in the past 12 months,(X),41.6%,(X),(X)
+South Carolina,2021,Family income in the past 12 months,(X),40.1%,(X),(X)
+South Dakota,2021,Family income in the past 12 months,(X),31.4%,(X),(X)
+Tennessee,2021,Family income in the past 12 months,(X),37.0%,(X),(X)
+Texas,2021,Family income in the past 12 months,(X),37.9%,(X),(X)
+Utah,2021,Family income in the past 12 months,(X),30.9%,(X),(X)
+Vermont,2021,Family income in the past 12 months,(X),31.5%,(X),(X)
+Virginia,2021,Family income in the past 12 months,(X),35.8%,(X),(X)
+Washington,2021,Family income in the past 12 months,(X),30.5%,(X),(X)
+West Virginia,2021,Family income in the past 12 months,(X),35.3%,(X),(X)
+Wisconsin,2021,Family income in the past 12 months,(X),32.3%,(X),(X)
+Wyoming,2021,Family income in the past 12 months,(X),31.5%,(X),(X)
+Puerto Rico,2021,Family income in the past 12 months,(X),36.9%,(X),(X)
+United States,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.8%
+Alabama,2021,Nonfamily income in the past 12 months,(X),(X),(X),34.9%
+Alaska,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.0%
+Arizona,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.7%
+Arkansas,2021,Nonfamily income in the past 12 months,(X),(X),(X),35.9%
+California,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.2%
+Colorado,2021,Nonfamily income in the past 12 months,(X),(X),(X),31.3%
+Connecticut,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.2%
+Delaware,2021,Nonfamily income in the past 12 months,(X),(X),(X),38.3%
+District of Columbia,2021,Nonfamily income in the past 12 months,(X),(X),(X),25.3%
+Florida,2021,Nonfamily income in the past 12 months,(X),(X),(X),35.7%
+Georgia,2021,Nonfamily income in the past 12 months,(X),(X),(X),34.2%
+Hawaii,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.8%
+Idaho,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.6%
+Illinois,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.8%
+Indiana,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.1%
+Iowa,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.2%
+Kansas,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Kentucky,2021,Nonfamily income in the past 12 months,(X),(X),(X),31.5%
+Louisiana,2021,Nonfamily income in the past 12 months,(X),(X),(X),36.3%
+Maine,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.8%
+Maryland,2021,Nonfamily income in the past 12 months,(X),(X),(X),31.6%
+Massachusetts,2021,Nonfamily income in the past 12 months,(X),(X),(X),34.7%
+Michigan,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.9%
+Minnesota,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.5%
+Mississippi,2021,Nonfamily income in the past 12 months,(X),(X),(X),35.0%
+Missouri,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.7%
+Montana,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.8%
+Nebraska,2021,Nonfamily income in the past 12 months,(X),(X),(X),31.9%
+Nevada,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.7%
+New Hampshire,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.9%
+New Jersey,2021,Nonfamily income in the past 12 months,(X),(X),(X),34.0%
+New Mexico,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.8%
+New York,2021,Nonfamily income in the past 12 months,(X),(X),(X),36.1%
+North Carolina,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.7%
+North Dakota,2021,Nonfamily income in the past 12 months,(X),(X),(X),34.0%
+Ohio,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.2%
+Oklahoma,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.5%
+Oregon,2021,Nonfamily income in the past 12 months,(X),(X),(X),28.9%
+Pennsylvania,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.9%
+Rhode Island,2021,Nonfamily income in the past 12 months,(X),(X),(X),36.0%
+South Carolina,2021,Nonfamily income in the past 12 months,(X),(X),(X),37.4%
+South Dakota,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.2%
+Tennessee,2021,Nonfamily income in the past 12 months,(X),(X),(X),33.4%
+Texas,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.7%
+Utah,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.2%
+Vermont,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.4%
+Virginia,2021,Nonfamily income in the past 12 months,(X),(X),(X),32.0%
+Washington,2021,Nonfamily income in the past 12 months,(X),(X),(X),27.7%
+West Virginia,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.5%
+Wisconsin,2021,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Wyoming,2021,Nonfamily income in the past 12 months,(X),(X),(X),29.6%
+Puerto Rico,2021,Nonfamily income in the past 12 months,(X),(X),(X),27.2%
+United States,2022,Household income in the past 12 months,37.0%,(X),(X),(X)
+Alabama,2022,Household income in the past 12 months,38.6%,(X),(X),(X)
+Alaska,2022,Household income in the past 12 months,35.1%,(X),(X),(X)
+Arizona,2022,Household income in the past 12 months,38.0%,(X),(X),(X)
+Arkansas,2022,Household income in the past 12 months,38.7%,(X),(X),(X)
+California,2022,Household income in the past 12 months,39.2%,(X),(X),(X)
+Colorado,2022,Household income in the past 12 months,34.0%,(X),(X),(X)
+Connecticut,2022,Household income in the past 12 months,38.0%,(X),(X),(X)
+Delaware,2022,Household income in the past 12 months,38.6%,(X),(X),(X)
+District of Columbia,2022,Household income in the past 12 months,29.4%,(X),(X),(X)
+Florida,2022,Household income in the past 12 months,39.3%,(X),(X),(X)
+Georgia,2022,Household income in the past 12 months,39.5%,(X),(X),(X)
+Hawaii,2022,Household income in the past 12 months,40.1%,(X),(X),(X)
+Idaho,2022,Household income in the past 12 months,32.3%,(X),(X),(X)
+Illinois,2022,Household income in the past 12 months,37.5%,(X),(X),(X)
+Indiana,2022,Household income in the past 12 months,35.0%,(X),(X),(X)
+Iowa,2022,Household income in the past 12 months,33.4%,(X),(X),(X)
+Kansas,2022,Household income in the past 12 months,33.7%,(X),(X),(X)
+Kentucky,2022,Household income in the past 12 months,34.4%,(X),(X),(X)
+Louisiana,2022,Household income in the past 12 months,40.6%,(X),(X),(X)
+Maine,2022,Household income in the past 12 months,31.6%,(X),(X),(X)
+Maryland,2022,Household income in the past 12 months,36.2%,(X),(X),(X)
+Massachusetts,2022,Household income in the past 12 months,39.1%,(X),(X),(X)
+Michigan,2022,Household income in the past 12 months,36.0%,(X),(X),(X)
+Minnesota,2022,Household income in the past 12 months,31.7%,(X),(X),(X)
+Mississippi,2022,Household income in the past 12 months,40.2%,(X),(X),(X)
+Missouri,2022,Household income in the past 12 months,33.7%,(X),(X),(X)
+Montana,2022,Household income in the past 12 months,34.1%,(X),(X),(X)
+Nebraska,2022,Household income in the past 12 months,34.1%,(X),(X),(X)
+Nevada,2022,Household income in the past 12 months,38.8%,(X),(X),(X)
+New Hampshire,2022,Household income in the past 12 months,32.7%,(X),(X),(X)
+New Jersey,2022,Household income in the past 12 months,39.3%,(X),(X),(X)
+New Mexico,2022,Household income in the past 12 months,34.5%,(X),(X),(X)
+New York,2022,Household income in the past 12 months,42.7%,(X),(X),(X)
+North Carolina,2022,Household income in the past 12 months,36.4%,(X),(X),(X)
+North Dakota,2022,Household income in the past 12 months,35.4%,(X),(X),(X)
+Ohio,2022,Household income in the past 12 months,33.2%,(X),(X),(X)
+Oklahoma,2022,Household income in the past 12 months,37.3%,(X),(X),(X)
+Oregon,2022,Household income in the past 12 months,31.1%,(X),(X),(X)
+Pennsylvania,2022,Household income in the past 12 months,36.9%,(X),(X),(X)
+Rhode Island,2022,Household income in the past 12 months,40.5%,(X),(X),(X)
+South Carolina,2022,Household income in the past 12 months,39.9%,(X),(X),(X)
+South Dakota,2022,Household income in the past 12 months,31.7%,(X),(X),(X)
+Tennessee,2022,Household income in the past 12 months,36.9%,(X),(X),(X)
+Texas,2022,Household income in the past 12 months,36.7%,(X),(X),(X)
+Utah,2022,Household income in the past 12 months,32.4%,(X),(X),(X)
+Vermont,2022,Household income in the past 12 months,32.1%,(X),(X),(X)
+Virginia,2022,Household income in the past 12 months,35.6%,(X),(X),(X)
+Washington,2022,Household income in the past 12 months,30.9%,(X),(X),(X)
+West Virginia,2022,Household income in the past 12 months,33.9%,(X),(X),(X)
+Wisconsin,2022,Household income in the past 12 months,32.4%,(X),(X),(X)
+Wyoming,2022,Household income in the past 12 months,31.3%,(X),(X),(X)
+Puerto Rico,2022,Household income in the past 12 months,35.1%,(X),(X),(X)
+United States,2022,Family income in the past 12 months,(X),38.4%,(X),(X)
+Alabama,2022,Family income in the past 12 months,(X),40.1%,(X),(X)
+Alaska,2022,Family income in the past 12 months,(X),36.8%,(X),(X)
+Arizona,2022,Family income in the past 12 months,(X),39.7%,(X),(X)
+Arkansas,2022,Family income in the past 12 months,(X),39.6%,(X),(X)
+California,2022,Family income in the past 12 months,(X),40.8%,(X),(X)
+Colorado,2022,Family income in the past 12 months,(X),35.0%,(X),(X)
+Connecticut,2022,Family income in the past 12 months,(X),39.4%,(X),(X)
+Delaware,2022,Family income in the past 12 months,(X),39.5%,(X),(X)
+District of Columbia,2022,Family income in the past 12 months,(X),35.6%,(X),(X)
+Florida,2022,Family income in the past 12 months,(X),40.6%,(X),(X)
+Georgia,2022,Family income in the past 12 months,(X),41.2%,(X),(X)
+Hawaii,2022,Family income in the past 12 months,(X),41.6%,(X),(X)
+Idaho,2022,Family income in the past 12 months,(X),32.4%,(X),(X)
+Illinois,2022,Family income in the past 12 months,(X),39.5%,(X),(X)
+Indiana,2022,Family income in the past 12 months,(X),35.8%,(X),(X)
+Iowa,2022,Family income in the past 12 months,(X),33.4%,(X),(X)
+Kansas,2022,Family income in the past 12 months,(X),34.3%,(X),(X)
+Kentucky,2022,Family income in the past 12 months,(X),35.4%,(X),(X)
+Louisiana,2022,Family income in the past 12 months,(X),42.0%,(X),(X)
+Maine,2022,Family income in the past 12 months,(X),31.7%,(X),(X)
+Maryland,2022,Family income in the past 12 months,(X),37.7%,(X),(X)
+Massachusetts,2022,Family income in the past 12 months,(X),41.0%,(X),(X)
+Michigan,2022,Family income in the past 12 months,(X),36.8%,(X),(X)
+Minnesota,2022,Family income in the past 12 months,(X),32.0%,(X),(X)
+Mississippi,2022,Family income in the past 12 months,(X),42.0%,(X),(X)
+Missouri,2022,Family income in the past 12 months,(X),34.6%,(X),(X)
+Montana,2022,Family income in the past 12 months,(X),34.3%,(X),(X)
+Nebraska,2022,Family income in the past 12 months,(X),34.7%,(X),(X)
+Nevada,2022,Family income in the past 12 months,(X),40.5%,(X),(X)
+New Hampshire,2022,Family income in the past 12 months,(X),33.1%,(X),(X)
+New Jersey,2022,Family income in the past 12 months,(X),41.1%,(X),(X)
+New Mexico,2022,Family income in the past 12 months,(X),36.3%,(X),(X)
+New York,2022,Family income in the past 12 months,(X),45.6%,(X),(X)
+North Carolina,2022,Family income in the past 12 months,(X),37.5%,(X),(X)
+North Dakota,2022,Family income in the past 12 months,(X),36.1%,(X),(X)
+Ohio,2022,Family income in the past 12 months,(X),34.1%,(X),(X)
+Oklahoma,2022,Family income in the past 12 months,(X),38.4%,(X),(X)
+Oregon,2022,Family income in the past 12 months,(X),31.3%,(X),(X)
+Pennsylvania,2022,Family income in the past 12 months,(X),38.1%,(X),(X)
+Rhode Island,2022,Family income in the past 12 months,(X),41.9%,(X),(X)
+South Carolina,2022,Family income in the past 12 months,(X),40.6%,(X),(X)
+South Dakota,2022,Family income in the past 12 months,(X),32.1%,(X),(X)
+Tennessee,2022,Family income in the past 12 months,(X),37.7%,(X),(X)
+Texas,2022,Family income in the past 12 months,(X),38.7%,(X),(X)
+Utah,2022,Family income in the past 12 months,(X),31.9%,(X),(X)
+Vermont,2022,Family income in the past 12 months,(X),31.9%,(X),(X)
+Virginia,2022,Family income in the past 12 months,(X),36.7%,(X),(X)
+Washington,2022,Family income in the past 12 months,(X),31.5%,(X),(X)
+West Virginia,2022,Family income in the past 12 months,(X),35.6%,(X),(X)
+Wisconsin,2022,Family income in the past 12 months,(X),32.8%,(X),(X)
+Wyoming,2022,Family income in the past 12 months,(X),32.0%,(X),(X)
+Puerto Rico,2022,Family income in the past 12 months,(X),37.8%,(X),(X)
+United States,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.9%
+Alabama,2022,Nonfamily income in the past 12 months,(X),(X),(X),34.7%
+Alaska,2022,Nonfamily income in the past 12 months,(X),(X),(X),29.4%
+Arizona,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.9%
+Arkansas,2022,Nonfamily income in the past 12 months,(X),(X),(X),35.8%
+California,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.4%
+Colorado,2022,Nonfamily income in the past 12 months,(X),(X),(X),31.0%
+Connecticut,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.8%
+Delaware,2022,Nonfamily income in the past 12 months,(X),(X),(X),35.6%
+District of Columbia,2022,Nonfamily income in the past 12 months,(X),(X),(X),24.4%
+Florida,2022,Nonfamily income in the past 12 months,(X),(X),(X),35.3%
+Georgia,2022,Nonfamily income in the past 12 months,(X),(X),(X),34.8%
+Hawaii,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.7%
+Idaho,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.4%
+Illinois,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.9%
+Indiana,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.2%
+Iowa,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.0%
+Kansas,2022,Nonfamily income in the past 12 months,(X),(X),(X),31.4%
+Kentucky,2022,Nonfamily income in the past 12 months,(X),(X),(X),31.3%
+Louisiana,2022,Nonfamily income in the past 12 months,(X),(X),(X),36.8%
+Maine,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.1%
+Maryland,2022,Nonfamily income in the past 12 months,(X),(X),(X),31.9%
+Massachusetts,2022,Nonfamily income in the past 12 months,(X),(X),(X),34.5%
+Michigan,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.3%
+Minnesota,2022,Nonfamily income in the past 12 months,(X),(X),(X),29.9%
+Mississippi,2022,Nonfamily income in the past 12 months,(X),(X),(X),35.3%
+Missouri,2022,Nonfamily income in the past 12 months,(X),(X),(X),31.1%
+Montana,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.6%
+Nebraska,2022,Nonfamily income in the past 12 months,(X),(X),(X),31.6%
+Nevada,2022,Nonfamily income in the past 12 months,(X),(X),(X),34.0%
+New Hampshire,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.3%
+New Jersey,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.9%
+New Mexico,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.1%
+New York,2022,Nonfamily income in the past 12 months,(X),(X),(X),36.4%
+North Carolina,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.0%
+North Dakota,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.3%
+Ohio,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.3%
+Oklahoma,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.9%
+Oregon,2022,Nonfamily income in the past 12 months,(X),(X),(X),28.9%
+Pennsylvania,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.7%
+Rhode Island,2022,Nonfamily income in the past 12 months,(X),(X),(X),36.8%
+South Carolina,2022,Nonfamily income in the past 12 months,(X),(X),(X),37.3%
+South Dakota,2022,Nonfamily income in the past 12 months,(X),(X),(X),29.8%
+Tennessee,2022,Nonfamily income in the past 12 months,(X),(X),(X),33.9%
+Texas,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Utah,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Vermont,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.8%
+Virginia,2022,Nonfamily income in the past 12 months,(X),(X),(X),32.3%
+Washington,2022,Nonfamily income in the past 12 months,(X),(X),(X),28.1%
+West Virginia,2022,Nonfamily income in the past 12 months,(X),(X),(X),29.7%
+Wisconsin,2022,Nonfamily income in the past 12 months,(X),(X),(X),30.7%
+Wyoming,2022,Nonfamily income in the past 12 months,(X),(X),(X),28.8%
+Puerto Rico,2022,Nonfamily income in the past 12 months,(X),(X),(X),27.8%
+United States,2023,Household income in the past 12 months,37.4%,(X),(X),(X)
+Alabama,2023,Household income in the past 12 months,39.1%,(X),(X),(X)
+Alaska,2023,Household income in the past 12 months,35.7%,(X),(X),(X)
+Arizona,2023,Household income in the past 12 months,38.2%,(X),(X),(X)
+Arkansas,2023,Household income in the past 12 months,39.1%,(X),(X),(X)
+California,2023,Household income in the past 12 months,39.6%,(X),(X),(X)
+Colorado,2023,Household income in the past 12 months,34.2%,(X),(X),(X)
+Connecticut,2023,Household income in the past 12 months,38.6%,(X),(X),(X)
+Delaware,2023,Household income in the past 12 months,36.4%,(X),(X),(X)
+District of Columbia,2023,Household income in the past 12 months,30.3%,(X),(X),(X)
+Florida,2023,Household income in the past 12 months,39.4%,(X),(X),(X)
+Georgia,2023,Household income in the past 12 months,40.6%,(X),(X),(X)
+Hawaii,2023,Household income in the past 12 months,39.6%,(X),(X),(X)
+Idaho,2023,Household income in the past 12 months,33.0%,(X),(X),(X)
+Illinois,2023,Household income in the past 12 months,38.2%,(X),(X),(X)
+Indiana,2023,Household income in the past 12 months,35.4%,(X),(X),(X)
+Iowa,2023,Household income in the past 12 months,33.2%,(X),(X),(X)
+Kansas,2023,Household income in the past 12 months,34.1%,(X),(X),(X)
+Kentucky,2023,Household income in the past 12 months,34.6%,(X),(X),(X)
+Louisiana,2023,Household income in the past 12 months,40.9%,(X),(X),(X)
+Maine,2023,Household income in the past 12 months,32.5%,(X),(X),(X)
+Maryland,2023,Household income in the past 12 months,36.8%,(X),(X),(X)
+Massachusetts,2023,Household income in the past 12 months,39.6%,(X),(X),(X)
+Michigan,2023,Household income in the past 12 months,36.4%,(X),(X),(X)
+Minnesota,2023,Household income in the past 12 months,32.1%,(X),(X),(X)
+Mississippi,2023,Household income in the past 12 months,40.8%,(X),(X),(X)
+Missouri,2023,Household income in the past 12 months,34.1%,(X),(X),(X)
+Montana,2023,Household income in the past 12 months,34.3%,(X),(X),(X)
+Nebraska,2023,Household income in the past 12 months,34.0%,(X),(X),(X)
+Nevada,2023,Household income in the past 12 months,38.9%,(X),(X),(X)
+New Hampshire,2023,Household income in the past 12 months,33.0%,(X),(X),(X)
+New Jersey,2023,Household income in the past 12 months,39.6%,(X),(X),(X)
+New Mexico,2023,Household income in the past 12 months,35.1%,(X),(X),(X)
+New York,2023,Household income in the past 12 months,43.1%,(X),(X),(X)
+North Carolina,2023,Household income in the past 12 months,37.0%,(X),(X),(X)
+North Dakota,2023,Household income in the past 12 months,35.9%,(X),(X),(X)
+Ohio,2023,Household income in the past 12 months,33.8%,(X),(X),(X)
+Oklahoma,2023,Household income in the past 12 months,37.6%,(X),(X),(X)
+Oregon,2023,Household income in the past 12 months,31.5%,(X),(X),(X)
+Pennsylvania,2023,Household income in the past 12 months,37.2%,(X),(X),(X)
+Rhode Island,2023,Household income in the past 12 months,41.2%,(X),(X),(X)
+South Carolina,2023,Household income in the past 12 months,40.3%,(X),(X),(X)
+South Dakota,2023,Household income in the past 12 months,32.4%,(X),(X),(X)
+Tennessee,2023,Household income in the past 12 months,37.8%,(X),(X),(X)
+Texas,2023,Household income in the past 12 months,37.3%,(X),(X),(X)
+Utah,2023,Household income in the past 12 months,33.3%,(X),(X),(X)
+Vermont,2023,Household income in the past 12 months,32.7%,(X),(X),(X)
+Virginia,2023,Household income in the past 12 months,36.5%,(X),(X),(X)
+Washington,2023,Household income in the past 12 months,31.4%,(X),(X),(X)
+West Virginia,2023,Household income in the past 12 months,34.5%,(X),(X),(X)
+Wisconsin,2023,Household income in the past 12 months,32.5%,(X),(X),(X)
+Wyoming,2023,Household income in the past 12 months,32.1%,(X),(X),(X)
+Puerto Rico,2023,Household income in the past 12 months,35.4%,(X),(X),(X)
+United States,2023,Family income in the past 12 months,(X),39.1%,(X),(X)
+Alabama,2023,Family income in the past 12 months,(X),40.8%,(X),(X)
+Alaska,2023,Family income in the past 12 months,(X),37.6%,(X),(X)
+Arizona,2023,Family income in the past 12 months,(X),40.0%,(X),(X)
+Arkansas,2023,Family income in the past 12 months,(X),40.1%,(X),(X)
+California,2023,Family income in the past 12 months,(X),41.6%,(X),(X)
+Colorado,2023,Family income in the past 12 months,(X),35.5%,(X),(X)
+Connecticut,2023,Family income in the past 12 months,(X),40.4%,(X),(X)
+Delaware,2023,Family income in the past 12 months,(X),37.9%,(X),(X)
+District of Columbia,2023,Family income in the past 12 months,(X),37.2%,(X),(X)
+Florida,2023,Family income in the past 12 months,(X),40.9%,(X),(X)
+Georgia,2023,Family income in the past 12 months,(X),42.3%,(X),(X)
+Hawaii,2023,Family income in the past 12 months,(X),41.3%,(X),(X)
+Idaho,2023,Family income in the past 12 months,(X),33.3%,(X),(X)
+Illinois,2023,Family income in the past 12 months,(X),40.5%,(X),(X)
+Indiana,2023,Family income in the past 12 months,(X),36.3%,(X),(X)
+Iowa,2023,Family income in the past 12 months,(X),33.6%,(X),(X)
+Kansas,2023,Family income in the past 12 months,(X),35.1%,(X),(X)
+Kentucky,2023,Family income in the past 12 months,(X),35.8%,(X),(X)
+Louisiana,2023,Family income in the past 12 months,(X),42.8%,(X),(X)
+Maine,2023,Family income in the past 12 months,(X),32.7%,(X),(X)
+Maryland,2023,Family income in the past 12 months,(X),38.4%,(X),(X)
+Massachusetts,2023,Family income in the past 12 months,(X),41.6%,(X),(X)
+Michigan,2023,Family income in the past 12 months,(X),37.5%,(X),(X)
+Minnesota,2023,Family income in the past 12 months,(X),32.6%,(X),(X)
+Mississippi,2023,Family income in the past 12 months,(X),43.1%,(X),(X)
+Missouri,2023,Family income in the past 12 months,(X),35.0%,(X),(X)
+Montana,2023,Family income in the past 12 months,(X),34.8%,(X),(X)
+Nebraska,2023,Family income in the past 12 months,(X),35.1%,(X),(X)
+Nevada,2023,Family income in the past 12 months,(X),40.8%,(X),(X)
+New Hampshire,2023,Family income in the past 12 months,(X),33.6%,(X),(X)
+New Jersey,2023,Family income in the past 12 months,(X),41.6%,(X),(X)
+New Mexico,2023,Family income in the past 12 months,(X),37.3%,(X),(X)
+New York,2023,Family income in the past 12 months,(X),46.3%,(X),(X)
+North Carolina,2023,Family income in the past 12 months,(X),38.2%,(X),(X)
+North Dakota,2023,Family income in the past 12 months,(X),37.0%,(X),(X)
+Ohio,2023,Family income in the past 12 months,(X),35.0%,(X),(X)
+Oklahoma,2023,Family income in the past 12 months,(X),39.0%,(X),(X)
+Oregon,2023,Family income in the past 12 months,(X),31.9%,(X),(X)
+Pennsylvania,2023,Family income in the past 12 months,(X),38.5%,(X),(X)
+Rhode Island,2023,Family income in the past 12 months,(X),42.8%,(X),(X)
+South Carolina,2023,Family income in the past 12 months,(X),41.3%,(X),(X)
+South Dakota,2023,Family income in the past 12 months,(X),33.2%,(X),(X)
+Tennessee,2023,Family income in the past 12 months,(X),38.9%,(X),(X)
+Texas,2023,Family income in the past 12 months,(X),39.5%,(X),(X)
+Utah,2023,Family income in the past 12 months,(X),33.0%,(X),(X)
+Vermont,2023,Family income in the past 12 months,(X),32.5%,(X),(X)
+Virginia,2023,Family income in the past 12 months,(X),37.8%,(X),(X)
+Washington,2023,Family income in the past 12 months,(X),32.3%,(X),(X)
+West Virginia,2023,Family income in the past 12 months,(X),36.4%,(X),(X)
+Wisconsin,2023,Family income in the past 12 months,(X),33.2%,(X),(X)
+Wyoming,2023,Family income in the past 12 months,(X),32.7%,(X),(X)
+Puerto Rico,2023,Family income in the past 12 months,(X),38.5%,(X),(X)
+United States,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.0%
+Alabama,2023,Nonfamily income in the past 12 months,(X),(X),(X),34.9%
+Alaska,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.0%
+Arizona,2023,Nonfamily income in the past 12 months,(X),(X),(X),32.9%
+Arkansas,2023,Nonfamily income in the past 12 months,(X),(X),(X),35.8%
+California,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.3%
+Colorado,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Connecticut,2023,Nonfamily income in the past 12 months,(X),(X),(X),34.0%
+Delaware,2023,Nonfamily income in the past 12 months,(X),(X),(X),32.2%
+District of Columbia,2023,Nonfamily income in the past 12 months,(X),(X),(X),24.8%
+Florida,2023,Nonfamily income in the past 12 months,(X),(X),(X),35.0%
+Georgia,2023,Nonfamily income in the past 12 months,(X),(X),(X),35.7%
+Hawaii,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.0%
+Idaho,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.7%
+Illinois,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.3%
+Indiana,2023,Nonfamily income in the past 12 months,(X),(X),(X),32.4%
+Iowa,2023,Nonfamily income in the past 12 months,(X),(X),(X),31.4%
+Kansas,2023,Nonfamily income in the past 12 months,(X),(X),(X),31.3%
+Kentucky,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Louisiana,2023,Nonfamily income in the past 12 months,(X),(X),(X),36.5%
+Maine,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.8%
+Maryland,2023,Nonfamily income in the past 12 months,(X),(X),(X),32.0%
+Massachusetts,2023,Nonfamily income in the past 12 months,(X),(X),(X),34.7%
+Michigan,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.2%
+Minnesota,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.0%
+Mississippi,2023,Nonfamily income in the past 12 months,(X),(X),(X),35.2%
+Missouri,2023,Nonfamily income in the past 12 months,(X),(X),(X),31.3%
+Montana,2023,Nonfamily income in the past 12 months,(X),(X),(X),32.3%
+Nebraska,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Nevada,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.7%
+New Hampshire,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.3%
+New Jersey,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.8%
+New Mexico,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.1%
+New York,2023,Nonfamily income in the past 12 months,(X),(X),(X),36.3%
+North Carolina,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.6%
+North Dakota,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.5%
+Ohio,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.5%
+Oklahoma,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.8%
+Oregon,2023,Nonfamily income in the past 12 months,(X),(X),(X),29.0%
+Pennsylvania,2023,Nonfamily income in the past 12 months,(X),(X),(X),33.6%
+Rhode Island,2023,Nonfamily income in the past 12 months,(X),(X),(X),36.7%
+South Carolina,2023,Nonfamily income in the past 12 months,(X),(X),(X),37.3%
+South Dakota,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.2%
+Tennessee,2023,Nonfamily income in the past 12 months,(X),(X),(X),34.4%
+Texas,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.9%
+Utah,2023,Nonfamily income in the past 12 months,(X),(X),(X),31.2%
+Vermont,2023,Nonfamily income in the past 12 months,(X),(X),(X),31.5%
+Virginia,2023,Nonfamily income in the past 12 months,(X),(X),(X),32.5%
+Washington,2023,Nonfamily income in the past 12 months,(X),(X),(X),28.1%
+West Virginia,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.1%
+Wisconsin,2023,Nonfamily income in the past 12 months,(X),(X),(X),30.2%
+Wyoming,2023,Nonfamily income in the past 12 months,(X),(X),(X),29.8%
+Puerto Rico,2023,Nonfamily income in the past 12 months,(X),(X),(X),27.6%
